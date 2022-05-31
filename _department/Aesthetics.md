@@ -13,11 +13,14 @@ To develop every child’s creativity and confidence through expressive Arts
 Nurturing every child to be a creative and confident individual, passionate about Arts
 
 **APPROACH**
+
+
 |  |  |  |
 |---|---|---|
 | **A**ppreciation | Appreciation of the environment, nature and the world through active learning process. |
 | **C**reation | Creation of own learning |
 | **E**xpression | Expressing of ones’ appreciation and creation. |
+
 
 
 ![](/images/Slide1.jpeg)
@@ -61,11 +64,15 @@ Through *‘Music for Everyone!’*, we envision that every pupil will be able t
 
 Therefore, our mission is to develop our pupils in the five domains: Moral, Intellectual, Physical, Social & Moral as well as Aesthetics through music.  The school adopts the following school-wide ACE approach when designing the programme.
 
+
+
 |  |  |
 |---|---|
 | **A**ppreciation | Appreciation of the environment, nature and the world through active learning process. |
 | **C**reation | Creation of own learning |
 | **E**xpression | Expressing of ones’ appreciation and creation. |
+
+
 
 The school also aims to immerse the students in an enhanced music environment.  As pupils are young, many would like to explore and understand their own needs and talent. In their 6 years with Bukit Timah Primary School, they will establish their own interest and decide which area they would be pursuing as their life-long interest and be given opportunities to appreciate, create and express them.
 
