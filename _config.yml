@@ -3,7 +3,7 @@ url: ""
 favicon: /images/BTPS_Logo.jpeg
 colors:
   primary-color: "#232247"
-  secondary-color: "#e5c819"
+  secondary-color: "#f2d301"
   media-colors:
     - title: media-color-one
       color: "#49759a"
