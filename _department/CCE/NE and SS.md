@@ -26,12 +26,12 @@ Through core NE commemorative days and programmes pupils develop a sense of belo
 
 |  |  |  |
 |---|---|---|
-| Primary 1  and  Primary 2  | Graciousness | Singapore is our homeland; this is where we belong.  <br><br>We treasure our heritage and take pride in shaping our own unique way of life and extend graciousness towards fellow Singaporeans  |
-|  | Respect | We must preserve racial and religious harmony.    <br><br>We value and respect our diversity and are determined to stay a united people.  |
-| Primary 3  and  Primary 4  | Adaptability | No one owes Singapore a living.    <br><br>The quality of adaptability ensures that we find our own way to survive and prosper in the ever-revolving world, turning challenge into opportunity  |
-|  | Compassion | We must ourselves defend Singapore.    <br><br>We care for fellow Singaporeans and would defend our land and her people, no one else is responsible for our security and well-being.  |
-| Primary 5  and  Primary 6  | Integrity | We must uphold meritocracy and incorruptibility.    <br><br>We have the integrity to uphold meritocracy and incorruptibility, and provide opportunities for all, according to their ability and effort.  |
-|  | Resilience | We have confidence in our future.    <br><br>United, determined and well-prepared, we have what it takes- the resilience to build a bright future for ourselves and to progress together as one nation.  |
+| Primary 1  and  Primary 2  | Graciousness | Singapore is our homeland; this is where we belong.  <br><br><em>We treasure our heritage and take pride in shaping our own unique way of life and extend graciousness towards fellow Singaporeans  |
+|  | Respect | We must preserve racial and religious harmony.    <br><br><em>We value and respect our diversity and are determined to stay a united people.</em>  |
+| Primary 3  and  Primary 4  | Adaptability | No one owes Singapore a living.    <br><br><em>The quality of adaptability ensures that we find our own way to survive and prosper in the ever-revolving world, turning challenge into opportunity.</em>  |
+|  | Compassion | We must ourselves defend Singapore.    <br><br><em>We care for fellow Singaporeans and would defend our land and her people, no one else is responsible for our security and well-being.</em>  |
+| Primary 5  and  Primary 6  | Integrity | We must uphold meritocracy and incorruptibility.    <br><br><em>We have the integrity to uphold meritocracy and incorruptibility, and provide opportunities for all, according to their ability and effort.</em>  |
+|  | Resilience | We have confidence in our future.    <br><br><em>United, determined and well-prepared, we have what it takes- the resilience to build a bright future for ourselves and to progress together as one nation.</em>  |
 
 **NE CORE EVENTS & FESTIVALS**
 * Chinese New Year
