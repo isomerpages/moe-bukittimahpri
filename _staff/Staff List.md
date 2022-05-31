@@ -19,7 +19,7 @@ description: ""
 
 
 
-| Column 1 | Column 2 | Column 3 | Column 3 |
+| School Leaders | Name | Email Address | Extension Number |
 | -------- | -------- | -------- | -------- |
 | Principal     | Mdm Teresa Kelly Len     | Teresa_Kelly_LEN@schools.gov.sg     | N/A     |
 
