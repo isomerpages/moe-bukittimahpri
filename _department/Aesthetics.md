@@ -59,3 +59,33 @@ Through *‘Music for Everyone!’*, we envision that every pupil will be able t
 *  Inculcate creativity and thinking skills that inspire and nurture independent life-long learning.   
 * To develop the values of **Empathy** and **Resilience** through different forms of Performing Arts    that  include singing, dancing and playing of instruments.
 
+<style type="text/css">
+<!--
+ .tab { margin-left: 40px; }
+-->
+</style>
+
+<p class="tab"><em>Through creating music, singing and playing instruments, students learn to express themselves creatively in different modes. Listening and appreciation skills enable them to respond and engage with new music throughout their lives. Music is an integral part of society. Hence learning music helps to enrich students&rsquo; social, cultural and historical awareness.</em></p>
+
+<p class="tab"><em>Music Syllabus 2008</em></p>
+
+Therefore, our mission is to develop our pupils in the five domains: Moral, Intellectual, Physical, Social & Moral as well as Aesthetics through music.  The school adopts the following school-wide ACE approach when designing the programme.
+
+|  |  |
+|---|---|
+| **A**ppreciation | Appreciation of the environment, nature and the world through active learning process. |
+| **C**reation | Creation of own learning |
+| **E**xpression | Expressing of ones’ appreciation and creation. |
+
+The school also aims to immerse the students in an enhanced music environment.  As pupils are young, many would like to explore and understand their own needs and talent. In their 6 years with Bukit Timah Primary School, they will establish their own interest and decide which area they would be pursuing as their life-long interest and be given opportunities to appreciate, create and express them.
+
+# CHARMZ
+**ChaRmz** is a school concert that happens once in every two years. It supports the Lifelong Learning Programme (LLP) – ***Music for Everyone*** by celebrating the young talents in the Visual and Performing Arts CCA groups and school music programmes. They include pupils from the BTPS Brass Symphonia, Show Choir, Dance-versity, Drama Club and Art Club.
+
+**ChaRmz** provides opportunities for pupils to appreciate the aesthetic beauty of the diverse forms of music and visual arts. It also encourages pupils to interact and forge friendships with peers through music, dance and art, thus fostering social cohesion.
+
+<center> -------------------------------------------------------------------------------------- </center>
+
+ 
+
+ChaRmz will be featured virtually on 12 July 2021 and the theme is “Everything is Awesome”. Not only is the school happy to invite representatives from the BTPS Parent Support Group (PSG) to put up a performance item, but the school would also like to bring some joy to the community by inviting them to watch the virtual concert in their respective venues.
