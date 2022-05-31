@@ -8,7 +8,7 @@ description: ""
 | -------- | -------- | -------- | -------- |
 | Principal | Mdm Teresa Kelly Len | Teresa_Kelly_LEN@schools.gov.sg | N/A |
 | Vice Principal | Mr Wong Sung Lai  Edward | WONG_Sung_Lai@schools.gov.sg| N/A |
-| Vice Principal 	 | Mdm Kitha Arumugam	| Kitha_ARUMUGAM@schools.gov.sg |NA |
+| Vice Principal 	 | Mdm Kitha Arumugam	| Kitha_ARUMUGAM@schools.gov.sg |N/A |
 | Admin Manager | Mr Abdul Halik Bin Abdul Hamid | abdul_halik_abdul_hamid@schools.gov.sg| 107|
 | Operation Manager | Mr Samales Kuppusamy | kuppusamy_m_samales@moe.edu.sg | 104 | 
 | ICT Manager | Mr Philip Lee|lee_weng_philip_james@moe.edu.sg | 109 | 
