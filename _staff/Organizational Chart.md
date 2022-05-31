@@ -8,7 +8,7 @@ description: ""
 ![](/images/managers.png)
 ![](/images/HOD.png)
 
-| # | # | #  |
+| ![](/images/Ms%20Indira%20do%20R%20Pillai.jpeg) | ![](/images/Mrs%20Karin%20Gan-Yeo.jpeg) | ![](/images/Mr%20Christopher%20Khoo.jpeg)  |
 |---|---|---|
 | Ms Indira d/o Raghavan Pillai  HOD of English | Mrs Karin GanHOD of Mathematics | Mr Christopher Khoo  HOD of Science |
 |  # |  # |  #  |
