@@ -2,6 +2,7 @@ collections:
   department:
     output: true
     order:
+      - Cyberwellness.md
       - CCE/NE and SS.md
       - CCE/Values in Action.md
       - CCE/Student Leadership At BTPS.md
