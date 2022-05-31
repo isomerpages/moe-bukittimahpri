@@ -86,6 +86,8 @@ National Day marks our emergence as an independent country in the community of n
 
 The syllabus is complimented by field-based learning journeys, where pupils are engaged in deeper thinking and reflection to understand the challenges faced by Singapore and how these were overcome, and be inspired to bring Singapore to greater heights.
 
+
+
 |  | Topics | Inquiry Focus Questions | Field-based Learning |
 |---|---|---|---|
 | Primary 1 | Knowing myself, others and My Surroundings | Who am I in relation to the people and places around me? | Jacob Ballas Children Gardens |
