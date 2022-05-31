@@ -13,13 +13,13 @@ locations:
     title: School Building
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - phone: +65 6466 2863
+      - email: ""
       - other: ""
-    title: Careers
+    title: Phone
+  - content:
+      - phone: +65 6469 2179
+      - email: bukittimahps@moe.edu.sg
+      - other: ""
+    title: Mail
 ---
