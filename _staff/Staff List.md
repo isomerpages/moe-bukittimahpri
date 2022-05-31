@@ -99,3 +99,51 @@ description: ""
 |  4 Resilience |  Mr Jeremy Ho (PE)) | ho_jian_xiong@moe.edu.sg  |  360 |
 |   4 Resilience |  Mr Soloman Tan Ding Huang | solomon_tan_ding_huang@moe.edu.sg  |  362 |
 |   4 Resilience |   Ms Angeline Low (Year Head P3/P4) | low_swee_ling_angeline@moe.edu.sg  |  372 |
+
+
+# Primary 5
+
+
+| Class | Teacher Name | Email Address | Extension Number |
+|---|---|---|---|
+| 5 Adaptability | Mdm Chitra d/o Selvaraju |  chitra_selvaraju@moe.edu.sg | 377 |
+| 5 Adaptability | Mr Zaini Bin Zanal (PE) | zaini_zanal@moe.edu.sg | 359 |
+| 5 Compassion | Mdm Junaida Bte Jasman (ST/Math) | junaida_jasman@moe.edu.sg | 306 |
+| 5 Compassion | Ms Indira d/o R. Pillai (HOD EL) | indira_raghavan_pillai@moe.edu.sg | 201 |
+| 5 Graciousness | Mrs Ong Kai Chun | tay_kai_chun@moe.edu.sg | 307 |
+| 5 Graciousness | Mdm Suzanah Bte Miswari | suzanah_miswari@moe.edu.sg | 368 |
+| 5 Respect | Mrs Karin Gan (HOD Maths) | yeo_lei_teng@moe.edu.sg | 206 |
+
+
+# Primary 6
+
+| Class | Teacher Name | Email Address | Extension Number |
+|---|---|---|---|
+| 6 Adaptability | Mdm Suzanna Mohd Isnin (SSD) | suzanna_mohamed_isnin@moe.edu.sg | 204 |
+| 6 Adaptability | Ms Daphne Ng (FAJT) | ng_sze_yee@moe.edu.sg | 310 |
+|  6 Adaptability |  Mr Effandi Bin Jasman | effandi_jasman@moe.edu.sg   | 373 |
+| 6 Compassion | Mrs Mellissa Khoo (LH EL) | chan_yu_fang_mellissa@moe.edu.sg | 317 |
+| 6 Compassion | Mr Jesudass Joseph Patros | jesudass_joseph_patros@moe.edu.sg | 370 |
+| 6 Graciousness | Mdm Rozana Bte Hashim | rozana_hashim@moe.edu.sg | 316 |
+| 6 Graciousness | Mr Donald Tan Eit Peow (PE) | tan_eit_peow@moe.edu.sg | 346 |
+| 6 Respect | Ms Cheng May Ling | cheng_may_ling@moe.edu.sg | 302 |
+| 6 Respect | Mrs Joanne Hu (Music) | lim_xue_mei_joanne@moe.edu.sg      | 358 |
+|  6 Respect | Mdm Nur Namira Mazlan  | nur_namira_mazlan@moe.edu.sg  |  366 |
+
+
+# Other Teachers
+
+
+| Position | Teacher Name | Email Address | Extension Number |  |
+|---|---|---|---|---|
+| SSC | Mdm Mariam Bte Isnin | mariam_isnin@moe.edu.sg | 381/301 |  |
+| AED (LBS) | Ms Ivy Tan Ah Bitt | tan_ah_bitt@moe.edu.sg | 343 |  |
+| AED (LBS) | Mdm Wong Chi Ki | wong_chi_ki@moe.edu.sg | 344 |  |
+|  AED (T&L) | Mdm Seah May Ann  | seah_may-ann@moe.edu.sg  | 363 |  |
+|   AED (T&L) |  Elyana Binte Al-Ghazali | elyana_al_ghazali@moe.edu.sg  |  369 |  |
+|  Lead Teacher |  Mrs Chien Mee Len | chien_mee_len@moe.edu.sg  |  380 |  |
+| Teacher | Mazlinah Binte Juhari | mazlinah_juhari@moe.edu.sg | 378 |
+| Teacher | Mrs Jeannette Yeo (FAJT) | lim_mui_ling_jeannette@moe.edu.sg | 309 |
+| Teacher | Mdm Evelyn Nah Bee Har | nah_bee_har@moe.edu.sg | 312 |
+| Teacher | Ms Subah  (FAJT) | subahshini_jayaseelan@moe.edu.sg  | 364 |
+
