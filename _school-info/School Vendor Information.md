@@ -11,3 +11,11 @@ description: ""
 | Uniform Name Tags Order Form  | Name Tags  | NIL  | NIL  |
 | Pacific Bookshop | Bookshop | NIL | 64623920 |
 | After School (NTUC)  | After School  |  NIL | NIL  |
+
+
+
+<br>
+
+* [2022 Booklist.pdf](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/2021/2022%20Booklist.pdf)
+* [Info Sheet on School Bus Services_updated.pdf](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/2021/Info%20Sheet%20on%20School%20Bus%20Services_updated.pdf)
+* [School uniform.pdf](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/2021/School%20uniform.pdf)
