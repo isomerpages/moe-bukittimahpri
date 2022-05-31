@@ -37,3 +37,6 @@ To complement the CW curriculum in BTPS, parents can set a good example at home 
 * [ICT in schools: To use or not to use?](https://www.schoolbag.sg/story/ict-in-schools-to-use-or-not-to-use)
 * [Play safe – avoid online gaming addiction](https://www.schoolbag.sg/story/play-safe-avoid-online-gaming-addiction)
 * [Safeguarding your child online](https://www.schoolbag.sg/story/safeguarding-your-child-online)
+
+![](/images/mini%20p1.png)
+![](/images/P14.jpeg)
