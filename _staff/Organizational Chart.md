@@ -8,10 +8,10 @@ description: ""
 ![](/images/managers.png)
 ![](/images/HOD.png)
 
-| ![](/images/Ms%20Indira%20do%20R%20Pillai.jpeg) | ![](/images/Mrs%20Karin%20Gan-Yeo.jpeg) | ![](/images/Mr%20Christopher%20Khoo.jpeg)  |
-|---|---|---|
-| Ms Indira d/o Raghavan Pillai  HOD of English | Mrs Karin GanHOD of Mathematics | Mr Christopher Khoo  HOD of Science |
-|  # |  # |  #  |
-| Mrs Nicole ChanHOD of CCE | Mdm Chong Peili HOD of ICT | Mrs Shirlena Chan  HOD of PE & CCA  |
-| # | # | # |
-| Mrs Shirley OngYear Head (P1 & P2) | Ms Angeline LowYear Head (P3 & P4) | Mr Effandi Jasman Year Head (P5 & P6) |
+![](/images/HODs.png)
+![](/images/HODs%202.png)
+![](/images/Year%20heads.png)
+
+![](/images/LH%20SH.png)
+![](/images/SH%202.png)
+![](/images/Senior%20staff.png)
