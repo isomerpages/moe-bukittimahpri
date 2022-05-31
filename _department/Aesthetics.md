@@ -59,11 +59,6 @@ Through *‘Music for Everyone!’*, we envision that every pupil will be able t
 *  Inculcate creativity and thinking skills that inspire and nurture independent life-long learning.   
 * To develop the values of **Empathy** and **Resilience** through different forms of Performing Arts    that  include singing, dancing and playing of instruments.
 
-<style type="text/css">
-<!--
- .tab { margin-left: 40px; }
--->
-</style>
 
 <p class="tab"><em>Through creating music, singing and playing instruments, students learn to express themselves creatively in different modes. Listening and appreciation skills enable them to respond and engage with new music throughout their lives. Music is an integral part of society. Hence learning music helps to enrich students&rsquo; social, cultural and historical awareness.</em></p>
 
