@@ -31,5 +31,3 @@ Character Strength Assembly Programme
 * P1 – P2: I Am Special Programme
 * P3 – P4: For Pupils, By Pupils
 * P5 – P6: SASCO Senior Citizens’ Home
-
- 
