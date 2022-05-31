@@ -4,11 +4,9 @@ title: Bukit Timah Primary School
 description: Brief site description here
 image: /images/BTPS_Logo.jpeg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Bukit Timah Primary School
-      subtitle: Strive for the Best
       background: /images/BTPS image.gif
       button: Contact Us
       url: /contact-us/
