@@ -9,8 +9,9 @@ Bukit Timah Primary School strongly believes that music, being a universal langu
 
 The school aims to inculcate creativity and thinking skills that inspire and nurture independent life-long learning. Through ‘Music for Everyone!’, we envision that every student will be able to express himself/herself confidently through at least one of the instruments introduced over the six years.
 
-<p><em>Through creating music, singing and playing instruments, students learn to express themselves creatively in different modes. Listening and appreciation skills enable them to respond and engage with new music throughout their lives. Music is an integral part of society. Hence learning music helps to enrich students&rsquo; social, cultural and historical awareness.</em></p>
-<p><em>Music Syllabus 2008</em></p>
+*Through creating music, singing and playing instruments, students learn to express themselves creatively in different modes. Listening and appreciation skills enable them to respond and engage with new music throughout their lives. Music is an integral part of society. Hence learning music helps to enrich students&rsquo; social, cultural and historical awareness.*
+
+*Music Syllabus 2008*
 
 Therefore, our mission is to develop our students in the five domains: Moral, Intellectual, Physical, Social & Moral as well as Aesthetics through music. The school adopts the following school-wide ACE approach when designing the programme.
 
