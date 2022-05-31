@@ -2,6 +2,7 @@ collections:
   department:
     output: true
     order:
+      - Science.md
       - Information  and Communication Technology (ICT).md
       - Cyberwellness.md
       - CCE/NE and SS.md
