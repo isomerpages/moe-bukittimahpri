@@ -58,10 +58,10 @@ To allow everyone to be a peer supporter, the “CHEER” model adapted from Gui
 <strong><center>To provide an inclusive and caring school environment by developing Peer Support Ambassadors who Model the Way and Encourage the Hearts of others</center></strong>
 
 
-<strong><center>TEACHERS-IN-CHARGE:</strong></center>
+<strong><center>TEACHERS-IN-CHARGE:</center></strong>
 
-<strong><center>OIC:</strong> Mdm Idayu </center>
-<strong><center>Other Teacher I/Cs:</strong> Ms Wong Siow Yen </center>
+<center><strong>OIC:</strong> Mdm Idayu </center>
+<center><strong>Other Teacher I/Cs:</strong> Ms Wong Siow Yen </center>
 
  
 Peer Support Ambassadors (PSAs) were appointed to support peers socially and emotionally, therefore promoting overall student well-being and strengthen the positive network of peers in the school, therefore contributing to a caring and positive learning environment. 
