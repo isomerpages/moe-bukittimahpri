@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/BTPS image.gif
-      button: Contact Us
-      url: /contact-us/
+      button: Virtual Tour
+      url: https://360.itcow.com/fullscreens/2020/BukitTimah/TOUR_MASTER1/
       key_highlights:
         - title: Announcements
           description: ""
