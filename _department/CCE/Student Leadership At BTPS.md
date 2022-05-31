@@ -12,22 +12,21 @@ third_nav_title: CCE
 <br>
 <strong> Mission </strong>
 <br>To equip students with values and leadership skills to be world-ready leaders
-
- 
+<br>
+<br>
 <strong> Motto</strong>
-
-Be a Leader of Character </center>
+<br>Be a Leader of Character </center>
 
 
 ![](/images/CCE1.png)
 
-**Bukit Timah Primary School (BTPS) aims to develop every student to be a leader of character, who has the will to act and serve his/her school and community.**
+<strong>Bukit Timah Primary School (BTPS) aims to develop every student to be a leader of character, who has the will to act and serve his/her school and community.
 
-**As the school believes that every student has the potential to be a leader and some students have potential to develop stronger leadership qualities, the school’s three-tiered framework anchors all students to Self-Leadership, and introduces Peer Leadership and School Leadership for selected students.**
+As the school believes that every student has the potential to be a leader and some students have potential to develop stronger leadership qualities, the school’s three-tiered framework anchors all students to Self-Leadership, and introduces Peer Leadership and School Leadership for selected students.
 
-**Based on the five leadership practices of The Student Leadership Challenge, our school-wide training programme develops our students into leaders anchored in values and strong social emotional competencies, and offers opportunities for them to develop their leadership qualities by contributing back to their school or the community.**
+Based on the five leadership practices of The Student Leadership Challenge, our school-wide training programme develops our students into leaders anchored in values and strong social emotional competencies, and offers opportunities for them to develop their leadership qualities by contributing back to their school or the community.
 
-**With these intentional efforts, the BTPS student leader eventually becomes a Leader of Character, who contributes back to the community.**
+With these intentional efforts, the BTPS student leader eventually becomes a Leader of Character, who contributes back to the community.</strong>
 
 # Our Values-based Approach
 
