@@ -3,6 +3,9 @@ title: Staff List
 permalink: /staff/staff-list
 description: ""
 ---
+# School Leader
+
+
 | School Leaders | Name | Email Address | Extension Number |
 |---|---|---|---|
 | Principal | Mdm Teresa Kelly Len | Teresa_Kelly_LEN@schools.gov.sg | N/A |
@@ -33,4 +36,3 @@ description: ""
 | 1  Harmony | Mrs Nicole Chan | yap_xue_li_nicole@moe.edu.sg | 202 |
 | 1 Harmony | Mdm Li Yi Ling | li_yiling@moe.edu.sg | 352 |
 |  1 Harmony |  Ms Nur Fidyyana Ab Latiff (ART) | nur_fidyyana_ab_latiff@moe.edu.sg  | 356 |
-
