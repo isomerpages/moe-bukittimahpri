@@ -2,6 +2,7 @@ collections:
   department:
     output: true
     order:
+      - CCE/.keep
       - Physical Education.md
       - Aesthetics.md
       - Programme for Active Learning.md
