@@ -90,9 +90,9 @@ The syllabus is complimented by field-based learning journeys, where pupils are 
 
 |  | Topics | Inquiry Focus Questions | Field-based Learning |
 |---|---|---|---|
-| Primary 1 | Knowing myself, others and My Surroundings | Who am I in relation to the people and places around me? | Jacob Ballas Children Gardens |
-| Primary 2 | Coming together as a Nation | What unites us as people of Singapore? | National Orchid Garden |
-| Primary 3 | Understanding Singapore | How do we appreciate the country we live in? | BTPS - HDB Gallery and  NEWater Visitor Centre  |
-| Primary 4 | Valuing Our Past | How is life in Singapore today shaped by what happened in the past? | National Museum of Singapore |
-| Primary 5 | Appreciating the world | How have the legacies of the world impacted our lives today? | Asian Civilization Museum |
-| Primary 6 | Discovering Southeast Asia | How is Southeast Asia important to Singapore? | Singapore Botanical Gardens |
+| <strong>Primary 1</strong> | Knowing myself, others and My Surroundings | Who am I in relation to the people and places around me? | Jacob Ballas Children Gardens |
+| <strong>Primary 2</strong> | Coming together as a Nation | What unites us as people of Singapore? | National Orchid Garden |
+| <strong>Primary 3</strong> | Understanding Singapore | How do we appreciate the country we live in? | BTPS - HDB Gallery and  NEWater Visitor Centre  |
+| <strong>Primary 4</strong> | Valuing Our Past | How is life in Singapore today shaped by what happened in the past? | National Museum of Singapore |
+| <strong>Primary 5</strong> | Appreciating the world | How have the legacies of the world impacted our lives today? | Asian Civilization Museum |
+| <strong>Primary 6</strong> | Discovering Southeast Asia | How is Southeast Asia important to Singapore? | Singapore Botanical Gardens |
