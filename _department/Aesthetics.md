@@ -14,7 +14,7 @@ Nurturing every child to be a creative and confident individual, passionate abou
 
 **APPROACH**
 |  |  |
-|---|---|
+|---|---|---|
 | **A**ppreciation | Appreciation of the environment, nature and the world through active learning process. |
 | **C**reation | Creation of own learning |
 | **E**xpression | Expressing of ones’ appreciation and creation. |
