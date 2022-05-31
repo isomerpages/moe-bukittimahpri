@@ -2,5 +2,6 @@ collections:
   school-info:
     output: true
     order:
+      - Principal's Message.md
       - School Vendor Information.md
       - Contact Us.md
