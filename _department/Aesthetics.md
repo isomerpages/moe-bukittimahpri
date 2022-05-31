@@ -86,6 +86,9 @@ The school also aims to immerse the students in an enhanced music environment.  
 
 <center> -------------------------------------------------------------------------------------- </center>
 
- 
 
-ChaRmz will be featured virtually on 12 July 2021 and the theme is “Everything is Awesome”. Not only is the school happy to invite representatives from the BTPS Parent Support Group (PSG) to put up a performance item, but the school would also like to bring some joy to the community by inviting them to watch the virtual concert in their respective venues.
+**ChaRmz** will be featured virtually on 12 July 2021 and the theme is “Everything is Awesome”. Not only is the school happy to invite representatives from the BTPS Parent Support Group (PSG) to put up a performance item, but the school would also like to bring some joy to the community by inviting them to watch the virtual concert in their respective venues.
+
+![](/images/ChaRmz%20e-Poster.jpeg)
+
+![](/images/ChaRmz%20Programme.jpeg)
