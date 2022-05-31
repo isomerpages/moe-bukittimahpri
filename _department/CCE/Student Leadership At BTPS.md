@@ -7,13 +7,11 @@ third_nav_title: CCE
 # STUDENT LEADERSHIP AT BTPS
 
 <center> <Strong> Vision </strong>
-
-Future-ready Leaders with sound values
-
-
+<br>Future-ready Leaders with sound values
+<br>
+<br>
 <strong> Mission </strong>
-
-To equip students with values and leadership skills to be world-ready leaders
+<br>To equip students with values and leadership skills to be world-ready leaders
 
  
 <strong> Motto</strong>
@@ -75,6 +73,3 @@ Peer Support Ambassadors (PSAs) were appointed to support peers socially and emo
 To develop an effective Peer Support culture within the school, PSAs@BTPS were selected for their sense of empathy and moral courage, and are trained in  interpersonalskills to positively influence and support their peers. They are also taught to recognise signs of distress, and offer practical help or seek support for their peers. 
 
 ![](/images/student%20leadership.png)
-
-
-	
