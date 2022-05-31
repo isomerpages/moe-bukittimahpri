@@ -20,13 +20,13 @@ third_nav_title: CCE
 
 ![](/images/CCE1.png)
 
-<strong>Bukit Timah Primary School (BTPS) aims to develop every student to be a leader of character, who has the will to act and serve his/her school and community.
+<strong>Bukit Timah Primary School (BTPS) aims to develop every student to be a leader of character, who has the will to act and serve his/her school and community.</strong>
 
-As the school believes that every student has the potential to be a leader and some students have potential to develop stronger leadership qualities, the school’s three-tiered framework anchors all students to Self-Leadership, and introduces Peer Leadership and School Leadership for selected students.
+<strong>As the school believes that every student has the potential to be a leader and some students have potential to develop stronger leadership qualities, the school’s three-tiered framework anchors all students to Self-Leadership, and introduces Peer Leadership and School Leadership for selected students.</strong>
 
-Based on the five leadership practices of The Student Leadership Challenge, our school-wide training programme develops our students into leaders anchored in values and strong social emotional competencies, and offers opportunities for them to develop their leadership qualities by contributing back to their school or the community.
+<strong>Based on the five leadership practices of The Student Leadership Challenge, our school-wide training programme develops our students into leaders anchored in values and strong social emotional competencies, and offers opportunities for them to develop their leadership qualities by contributing back to their school or the community.</strong>
 
-With these intentional efforts, the BTPS student leader eventually becomes a Leader of Character, who contributes back to the community.</strong>
+<strong>With these intentional efforts, the BTPS student leader eventually becomes a Leader of Character, who contributes back to the community.</strong>
 
 # Our Values-based Approach
 
