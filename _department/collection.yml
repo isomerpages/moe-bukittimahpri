@@ -2,6 +2,7 @@ collections:
   department:
     output: true
     order:
+      - Information  and Communication Technology (ICT).md
       - Cyberwellness.md
       - CCE/NE and SS.md
       - CCE/Values in Action.md
