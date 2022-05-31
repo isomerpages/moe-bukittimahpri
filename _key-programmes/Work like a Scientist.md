@@ -21,8 +21,7 @@ Through the course of the programme, pupils will be able to demonstrate the *lov
 
 ![](/images/scientist%201.png)
 ![](/images/tlas%202.png)
-
-
-
-
-
+![](/images/tlas%203.png)
+![](/images/tlas%204.png)
+![](/images/tlas%205.png)
+![](/images/tlas%206.png)
