@@ -25,3 +25,18 @@ New Media Literacies are defined as the competencies to create, connect and cura
 **P5- Garage Band for Music**
 
 ![](/images/1.jpeg)
+
+![](/images/comp%201.jpg)
+
+![](/images/comp%202.jpg)
+
+**2. ICT Flagship Programmes **
+
+In BTPS,  departments have also integrated ICT in the lesson packages developed for the pupils. Below are some of our ICT Flagship programmes in the various departments.
+* Moo-O Reading Programme for P1-P3 
+* Internet of Things(iOT)
+* Code for Fun for P6 
+* Koobits
+
+**3. Infocomm - Robotics**
+
