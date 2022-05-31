@@ -27,11 +27,6 @@ As part of the school’s effort to recognise the talents of our pupils, we are 
 
 P.A.M stands for PE, Art and Music. It will be aired on Tuesdays and Thursdays, during recess when the respective levels are having recess in class. BTPS pupils are encouraged to do a recording of their talents in any one of the areas related to PE, Art or Music.
 
-<style type="text/css">
-<!--
- .tab { margin-left: 40px; }
--->
-</style>
 
 **2021 Singapore Youth Festival: Art Exhibition**
 
