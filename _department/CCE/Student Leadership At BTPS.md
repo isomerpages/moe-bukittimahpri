@@ -32,22 +32,22 @@ third_nav_title: CCE
 
 ![](/images/CCE2.png)
 
-<strong><center>The school believes that a leader must be guided by a strong moral compass and one must also possess good relationship management skills. Hence, the school adopts The Student Leadership Challenge model and introduces the five practices as part of our school student leadership development.</strong></center>
+<strong><center>The school believes that a leader must be guided by a strong moral compass and one must also possess good relationship management skills. Hence, the school adopts The Student Leadership Challenge model and introduces the five practices as part of our school student leadership development.</center></strong>
 
 ![](/images/CCE4.jpeg)
 
-<strong><center>Peer Support Relationship (PSR)</strong></center>
+<strong><center>Peer Support Relationship (PSR)</center></strong>
 
-A strong Peer Support culture enables our students develop resilience as they give or seek support from peers or trusted adults in school. Our school adopts a two-tiered approach **(Tier 1: Everyone is a Peer Supporter and Tier 2: Peer Support Ambassadors)**, to strengthen the peer support relationships (PSR) among peers, as well as to foster a culture of care and inclusiveness within the school.
+A strong Peer Support culture enables our students develop resilience as they give or seek support from peers or trusted adults in school. Our school adopts a two-tiered approach <strong>(Tier 1: Everyone is a Peer Supporter and Tier 2: Peer Support Ambassadors)</strong>, to strengthen the peer support relationships (PSR) among peers, as well as to foster a culture of care and inclusiveness within the school.
 
 
-<strong><center>Level 1: Everyone is a peer supporter</strong></center>
+<strong><center>Level 1: Everyone is a peer supporter</center></strong>
 
-To allow everyone to be a peer supporter, the “CHEER” model adapted from Guidance Branch is introduced as part of the Peer Support Curriculum. BTPS students used the      CHEER Model to help classmates who are in need of social and emotional support. They also undergo experiential activities to understand and appreciate the importance of Peer Support during the Back-to-school programme.
+To allow everyone to be a peer supporter, the “CHEER” model adapted from Guidance Branch is introduced as part of the Peer Support Curriculum. BTPS students used the CHEER Model to help classmates who are in need of social and emotional support. They also undergo experiential activities to understand and appreciate the importance of Peer Support during the Back-to-school programme.
 
 ![](/images/CCE5.jpeg)
 
-<strong><center>Level 2: Peer Support Ambassadors
+<strong><center>Level 2: Peer Support Ambassadors</center><strong>
 
 VISION:
 
