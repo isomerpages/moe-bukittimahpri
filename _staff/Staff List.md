@@ -35,3 +35,29 @@ ICT Manager|Mr Philip Lee|lee_weng_philip_james@moe.edu.sg|109
 |1  Harmony | Mrs Nicole Chan	| yap_xue_li_nicole@moe.edu.sg	| 202
 | 1 Harmony | Mdm Li Yi Ling	| li_yiling@moe.edu.sg	| 352 |
 | 1 Harmony	| Ms Nur Fidyyana Ab Latiff (ART)	| nur_fidyyana_ab_latiff@moe.edu.sg | 356 |
+
+#  Primary 2 Teachers
+ | Class | Teacher Name | Email Address | Extension Number |
+| -------- | -------- | -------- | -------- |
+|2 Adaptablity | Miss Sharon Teo Boon Wah| teo_boon_wah_sharon@moe.edu.sg	| 337
+| 2 Adaptablity | Ms Tee Xinyi (CAJT) | tee_xinyi@moe.edu.sg | 332
+| 2 Compassion | Mrs Iman - Akidah | shahidatul_akidah_mohd_suaidi@moe.edu.sg | 324
+| 2 Compassion | Mdm Wang Ling |	wang_ling@moe.edu.sg	|327
+| 2 Graciousness | Mrs Kimberly Tan	| koh_ai_yong_kimberly@moe.edu.sg | 335
+| 2 Graciousness | Ms Pang Liew Chin	| pang_liew_chin@moe.edu.sg | 334
+| 2 Integrity | Mrs Shirlena Chan (HOD PE CCA)| yap_siew_cheng_shirlena@moe.edu.sg | 209
+| 2 Integrity| Ms Goh Xue Yi (HOD Pupil Management)| goh_xue_yi@moe.edu.sg | 210
+| 2 Resilience | Mrs Evelyn Lee	| evelyn_ang_gek_shia@moe.edu.sg	| 326
+| 2 Resilience | Mdm Xu Aili (ST/CL)	| xu_ai_li@moe.edu.sg | 329
+
+2 Respect
+
+Ms Teresa Chai Siew Lan
+
+chai_siew_lan_teresa@mor.edu.sg	
+336
+
+ 2 Respect	Mr Wang Hao 	wang_hao@moe.edu.sg 	355 
+ 2 Respect	Mrs Shirley Ong (Year Head P1/P2) 	low_yin_choo@moe.edu.sg  	374
+ 2 Harmony	 Mr Almir Shafur Bin Mohamed (ART)	almir_shafur_mohamed@moe.edu.sg 	 348
+ 2 Harmony	 Ms Tan Hwee Hsia	tan_hwee_hsia@moe.edu.sg 	 353
