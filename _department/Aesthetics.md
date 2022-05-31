@@ -33,7 +33,9 @@ P.A.M stands for PE, Art and Music. It will be aired on Tuesdays and Thursdays, 
 
 **2021 Singapore Youth Festival: Art Exhibition**
 
-<center>‘Art<em><strong>i</em></strong>st and Technology’</center>
+
+<center>‘Art<strong>i</strong>st and Technology’</center>
+
 
 Technology has advanced and disrupted our lives. The 2021 exhibition theme “Artist and Technology” aims to highlight the artist’s role in utilising technology (past, present and future) to explore and express their views about how technology has shaped our lives.
 
