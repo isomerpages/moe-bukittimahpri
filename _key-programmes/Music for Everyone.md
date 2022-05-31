@@ -17,7 +17,7 @@ The school aims to inculcate creativity and thinking skills that inspire and nur
 
 <p class="tab"><em>Through creating music, singing and playing instruments, students learn to express themselves creatively in different modes. Listening and appreciation skills enable them to respond and engage with new music throughout their lives. Music is an integral part of society. Hence learning music helps to enrich students&rsquo; social, cultural and historical awareness.</em></p>
 
-<p class="tab"><em>*Music Syllabus 2008*</em></p>
+<p class="tab"><em>Music Syllabus 2008</em></p>
 
 Therefore, our mission is to develop our students in the five domains: Moral, Intellectual, Physical, Social & Moral as well as Aesthetics through music. The school adopts the following school-wide ACE approach when designing the programme.
 
