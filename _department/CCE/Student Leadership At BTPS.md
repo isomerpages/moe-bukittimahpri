@@ -47,7 +47,7 @@ To allow everyone to be a peer supporter, the “CHEER” model adapted from Gui
 
 ![](/images/CCE5.jpeg)
 
-<strong><center>Level 2: Peer Support Ambassadors</center><strong>
+<strong><center>Level 2: Peer Support Ambassadors</center></strong>
 	
 <strong><center>VISION:</center></strong>
 
@@ -60,10 +60,10 @@ To allow everyone to be a peer supporter, the “CHEER” model adapted from Gui
 
 <strong><center>TEACHERS-IN-CHARGE:</center></strong>
 
-<center><strong>OIC:</strong> Mdm Idayu </center>
-<center><strong>Other Teacher I/Cs:</strong> Ms Wong Siow Yen </center>
+<center><strong>OIC:</strong> Mdm Idayu</center>
+	<center><strong>Other Teacher I/Cs:</strong> Ms Wong Siow Yen</center>
 
- 
+
 Peer Support Ambassadors (PSAs) were appointed to support peers socially and emotionally, therefore promoting overall student well-being and strengthen the positive network of peers in the school, therefore contributing to a caring and positive learning environment. 
 
 To develop an effective Peer Support culture within the school, PSAs@BTPS were selected for their sense of empathy and moral courage, and are trained in  interpersonalskills to positively influence and support their peers. They are also taught to recognise signs of distress, and offer practical help or seek support for their peers. 
