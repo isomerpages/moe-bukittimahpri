@@ -36,10 +36,9 @@ P.A.M stands for PE, Art and Music. It will be aired on Tuesdays and Thursdays, 
 
 <center>‘Art<strong>i</strong>st and Technology’</center>
 
+<p class="tab"><em>Technology has advanced and disrupted our lives. The 2021 exhibition theme “Artist and Technology” aims to highlight the artist’s role in utilising technology (past, present and future) to explore and express their views about how technology has shaped our lives.</em></p>
 
-Technology has advanced and disrupted our lives. The 2021 exhibition theme “Artist and Technology” aims to highlight the artist’s role in utilising technology (past, present and future) to explore and express their views about how technology has shaped our lives.
-
-This exhibition invites our student artists to reflect on how technology has impacted the various aspects of their lives, from the way they live to the way they work and play. Students will connect their lived experiences with technology, evaluate these phenomena through the lens of artist and audience, and create artistic artworks that express their ideas, imagination and reflections. As part of their artistic process, students will also learn to be safe and responsible users of technology and to harness the power of technology for positive purposes in their lives.
+<p class="tab"><em>This exhibition invites our student artists to reflect on how technology has impacted the various aspects of their lives, from the way they live to the way they work and play. Students will connect their lived experiences with technology, evaluate these phenomena through the lens of artist and audience, and create artistic artworks that express their ideas, imagination and reflections. As part of their artistic process, students will also learn to be safe and responsible users of technology and to harness the power of technology for positive purposes in their lives.</em></p>
 
 <em>Adapted from the Singapore Youth Festival 2021 Website</em>
 
