@@ -12,12 +12,12 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Announcements
-          description: Important highlight A is important
+          description: ""
           url: https://google.com
         - title: Info for Parents
-          description: Important highlight B is equally important
+          description: ""
           url: https://gmail.com
         - title: Quick Links
-          description: Page A is important too
+          description: ""
           url: /privacy/
 ---
