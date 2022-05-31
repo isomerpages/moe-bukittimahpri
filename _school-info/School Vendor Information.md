@@ -5,12 +5,12 @@ description: ""
 ---
 | Company | Service | Contact Person | Contact Number |
 |---|---|---|---|
-| Peng Yang Transport PteLtd | Sch Bus Services | Mr Tang | 91998844 |
-| Kah Huat ( Manufacturer) | Sch Uniform | Mr Koh | 64796811 |
-| Chen Num Sing (Agent) | Sch Uniform | NIL | 65658961 |
-| Uniform Name Tags Order Form  | Name Tags  | NIL  | NIL  |
-| Pacific Bookshop | Bookshop | NIL | 64623920 |
-| After School (NTUC)  | After School  |  NIL | NIL  |
+|<strong>[ Peng Yang Transport PteLtd](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/Vendors%20Information/Bus%20Company%20-%20Peng%20Yang.pdf) </strong>| Sch Bus Services | Mr Tang | 91998844 |
+|<strong>[ Kah Huat ( Manufacturer)](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/Vendors%20Information/Uniform%20Vendor%20-%20Kah%20Huat.pdf)</strong> | Sch Uniform | Mr Koh | 64796811 |
+| <strong>Chen Num Sing (Agent)</strong> | Sch Uniform | NIL | 65658961 |
+| <strong>[Uniform Name Tags Order Form](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/Vendors%20Information/2021%20Name%20Tag%20BTPS.pdf)</strong>  | Name Tags  | NIL  | NIL  |
+| <strong>Pacific Bookshop</strong> | Bookshop | NIL | 64623920 |
+| <strong>[After School (NTUC)](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/Vendors%20Information/After%20School%20-%20NTUC.pdf)</strong>  | After School  |  NIL | NIL  |
 
 
 
