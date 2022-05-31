@@ -146,4 +146,3 @@ description: ""
 | Teacher | Mrs Jeannette Yeo (FAJT) | lim_mui_ling_jeannette@moe.edu.sg | 309 |
 | Teacher | Mdm Evelyn Nah Bee Har | nah_bee_har@moe.edu.sg | 312 |
 | Teacher | Ms Subah  (FAJT) | subahshini_jayaseelan@moe.edu.sg  | 364 |
-
