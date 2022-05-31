@@ -85,3 +85,12 @@ National Day marks our emergence as an independent country in the community of n
 **SOCIAL STUDIES**
 
 The syllabus is complimented by field-based learning journeys, where pupils are engaged in deeper thinking and reflection to understand the challenges faced by Singapore and how these were overcome, and be inspired to bring Singapore to greater heights.
+
+|  | Topics | Inquiry Focus Questions | Field-based Learning |
+|---|---|---|---|
+| Primary 1 | Knowing myself, others and My Surroundings | Who am I in relation to the people and places around me? | Jacob Ballas Children Gardens |
+| Primary 2 | Coming together as a Nation | What unites us as people of Singapore? | National Orchid Garden |
+| Primary 3 | Understanding Singapore | How do we appreciate the country we live in? | BTPS - HDB Gallery and  NEWater Visitor Centre  |
+| Primary 4 | Valuing Our Past | How is life in Singapore today shaped by what happened in the past? | National Museum of Singapore |
+| Primary 5 | Appreciating the world | How have the legacies of the world impacted our lives today? | Asian Civilization Museum |
+| Primary 6 | Discovering Southeast Asia | How is Southeast Asia important to Singapore? | Singapore Botanical Gardens |
