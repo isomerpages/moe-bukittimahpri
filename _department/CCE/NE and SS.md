@@ -62,3 +62,26 @@ On this day, our pupils gain a deeper appreciation of the various defences that 
 
 
 
+**INTERNATIONAL FRIENDSHIP DAY**
+
+International Friendship Day is a highly anticipated annual event for staff and students for it mirrors the close ties forged among various nationalities in the school.
+
+Drawing upon the richness of nationalities in our school population, our Parent Support Group (PSG) has been instrumental in putting up elaborate exhibitions and performances; and has engaged the pupils in appreciating the cultures of their fellow schoolmates through games and activities. It is noteworthy that in the past few years, we have featured many countries such as Indonesia, India, Canada, Holland, Germany, Spain, Sri Lanka, Taiwan, Korea, Australia and etc. in our showcase.
+
+[For More Information - Click Here](https://sites.google.com/moe.edu.sg/btpsifd/ifdbtps)
+
+**RACIAL HARMONY DAY (BTPS INSPIRE)**
+
+Schools commemorate Racial Harmony Day on 21st July. On this day in 1964, Singapore saw racial riots. Racial Harmony Day serves to remind our pupils that social division costs us dearly and that race and religion are potential fault-lines in the Singapore society. It is a day for pupils to reflect on, and celebrate our success as a harmonious nation and society built on a rich diversity of cultures and heritages.
+
+As we value the social fabric that binds all of us together in this multi-racial society, Racial Harmony Day is selected as the 2016 – 2017 theme for BTPS Inspire, an annual school learning event.
+
+**NATIONAL DAY / NE SHOW FOR P5**
+
+National Day marks our emergence as an independent country in the community of nations. Since 1997, NE Show has been organised for the Primary 5 pupils to instill a sense of pride and belonging in students and to bring across the significance of our National Day. The ceremony aims to bring to the pupils a greater sense of the historical importance and solemnity of National Day.
+
+[For More Information - Click Here](https://sites.google.com/moe.edu.sg/btpsinspire2020/btps-inspire-2020)
+
+**SOCIAL STUDIES**
+
+The syllabus is complimented by field-based learning journeys, where pupils are engaged in deeper thinking and reflection to understand the challenges faced by Singapore and how these were overcome, and be inspired to bring Singapore to greater heights.
