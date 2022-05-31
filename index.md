@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Bukit Timah Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/BTPS_Logo.jpeg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -23,3 +23,4 @@ sections:
           description: Page A is important too
           url: /privacy/
 ---
+
