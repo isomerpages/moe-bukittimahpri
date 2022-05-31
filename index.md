@@ -7,9 +7,9 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: Bukit Timah Primary School
+      subtitle: Strive for the Best
+      background: /images/BTPS image.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -23,4 +23,3 @@ sections:
           description: Page A is important too
           url: /privacy/
 ---
-
