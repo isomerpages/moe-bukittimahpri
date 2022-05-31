@@ -3,7 +3,7 @@ title: Staff List
 permalink: /staff/staff-list
 description: ""
 ---
-# School Leader
+# School Leaders
 
 
 | School Leaders | Name | Email Address | Extension Number |
@@ -40,3 +40,62 @@ description: ""
 | 1  Harmony | Mrs Nicole Chan | yap_xue_li_nicole@moe.edu.sg | 202 |
 | 1 Harmony | Mdm Li Yi Ling | li_yiling@moe.edu.sg | 352 |
 |  1 Harmony |  Ms Nur Fidyyana Ab Latiff (ART) | nur_fidyyana_ab_latiff@moe.edu.sg  | 356 |
+
+
+# Primary 2
+
+
+| Class | Teacher Name | Email Address | Extension Number |
+|---|---|---|---|
+| 2 Adaptablity | Miss Sharon Teo Boon Wah | teo_boon_wah_sharon@moe.edu.sg | 337 |
+| 2 Adaptablity | Ms Tee Xinyi (CAJT) | tee_xinyi@moe.edu.sg | 332 |
+| 2 Compassion | Mrs Iman - Akidah | shahidatul_akidah_mohd_suaidi@moe.edu.sg   | 324 |
+| 2 Compassion | Mdm Wang Ling  | wang_ling@moe.edu.sg | 327 |
+| 2 Graciousness | Mrs Kimberly Tan | koh_ai_yong_kimberly@moe.edu.sg | 335 |
+| 2 Graciousness | Ms Pang Liew Chin | pang_liew_chin@moe.edu.sg  | 334 |
+| 2 Integrity | Mrs Shirlena Chan (HOD PE CCA) | yap_siew_cheng_shirlena@moe.edu.sg | 209 |
+| 2 Integrity | Ms Goh Xue Yi (HOD Pupil Management) | goh_xue_yi@moe.edu.sg | 210 |
+| 2 Resilience | Mrs Evelyn Lee | evelyn_ang_gek_shia@moe.edu.sg | 326 |
+| 2 Resilience | Mdm Xu Aili (ST/CL) | xu_ai_li@moe.edu.sg | 329 |
+| 2 Respect | Ms Teresa Chai Siew Lan | chai_siew_lan_teresa@mor.edu.sg | 336 |
+|  2 Respect | Mr Wang Hao  | wang_hao@moe.edu.sg  | 355  |
+|  2 Respect | Mrs Shirley Ong (Year Head P1/P2)  | low_yin_choo@moe.edu.sg   | 374 |
+|  2 Harmony |  Mr Almir Shafur Bin Mohamed (ART) | almir_shafur_mohamed@moe.edu.sg  |  348 |
+|  2 Harmony |  Ms Tan Hwee Hsia | tan_hwee_hsia@moe.edu.sg  |  353 |
+
+
+# Primary 3
+
+
+| Class | Teacher Name | Email Address | Extension Number |
+|---|---|---|---|
+| 3 Adaptability | Mrs Wong-Chong Yu Pei | chong_yu_pei@moe.edu.sg | 315 |
+| 3 Adaptability | Mr Zuraimie Khamis (PE/CCA Coordinator) |  mohamad_zuraimie_b_khamis@moe.edu.sg | 361 |
+| 3 Compassion | Mdm Chong Pei Li (HOD ICT) | chong_pei_li@moe.edu.sg | 205 |
+| 3 Compassion | Mr Idris Taha (PE) | idris_b_mohd_taha@moe.edu.sg | 367 |
+| 3 Gracioiusness | Miss Annabelle Chua Wen Xin | annabelle_chua_wen_xin@moe.edu.sg | 319 |
+| 3 Graciousness | Mr Ho Boon Huat (HOD MT) | ho_boon_huat@moe.edu.sg | 363 |
+| 3 Integrity | Mrs Serene Tear Poh Keng | yap_poh_keng@moe.edu.sg | 314 |
+| 3 Respect | Mdm Rosna Bte Hussien | rosna_hussien@moe.edu.sg | 305 |
+| 3 Respect | Mdm Suzana Yaacob (ART) | suzana_mohd_yaacob@moe.edu.sg  | 357 |
+
+
+
+#  Primary 4
+
+
+| Class | Teacher Name | Email Address | Extension Number |
+|---|---|---|---|
+| 4 Adaptability | Mr Chua Khoon Sia Raymond | chua_khoon_sia@moe.edu.sg | 308 |
+| 4 Adaptability | Sangitah d/o K Jayaseelan  (SH VIA/Student Leaadership) | sangitah_k_jayaseelan@moe.edu.sg | 365 |
+| 4 Compassion | Mrs Raj-Lorshennik d/o Jaya Sanger | lorshenni_jaya_sanger_a@moe.edu.sg | 318 |
+| 4 Compassion | Mr Chua Peng Swee | chua_peng_swee@moe.edu.sg | 345 |
+| 4 Graciousness | Mr Christopher Khoo (HOD Science) | khoo_kian_kiong_christopher@moe.edu.sg | 208 |
+| 4 Graciousness | Mrs Yvonne Kwan | yvonne_tan_bee_leng@moe.edu.sg | 313 |
+| 4 Integrity |  Ms Sharmini D/O Jaya Kumaran | sharmini_jaya_kumaran@moe.edu.sg  | 304 |
+| 4 Integrity | Ms Josephine Ho Hui Suan (Music) | ho_hui_suan_josephine@moe.edu.sg | 347 |
+| 4 Respect | Mdm Zahida Mohd Abu Baker | zahida_mohamed_abu_baker@moe.edu.sg | 371 |
+| 4 Respect | Ms Koh Beng Li | koh_beng_li@moe.edu.sg | 354 |
+|  4 Resilience |  Mr Jeremy Ho (PE)) | ho_jian_xiong@moe.edu.sg  |  360 |
+|   4 Resilience |  Mr Soloman Tan Ding Huang | solomon_tan_ding_huang@moe.edu.sg  |  362 |
+|   4 Resilience |   Ms Angeline Low (Year Head P3/P4) | low_swee_ling_angeline@moe.edu.sg  |  372 |
