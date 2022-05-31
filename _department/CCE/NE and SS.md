@@ -53,12 +53,12 @@ On this day, our pupils gain a deeper appreciation of the various defences that 
 
 | Levels | School Values | Logo, Icons and the 5 pillars |
 |---|---|---|
-| Primary 1 and  Primary 2  | Graciousness and  Respect  | Military Defence  Singaporeans keeping Singapore secure  |
-|  |  | Social Defence  Living in harmony looking out for one another  |
-| Primary 3 and  Primary 4  | Adaptability and  Compassion  | Economic Defence  Working and saving to achieve a better life for everyone  |
-|  |  | Civil Defence  Taking care of your family, friends and people around in times of crisis  |
-| Primary 5 and  Primary 6  | Integrity and  Resilience  | Psychological Defence  Being a Singaporean and proud of it  |
-|  |  | Total Defence  When we understand our part in Total Defence, we will continue to strength ourselves, our community and our nation.  |
+| Primary 1 and  Primary 2  | Graciousness and  Respect  | Military Defence  <br><br>Singaporeans keeping Singapore secure  |
+|  |  | Social Defence  <br><br> Living in harmony looking out for one another  |
+| Primary 3 and  Primary 4  | Adaptability and  Compassion  | Economic Defence   <br><br>Working and saving to achieve a better life for everyone  |
+|  |  | Civil Defence   <br><br>Taking care of your family, friends and people around in times of crisis  |
+| Primary 5 and  Primary 6  | Integrity and  Resilience  | Psychological Defence   <br><br>Being a Singaporean and proud of it  |
+|  |  | Total Defence   <br><br>When we understand our part in Total Defence, we will continue to strength ourselves, our community and our nation.  |
 
 
 
