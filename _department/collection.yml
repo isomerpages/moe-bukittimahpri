@@ -2,5 +2,6 @@ collections:
   department:
     output: true
     order:
+      - Physical Education.md
       - Aesthetics.md
       - Programme for Active Learning.md
