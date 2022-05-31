@@ -48,17 +48,14 @@ To allow everyone to be a peer supporter, the “CHEER” model adapted from Gui
 ![](/images/CCE5.jpeg)
 
 <strong><center>Level 2: Peer Support Ambassadors</center><strong>
-
-VISION:
-
-There are compassionate leaders in every class who care and inspire others to make a positive difference
-
-
- 
-
-MISSION:
 	
-To provide an inclusive and caring school environment by developing Peer Support Ambassadors who Model the Way and Encourage the Hearts of others</strong></center>
+<strong><center>VISION:</center></strong>
+
+<strong><center>There are compassionate leaders in every class who care and inspire others to make a positive difference</center></strong>
+
+<strong><center>MISSION:</center></strong>
+	
+<strong><center>To provide an inclusive and caring school environment by developing Peer Support Ambassadors who Model the Way and Encourage the Hearts of others</center></strong>
 
 
 <strong><center>TEACHERS-IN-CHARGE:</strong></center>
