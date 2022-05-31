@@ -53,8 +53,9 @@ P.A.M stands for PE, Art and Music. It will be aired on Tuesdays and Thursdays, 
 # MUSIC FOR EVERYONE – BUILDING EMPATHY AND RESILIENCE
 Bukit Timah Primary School strongly believes that music, being a universal language, will fuel the hearts and minds of its pupils so as to prepare them to be world-ready citizens.  To create a strong and vibrant school culture, the school has a diverse music programme that not only engages the pupils but empowers them with basic theoretical knowledge as well as exposure to individual and ensemble performances. 
 
-Through ‘Music for Everyone!’, we envision that every pupil will be able to:
+Through *‘Music for Everyone!’*, we envision that every pupil will be able to:
 
 *  Express himself/herself confidently through at least one of the performing arts: singing, dancing or playing one of the instruments introduced over the six years.
 *  Inculcate creativity and thinking skills that inspire and nurture independent life-long learning.   
-* To develop the values of Empathy and Resilience through different forms of Performing Arts    that  include singing, dancing and playing of instruments. 
+* To develop the values of **Empathy** and **Resilience** through different forms of Performing Arts    that  include singing, dancing and playing of instruments.
+
