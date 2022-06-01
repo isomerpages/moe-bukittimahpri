@@ -14,3 +14,11 @@ As the lower primary students are in the early stages of learning mathematics, t
 
 ![](/images/math1.png)
 ![](/images/math%202.png)
+
+**Mathematics logically – Understanding the Mathematics in authentic experiences **
+
+In middle primary, students are given more opportunities to explore real-life and novel mathematics problems. The lessons are balanced with teaching of standard curriculum topics as well as challenging tasks for students to apply higher order thinking skills in a dynamic learning environment. Journals in TOM will focus on deepening conceptual knowledge and making sense of the application of Mathematics in authentic experiences through reasoning inductively and deductively.
+
+![](/images/m5%20and%204.png)
+![](/images/M6.jpeg)
+
