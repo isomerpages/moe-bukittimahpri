@@ -2,6 +2,7 @@ collections:
   department:
     output: true
     order:
+      - Mother Tongue.md
       - Science.md
       - Information  and Communication Technology (ICT).md
       - Cyberwellness.md
