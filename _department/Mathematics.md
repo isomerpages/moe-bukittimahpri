@@ -13,3 +13,4 @@ With a vision of **‘Love Mathematics, Enjoy Mathematics, Think Mathematics’*
 As the lower primary students are in the early stages of learning mathematics, the lessons are infused with many hands-on activities to keep learning of mathematics fun and practical and at the same time, ensure acquisition of basic concepts. Students are also exposed to mathematics interactive games to reinforce their learning in an engaging manner.
 
 ![](/images/math1.png)
+![](/images/math%202.png)
