@@ -22,3 +22,60 @@ In middle primary, students are given more opportunities to explore real-life an
 ![](/images/m5%20and%204.png)
 ![](/images/M6.jpeg)
 
+
+
+**Key Programmes**
+
+*1. Mathematics Journaling – Thinking of Mathematics (Primary 1 to 6)*
+
+
+TOM is a learning log for students to record their mathematics thinking and learning. It tracks the development of their thinking process and allows them time to reflect on their Math learning. It also provides a platform for students to develop creative and critical thinking in problem solving, as well as reasoning and communication skills.
+
+![](/images/math.png)
+
+*2.       Problem Solving and Heuristics (Primary 1 to 6)*
+
+
+Problem solving is an important aspect in our mathematics class. Heuristics and methods of problem solving are taught systematically to students to sharpen their mathematics skills. With a spiral approach, students acquire different methods of problem solving every year and become more confident in problem solving.
+
+
+
+*3.   Mathematics Day (Primary 1 to 3)*
+
+
+Primary 1 to 3 students are given opportunity to experience application of Mathematics concepts and skills through experiential and authentic learning at Mathematics stations around the school. Through this programme, students can better relate mathematics to real life and work collaboratively to learn and solve problems together.
+
+
+
+
+**Support Programmes**
+
+These programmes are specially customized for students who need additional support in learning mathematics. The emphasis is placed on getting students to develop strong basic conceptual understanding, experience early success and achieve steady progress. Learning activities are designed to help students master essential concepts and skills that will help them progress better in their mathematics learning. This is usually carried out during After-School Classes (P4 to 6) and Pull-out lessons.
+
+ 
+
+**Enrichment Programmes**
+
+        
+
+
+*1.  Excellence 2000 (E2K) Programme (Primary 4 to 6)*
+
+E2K is a 3-year enrichment programme which aims to engage students in investigations involving advanced Mathematics concepts. The programme is conducted during curriculum hours for selected classes. The selection is based on students’ achievement in Mathematics. 
+
+ 
+*2. Mathematics Olympiad Training Programme (Primary 4 to 6)*
+
+Every year, BTPS organises the Math Olympiad Training Programme to stretch students who have a passion for Mathematics. The programme provides a platform for students to develop problem solving abilities like analytical and creative thinking as they explore beyond the primary curriculum. This programme targeted at Primary 4 to 6 students who are in the top 15%-20% of their cohort. 
+
+**Competitions**
+
+
+
+| Competition | Organising school | Level/s involved |
+|---|---|---|
+| Singapore Mathematical Olympiad for Primary Schools (SMOPS) | Hwa Chong Institution | Primary 6 |
+| River Valley High Mathematics Challenge | River Valley High | Primary 6 |
+| Raffles Institution Primary Mathematics World Contest (RIPMWC) | Raffles Institution | Primary 6 |
+| National Mathematical Olympiad of Singapore (NMOS) | NUS High | Primary 5 and 6 |
+| Mathlympics | ACSI | Primary 4 and 5 |
