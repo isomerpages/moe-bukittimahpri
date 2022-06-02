@@ -26,3 +26,32 @@ TED provides pupils the platform to explore the different aspects of learning En
 
 ![](/images/TED.png)
 
+**2) English Extensive Reading Programme include…**
+  
+* LiFE (Literature For Everyone) (P1 to P4) Programme
+* English Magazines (P2 to P6 pupils)
+* Little Red Dot (supplementary newspapers) P4 to P6
+* NLB Reading Programmes
+* Moo-O e-reading Programme (P1 to P3)
+* The *LiFE or Literature For Everyone is a programme conducted by the school so as to… 
+
+<style type="text/css">
+<!--
+ .tab { margin-left: 40px; }
+-->
+</style>
+
+<p class="tab"> • enhance the learning of English Language by going beyond the Stellar Readers that are used during English lessons. 
+<br>• expose pupils to different genres of writing.
+<br>• enjoy the experience of reading one book as a class and discuss various plots, characters, values depicted in the book.
+<br>• engage pupils through in-depth reading of the book  and enhance pupils’ reading skills by exploring the plot, characters, scenery description and other elements of interest in the literature text through theme-based collaborative lesson planning by level teachers.
+<br>• Enrich their reading using thinking routines to explore their understanding via their ELLE and TED journaling.
+<br>• appreciate local authors and identify with local-themed plots and settings</p>
+
+enhance the learning of English Language by going beyond the Stellar Readers that are used during English lessons. 
+expose pupils to different genres of writing.
+enjoy the experience of reading one book as a class and discuss various plots, characters, values depicted in the book.
+engage pupils through in-depth reading of the book  and enhance pupils’ reading skills by exploring the plot, characters, scenery description and other elements of interest in the literature text through theme-based collaborative lesson planning by level teachers.
+Enrich their reading using thinking routines to explore their understanding via their ELLE and TED journaling.
+appreciate local authors and identify with local-themed plots and settings
+ELLE entry on Dolphin Boy by a P2 pupil.
