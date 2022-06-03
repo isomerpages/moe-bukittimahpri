@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - Performing and Visual Arts.md
       - Clubs and Societies.md
