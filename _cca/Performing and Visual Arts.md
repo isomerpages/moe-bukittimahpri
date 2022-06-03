@@ -34,7 +34,7 @@ description: ""
 
 | Performing and Visual Arts | Teacher-in-charge | Day | Time | Level / Group | Venue | Recruiting which level for 2022? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Band | Ms Karyn Ang Mdm Edna Phone Mdm Du Ying Mdm Chan Khai Gin (Mrs Goh) Mdm Josephine Ho (Mrs Kek) Ms Tong Minyan Mdm Elyana | Wednesday | 2.30 pm to 5.30 pm | Main Band  | Zoom (eCCA) | P3 and P4 (subject to suitability assessment) |
+| Band | Ms Karyn Ang <br>Mdm Edna Phone <br>Mdm Du Ying Mdm Chan Khai Gin (Mrs Goh) <br>Mdm Josephine Ho (Mrs Kek) <br>Ms Tong Minyan <br>Mdm Elyana | Wednesday | 2.30 pm to 5.30 pm | Main Band  | Zoom (eCCA) | P3 and P4 (subject to suitability assessment) |
 |  |  | Friday | 2.00 pm to 5.00 pm | Main Band  | Zoom (eCCA) |  |
 |  |  | Friday | 1.00 pm to 4.00 pm | Main Band (Percussion) | Band Room |  |
 |  |  | Friday | 2.00 pm to 5.00 pm | Brass Jun'A | Zoom (eCCA) |  |
