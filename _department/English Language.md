@@ -7,7 +7,7 @@ description: ""
 
 **Our Programmes:**
 
-**1) JOURNALING TO ENHANCE LEARNING OF ENGLISH**
+# 1) JOURNALING TO ENHANCE LEARNING OF ENGLISH
 
 ***a. English Language Learning Experiences (ELLE) for P1 and P2 pupils***
 
@@ -26,7 +26,7 @@ TED provides pupils the platform to explore the different aspects of learning En
 
 ![](/images/TED.png)
 
-**2) English Extensive Reading Programme include…**
+# 2) English Extensive Reading Programme include…
   
 * LiFE (Literature For Everyone) (P1 to P4) Programme
 * English Magazines (P2 to P6 pupils)
@@ -48,10 +48,25 @@ TED provides pupils the platform to explore the different aspects of learning En
 <br>• Enrich their reading using thinking routines to explore their understanding via their ELLE and TED journaling.
 <br>• appreciate local authors and identify with local-themed plots and settings</p>
 
-enhance the learning of English Language by going beyond the Stellar Readers that are used during English lessons. 
-expose pupils to different genres of writing.
-enjoy the experience of reading one book as a class and discuss various plots, characters, values depicted in the book.
-engage pupils through in-depth reading of the book  and enhance pupils’ reading skills by exploring the plot, characters, scenery description and other elements of interest in the literature text through theme-based collaborative lesson planning by level teachers.
-Enrich their reading using thinking routines to explore their understanding via their ELLE and TED journaling.
-appreciate local authors and identify with local-themed plots and settings
-ELLE entry on Dolphin Boy by a P2 pupil.
+*ELLE entry on Dolphin Boy by a P2 pupil.*
+![](/images/stelluna%20elle.png)
+![](/images/elle%20samples.png)
+
+**Moo-O e-reading Programme (P1 to P3)**
+
+BTPS takes part in the Singapore Moo-O Awards every year. On 7 April 2021, our BTPS team comprising Dylan James Rodger, Karis Eva Eisenhawer Mak and Eithan Yuen Zi Hao participated in the 2021 Singapore Moo-O Awards. This annual competition is open to all P3 pupils and supported by the Speak Good English Movement. The objectives of the competition are:
+
+✓ To motivate students to read and speak fluently & expressively in English
+
+✓ To cultivate a love for the English language through a fun, engaging and immersive way of reading.Our pupils demonstrated resilience, teamwork and creativity during the preparation for this competition. The results were announced on 21 April 2021 and our BTPS team received the Gold award! Only the top 5 teams out of the 45 participating schools received the Gold award and we are so proud of our pupils for their achievement.
+
+ Visit the website [https://plus.moo-o.com/tma/?sel=2021-singapore](https://plus.moo-o.com/tma/?sel=2021-singapore) to view the results, the judges’ comments as well as the link to our team’s video. 
+
+
+*Our P3 pupils’ recording their reading.*
+![](/images/p3%20students.png)
+ 
+ 
+ 
+
+
