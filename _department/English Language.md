@@ -85,11 +85,3 @@ They get opportunities to explore issues and topics from different perspectives 
 ![](/images/SJT%202.png)
 ![](/images/SJT%203.png)
 ![](/images/SJT%204.png)
-
-
-
-
-
-
-
-
