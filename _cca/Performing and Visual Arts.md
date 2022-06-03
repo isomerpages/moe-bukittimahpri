@@ -33,7 +33,7 @@ description: ""
 |  |  | Friday | 2.00 pm to 5.00 pm | Main Band  | Zoom (eCCA) |  |
 |  |  | Friday | 1.00 pm to 4.00 pm | Main Band (Percussion) | Band Room |  |
 |  |  | Friday | 2.00 pm to 5.00 pm | Brass Jun'A | Zoom (eCCA) |  |
-| Choir | Mrs Ong Kai Chun Mrs Joanne Hu Mr Ernest Ong Wei Ming Mdm Wang Lu | Tuesday & Thursday | 2.30 pm to 4.00 pm | P3 to P6 | Zoom (eCCA) | P3 to P5 (subject to audition by instructor) |
-| DanceVersity | Mdm Suzanah Miswari Mdm Tan Hwee Hsia Mdm Chong Yu Pei (Mrs Wong) Mdm Lorshenni (Mrs Raj) | Tuesday & Thursday | 2.00 pm to 4.00 pm | P3 to P6 | PAL Room | P3 to P5 (subject to audition by instructor) |
-| Drama Club | Ms Cheng May Ling Mdm Sharmini | Thursday | 2.00 pm to 4.00 pm | P3 to P6 | Dance Room | P3 to P5 |
-| Art Club | Mdm Suzana Yaacob Mr Almir Shafur Mdm Fidyyana Mdm Wong Siow Yen | Thursday | 2.00 pm to 4.00 pm | P3 to P6 | Art Room | P3 to P5 |
+| Choir | Mrs Ong Kai Chun <br>Mrs Joanne Hu <br>Mr Ernest Ong Wei Ming <br>Mdm Wang Lu | Tuesday & Thursday | 2.30 pm to 4.00 pm | P3 to P6 | Zoom (eCCA) | P3 to P5 (subject to audition by instructor) |
+| DanceVersity | Mdm Suzanah <br>Miswari Mdm Tan Hwee Hsia <br>Mdm Chong Yu Pei (Mrs Wong) <br>Mdm Lorshenni (Mrs Raj) | Tuesday & Thursday | 2.00 pm to 4.00 pm | P3 to P6 | PAL Room | P3 to P5 (subject to audition by instructor) |
+| Drama Club | Ms Cheng May Ling <br>Mdm Sharmini | Thursday | 2.00 pm to 4.00 pm | P3 to P6 | Dance Room | P3 to P5 |
+| Art Club | Mdm Suzana Yaacob <br>Mr Almir Shafur Mdm Fidyyana <br>Mdm Wong Siow Yen | Thursday | 2.00 pm to 4.00 pm | P3 to P6 | Art Room | P3 to P5 |
