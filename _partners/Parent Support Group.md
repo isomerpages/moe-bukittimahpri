@@ -61,16 +61,19 @@ Facebook
 <br><strong>READ OUR PAST ISSUES OF NEWSLETTERS:</strong>
 [http://btpspsg.wix.com/btpspsg](http://btpspsg.wix.com/btpspsg)
 
-Join Us!
+**Join Us!**
 
 There are many opportunities for you to get involved and your participation at any level is immensely appreciated. We are waiting to hear from you.  So please drop us a line at btps.psg@gmail.com
 
-FAQ
-Q: How much time commitment is involved?
-A: You are welcome to commit to whatever time your personal schedules allows. Some parents volunteer their time regularly, and some sign up for one-off ad hoc supporting role, and some commit to organize a particular event.
+# FAQ
+**Q: How much time commitment is involved?**
 
-Q: Do I need to have a specific skill?
-A: We welcome all skills and interests. From web skills, photography, creative works, math, child development, or if you just love meeting new people. Our PSG members come from a wide variety backgrounds, professionally and culturally. Yet, we have found our own unique way to contribute to the school community.
+**A:** You are welcome to commit to whatever time your personal schedules allows. Some parents volunteer their time regularly, and some sign up for one-off ad hoc supporting role, and some commit to organize a particular event.
 
-Q: How do I volunteer? What if I am still not sure of what I can do as volunteer at school?
-A: We are just a click away. Email us at btps.psg@gmail.com now! 
+**Q: Do I need to have a specific skill?**
+
+**A:** We welcome all skills and interests. From web skills, photography, creative works, math, child development, or if you just love meeting new people. Our PSG members come from a wide variety backgrounds, professionally and culturally. Yet, we have found our own unique way to contribute to the school community.
+
+**Q: How do I volunteer? What if I am still not sure of what I can do as volunteer at school?**
+
+**A:** We are just a click away. Email us at btps.psg@gmail.com now!
