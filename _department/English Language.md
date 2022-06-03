@@ -7,7 +7,7 @@ description: ""
 
 **Our Programmes:**
 
-# 1) JOURNALING TO ENHANCE LEARNING OF ENGLISH
+# I) JOURNALING TO ENHANCE LEARNING OF ENGLISH
 
 ***a. English Language Learning Experiences (ELLE) for P1 and P2 pupils***
 
@@ -26,7 +26,7 @@ TED provides pupils the platform to explore the different aspects of learning En
 
 ![](/images/TED.png)
 
-# 2) English Extensive Reading Programme include…
+# II) English Extensive Reading Programme include…
   
 * LiFE (Literature For Everyone) (P1 to P4) Programme
 * English Magazines (P2 to P6 pupils)
@@ -65,8 +65,31 @@ BTPS takes part in the Singapore Moo-O Awards every year. On 7 April 2021, our B
 
 *Our P3 pupils’ recording their reading.*
 ![](/images/p3%20students.png)
- 
- 
- 
+
+# III) English Enrichment Programme (Outside curriculum)
+**Master Scrabble for P2 to P6 pupils**
+
+![](/images/P16.jpeg)
+
+Pupils enjoy challenging one another in     this word game which help develop thinking skills, build vocabulary and put values, such as respect, integrity and graciousness into practice.  Our pupils have attained awards at both National and Zonal levels but above winning awards, are the rich bonds of friendship they develop with the players from other schools as well within our own school.
+
+
+
+# IV) SUPER JOURNALING TEAM (SJT)
+
+The Super Journaling is a special programme designed for pupils who are self-directed and love journaling. Their TED entries, which include reflection of articles, showcases their deep thinking. SJT members who are selected based on their interest in journaling and writing, would attend master classes which are conducted outside curriculum hours once every term.
+
+They get opportunities to explore issues and topics from different perspectives with supporting evidences and reasoning.  Their learning experiences are varied which include meeting a baker, a national soccer player and even exploring our neighbourhood gardens.  The collaborative work by SJT pupils together with the Art Club members help create beautiful poems with wonderful artistic illustrations.  
+
+![](/images/SJT%201.png)
+![](/images/SJT%202.png)
+![](/images/SJT%203.png)
+![](/images/SJT%204.png)
+
+
+
+
+
+
 
 
