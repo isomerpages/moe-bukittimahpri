@@ -12,14 +12,9 @@ description: ""
 | Performing And Visual Arts | Teacher-in-charge | Day | Time | Level / Group | Venue | Recruiting which level for 2022? |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Band | Ms Karyn Ang <br>Mdm Edna Phong <br> Mdm Du Ying <br> Mdm Chan Khai Gin (Mrs Goh) <br> Mdm Josephine Ho (Mrs Kek) <br> Ms Tong Minyan <br> Mdm Elyana | Friday | 2.30 pm to 5.30 pm | Brass Twinkle (P2) | Zoom (eCCA) | P2 (subject to suitability assessment) |
-| Choir | Mrs Joanne Hu | Tuesday & Thursday | 2.30 pm to 4 pm | P2 | Zoom (eCCA) | P2 (subject to audition by instructor) |
-|  | Mrs Ong Kai Chun |  |  |  |  |  |
-|  | Mr Ernest Ong Wei Ming |  |  |  |  |  |
-|  | Mdm Wang Lu |  |  |  |  |  |
-| DanceVersity | Mdm Suzanah Miswari | Tuesday & Thursday | 2 pm to 4 pm | P2 | PAL Room | P2 (subject to audition by instructor) |
-|  | Mdm Tan Hwee Hsia |  |  |  |  |  |
-|  | Mdm Chong Yu Pei (Mrs Wong) |  |  |  |  |  |
-|  | Mdm Lorshenni (Mrs Raj) |  |  |  |  |  |
+| Choir | Mrs Joanne Hu <br> Mrs Ong Kai Chun <br>Mr Ernest Ong Wei Ming<br>Mdm Wang Lu| Tuesday & Thursday | 2.30 pm to 4 pm | P2 | Zoom (eCCA) | P2 (subject to audition by instructor) |
+| DanceVersity | Mdm Suzanah Miswari <br>Mdm Tan Hwee Hsia<br>Mdm Chong Yu Pei (Mrs Wong)<br>Mdm Lorshenni (Mrs Raj)| Tuesday & Thursday | 2 pm to 4 pm | P2 | PAL Room | P2 (subject to audition by instructor) |
+
 
 
 
