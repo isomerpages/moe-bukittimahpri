@@ -15,16 +15,16 @@ locations:
       - "173"
       - ""
       - ""
-    title: Bus Service
     operating_hours: []
     maps_link: ""
+    title: Bus Service
   - address:
       - Bukit Batok MRT
       - Clementi Stations
       - ""
-    title: Nearest MRT Stations
     operating_hours: []
     maps_link: ""
+    title: Nearest MRT Stations
 contacts:
   - content:
       - phone: +65 6466 2863
@@ -36,4 +36,14 @@ contacts:
       - email: bukittimahps@moe.edu.sg
       - other: ""
     title: Mail
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "173"
+    title: Bus Services
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Bukit Batok MRT <br>Clementi stations
+    title: Nearest MRT Stations
 ---
