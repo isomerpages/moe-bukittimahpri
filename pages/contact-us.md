@@ -11,20 +11,6 @@ locations:
     operating_hours: []
     maps_link: ""
     title: School Building
-  - address:
-      - "173"
-      - ""
-      - ""
-    operating_hours: []
-    maps_link: ""
-    title: Bus Service
-  - address:
-      - Bukit Batok MRT
-      - Clementi Stations
-      - ""
-    operating_hours: []
-    maps_link: ""
-    title: Nearest MRT Stations
 contacts:
   - content:
       - phone: +65 6466 2863
