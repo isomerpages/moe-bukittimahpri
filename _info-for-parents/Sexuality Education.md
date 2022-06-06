@@ -43,7 +43,7 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emot
 
 **Overview of Bukit Timah Primary School’s Sexuality Education Programme**
 
-4.   Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools) for more information on the scope of Sexuality Education in the school curriculum.
+<p>4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools">here</a> for more information on the scope of Sexuality Education in the school curriculum.</p>
 
 5. The subjects that incorporate topics on sexuality include:
 
