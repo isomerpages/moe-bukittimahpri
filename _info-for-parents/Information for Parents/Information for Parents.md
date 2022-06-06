@@ -4,10 +4,6 @@ permalink: /info-for-parents/information-for-parents
 description: ""
 third_nav_title: Information for Parents
 ---
-
-
-
-
 # INFORMATION FOR PARENTS
 
 **Commz @ BTPS**
@@ -20,7 +16,6 @@ third_nav_title: Information for Parents
 
 # OTHER INFORMATIONS FOR DOWNLOADS
 
-<br>
 
 * [Parent Gateway Instructional Guide](https://bukittimahpri-moe-edu-sg-admin.cwp.sg/qql/slot/u768/2019/Information%20For%20Parents/Annex%20B.pdf)
 * [Praise Your Child](https://bukittimahpri-moe-edu-sg-admin.cwp.sg/qql/slot/u768/2018/Commz/Scan1.pdf)
