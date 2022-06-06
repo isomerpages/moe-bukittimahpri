@@ -11,12 +11,9 @@ sections:
       button: Virtual Tour
       url: https://360.itcow.com/fullscreens/2020/BukitTimah/TOUR_MASTER1/
       key_highlights:
-        - title: Info for Parents
-          description: ""
-          url: /info-for-parents/
         - title: Quick Links
           description: ""
-          url: /privacy/
+          url: /quick-links
   - resources:
       title: Announcements
       button: Announcements
