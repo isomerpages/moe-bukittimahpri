@@ -2,4 +2,5 @@ collections:
   info-for-parents:
     output: true
     order:
+      - Information for Parents/Information for Parents.md
       - Information for Parents/.keep
