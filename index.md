@@ -20,4 +20,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /privacy/
+  - resources:
+      title: Announcements
+      button: Resources Button Name
 ---
