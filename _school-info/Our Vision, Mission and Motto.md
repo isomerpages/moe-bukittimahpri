@@ -13,7 +13,10 @@ To Enthuse, Engage and Empower in a Learning Community that inculcates sound val
 
 **SCHOOL BADGE**
 
-![](/images/BTPS_Logo.jpeg)
+
+<img src="/images/BTPS_Logo.jpeg" 
+     style="width:25%">
+
 
 The school crest consists of a human figure with outstretched arms, and a peak of excellence balancing a circle of all roundness against a blue background.
 
