@@ -105,3 +105,12 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emot
 | Friends or Foes? | Are You Really My Friend? (30 min) | ·         identify the pros and cons of forming relationships through social networking websites ·         know ways to keep themselves safe when using social networking websites | Term 4 |
 |  | Is It All Safe? (30 min) | ·         know that some information (like pornography) received through the Internet may be harmful ·         know ways to keep themselves safe when using social networking websites or the Internet | Term 4 |
 |  | Main Task  (30 min) | Description of the Main Task:   Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.   | Term 4 |
+
+
+<strong>Information for Parents</strong>
+
+<p>8.  Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
+
+<p>9.  The relevant information for parents will be disseminated through a Parents Gateway message or hard copy letter during the implementation process of the programme. Parents who wish to opt their children out of the <strong>Growing Years (GY) programme</strong> need to complete an opt-out form attached to the letter or Parents Gateway message.</p>
+
+<p>10.  Parents can contact the school at 6466 2863 (ext. 202 or 308) to seek clarification about the school’s sexuality education programme.</p>
