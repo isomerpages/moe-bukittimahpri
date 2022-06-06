@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: https://google.com
+          url: /home/announcements/announcements
         - title: Info for Parents
           description: ""
           url: /info-for-parents
