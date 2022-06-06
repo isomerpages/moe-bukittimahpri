@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Information for Parents/.keep
-      - Information for Parents.md
       - 2021 WE STORIES.md
       - Student Icon.md
