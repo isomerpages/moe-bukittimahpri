@@ -2,6 +2,6 @@ collections:
   info-for-parents:
     output: true
     order:
-      - Student Icon.md
-      - 2021 WE STORIES.md
       - Information for Parents.md
+      - 2021 WE STORIES.md
+      - Student Icon.md
