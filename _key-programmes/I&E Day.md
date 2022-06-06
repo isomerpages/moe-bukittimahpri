@@ -13,9 +13,13 @@ Innovation and Enterprise (I&E) Day is an extension of our VIA programme. Throug
 
 After PSLE, our Primary six pupils form their own groups to create items using recycled items. These items are then sold during I&E Day to raise funds for the residents of SASCO Senior Citizen’s Home.
 
-![](/images/I%20&E%20Day.png)
+<img src="/images/I%20&E%20Day.png" 
+     style="width:65%">
 
-![](/images/I&E%20Group%20photo.jpeg)
 
-![](/images/I&E%20handmade.png)
+<img src="/images/I&E%20Group%20photo.jpeg" 
+     style="width:65%">
 
+
+<img src="/images/I&E%20handmade.png" 
+     style="width:65%">
