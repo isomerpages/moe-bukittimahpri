@@ -46,5 +46,5 @@ description: ""
 <br>
 
 * [Building Resilience in Our Children](https://bukittimahpri.moe.edu.sg/qql/slot/u768/Information%20for%20parents/Building%20Resilience%20in%20Our%20Children.pdf)
-* MOO-O Installation Guide for Windows
-* MOO-O Installation Guide for iPad
+* [MOO-O Installation Guide for Windows](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/MOO-O/MOO-O%20Parent's%20Guide%20for%20Windows.pdf)
+* [MOO-O Installation Guide for iPad](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/MOO-O/MOO-O%20Parent's%20Guide%20for%20ipad.pdf)
