@@ -2,6 +2,7 @@ collections:
   info-for-parents:
     output: true
     order:
+      - HOME BASED LEARNING.md
       - Dental Information.md
       - Briefing.md
       - Sexuality Education.md
