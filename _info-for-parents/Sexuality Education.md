@@ -45,7 +45,7 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emot
 
 <p>4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools">here</a> for more information on the scope of Sexuality Education in the school curriculum.</p>
 
-5. The subjects that incorporate topics on sexuality include:
+<p>5. The subjects that incorporate topics on sexuality include:</p>
 
 <p class="tab">a.       Science</p>
 
@@ -59,7 +59,7 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emot
 
 
 
-6. The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
+<p>6. The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.</p>
 
  
 
