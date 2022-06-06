@@ -10,9 +10,6 @@ description: ""
      style="width:70%">
 </div>
 
-
-
-
 Bukit Batok Primary School, situated at the junction of Jalan Jurong Kechil and Jurong Road, is an amalgamation of two schools, namely Bukit Batok East and Bukit Batok West Primary Schools. These two schools functioned as separate schools since 1959. However, in 1984, they amalgamated to form the present Bukit Batok Primary School. The school buildings, completed in 1959, comprise two separate three-storey blocks. A new hall-cum-canteen was constructed in 1988. In December 2001, the school relocated to its new premises at Lorong Kismis with a new name "BUKIT TIMAH PRIMARY SCHOOL".
 
 **OUR PRESENT SCHOOL**
