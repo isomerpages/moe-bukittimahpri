@@ -2,5 +2,4 @@ collections:
   info-for-parents:
     output: true
     order:
-      - Information for Parents/Student Icon.md
       - Information for Parents/.keep
