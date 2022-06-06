@@ -63,7 +63,7 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emot
 
  
 
-7. The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
+<p>7. The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.</p>
 
 
 **At Bukit Timah Primary School, the following lessons from the Growing Years Programme will be taught:**
