@@ -1,4 +1,5 @@
 collections:
   info-for-parents:
     output: true
-    order: []
+    order:
+      - Information for Parents.md
