@@ -13,4 +13,9 @@ links:
   - title: Partners
     collection: partners
   - title: For Parents
-    collection: info-for-parents
+    url: /info-for-parents
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
