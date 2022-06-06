@@ -2,9 +2,9 @@ collections:
   info-for-parents:
     output: true
     order:
-      - Others/Sales Informations & Booklist.md
-      - Others/Choosing a Secondary School.md
       - Others/.keep
+      - Others/Choosing a Secondary School.md
+      - Others/Sales Informations & Booklist.md
       - Information for Parents/.keep
       - Information for Parents/Information for Parents.md
       - Information for Parents/2021 WE STORIES.md
