@@ -52,3 +52,4 @@ plugins:
 staging: https://moe-bukittimahpri-staging.netlify.app
 prod: https://moe-bukittimahpri-prod.netlify.app
 shareicon: /images/BTPS_Logo.jpeg
+resources_name: announcements
