@@ -13,7 +13,8 @@ description: ""
 
 ELLE is a journal that gives pupils space and opportunities to realise that learning English is a fun experience.   ELLE allows   them to express their thoughts, their likes, dislikes, and feelings about every day experiences as well as their readings. Moreover,  journaling provides our young ones opportunities to use   Thinking Routines to link their learning to deepen their understanding of school values and social & emotional competencies. 
 
-![](/images/P1%20(1).png)
+<img src="/images/P1%20(1).png" 
+     style="width:45%">
 *Claire Tanady , 1 GRACIOUSNESS*
 
 ![](/images/tanzirong.png)
@@ -69,7 +70,9 @@ BTPS takes part in the Singapore Moo-O Awards every year. On 7 April 2021, our B
 # III) English Enrichment Programme (Outside curriculum)
 **Master Scrabble for P2 to P6 pupils**
 
-![](/images/P16.jpeg)
+
+<img src="/images/P16.jpeg" 
+     style="width:75%">
 
 Pupils enjoy challenging one another in     this word game which help develop thinking skills, build vocabulary and put values, such as respect, integrity and graciousness into practice.  Our pupils have attained awards at both National and Zonal levels but above winning awards, are the rich bonds of friendship they develop with the players from other schools as well within our own school.
 
