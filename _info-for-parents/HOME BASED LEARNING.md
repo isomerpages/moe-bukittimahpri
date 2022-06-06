@@ -57,18 +57,12 @@ If you have forgotten your password, you could:
 
 Outside the school operating hours, students should contact the <strong><u>SLS Helpdesk</u></strong> for support.
 
- Call SLS Helpdesk at <u>6702 6513</u>
+ <strong>Call SLS Helpdesk at <u>6702 6513</u></strong>
 
+* Mondays - Fridays: 4:00 pm - 9:00 pm
+* Saturdays: 9:00 am - 3:00 pm
+* Closed on Sundays & Public Holidays
 
-Mondays - Fridays: 4:00 pm - 9:00 pm
+**Email SLS Helpdesk at helpdesk@sls.ufinity.com**
 
-Saturdays: 9:00 am - 3:00 pm
-
-*Closed on Sundays & Public Holidays
-
-
-·       Email SLS Helpdesk at helpdesk@sls.ufinity.com
-
-
-
-When emailing the SLS Helpdesk, students should include their full name, name of school and form class.
+* When emailing the SLS Helpdesk, students should include their full name, name of school and form class.
