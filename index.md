@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Info for Parents
           description: ""
-          url: /Info-For-Parents
+          url: /info-for-parents/
         - title: Quick Links
           description: ""
           url: /privacy/
