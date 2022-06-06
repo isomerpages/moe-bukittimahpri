@@ -2,6 +2,7 @@ collections:
   info-for-parents:
     output: true
     order:
+      - Briefing.md
       - Sexuality Education.md
       - Information for Parents/.keep
       - Information for Parents/Information for Parents.md
