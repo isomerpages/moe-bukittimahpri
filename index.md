@@ -16,7 +16,7 @@ sections:
           url: https://google.com
         - title: Info for Parents
           description: ""
-          url: https://gmail.com
+          url: /info-for-parents
         - title: Quick Links
           description: ""
           url: /privacy/
