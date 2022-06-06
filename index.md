@@ -22,5 +22,5 @@ sections:
           url: /privacy/
   - resources:
       title: Announcements
-      button: Resources Button Name
+      button: Announcements
 ---
