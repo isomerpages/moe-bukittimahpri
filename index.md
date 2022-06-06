@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Quick Links
           description: ""
-          url: /quick-links
+          url: /quick-links/
   - resources:
       title: Announcements
       button: Announcements
