@@ -6,7 +6,9 @@ third_nav_title: Information for Parents
 ---
 # 2021 WE STORIES
 
-![](/images/westories.png)
+<img src="/images/westories.png" 
+     style="width:55%">
+
 
 Click on the link below to view a collection of stories from our West Zone Secondary Schools.
 
