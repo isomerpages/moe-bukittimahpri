@@ -25,12 +25,14 @@ National Education (NE) is about engaging the hearts and minds of pupils in deve
 </div>
 
 
+<br>
+	
+	
+<strong>6 NE Messages aligned to School Values<strong>
 
 
-**6 NE Messages aligned to School Values**
 
-
-
+	
 |  |  |  |
 |---|---|---|
 | Primary 1  and  Primary 2  | Graciousness | Singapore is our homeland; this is where we belong.  <br><br><em>We treasure our heritage and take pride in shaping our own unique way of life and extend <strong>graciousness</strong> towards fellow Singaporeans  |
