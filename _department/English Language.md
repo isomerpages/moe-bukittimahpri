@@ -17,6 +17,17 @@ ELLE is a journal that gives pupils space and opportunities to realise that lear
      style="width:45%">
 *Claire Tanady , 1 GRACIOUSNESS*
 
+<div>
+<div style="float: left">
+<img src="/images/P1%20(1).png" 
+     style="width:30%">
+</div>
+<div>
+	<em>Claire Tanady , 1 GRACIOUSNESS</em>
+</div>
+</div>
+
+
 ![](/images/tanzirong.png)
 *Toon Zirong, 1 RESPECT*
 
