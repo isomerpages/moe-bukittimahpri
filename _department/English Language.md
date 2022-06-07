@@ -27,7 +27,8 @@ ELLE is a journal that gives pupils space and opportunities to realise that lear
 
 TED provides pupils the platform to explore the different aspects of learning English and make it a fun and exciting experience.   TED allows pupils to journal their thoughts, their views/opinions, likes and dislikes via the use of the Thinking Routines.  This journaling experience provides our pupils with opportunities to read the nuances between lines and go beyond the text.  Journaling opens the doors for them to make connections to school values, the social and emotional learning competencies while enjoying the enriching language learning experiences.  
 
-![](/images/TED.png)
+<img src="/images/TED.png" 
+     style="width:75%">
 
 # II) English Extensive Reading Programme include…
   
@@ -52,8 +53,10 @@ TED provides pupils the platform to explore the different aspects of learning En
 <br>• appreciate local authors and identify with local-themed plots and settings</p>
 
 *ELLE entry on Dolphin Boy by a P2 pupil.*
-![](/images/stelluna%20elle.png)
-![](/images/elle%20samples.png)
+<img src="/images/stelluna%20elle.png" 
+     style="width:75%">
+<img src="/images/elle%20samples.png" 
+     style="width:75%">
 
 **Moo-O e-reading Programme (P1 to P3)**
 
@@ -67,7 +70,8 @@ BTPS takes part in the Singapore Moo-O Awards every year. On 7 April 2021, our B
 
 
 *Our P3 pupils’ recording their reading.*
-![](/images/p3%20students.png)
+<img src="/images/p3%20students.png" 
+     style="width:85%">
 
 # III) English Enrichment Programme (Outside curriculum)
 **Master Scrabble for P2 to P6 pupils**
@@ -86,7 +90,11 @@ The Super Journaling is a special programme designed for pupils who are self-dir
 
 They get opportunities to explore issues and topics from different perspectives with supporting evidences and reasoning.  Their learning experiences are varied which include meeting a baker, a national soccer player and even exploring our neighbourhood gardens.  The collaborative work by SJT pupils together with the Art Club members help create beautiful poems with wonderful artistic illustrations.  
 
-![](/images/SJT%201.png)
-![](/images/SJT%202.png)
-![](/images/SJT%203.png)
-![](/images/SJT%204.png)
+<img src="/images/SJT%201.png" 
+     style="width:75%">
+<img src="/images/SJT%202.png" 
+     style="width:75%">
+<img src="/images/SJT%203.png" 
+     style="width:75%">
+<img src="/images/SJT%204.png" 
+     style="width:75%">
