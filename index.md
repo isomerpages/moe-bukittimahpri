@@ -17,4 +17,8 @@ sections:
   - resources:
       title: Announcements
       button: Announcements
+  - infobar:
+      title: Information For Parents
+      button: Information for parents
+      url: /for-parents
 ---
