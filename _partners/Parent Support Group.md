@@ -62,8 +62,9 @@ Keep up with all the event happenings:
 
 [https://www.facebook.com/BTPS.PSGbuzz](https://www.facebook.com/BTPS.PSGbuzz)
 
-**SUBSCRIBE NEWSLETTER**
+<strong><u>SUBSCRIBE NEWSLETTER</u></strong>
 <br><strong>READ OUR PAST ISSUES OF NEWSLETTERS:</strong>
+
 [http://btpspsg.wix.com/btpspsg](http://btpspsg.wix.com/btpspsg)
 
 **Join Us!**
