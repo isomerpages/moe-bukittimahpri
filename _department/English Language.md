@@ -15,12 +15,12 @@ ELLE is a journal that gives pupils space and opportunities to realise that lear
 
 <img src="/images/P1%20(1).png" 
      style="width:30%">
-*Claire Tanady , 1 GRACIOUSNESS*
+<center><em>Claire Tanady , 1 GRACIOUSNESS</em></center>
 
 
 <img src="/images/tanzirong.png" 
      style="width:60%">
-*Toon Zirong, 1 RESPECT*
+<center><em>Toon Zirong, 1 RESPECT</em></center>
 
 
 ***b.Tackling English Diligently (TED) for P3 to P6 pupils***
