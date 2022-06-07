@@ -18,7 +18,7 @@ description: ""
 <img src="/images/cyberwellness.png" 
      style="width:75%">
 
-<em><strong>"Parents play a key role in shaping students’ behavior in cyberspace. Parents are critical in anchoring strong values in their children to better manage their child’s internet exposure. Through the joint effort of parents and schools, we can ensure that our students adopt the right values and attitude when using technology.”</strong></em>  ~ Mr Hawazi Daipi, Senior Parliamentary Secretary Ministry of Education and Ministry of Manpower International, Conference on Teaching and Learning with Technology (iCTLT), 29 March 2012
+<em><strong>"Parents play a key role in shaping students’ behavior in cyberspace. Parents are critical in anchoring strong values in their children to better manage their child’s internet exposure. Through the joint effort of parents and schools, we can ensure that our students adopt the right values and attitude when using technology.”</strong></em>   ~Mr Hawazi Daipi, Senior Parliamentary Secretary Ministry of Education and Ministry of Manpower International, Conference on Teaching and Learning with Technology (iCTLT), 29 March 2012
 
 To complement the CW curriculum in BTPS, parents can set a good example at home in the use of technology. Parents play an active role in guiding your child to navigate in cyberspace and for creating a safe environment for them so that they can use the internet constructively.
 
@@ -40,5 +40,7 @@ To complement the CW curriculum in BTPS, parents can set a good example at home 
 * [Play safe – avoid online gaming addiction](https://www.schoolbag.sg/story/play-safe-avoid-online-gaming-addiction)
 * [Safeguarding your child online](https://www.schoolbag.sg/story/safeguarding-your-child-online)
 
-![](/images/mini%20p1.png)
-![](/images/P14.jpeg)
+<img src="/images/mini%20p1.png" 
+     style="width:75%">
+<img src="/images/P14.jpeg" 
+     style="width:75%">
