@@ -1,5 +1,5 @@
 collections:
-  info-for-parents:
+  for-parents:
     output: true
     order:
       - Information for Parents/.keep
