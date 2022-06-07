@@ -16,7 +16,6 @@ third_nav_title: CCE
 
 
 
-
 <img src="/images/Head.jpeg" 
      style="width:45%">
 
