@@ -15,13 +15,17 @@ third_nav_title: CCE
 <p class="tab"><em>Forging a national identity through shared experiences</em></p>
 
 
-
+<div>
+<div style="float: left">
 <img src="/images/Head.jpeg" 
-     style="width:25%">
-
-
-
+     style="width:45%">
+</div>
+<div>
 National Education (NE) is about engaging the hearts and minds of pupils in developing a shared sense of identity. Through core NE commemorative days and programmes pupils develop a sense of belonging and commitment to the school, community, nation and world.
+</div>
+
+
+
 
 
 
