@@ -19,7 +19,7 @@ ELLE is a journal that gives pupils space and opportunities to realise that lear
 
 
 <img src="/images/tanzirong.png" 
-     style="width:60%">
+     style="width:75%">
 <center><em>Toon Zirong, 1 RESPECT</em></center>
 
 
