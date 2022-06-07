@@ -54,9 +54,11 @@ Over the past years, we have initiated some of the following interesting program
 Check out our snapshots of past events at 
 
 [www.flickr.com/photos/btps-psg/sets](www.flickr.com/photos/btps-psg/sets)
-Facebook
 
-**Keep up with all the event happenings:**
+
+**Facebook**
+
+Keep up with all the event happenings:
 
 [https://www.facebook.com/BTPS.PSGbuzz](https://www.facebook.com/BTPS.PSGbuzz)
 
