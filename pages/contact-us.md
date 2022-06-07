@@ -9,7 +9,7 @@ locations:
       - Lorong Kismis
       - Singapore 598112
     operating_hours:
-      - days: Mondays - Fridays
+      - days: Monday - Friday
         time: 8am - 4pm
         description: ""
     maps_link: ""
