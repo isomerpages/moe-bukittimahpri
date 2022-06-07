@@ -31,8 +31,11 @@ In middle primary, students are given more opportunities to explore real-life an
 
 For upper primary students, we aim to consolidate and reinforce their learning in Math through complex tasks that require them to investigate, clarify, connect and apply mathematical concepts learnt effectively to solve more challenging problems in real life scenarios. The focus of TOM will then shift to providing opportunities for students to reflect on their learning and make connections to deepen their understanding of various mathematics ideas.
 
-![](/images/m%207%20and%208.png)
-![](/images/m10n9.png)
+
+<img src="/images/m%207%20and%208.png" 
+     style="width:75%">
+<img src="/images/m10n9.png" 
+     style="width:75%">
 
 
 **Key Programmes**
