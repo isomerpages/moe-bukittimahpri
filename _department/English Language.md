@@ -14,22 +14,12 @@ description: ""
 ELLE is a journal that gives pupils space and opportunities to realise that learning English is a fun experience.   ELLE allows   them to express their thoughts, their likes, dislikes, and feelings about every day experiences as well as their readings. Moreover,  journaling provides our young ones opportunities to use   Thinking Routines to link their learning to deepen their understanding of school values and social & emotional competencies. 
 
 <img src="/images/P1%20(1).png" 
-     style="width:45%">
-*Claire Tanady , 1 GRACIOUSNESS*
-
-<div>
-<div style="float: left">
-<img src="/images/P1%20(1).png" 
      style="width:30%">
-</div>
-<div>
-	<em>Claire Tanady , 1 GRACIOUSNESS</em>
-</div>
-</div>
+*Claire Tanady , 1 GRACIOUSNESS*
 
 
 <img src="/images/tanzirong.png" 
-     style="width:65%">
+     style="width:60%">
 *Toon Zirong, 1 RESPECT*
 
 
