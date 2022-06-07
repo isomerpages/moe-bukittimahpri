@@ -10,7 +10,7 @@ third_nav_title: CCE
 
 
 <img src="/images/Head.jpeg" 
-     style="width:45%">
+     style="width:30%">
 
 
 National Education (NE) is about engaging the hearts and minds of pupils in developing a shared sense of identity. Through core NE commemorative days and programmes pupils develop a sense of belonging and commitment to the school, community, nation and world.
