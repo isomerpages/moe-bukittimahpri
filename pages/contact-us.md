@@ -8,7 +8,10 @@ locations:
       - "111"
       - Lorong Kismis
       - Singapore 598112
-    operating_hours: []
+    operating_hours:
+      - days: Mondays - Fridays
+        time: 8am - 4pm
+        description: ""
     maps_link: ""
     title: School Building
 contacts:
