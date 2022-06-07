@@ -14,11 +14,10 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/
+        - title: Info For Parents
+          description: Key Highlight description
+          url: /info-for-parents/information-for-parents
   - resources:
       title: Announcements
       button: Announcements
-  - infobar:
-      title: Information For Parents
-      button: Information for parents
-      url: /info-for-parents
 ---
