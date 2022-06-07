@@ -6,13 +6,7 @@ third_nav_title: CCE
 ---
 # NATIONAL EDUCATION
 
-<style type="text/css">
-<!--
- .tab { margin-left: 40px; }
--->
-</style>
-
-<p class="tab"><em>Forging a national identity through shared experiences</em></p>
+<center><em>Forging a national identity through shared experiences</em></center>
 
 
 <img src="/images/Head.jpeg" 
