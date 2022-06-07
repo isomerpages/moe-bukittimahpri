@@ -18,14 +18,16 @@ As the lower primary students are in the early stages of learning mathematics, t
      style="width:65%">
 
 
-**Mathematics logically – Understanding the Mathematics in authentic experiences**
+<strong><u>Mathematics logically – Understanding the Mathematics in authentic experiences</u></strong>
 
 In middle primary, students are given more opportunities to explore real-life and novel mathematics problems. The lessons are balanced with teaching of standard curriculum topics as well as challenging tasks for students to apply higher order thinking skills in a dynamic learning environment. Journals in TOM will focus on deepening conceptual knowledge and making sense of the application of Mathematics in authentic experiences through reasoning inductively and deductively.
 
-![](/images/m5%20and%204.png)
-![](/images/M6.jpeg)
+<img src="/images/m5%20and%204.png" 
+     style="width:65%">
+<img src="/images/M6.jpeg" 
+     style="width:65%">
 
-**Extend Mathematical Thinking with Mastery in Mathematics**
+<u>Extend <strong>Mathematical Thinking</strong> with <strong>Mastery</strong> in Mathematics</u>
 
 For upper primary students, we aim to consolidate and reinforce their learning in Math through complex tasks that require them to investigate, clarify, connect and apply mathematical concepts learnt effectively to solve more challenging problems in real life scenarios. The focus of TOM will then shift to providing opportunities for students to reflect on their learning and make connections to deepen their understanding of various mathematics ideas.
 
