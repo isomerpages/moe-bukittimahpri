@@ -20,5 +20,5 @@ sections:
   - infobar:
       title: Information For Parents
       button: Information for parents
-      url: /for-parents
+      url: /info-for-parents
 ---
