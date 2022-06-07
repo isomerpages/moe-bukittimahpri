@@ -17,8 +17,8 @@ third_nav_title: CCE
 <strong> Motto</strong>
 <br>Be a Leader of Character </center>
 
-
-![](/images/CCE1.png)
+<img src="/images/CCE1.png" 
+     style="width:65%">
 
 <strong>Bukit Timah Primary School (BTPS) aims to develop every student to be a leader of character, who has the will to act and serve his/her school and community.</strong>
 
@@ -29,12 +29,14 @@ third_nav_title: CCE
 <strong>With these intentional efforts, the BTPS student leader eventually becomes a Leader of Character, who contributes back to the community.</strong>
 
 # Our Values-based Approach
-
-![](/images/CCE2.png)
+<img src="/images/CCE2.png" 
+     style="width:65%">
 
 <strong><center>The school believes that a leader must be guided by a strong moral compass and one must also possess good relationship management skills. Hence, the school adopts The Student Leadership Challenge model and introduces the five practices as part of our school student leadership development.</center></strong>
 
-![](/images/CCE4.jpeg)
+<img src="/images/CCE4.jpeg" 
+     style="width:65%">
+
 
 <strong><center>Peer Support Relationship (PSR)</center></strong>
 
@@ -45,7 +47,8 @@ A strong Peer Support culture enables our students develop resilience as they gi
 
 To allow everyone to be a peer supporter, the “CHEER” model adapted from Guidance Branch is introduced as part of the Peer Support Curriculum. BTPS students used the CHEER Model to help classmates who are in need of social and emotional support. They also undergo experiential activities to understand and appreciate the importance of Peer Support during the Back-to-school programme.
 
-![](/images/CCE5.jpeg)
+<img src="/images/CCE5.jpeg" 
+     style="width:65%">
 
 <strong><center>Level 2: Peer Support Ambassadors</center></strong>
 	
@@ -68,4 +71,5 @@ Peer Support Ambassadors (PSAs) were appointed to support peers socially and emo
 
 To develop an effective Peer Support culture within the school, PSAs@BTPS were selected for their sense of empathy and moral courage, and are trained in  interpersonalskills to positively influence and support their peers. They are also taught to recognise signs of distress, and offer practical help or seek support for their peers. 
 
-![](/images/student%20leadership.png)
+<img src="/images/student%20leadership.png" 
+     style="width:85%">
