@@ -25,7 +25,7 @@ In middle primary, students are given more opportunities to explore real-life an
 <img src="/images/m5%20and%204.png" 
      style="width:65%">
 <img src="/images/M6.jpeg" 
-     style="width:65%">
+     style="width:45%">
 
 <u>Extend <strong>Mathematical Thinking</strong> with <strong>Mastery</strong> in Mathematics</u>
 
