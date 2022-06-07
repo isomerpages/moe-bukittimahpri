@@ -5,9 +5,12 @@ description: ""
 ---
 # PARENT SUPPORT GROUP
 
-![](/images/PSG%201.jpeg)
+<img src="/images/PSG%201.jpeg" 
+     style="width:65%">
 
-![](/images/PSG%202.jpeg)
+<img src="/images/PSG%202.jpeg" 
+     style="width:65%">
+
 
 BTPS Parent Support Group is a community of parents who seek to partner the school staff in enriching the school life of BTPS students. We are a group of 240 plus parent volunteers who are actively involved with many projects in the school. Our main objective is to enrich the life of our children by working along with the school and infusing the school’s core ethos into our programs. While actively engaging in many school projects, our vibrant parent volunteers have infused their knowledge and skills and thinking into some of these projects to make them more engaging and stimulating for the children. 
 
