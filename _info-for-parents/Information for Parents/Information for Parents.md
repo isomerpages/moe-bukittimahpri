@@ -27,14 +27,14 @@ third_nav_title: Information for Parents
 
 <br>
 
-* [BTPS Assessment Letter 2021](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/Letters%20To%20Parents/BTPS%20Assessment%20Letter%202021.pdf)
-* [Safe Management Measures ](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/SMMs.pdf)
+* [BTPS Assessment Letter 2021](/files/BTPS%20Assessment%20Letter%202021.pdf)
+* [Safe Management Measures ](/files/SMMs.pdf)
 
 
 **Vendors Information**
-1. [2022 Booklist.pdf](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/2021/2022%20Booklist.pdf)
-2.  [Info Sheet on School Bus Services_updated.pdf](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/2021/Info%20Sheet%20on%20School%20Bus%20Services_updated.pdf)
-3.  [School Uniform.pdf](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/2021/School%20uniform.pdf)
+1. [2022 Booklist.pdf](/files/2022%20Booklist.pdf)
+2.  [Info Sheet on School Bus Services_updated.pdf](/files/Info%20Sheet%20on%20School%20Bus%20Services_updated.pdf)
+3.  [School Uniform.pdf](/files/School%20uniform.pdf)
 
 
 **Group Personal Accident Insurance**
