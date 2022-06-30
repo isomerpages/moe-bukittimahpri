@@ -19,15 +19,15 @@ Primary 2 Parent's Briefing Slides
 
 Primary 3 Parent's Briefing Slides  
 
-[Principal's Address](https://bukittimahpri-moe-edu-sg-admin.cwp.sg/qql/slot/u768/Information%20for%20parents/2022/P3%20Ps%20Address.pdf)
+[Principal's Address][](/files/P3%20Ps%20Address.pdf)
 
-[English](https://bukittimahpri-moe-edu-sg-admin.cwp.sg/qql/slot/u768/Information%20for%20parents/2022/P3%20Subject%20Briefing%20-%20EL.pdf) 
+[English][](/files/P3%20Subject%20Briefing%20-%20EL.pdf)
 
-[Mathematics](https://bukittimahpri-moe-edu-sg-admin.cwp.sg/qql/slot/u768/Information%20for%20parents/2022/P3%20Subject%20Briefing%20-%20Math.pdf)  
+[Mathematics][](/files/P3%20Subject%20Briefing%20-%20Math.pdf)
 
-[Science](https://bukittimahpri-moe-edu-sg-admin.cwp.sg/qql/slot/u768/Information%20for%20parents/2022/P3%20Subject%20Briefing%20-%20Science.pdf)
+[Science][](/files/P3%20Subject%20Briefing%20-%20Science.pdf)
 
-[Mother Tongue](https://bukittimahpri-moe-edu-sg-admin.cwp.sg/qql/slot/u768/Information%20for%20parents/2022/P3%20Subject%20Briefing%20-%20MT.pdf)
+[Mother Tongue][](/files/P3%20Subject%20Briefing%20-%20MT.pdf)
 
   
 
