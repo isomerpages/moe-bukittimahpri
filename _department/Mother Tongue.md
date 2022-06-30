@@ -28,6 +28,10 @@ We aim to cultivate student’s appreciation of their Mother Tongue languages th
 
 This competition cum convention is a semi-official activity organised by China in collaboration with countries like Australia, the United States, Denmark, Japan and Singapore. It aims to promote Chinese and English language among young second language users. Through speech competitions and exchange activities, it also serves to deepen the learning and understanding of each other's cultures.
 
+**(embed video)** 
+
+**(embed video)**
+
 Tamil Language
 
 Our Tamil pupils have also taken part in "Pongalo Pongal 2021" - a series of competitions for primary school Tamil pupils conducted by Mediacorp Seithi, in conjunction with the harvest festival celebrated by the Tamil community, Pongal. These were the competitions: 
