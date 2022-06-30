@@ -42,7 +42,7 @@ description: ""
     <td class="tg-22y8">65658961</td>
   </tr>
   <tr>
-    <td class="tg-ij4v"><a href="https://bukittimahpri-moe-edu-sg-admin.cwp.sg/qql/slot/u750/Information%20&%20Download/Vendors%20Information/2021%20Name%20Tag%20BTPS.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;text-decoration:none">Uniform Name Tags Order Form </span></a></td>
+    <td class="tg-ij4v"><a href="/files/2021%20Name%20Tag%20BTPS.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;text-decoration:none">Uniform Name Tags Order Form </span></a></td>
     <td class="tg-22y8">Name Tags </td>
     <td class="tg-22y8">NIL </td>
     <td class="tg-22y8">NIL </td>
