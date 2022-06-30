@@ -42,3 +42,5 @@ In BTPS,  departments have also integrated ICT in the lesson packages developed 
 * Koobits
 
 <p><strong>3. Infocomm - Robotics</strong></p>
+
+(embed video)
