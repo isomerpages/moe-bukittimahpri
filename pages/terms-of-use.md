@@ -2,6 +2,8 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
+# Terms of Use
+
 Thank you for visiting Bukit Timah Primary School Website. By continuing to browse our website and using any of the services provided on the website, you will be considered to accept and agreed to the Terms Of Use listed below.  
   
 **General**  
