@@ -4,28 +4,26 @@ permalink: /info-for-parents/information-for-parents
 description: ""
 third_nav_title: Information for Parents
 ---
-
 # INFORMATION FOR PARENTS
 
 **Commz @ BTPS**
 
-* [Commz BTPS 2022 Term 1](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/Commz@BTPS/2022/Term%201%20CommzBTPS%202022.pdf)
-
-* [Commz BTPS 2022 Term 2](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/Commz@BTPS/2022/Term%202%20CommzBTPS%202022.pdf)
-
-* [2022 School Calendar](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/Commz@BTPS/2022/2022%20School%20Calendar.pdf)
+* [Commz BTPS 2022 Term 1](/files/Term%201%20CommzBTPS%202022.pdf)
+* [Commz BTPS 2022 Term 2](/files/Term%202%20CommzBTPS%202022.pdf)
+* [Commz BTPS 2022 Term 3](/files/Term%203%20CommzBTPS.pdf)
+* [2022 School Calendar](/files/2022%20School%20Calendar.pdf)
 
 # OTHER INFORMATIONS FOR DOWNLOADS
 
 
-* [Parent Gateway Instructional Guide](https://bukittimahpri-moe-edu-sg-admin.cwp.sg/qql/slot/u768/2019/Information%20For%20Parents/Annex%20B.pdf)
-* [Praise Your Child](https://bukittimahpri-moe-edu-sg-admin.cwp.sg/qql/slot/u768/2018/Commz/Scan1.pdf)
+* [Parent Gateway Instructional Guide](/files/Annex%20B.pdf)
+* [Praise Your Child](/files/Scan1.pdf)
 
 **P1 Orientation Slides** 
-* [Principals Slides for P1 E-Orientation 2022.pdf](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/P1%20Orientation/Principals%20Slides%20for%20P1%20E-Orientation%202022.pdf)
-* [Form Teachers Slides for P1 E-Orientation2022.pdf ](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/P1%20Orientation/Form%20Teachers%20Slides%20for%20P1%20E-Orientation2022.pdf)
-* [Year Heads slides P1 Orientation_Parents_2022.pdf](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/P1%20Orientation/Year%20Heads%20slides%20P1%20Orientation_Parents_2022.pdf)
-* [P1 Administrative matters 2022.pdf](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/P1%20Orientation/P1%20Administrative%20matters%202022.pdf)
+* [Principals Slides for P1 E-Orientation 2022.pdf](/files/Principals%20Slides%20for%20P1%20E-Orientation%202022.pdf)
+* [Form Teachers Slides for P1 E-Orientation2022.pdf ](/files/Form%20Teachers%20Slides%20for%20P1%20E-Orientation2022.pdf)
+* [Year Heads slides P1 Orientation_Parents_2022.pdf](/files/Year%20Heads%20slides%20P1%20Orientation_Parents_2022.pdf)
+* [P1 Administrative matters 2022.pdf](/files/P1%20Administrative%20matters%202022.pdf)
 
 <br>
 
