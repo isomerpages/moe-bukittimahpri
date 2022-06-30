@@ -4,7 +4,7 @@ permalink: /quick-links/
 description: ""
 ---
 * [COMMZ @ BTPS](/info-for-parents/information-for-parents)
-* [SafeManagement Measures ](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/SMMs.pdf)
+* [SafeManagement Measures ](/files/SMMs.pdf)
 * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 * [AsknLearn](http://lms.asknlearn.com/BUKITTIMAHPS/Logon.aspx)
 * [Parents in Education (PiE) Website](http://parents-in-education.moe.gov.sg/)
