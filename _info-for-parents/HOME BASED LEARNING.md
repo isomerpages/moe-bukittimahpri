@@ -7,19 +7,19 @@ description: ""
 
 **Please refer to the live lessons guide for more information,**
 
-[Live Lessons Guides for Term 4 HBL.pdf](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/HBL/Live%20Lessons%20Guides%20for%20Term%204%20HBL.pdf)
+[Live Lessons Guides for Term 4 HBL.pdf](/files/Live%20Lessons%20Guides%20for%20Term%204%20HBL.pdf)
 
-To support your child with regard to his/her cyber well-being. please refer to the attached slides for more information. - [DOWNLOAD](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/HBL/20%20April%20HBL%20Cyberwellness.pdf)  (NEW)
+To support your child with regard to his/her cyber well-being. please refer to the attached slides for more information. - [DOWNLOAD](/files/20%20April%20HBL%20Cyberwellness.pdf)  (NEW)
 
-How to use CamScanner (for homework submission) - [DOWNLOAD](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/HBL/Guide%20on%20how%20to%20use%20Camscanner.pdf)
+How to use CamScanner (for homework submission) - [DOWNLOAD](/files/Guide%20on%20how%20to%20use%20Camscanner.pdf)
 
-To help your child better prepare for HBL please refer to the attached document for more information on HBL and instructions on accessing our HBL materials- [DOWNLOAD](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/HBL/HBL%20Slides%20for%20website%20updated%202021.pdf)
+To help your child better prepare for HBL please refer to the attached document for more information on HBL and instructions on accessing our HBL materials- [DOWNLOAD](/files/HBL%20Slides%20for%20website%20updated%202021.pdf)
 
- To support your child in his/ her learning on HBL days, parents may find the information in the HBL Resource Kit for Parents helpful- [DOWNLOAD](https://bukittimahpri-moe-edu-sg-admin.cwp.sg/qql/slot/u750/Information%20&%20Download/Resource%20Kit%20-%20HBL.pdf)
+ To support your child in his/ her learning on HBL days, parents may find the information in the HBL Resource Kit for Parents helpful- [DOWNLOAD](/files/Resource%20Kit%20-%20HBL.pdf)
 
-MOE SLS Self-Help Password Reset Guide & FAQ - [DOWNLOAD](https://bukittimahpri-moe-edu-sg-admin.cwp.sg/qql/slot/u750/Information%20&%20Download/SLS%20Password%20Reset%20Guide%20&%20FAQ.pdf)
+MOE SLS Self-Help Password Reset Guide & FAQ - [DOWNLOAD](/files/SLS%20Password%20Reset%20Guide%20&%20FAQ.pdf)
 
-Students' Guide to Video Conferencing with Teachers Using Zoom for HBL- [DOWNLOAD](https://bukittimahpri-moe-edu-sg-admin.cwp.sg/qql/slot/u750/Information%20&%20Download/MOE%20ITD%20Student%20Guide%20to%20Video%20Conferencing%20with%20Teachers%20Using%20Zoom%20for%20HBL.pdf)
+Students' Guide to Video Conferencing with Teachers Using Zoom for HBL- [DOWNLOAD](/files/MOE%20ITD%20Student%20Guide%20to%20Video%20Conferencing%20with%20Teachers%20Using%20Zoom%20for%20HBL.pdf)
 
 
 
