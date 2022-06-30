@@ -58,14 +58,16 @@ Co-Curricular Activities (CCAs)
 
 *   All parents and visitors must sign in at the General Office. Parents are strongly advised to make appointments with teachers.
 
-2. Leaving School Early
+2.
+Leaving School Early
 
 *   Parents must obtain permission from the Principal , Vice-Principal or teachers if they wish to take their children home because of sickness or other urgent matters
 *   Parents must sign in the 'Pupil Early Departure' book at the counter of the General Office
 *   Pupils who do not feel well must inform their Form Teacher, who will then call their parents
 *   All pupils are to attend school till the last day of each term. Parents are strongly advised not to take their child away for vacation/holiday during term time as this will disrupt the child's learning
 
-3. Absence from School
+3.
+Absence from School
 
 *   A Medical Certificate or a note from parents/guardians must be passed to the form or co-form teacher upon the pupil's return to school
 
