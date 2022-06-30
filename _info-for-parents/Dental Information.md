@@ -8,4 +8,4 @@ description: ""
 Dear Parents / Guardians / Pupils,
 
 <center>The School Dental Service</center>
-<center><u>DENTAL CLINIC</></center>
+<center><u>DENTAL CLINIC</u></center>
