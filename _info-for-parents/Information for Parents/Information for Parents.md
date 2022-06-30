@@ -39,11 +39,11 @@ third_nav_title: Information for Parents
 
 **Group Personal Accident Insurance**
 
-1. [ Product Fact Sheet (Nov 2017) Student GPA](https://bukittimahpri.moe.edu.sg/qql/slot/u768/Information%20for%20parents/Product%20Fact%20Sheet%20(Nov%202017)%20Student%20GPA.pdf)
-2. [MOE Student GPA claim form](https://bukittimahpri.moe.edu.sg/qql/slot/u768/Information%20for%20parents/MOE%20Student%20GPA%20claim%20form.pdf)
+1. [ Product Fact Sheet (Nov 2017) Student GPA](/files/Product%20Fact%20Sheet%20(Nov%202017)%20Student%20GPA.pdf)
+2. [MOE Student GPA claim form](/files/MOE%20Student%20GPA%20claim%20form.pdf)
 
 <br>
 
-* [Building Resilience in Our Children](https://bukittimahpri.moe.edu.sg/qql/slot/u768/Information%20for%20parents/Building%20Resilience%20in%20Our%20Children.pdf)
-* [MOO-O Installation Guide for Windows](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/MOO-O/MOO-O%20Parent's%20Guide%20for%20Windows.pdf)
-* [MOO-O Installation Guide for iPad](https://bukittimahpri.moe.edu.sg/qql/slot/u750/Information%20&%20Download/MOO-O/MOO-O%20Parent's%20Guide%20for%20ipad.pdf)
+* [Building Resilience in Our Children](/files/Building%20Resilience%20in%20Our%20Children.pdf)
+* [MOO-O Installation Guide for Windows](/files/MOO-O%20Parent's%20Guide%20for%20Windows.pdf)
+* [MOO-O Installation Guide for iPad](/files/MOO-O%20Parent's%20Guide%20for%20ipad.pdf)
