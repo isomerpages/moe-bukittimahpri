@@ -52,7 +52,7 @@ Co-Curricular Activities (CCAs)
 
   
 
-School Procedures
+<center>School Procedures</center>
 
 1. Visitors To The School
 
@@ -67,11 +67,11 @@ School Procedures
 
 3. Absence from School
 
-*   A Medical Certificate or a note from parents/guardians must be passed to the form or co-form teacher upon the pupil's return to school\\
+*   A Medical Certificate or a note from parents/guardians must be passed to the form or co-form teacher upon the pupil's return to school
 
   
 
-Finance
+<center>Finance</center>
 
 School fees  
 
