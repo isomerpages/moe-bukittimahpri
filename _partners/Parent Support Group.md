@@ -69,7 +69,7 @@ Keep up with all the event happenings:
 
 **Join Us!**
 
-There are many opportunities for you to get involved and your participation at any level is immensely appreciated. We are waiting to hear from you.  So please drop us a line at btps.psg@gmail.com
+There are many opportunities for you to get involved and your participation at any level is immensely appreciated. We are waiting to hear from you.  So please drop us a line at  [btps.psg@gmail.com](mailto:btps.psg@gmail.com).
 
 # FAQ
 **Q: How much time commitment is involved?**
