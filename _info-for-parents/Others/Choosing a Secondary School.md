@@ -11,4 +11,4 @@ WE STories is a collection of stories from all the secondary schools in the West
 Click on the link below to find out more. 
 
 
-[WE STories Publication 2021](https://bukittimahpri.moe.edu.sg/qql/slot/u750/WE%20STories%20Publication%202021%20FINAL_single.pdf)
+[WE Stories Publication 2022](https://online.fliphtml5.com/obrr/qkde/)
