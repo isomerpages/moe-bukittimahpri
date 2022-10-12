@@ -1,9 +1,9 @@
 ---
 title: Organizational Chart
-permalink: /staff/organisational-chart
+permalink: /staff/organisational-chart/
 description: ""
 ---
-![](/images/principal.png)
+![](/images/album/Staff Photos 2021/MDM TERESA KELLY LEN.jpg)
 ![](/images/vice%20principals.png)
 ![](/images/managers.png)
 ![](/images/HOD.png)
