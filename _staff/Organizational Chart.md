@@ -5,12 +5,7 @@ description: ""
 ---
 ![](https://file.go.gov.sg/67u60i.JPG)
 ![](https://file.go.gov.sg/u4i7eo.JPG)
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | ![](https://file.go.gov.sg/67u60i.JPG)     | Text     |
-
-
+![](https://file.go.gov.sg/rirg95.JPG)
 ![](/images/managers.png)
 ![](/images/HOD.png)
 
