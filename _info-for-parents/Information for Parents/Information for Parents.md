@@ -28,7 +28,6 @@ third_nav_title: Information for Parents
 
 <br>
 
-* [BTPS Assessment Letter 2021](/files/BTPS%20Assessment%20Letter%202021.pdf)
 * [Safe Management Measures ](/files/SMMs.pdf)
 
 
