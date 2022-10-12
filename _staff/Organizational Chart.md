@@ -3,6 +3,14 @@ title: Organizational Chart
 permalink: /staff/organisational-chart/
 description: ""
 ---
+
+
+
+|         ![](/images/| ![](https://file.go.gov.sg/67u60i.JPG)  |               |
+| Text     | Text     | Text     |
+
+
+
 ![](https://file.go.gov.sg/67u60i.JPG)
 ![](https://file.go.gov.sg/u4i7eo.JPG)
 ![](https://file.go.gov.sg/rirg95.JPG)
