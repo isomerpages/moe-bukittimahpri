@@ -4,20 +4,21 @@ permalink: /staff/organisational-chart/
 description: ""
 ---
 <figure>
-<img src="https://file.go.gov.sg/67u60i.JPG"        style="width:40%"> 
-<figcaption align = "center"><b>Mdm Teresa Kelly Len (Principal)</b></figcaption>	
+<img src="https://file.go.gov.sg/67u60i.JPG"        style="width:30%"> 
+	<figcaption ><b>Mdm Teresa Kelly Len (Principal)</b></figcaption>	
  </figure>
- 
-<figure>
- <img src="https://file.go.gov.sg/rirg95.JPG"         style="width:40%" align = "left">
-<b>Mdm Kitha Arumugam (Vice Principal)</b>
-</figure>
-<figure>	
+ <figure>	
   <img src="https://file.go.gov.sg/u4i7eo.JPG"         
- style="width:40%" align = "right">
-	<b>Mr Wong Sung Lai  Edward (Vice-Principal) </b>
+ style="width:30%" >
+	<figcaption ><b>Mr Wong Sung Lai  Edward (Vice-Principal)</b> </figcaption> 
 	</figure>
  
+<figure>
+ <img src="https://file.go.gov.sg/rirg95.JPG"         style="width:30%" >
+	<figcaption><b> Mdm Kitha Arumugam (Vice Principal)</b> </figcaption> 
+</figure>
+
+
  
  
  
