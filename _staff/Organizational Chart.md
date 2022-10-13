@@ -57,7 +57,6 @@ description: ""
  <img src="https://file.go.gov.sg/o4ss6e.JPG"        style="width:20%">
 		<figcaption>  <b>Mr Christopher Khoo (HOD of Science)</b></figcaption> 
 	</figure>
-	
 <figure>
  <img src="https://file.go.gov.sg/jqrmak.JPG"      style="width:20%">
 		<figcaption>  <b>Mrs Nicole Chan (HOD of CCE)</b></figcaption> 
@@ -88,7 +87,7 @@ description: ""
 <figure>	
  <img src="https://file.go.gov.sg/m3qqn7.JPG"     style="width:20%">
 		<figcaption>  <b>Mr Effandi Jasman (Year Head (P5 & P6))</b></figcaption> 
- <img src="https://file.go.gov.sg/tannzm.JPG"     style="width:20%">
+	<img src="https://file.go.gov.sg/tannzm.JPG"     style="width:20%">
 	<figcaption>  <b>Mrs Mellissa Khoo (LH - English)</b></figcaption> 
 </figure>
 	<figure>	
