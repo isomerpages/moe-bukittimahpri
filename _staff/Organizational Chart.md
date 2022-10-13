@@ -72,7 +72,7 @@ description: ""
 		<figcaption>  <b>Mrs Shirlena Chan (HOD of PE & CCA)</b></figcaption> 
 	</figure>
 		<figure>
- <img src="https://file.go.gov.sg/vzl2g2.jpg"     style="width:20%">
+ <img src="https://file.go.gov.sg/f4rmi9.jpg"     style="width:20%">
 <figcaption>  <b>Mr Ho Boon Huat (HOD of Mother Tongue)</b></figcaption> 
 </figure>
 	<figure>	
@@ -89,7 +89,7 @@ description: ""
 		<figcaption>  <b>Mr Effandi Jasman (Year Head (P5 & P6))</b></figcaption> 
 	</figure>
 	<figure>	
- <img src="https://file.go.gov.sg/3blkkp.JPG"     style="width:20%">
+ <img src="https://file.go.gov.sg/tannzm.JPG"     style="width:20%">
 	<figcaption>  <b>Mrs Mellissa Khoo (LH - English)</b></figcaption> 
 </figure>
 	<figure>	
