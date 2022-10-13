@@ -3,13 +3,9 @@ title: Organizational Chart
 permalink: /staff/organisational-chart/
 description: ""
 ---
-
-
-
-| Column 1 | Column 2 | Column 3 |
 | -------- |: --------: | -------- |
-| Text     | ![](https://file.go.gov.sg/67u60i.JPG)    | Text     |
-| Text    |** **Teresa Kelly Len Principa**l**                 |Text
+|    | ![](https://file.go.gov.sg/67u60i.JPG)    |     |
+| |** **Teresa Kelly Len Principa**l**         |     |
 
 
 ![](https://file.go.gov.sg/u4i7eo.JPG)
