@@ -115,3 +115,7 @@ description: ""
  <img src="https://file.go.gov.sg/c642cz.JPG"     style="width:30%">
 		<figcaption>  <b>Mdm Junaida Jasman (Senior Maths Teacher)</b></figcaption> 
 	</figure>
+	<figure>	
+ <img src="https://file.go.gov.sg/gnli3y.JPG"     style="width:30%">
+		<figcaption>  <b>Mdm Rozana Hashim (Senior Teacher)</b></figcaption> 
+	</figure>
