@@ -70,7 +70,7 @@ description: ""
  <img src="https://file.go.gov.sg/wrslbv.JPG"      style="width:20%">
 		<figcaption>  <b>Mrs Shirlena Chan (HOD of PE & CCA)</b></figcaption> 
 	</figure>
-	<figure>
+<figure>
  <img src="https://file.go.gov.sg/f4rmi9.jpg
 					 "   style="width:20%">
 		<figcaption>  <b>Mr Ho Boon Huat (HOD of Mother Tongue)</b></figcaption> 
@@ -79,14 +79,15 @@ description: ""
  <img src="https://file.go.gov.sg/5opaqs.JPG"     style="width:20%">
 		<figcaption>  <b>Mrs Shirley Ong (Year Head (P1 & P2))</b></figcaption> 
 	</figure>
-	
-<figure>	
+	<figure>	
  <img src="https://file.go.gov.sg/a0eb8e.JPG"     style="width:20%">
 		<figcaption>  <b>Mrs Angeline Teo (Year Head (P3 & P4))</b></figcaption> 
 	</figure>
 <figure>	
  <img src="https://file.go.gov.sg/m3qqn7.JPG"     style="width:20%">
 		<figcaption>  <b>Mr Effandi Jasman (Year Head (P5 & P6))</b></figcaption> 
+	</figure>
+	<figure>
 	<img src="https://file.go.gov.sg/tannzm.JPG"     style="width:20%">
 	<figcaption>  <b>Mrs Mellissa Khoo (LH - English)</b></figcaption> 
 </figure>
