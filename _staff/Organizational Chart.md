@@ -6,10 +6,8 @@ description: ""
 | -------- |: --------: | -------- |
 |    | ![](https://file.go.gov.sg/67u60i.JPG)    |     |
 | |** **Teresa Kelly Len Principa**l**         |     |
-
-
-![](https://file.go.gov.sg/u4i7eo.JPG)
-![](https://file.go.gov.sg/rirg95.JPG)
+   
+|![](https://file.go.gov.sg/rirg95.JPG)             |     |
 ![](/images/managers.png)
 ![](/images/HOD.png)
 
