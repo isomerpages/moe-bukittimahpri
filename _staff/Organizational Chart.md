@@ -87,3 +87,15 @@ description: ""
  <img src="https://file.go.gov.sg/m3qqn7.JPG"     style="width:30%">
 		<figcaption>  <b>Mr Effandi Jasman (Year Head (P5 & P6))</b></figcaption> 
 	</figure>
+	<figure>	
+ <img src="https://file.go.gov.sg/3blkkp.JPG"     style="width:30%">
+		<figcaption>  <b>Mrs Mellissa Khoo (LH - English)</b></figcaption> 
+	</figure>
+	<figure>	
+ <img src="https://file.go.gov.sg/wfc005.JPG"     style="width:30%">
+		<figcaption>  <b>Mdm Noor Idayu (SH - Pupils Affairs)</b></figcaption> 
+	</figure>
+	<figure>	
+ <img src="https://file.go.gov.sg/y5pi51.JPG"     style="width:30%">
+		<figcaption>  <b>Mdm Sangitah (SH - VIA / Student Leadership)</b></figcaption> 
+	</figure>
