@@ -103,3 +103,7 @@ description: ""
  <img src="https://file.go.gov.sg/7djuun.JPG"     style="width:30%">
 		<figcaption>  <b>Mdm Durgadevi (SH - NE / SS)</b></figcaption> 
 	</figure>
+		<figure>	
+ <img src="https://file.go.gov.sg/yqd8dk.JPG"     style="width:30%">
+		<figcaption>  <b>Mrs Lynette Lim (SH - Aesthetics)</b></figcaption> 
+	</figure>
