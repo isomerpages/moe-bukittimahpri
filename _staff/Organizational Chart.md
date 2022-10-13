@@ -99,3 +99,7 @@ description: ""
  <img src="https://file.go.gov.sg/y5pi51.JPG"     style="width:30%">
 		<figcaption>  <b>Mdm Sangitah (SH - VIA / Student Leadership)</b></figcaption> 
 	</figure>
+	<figure>	
+ <img src="https://file.go.gov.sg/7djuun.JPG"     style="width:30%">
+		<figcaption>  <b>Mdm Durgadevi (SH - NE / SS)</b></figcaption> 
+	</figure>
