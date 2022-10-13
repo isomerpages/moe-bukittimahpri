@@ -71,11 +71,12 @@ description: ""
  <img src="https://file.go.gov.sg/wrslbv.JPG"      style="width:20%">
 		<figcaption>  <b>Mrs Shirlena Chan (HOD of PE & CCA)</b></figcaption> 
 	</figure>
-		<figure>
- <img src="https://file.go.gov.sg/f4rmi9.jpg"     style="width:20%">
-<figcaption>  <b>Mr Ho Boon Huat (HOD of Mother Tongue)</b></figcaption> 
-</figure>
-	<figure>	
+	<figure>
+ <img src="https://file.go.gov.sg/f4rmi9.jpg
+					 "   style="width:20%">
+		<figcaption>  <b>Mr Ho Boon Huat (HOD of Mother Tongue)</b></figcaption> 
+	</figure>
+		<figure>	
  <img src="https://file.go.gov.sg/5opaqs.JPG"     style="width:20%">
 		<figcaption>  <b>Mrs Shirley Ong (Year Head (P1 & P2))</b></figcaption> 
 	</figure>
