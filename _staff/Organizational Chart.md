@@ -107,3 +107,7 @@ description: ""
  <img src="https://file.go.gov.sg/yqd8dk.JPG"     style="width:30%">
 		<figcaption>  <b>Mrs Lynette Lim (SH - Aesthetics)</b></figcaption> 
 	</figure>
+		<figure>	
+ <img src="https://file.go.gov.sg/wimzbh.JPG"     style="width:30%">
+		<figcaption>  <b>Mdm Xu Aili (Senior Chinese Teacher)</b></figcaption> 
+	</figure>
