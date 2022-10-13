@@ -3,7 +3,8 @@ title: Organizational Chart
 permalink: /staff/organisational-chart/
 description: ""
 ---
-| ![](https://file.go.gov.sg/67u60i.JPG)            :**Mdm Teresa Kelly Len Principa**l:
+|![](https://file.go.gov.sg/67u60i.JPG)   |
+|:-:**Mdm Teresa Kelly Len Principa**|
 
 
 
