@@ -111,3 +111,7 @@ description: ""
  <img src="https://file.go.gov.sg/wimzbh.JPG"     style="width:30%">
 		<figcaption>  <b>Mdm Xu Aili (Senior Chinese Teacher)</b></figcaption> 
 	</figure>
+	<figure>	
+ <img src="https://file.go.gov.sg/c642cz.JPG"     style="width:30%">
+		<figcaption>  <b>Mdm Junaida Jasman (Senior Maths Teacher)</b></figcaption> 
+	</figure>
