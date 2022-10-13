@@ -75,23 +75,24 @@ description: ""
 					 "   style="width:20%">
 		<figcaption>  <b>Mr Ho Boon Huat (HOD of Mother Tongue)</b></figcaption> 
 	</figure>
-	<figure>	
+<figure>
  <img src="https://file.go.gov.sg/5opaqs.JPG"     style="width:20%">
 		<figcaption>  <b>Mrs Shirley Ong (Year Head (P1 & P2))</b></figcaption> 
-	</figure>
-	<figure>	
+</figure>
+<figure>
  <img src="https://file.go.gov.sg/a0eb8e.JPG"     style="width:20%">
 		<figcaption>  <b>Mrs Angeline Teo (Year Head (P3 & P4))</b></figcaption> 
-	</figure>
+</figure>
 <figure>	
  <img src="https://file.go.gov.sg/m3qqn7.JPG"     style="width:20%">
 		<figcaption>  <b>Mr Effandi Jasman (Year Head (P5 & P6))</b></figcaption> 
 	</figure>
-	<figure>
+<figure>
+
 	<img src="https://file.go.gov.sg/tannzm.JPG"     style="width:20%">
 	<figcaption>  <b>Mrs Mellissa Khoo (LH - English)</b></figcaption> 
 </figure>
-	<figure>	
+<figure>
  <img src="https://file.go.gov.sg/wfc005.JPG"     style="width:20%">
 		<figcaption>  <b>Mdm Noor Idayu (SH - Pupils Affairs)</b></figcaption> 
 	</figure>
