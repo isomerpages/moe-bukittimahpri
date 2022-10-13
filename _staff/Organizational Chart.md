@@ -3,12 +3,11 @@ title: Organizational Chart
 permalink: /staff/organisational-chart/
 description: ""
 ---
-|    | ![](https://file.go.gov.sg/67u60i.JPG)  |               |
-| Text     | **..Mdm Teresa Kelly Len Principal..*     | Text     |
+|    | ![](https://file.go.gov.sg/67u60i.JPG)            *************** **************Mdm Teresa Kelly Len Principal*
 
 
 
-![](https://file.go.gov.sg/67u60i.JPG)
+
 ![](https://file.go.gov.sg/u4i7eo.JPG)
 ![](https://file.go.gov.sg/rirg95.JPG)
 ![](/images/managers.png)
