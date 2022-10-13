@@ -75,11 +75,13 @@ description: ""
  <img src="https://file.go.gov.sg/vzl2g2.jpg"     style="width:30%">
 		<figcaption>  <b>Mr Ho Boon Huat (HOD of Mother Tongue)</b></figcaption> 
 	</figure>
+	
 <figure>	
  <img src="https://file.go.gov.sg/5opaqs.JPG"     style="width:30%">
 		<figcaption>  <b>Mrs Shirley Ong (Year Head (P1 & P2))</b></figcaption> 
 	</figure>
-	<figure>	
+	
+<figure>	
  <img src="https://file.go.gov.sg/a0eb8e.JPG"     style="width:30%">
 		<figcaption>  <b>Mrs Angeline Teo (Year Head (P3 & P4))</b></figcaption> 
 	</figure>
