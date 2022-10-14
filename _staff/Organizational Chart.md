@@ -9,11 +9,10 @@ description: ""
  </figure><br>
  <figure>	
   <img align="right" style="width:20%" src="https://file.go.gov.sg/u4i7eo.JPG">
-	<figcaption><br> <b>Mr Wong Sung Lai&nbsp; Edward<br>(Vice-Principal)</b>
+	<figcaption><br><b>Mr Wong Sung Lai&nbsp; Edward<br>(Vice-Principal)</b>
 	</figcaption> 
 	</figure><br>
 <figure >
-	
  <img style="width:20%" align="left" src="https://file.go.gov.sg/rirg95.JPG">
  <figcaption><br>
 	 <b>Mdm Kitha Arumugam<br> (Vice Principal)</b>
