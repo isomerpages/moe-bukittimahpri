@@ -6,8 +6,8 @@ description: ""
 <figure>
 <img style="width:20%" src="https://file.go.gov.sg/67u60i.JPG"> 
 	<figcaption><b>Mdm Teresa Kelly Len<br> (Principal)</b></figcaption>	
- </figure>
- <figure>	<br>
+ </figure><br>
+ <figure>	
   <img align="right" style="width:20%" src="https://file.go.gov.sg/u4i7eo.JPG">
 	<figcaption> <br>Mr Wong Sung Lai&nbsp; Edward<br>(Vice-Principal)</figcaption> 
 	</figure><br>
