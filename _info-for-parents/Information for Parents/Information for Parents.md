@@ -26,7 +26,7 @@ third_nav_title: Information for Parents
 * [Year Heads slides P1 Orientation_Parents_2022.pdf](/files/Year%20Heads%20slides%20P1%20Orientation_Parents_2022.pdf)
 * [P1 Administrative matters 2022.pdf](/files/P1%20Administrative%20matters%202022.pdf)
 * [P3 & P4 Briefing Slides]
-
+(/files/Briefiing Doucments/BTPS%20P3%20and %20P4 HMTL_Briefing%20 Slides%20for%20P2 %20arents.pdf)
 <br>
 
 * [Safe Management Measures ](/files/SMMs.pdf)
