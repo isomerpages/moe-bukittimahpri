@@ -69,34 +69,25 @@ style="width:60%"></th>
 <br>
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
-.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
-</style>
 <table class="tg">
-<thead>
-	
-  <tr>
-    <th class="tg-tlx9"><img src="/images/Mdm%20Suzanna%20Mohd%20Isnin.jpeg" style="width:70%"></th>
-    <th class="tg-tlx9"><img src="/images/Ms%20Goh%20Xue%20Yi.jpeg"
-style="width:65%"></th>
-    <th class="tg-tlx9"><img src="/images/Mr%20Ho%20Boon%20Huat.jpeg" style="width:80%"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">  </span>Mdm Susan Mohd Isnin<br>School Staff Developer<br></td>
-    <td class="tg-apyk">Ms Goh Xue Yi<br>HOD of Pupil Management</td>
-    <td class="tg-apyk">Mr Ho Boon Huat<br>HOD Mother Tongue</td>
-  </tr>
-</tbody>
+  <thead>
+    <tr>
+      <th class="tg-tlx9"><img src="/images/Mdm%20Suzanna%20Mohd%20Isnin.jpeg" style="width:70%" alt="Mdm%20Suzanna%20Mohd%20Isnin"></th>
+      <th class="tg-tlx9"><img src="/images/Ms%20Goh%20Xue%20Yi.jpeg" style="width:65%" alt="Ms%20Goh%20Xue%20Yi"></th>
+      <th class="tg-tlx9"><img src="/images/Mr%20Ho%20Boon%20Huat.jpeg" style="width:80%" alt="Mr%20Ho%20Boon%20Huat"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-apyk">Mdm Susan Mohd Isnin<br>
+      School Staff Developer<br></td>
+      <td class="tg-apyk">Ms Goh Xue Yi<br>
+      HOD of Pupil Management</td>
+      <td class="tg-apyk">Mr Ho Boon Huat<br>
+      HOD Mother Tongue</td>
+    </tr>
+  </tbody>
 </table>
-
 
 <br>
 
