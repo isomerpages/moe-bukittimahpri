@@ -165,17 +165,17 @@ style="width:65%"></th>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c3ow"><img src="/images/Ms%20Indira%20do%20R%20Pillai.jpeg" style="width:80%"></th>
-    <th class="tg-c3ow"><img src="/images/Mrs%20Karin%20Gan-Yeo.jpeg" style="width:70%"></th>
-    <th class="tg-c3ow"><img src="/images/Mr%20Christopher%20Khoo.jpeg" style="width:70%">
+    <th class="tg-c3ow"><img src="/images/Mrs%20Mellissa%20Khoo.jpeg" style="width:80%"></th>
+    <th class="tg-c3ow"><img src="/images/Mdm%20Noor%20Idayu%20Bte%20Sunator.jpeg" style="width:70%"></th>
+		<th class="tg-c3ow"><img src="/images/Ms%20Sangitah.jpeg" style="width:70%"></th>
 <span style="color:#222;background-color:#EAEAEA"></span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-		<td class="tg-c3ow"><b>Ms Indira d/o Raghavan Pillai</b><br><b>HOD of English</b><br></td>
-		<td class="tg-c3ow"><b>Mrs Karin Gan</b><br><b>HOD of Mathematics</b></td>
-		<td class="tg-c3ow"><b>Mr Christopher Khoo</b><br><b>HOD of Science</b></td>
+		<td class="tg-c3ow"><b>Ms Mellissa Khoo</b><br><b>LH - English</b><br></td>
+		<td class="tg-c3ow"><b>Mdm Noor Idayu</b><br><b>SH - Pupils Affair</b></td>
+		<td class="tg-c3ow"><b>Mdm Sangitah</b><br><b>SH - VIA / Student Leadership</b></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><img src="/images/mrs%20chan-yap%20xue%20li.jpeg" style="width:85%">
@@ -195,9 +195,18 @@ style="width:65%"></th>
   </tr>
   <tr>
 		<td class="tg-c3ow"><b>Mrs Shirley Ong</b><br><b>Year Head (P1 &amp; P2)</b></td>
-		<td class="tg-c3ow"><b></b></td>
+		<td class="tg-c3ow"><b></b><br><b></b></td>
 		<td class="tg-c3ow"><b>Mr Effandi Jasman</b><br><b>Year Head (P5 &amp; P6)</b></td>
   </tr>
 </tbody>
 </table>
 
+<img src="/images/Mrs%20Mellissa%20Khoo.jpeg" style="width:70%">
+
+<img src="/images/Mdm%20Noor%20Idayu%20Bte%20Sunator.jpeg" style="width:70%">
+
+<img src="/images/Ms%20Sangitah.jpeg" style="width:70%">
+
+![](/images/Mdm%20Noor%20Idayu%20Bte%20Sunator.jpeg)
+
+![](/images/Ms%20Sangitah.jpeg)
