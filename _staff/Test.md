@@ -102,9 +102,15 @@ style="width:65%"></th>
 </tbody>
 </table>
 
+<img src="/images/mrs%20chan-yap%20xue%20li.jpeg" style="width:70%">
+
+<img src="/images/MDM%20CHONG%20PEI%20LI.jpeg" style="width:70%">
+
+<img src="/images/MRS%20CHAN-YAP%20SIEW%20CHENG%20SHIRLENA.jpeg" style="width:70%">
 
 
 
+<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -117,7 +123,7 @@ style="width:65%"></th>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c3ow"><img src="/images/Ms%20Indira%20do%20R%20Pillai.jpeg" style="width:70%"></th>
+    <th class="tg-c3ow"><img src="/images/Ms%20Indira%20do%20R%20Pillai.jpeg" style="width:80%"></th>
     <th class="tg-c3ow"><img src="/images/Mrs%20Karin%20Gan-Yeo.jpeg" style="width:70%"></th>
     <th class="tg-c3ow"><img src="/images/Mr%20Christopher%20Khoo.jpeg" style="width:70%">
 <span style="color:#222;background-color:#EAEAEA"></span></th>
@@ -130,9 +136,10 @@ style="width:65%"></th>
 		<td class="tg-c3ow"><b>Mr Christopher Khoo</b><br><b>HOD of Science</b></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><br><img width="199" alt="mrs chan-yap xue li.JPG" src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/2022/mrs%20chan-yap%20xue%20li.JPG"></td>
-    <td class="tg-c3ow"><br><img height="260" width="199" alt="MDM CHONG PEI LI.JPG" src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/2022/MDM%20CHONG%20PEI%20LI.JPG"></td>
-    <td class="tg-c3ow"><br><img width="195" alt="MRS CHAN-YAP SIEW CHENG SHIRLENA.JPG" src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/2022/MRS%20CHAN-YAP%20SIEW%20CHENG%20SHIRLENA.JPG"><span style="color:#222;background-color:#EAEAEA"></span></td>
+    <td class="tg-c3ow"><img src="/images/mrs%20chan-yap%20xue%20li.jpeg" style="width:85%">
+</td>
+    <td class="tg-c3ow"><img src="/images/MDM%20CHONG%20PEI%20LI.jpeg" style="width:75%"></td>
+    <td class="tg-c3ow"><img src="/images/MRS%20CHAN-YAP%20SIEW%20CHENG%20SHIRLENA.jpeg" style="width:80%"><span style="color:#222;background-color:#EAEAEA"></span></td>
   </tr>
   <tr>
     <td class="tg-c3ow">Mrs Nicole ChanHOD of CCE</td>
