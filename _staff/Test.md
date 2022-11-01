@@ -102,6 +102,8 @@ style="width:65%"></th>
 
 
 
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -113,9 +115,10 @@ style="width:65%"></th>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c3ow"><img width="216" alt="Ms Indira do R Pillai.JPG" src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/Staff%202020/Ms%20Indira%20do%20R%20Pillai.JPG"></th>
-    <th class="tg-c3ow"><img width="206" alt="Mrs Karin Gan-Yeo.JPG" src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/Staff%202020/Mrs%20Karin%20Gan-Yeo.JPG"></th>
-    <th class="tg-c3ow"><img height="316" width="205" alt="Mr Christopher Khoo.JPG" src="https://bukittimahpri.moe.edu.sg/qql/slot/u768/Staff%20Photos/Website%20Staff%20Photo/Mr%20Christopher%20Khoo[1].JPG"><span style="color:#222;background-color:#EAEAEA"></span></th>
+    <th class="tg-c3ow"><img src="/images/Ms%20Indira%20do%20R%20Pillai.jpeg" style="width:70%"></th>
+    <th class="tg-c3ow"><img src="/images/Mrs%20Karin%20Gan-Yeo.jpeg" style="width:70%"></th>
+    <th class="tg-c3ow"><img src="/images/Mr%20Christopher%20Khoo.jpeg" style="width:70%">
+<span style="color:#222;background-color:#EAEAEA"></span></th>
   </tr>
 </thead>
 <tbody>
