@@ -167,7 +167,7 @@ style="width:65%"></th>
   <tr>
     <th class="tg-c3ow"><img src="/images/Mrs%20Mellissa%20Khoo.jpeg" style="width:80%"></th>
     <th class="tg-c3ow"><img src="/images/Mdm%20Noor%20Idayu%20Bte%20Sunator.jpeg" style="width:85%"></th>
-		<th class="tg-c3ow"><img src="/images/Ms%20Sangitah.jpeg" style="width:70%"></th>
+		<th class="tg-c3ow"><img src="/images/Ms%20Sangitah.jpeg" style="width:80%"></th>
 <span style="color:#222;background-color:#EAEAEA"></span></th>
   </tr>
 </thead>
@@ -178,10 +178,10 @@ style="width:65%"></th>
 		<td class="tg-c3ow"><b>Mdm Sangitah</b><br><b>SH - VIA / Student Leadership</b></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><img src="/images/MDM%20DURGADEVI%20DO%20TAMIL%20SELVAM.jpeg" style="width:80%">
+    <td class="tg-c3ow"><img src="/images/MDM%20DURGADEVI%20DO%20TAMIL%20SELVAM.jpeg" style="width:83%">
 </td>
-    <td class="tg-c3ow"><img src="/images/MRS%20LYNETTE%20LIM.jpeg" style="width:90%"></td>
-    <td class="tg-c3ow"><img src="/images/MDM%20XU%20AILI.jpeg" style="width:70%"><span style="color:#222;background-color:#EAEAEA"></span></td>
+    <td class="tg-c3ow"><img src="/images/MRS%20LYNETTE%20LIM.jpeg" style="width:80%"></td>
+    <td class="tg-c3ow"><img src="/images/MDM%20XU%20AILI.jpeg" style="width:80%"><span style="color:#222;background-color:#EAEAEA"></span></td>
   </tr>
   <tr>
 		<td class="tg-c3ow"><b>Mdm Durgadevi</b><br><b>SH - NE / SS</b></td>
@@ -189,18 +189,14 @@ style="width:65%"></th>
 		<td class="tg-c3ow"><b>Mdm Xu Aili</b><br><b>Senior Chinese Teacher </b></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><img src="/images/MDM%20JUNAIDA%20BTE%20JASMAN.jpeg" style="width:70%"></td>
+    <td class="tg-c3ow"><img src="/images/MDM%20JUNAIDA%20BTE%20JASMAN.jpeg" style="width:90%"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"><img src="/images/Mdm%20Rozana%20Hashim.jpeg" style="width:70%"></td>
+    <td class="tg-c3ow"><img src="/images/Mdm%20Rozana%20Hashim.jpeg" style="width:80%"></td>
   </tr>
   <tr>
-		<td class="tg-c3ow"><b>Mrs Shirley Ong</b><br><b>Year Head (P1 &amp; P2)</b></td>
+		<td class="tg-c3ow"><b>Mdm Junaida Jasman</b><br><b>Senior Maths Teacher</b></td>
 		<td class="tg-c3ow"><b></b><br><b></b></td>
-		<td class="tg-c3ow"><b>Mr Effandi Jasman</b><br><b>Year Head (P5 &amp; P6)</b></td>
+		<td class="tg-c3ow"><b>Mdm Rozana Hashim</b><br><b>Senior Teacher</b></td>
   </tr>
 </tbody>
 </table>
-
-
-
-
