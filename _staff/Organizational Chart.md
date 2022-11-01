@@ -3,119 +3,165 @@ title: Organizational Chart
 permalink: /staff/organisational-chart/
 description: ""
 ---
-<figure>
-<img style="width:20%" src="https://file.go.gov.sg/67u60i.JPG"> 
-	<figcaption><b>Mdm Teresa Kelly Len<br> (Principal)</b></figcaption>	
- </figure><br>
- <figure>	
-  <img align="right" style="width:20%" src="https://file.go.gov.sg/u4i7eo.JPG">
-	<figcaption><br><b>Mr Wong Sung Lai&nbsp; Edward<br>(Vice-Principal)</b>
-	</figcaption> 
-	</figure><br>
-<figure >
- <img style="width:20%" align="left" src="https://file.go.gov.sg/rirg95.JPG">
- <figcaption><br>
-	 <b>Mdm Kitha Arumugam<br> (Vice Principal)</b>
-</figure><br>
+## ORGANIZATIONAL CHART
+
+
 
 <figure>
- <img align="right" style="width:20%" src="https://file.go.gov.sg/0l46sj.JPG">
-	<figcaption><br> <b>Mr Abdul Halik Bin Abdul Hamid <br>(Admin Manager)</b> </figcaption> 
-</figure><br><br>
+<img src="/images/Mdm%20Teresa%20Kelly%20Len.jpeg" style="width:25%"> 
+	<figcaption><b>Mdm Teresa Kelly Len</b><br><b>Principal</b>
 
- <figure>
- <img align="left" style="width:20%" src="https://file.go.gov.sg/d96d0g.JPG">
-	<figcaption><br> <b>Mdm Nurhayati Bte Rahmat<br> (Admin Manager)</b></figcaption> 
-</figure><br><br>
-
-<figure>
- <img align="right" style="width:20%" src="https://file.go.gov.sg/eekr1m.JPG">
-	<figcaption><br> <b>Mr Samales Kuppusamy <br>(Operations Manager)</b></figcaption> 
-</figure><br><br>
-
-<figure>
- <img align="left" style="width:20%" src="https://file.go.gov.sg/lfjjtp.JPG">
-	<figcaption><br><b>Mdm Suzanna Mohd Isnin<br> (School Staff Developer)</b></figcaption> 
-</figure><br><br>
-
-<figure>
- <img align="right" style="width:20%" src="https://file.go.gov.sg/16z896.JPG">
-	<figcaption><br> <b>Ms Goh Xue Yi<br> (HOD of Pupil Management)</b></figcaption> 
-</figure> <br><br>
-
-<figure>
- <img align="left" style="width:20%" src="https://file.go.gov.sg/3rqupn.JPG">
-	<figcaption><br> <b>Ms Indira d/o Raghavan Pillai<br>(HOD of English)</b></figcaption> 
-</figure>
 <br>
-<figure>
- <img align="right" style="width:20%" src="https://file.go.gov.sg/mf3lkq.JPG">
-	<figcaption><br> <b>Mrs Karin Gan<br>(HOD of Mathematics)</b></figcaption> 
-</figure><br>
 
-<figure>
- <img style="width:20%" align="left" src="https://file.go.gov.sg/o4ss6e.JPG">
-		<figcaption><br>  <b>Mr Christopher Khoo <br>(HOD of Science)</b></figcaption> 
-	</figure><br>
-<figure>
- <img style="width:20%" align="right" src="https://file.go.gov.sg/jqrmak.JPG">
-		<figcaption><br> <b>Mrs Nicole Chan<br> (HOD of CCE)</b></figcaption> 
-	</figure><br>
-	
-<figure>
- <img style="width:20%" align="left" src="https://file.go.gov.sg/zf0dtm.JPG">
-		<figcaption> <br> <b>Mdm Chong Peili <br>(HOD of ICT)</b></figcaption> <br>
-	</figure>
-<figure>
- <img style="width:20%" align="right" src="https://file.go.gov.sg/wrslbv.JPG">
-		<figcaption> <br> <b>Mrs Shirlena Chan <br>(HOD of PE &amp; CCA)</b></figcaption> 
-	</figure><br>
-<figure>
- <img style="width:20%" align="left" src="https://file.go.gov.sg/f4rmi9.jpg">
-		<figcaption> <br> <b>Mr Ho Boon Huat <br>(HOD of Mother Tongue)</b></figcaption> 
-	</figure><br>
-<figure>
- <img style="width:20%" align="right" src="https://file.go.gov.sg/5opaqs.JPG">
-		<figcaption><br>  <b>Mrs Shirley Ong<br> (Year Head (P1 &amp; P2))</b></figcaption> 
-</figure><br>
-<figure>
- <img style="width:20%" align="left" src="https://file.go.gov.sg/a0eb8e.JPG">
-		<figcaption> <br> <b>Mrs Angeline Teo<br> (Year Head (P3 &amp; P4))</b></figcaption> 
-</figure><br>
-<figure>	
- <img style="width:20%" align="right" src="https://file.go.gov.sg/m3qqn7.JPG">
-		<figcaption> <br> <b>Mr Effandi Jasman<br>(Year Head (P5 &amp; P6))</b></figcaption> 
-	</figure><br>
-<figure>
-	<img style="width:20%" align="left" src="https://file.go.gov.sg/tannzm.JPG">
-	<figcaption> <br> <b>Mrs Mellissa Khoo <br>(LH - English)</b></figcaption> 
-</figure><br>
-<figure>
- <img style="width:20%" align ="right" src="https://file.go.gov.sg/wfc005.JPG">
-		<figcaption> <br><b>Mdm Noor Idayu<br>(SH - Pupils Affairs)</b></figcaption> 
-	</figure><br>
-	<figure>	
- <img style="width:20%"  align="left"
-			src="https://file.go.gov.sg/y5pi51.JPG">
-		<figcaption><br> <b>Mdm Sangitah<br> (SH - VIA / Student Leadership)</b></figcaption> 
-	</figure><br>
-	<figure>	
- <img style="width:20%"  align="right" src="https://file.go.gov.sg/7djuun.JPG">
-		<figcaption><br>  <b>Mdm Durgadevi <br>(SH - NE / SS)</b></figcaption> 
-	</figure><br>
-		<figure>	
- <img style="width:20%" align="left" src="https://file.go.gov.sg/yqd8dk.JPG">
-		<figcaption><br><b>Mrs Lynette Lim <br>(SH - Aesthetics)</b></figcaption> 
-	</figure><br>
-		<figure>	
- <img style="width:20%"  align="right" src="https://file.go.gov.sg/wimzbh.JPG">
-		<figcaption><br>  <b>Mdm Xu Aili<br>(Senior Chinese Teacher)</b></figcaption> 
-	</figure><br>
-	<figure>	
- <img style="width:20%" align="left" src="https://file.go.gov.sg/c642cz.JPG">
-		<figcaption><br> <b>Mdm Junaida Jasman<br>(Senior Maths Teacher)</b></figcaption> 
-	</figure><br>
-	<figure>	
- <img style="width:20%" align="right" src="https://file.go.gov.sg/90ks4c.JPG">
-		<figcaption>  <b>Mdm Rozana Hashim <br> (Senior Teacher)</b></figcaption> 
-	</figure><br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-zkss{background-color:#FFF;border-color:inherit;color:#333;text-align:center;vertical-align:top}
+.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-zkss"><img src="/images/Mdm%20Kitha%20Arumugam.jpeg" style="width:47%"> 
+    </th><th class="tg-tlx9"><img src="/images/Mr%20Edward%20Wong.jpeg" style="width:50%"> </th>
+	</tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mdm </span>Kitha Arumugam<br>Vice - Principal<br></td>
+    <td class="tg-apyk">Mr Wong Sung Lai  Edward<br>  Vice-Principal</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+<tr>
+    <th class="tg-tlx9"><img src="/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg" style="width:70%"></th>
+    <th class="tg-tlx9"><img src="/images/Mr%20K%20M%20Samales.jpeg"
+style="width:60%"></th>
+    <th class="tg-tlx9"><img src="/images/Mr%20Philip%20Lee.jpeg" style="width:70%"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mr  </span>Abdul Halik Bin Abdul Hamid<br>Admin Manager<br></td>
+    <td class="tg-apyk">Mr Samales Kuppusamy<br> Operations Manager</td>
+    <td class="tg-apyk">Mr Phillip Lee<br>ICT Manager</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow"><img src="/images/Ms%20Indira%20do%20R%20Pillai.jpeg" style="width:80%"></th>
+    <th class="tg-c3ow"><img src="/images/Mrs%20Karin%20Gan-Yeo.jpeg" style="width:70%"></th>
+    <th class="tg-c3ow"><img src="/images/Mr%20Christopher%20Khoo.jpeg" style="width:70%">
+<span style="color:#222;background-color:#EAEAEA"></span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+		<td class="tg-c3ow"><b>Ms Indira d/o Raghavan Pillai</b><br><b>HOD of English</b><br></td>
+		<td class="tg-c3ow"><b>Mrs Karin Gan</b><br><b>HOD of Mathematics</b></td>
+		<td class="tg-c3ow"><b>Mr Christopher Khoo</b><br><b>HOD of Science</b></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><img src="/images/mrs%20chan-yap%20xue%20li.jpeg" style="width:85%">
+</td>
+    <td class="tg-c3ow"><img src="/images/MDM%20CHONG%20PEI%20LI.jpeg" style="width:75%"></td>
+    <td class="tg-c3ow"><img src="/images/MRS%20CHAN-YAP%20SIEW%20CHENG%20SHIRLENA.jpeg" style="width:80%"><span style="color:#222;background-color:#EAEAEA"></span></td>
+  </tr>
+  <tr>
+		<td class="tg-c3ow"><b>Mrs Nicole Chan</b><br><b>HOD of CCE</b></td>
+		<td class="tg-c3ow"><b>Mdm Chong Peili</b><br><b>HOD of ICT</b></td>
+		<td class="tg-c3ow"><b>Mrs Shirlena Chan</b><br><b>HOD of PE &amp; CCA </b></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><img src="/images/Mrs%20Shirley%20Ong.jpeg" style="width:80%"></td>
+    <td class="tg-c3ow"><img src="/images/Mrs%20Angeline%20Teo.jpeg" style="width:70%"></td>
+    <td class="tg-c3ow"><img src="/images/Mr%20Effandi%20Bin%20Jasman.jpeg" style="width:70%"></td>
+  </tr>
+  <tr>
+		<td class="tg-c3ow"><b>Mrs Shirley Ong</b><br><b>Year Head (P1 &amp; P2)</b></td>
+		<td class="tg-c3ow"><b>Ms Angeline LowYear Head</b><br><b>(P3 &amp; P4)</b></td>
+		<td class="tg-c3ow"><b>Mr Effandi Jasman</b><br><b>Year Head (P5 &amp; P6)</b></td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow"><img src="/images/Mrs%20Mellissa%20Khoo.jpeg" style="width:80%"></th>
+    <th class="tg-c3ow"><img src="/images/Mdm%20Noor%20Idayu%20Bte%20Sunator.jpeg" style="width:85%"></th>
+		<th class="tg-c3ow"><img src="/images/Ms%20Sangitah.jpeg" style="width:80%"></th>
+<span style="color:#222;background-color:#EAEAEA"></span>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+		<td class="tg-c3ow"><b>Ms Mellissa Khoo</b><br><b>LH - English</b><br></td>
+		<td class="tg-c3ow"><b>Mdm Noor Idayu</b><br><b>SH - Pupils Affair</b></td>
+		<td class="tg-c3ow"><b>Mdm Sangitah</b><br><b>SH - VIA / Student Leadership</b></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><img src="/images/MDM%20DURGADEVI%20DO%20TAMIL%20SELVAM.jpeg" style="width:83%">
+</td>
+    <td class="tg-c3ow"><img src="/images/MRS%20LYNETTE%20LIM.jpeg" style="width:80%"></td>
+    <td class="tg-c3ow"><img src="/images/MDM%20XU%20AILI.jpeg" style="width:80%"><span style="color:#222;background-color:#EAEAEA"></span></td>
+  </tr>
+  <tr>
+		<td class="tg-c3ow"><b>Mdm Durgadevi</b><br><b>SH - NE / SS</b></td>
+		<td class="tg-c3ow"><b>Mrs Lynette Lim</b><br><b>SH - Aesthetics</b></td>
+		<td class="tg-c3ow"><b>Mdm Xu Aili</b><br><b>Senior Chinese Teacher </b></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><img src="/images/MDM%20JUNAIDA%20BTE%20JASMAN.jpeg" style="width:90%"></td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-c3ow"><img src="/images/Mdm%20Rozana%20Hashim.jpeg" style="width:80%"></td>
+  </tr>
+  <tr>
+		<td class="tg-c3ow"><b>Mdm Junaida Jasman</b><br><b>Senior Maths Teacher</b></td>
+		<td class="tg-c3ow"><b></b><br><b></b></td>
+		<td class="tg-c3ow"><b>Mdm Rozana Hashim</b><br><b>Senior Teacher</b></td>
+  </tr>
+</tbody>
+</table>
