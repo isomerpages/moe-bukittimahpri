@@ -88,7 +88,7 @@ style="width:60%"></th>
     <th class="tg-tlx9"><img src="/images/Mdm%20Suzanna%20Mohd%20Isnin.jpeg" style="width:70%"></th>
     <th class="tg-tlx9"><img src="/images/Ms%20Goh%20Xue%20Yi.jpeg"
 style="width:65%"></th>
-    <th class="tg-tlx9"><img src="/images/Mr%20Ho%20Boon%20Huat.jpeg" style="width:70%"></th>
+    <th class="tg-tlx9"><img src="/images/Mr%20Ho%20Boon%20Huat.jpeg" style="width:80%"></th>
   </tr>
 </thead>
 <tbody>
@@ -99,15 +99,6 @@ style="width:65%"></th>
   </tr>
 </tbody>
 </table>
-
-![](/images/Mdm%20Suzanna%20Mohd%20Isnin.jpeg)
-
-![](/images/Ms%20Goh%20Xue%20Yi.jpeg)
-
-![](/images/Mr%20Ho%20Boon%20Huat.jpeg)
-
-
-
 
 
 <style type="text/css">
