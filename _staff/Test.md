@@ -189,9 +189,9 @@ style="width:65%"></th>
 		<td class="tg-c3ow"><b>Mdm Xu Aili</b><br><b>Senior Chinese Teacher </b></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><img src="/images/Mrs%20Shirley%20Ong.jpeg" style="width:80%"></td>
+    <td class="tg-c3ow"><img src="/images/MDM%20JUNAIDA%20BTE%20JASMAN.jpeg" style="width:70%"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"><img src="/images/Mr%20Effandi%20Bin%20Jasman.jpeg" style="width:70%"></td>
+    <td class="tg-c3ow"><img src="/images/Mdm%20Rozana%20Hashim.jpeg" style="width:70%"></td>
   </tr>
   <tr>
 		<td class="tg-c3ow"><b>Mrs Shirley Ong</b><br><b>Year Head (P1 &amp; P2)</b></td>
@@ -201,15 +201,6 @@ style="width:65%"></th>
 </tbody>
 </table>
 
-<img src="/images/MDM%20DURGADEVI%20DO%20TAMIL%20SELVAM.jpeg" style="width:70%">
 
-<img src="/images/MRS%20LYNETTE%20LIM.jpeg" style="width:70%">
 
-<img src="/images/MDM%20XU%20AILI.jpeg" style="width:70%">
-
-![](/images/MDM%20DURGADEVI%20DO%20TAMIL%20SELVAM.jpeg)
-
-![](/images/MRS%20LYNETTE%20LIM.jpeg)
-
-![](/images/MDM%20XU%20AILI.jpeg)
 
