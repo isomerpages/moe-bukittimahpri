@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Test.md
       - Organizational Chart.md
       - Staff List.md
       - Staff in Action.md
