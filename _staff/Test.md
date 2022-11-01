@@ -49,8 +49,7 @@ description: ""
 </style>
 <table class="tg">
 <thead>
-	
-  <tr>
+<tr>
     <th class="tg-tlx9"><img src="/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg" style="width:70%"></th>
     <th class="tg-tlx9"><img src="/images/Mr%20K%20M%20Samales.jpeg"
 style="width:60%"></th>
@@ -69,25 +68,7 @@ style="width:60%"></th>
 <br>
 
 
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tg-tlx9"><img src="/images/Mdm%20Suzanna%20Mohd%20Isnin.jpeg" style="width:70%" alt="Mdm%20Suzanna%20Mohd%20Isnin"></th>
-      <th class="tg-tlx9"><img src="/images/Ms%20Goh%20Xue%20Yi.jpeg" style="width:65%" alt="Ms%20Goh%20Xue%20Yi"></th>
-      <th class="tg-tlx9"><img src="/images/Mr%20Ho%20Boon%20Huat.jpeg" style="width:80%" alt="Mr%20Ho%20Boon%20Huat"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="tg-apyk">Mdm Susan Mohd Isnin<br>
-      School Staff Developer<br></td>
-      <td class="tg-apyk">Ms Goh Xue Yi<br>
-      HOD of Pupil Management</td>
-      <td class="tg-apyk">Mr Ho Boon Huat<br>
-      HOD Mother Tongue</td>
-    </tr>
-  </tbody>
-</table>
+
 
 <br>
 
