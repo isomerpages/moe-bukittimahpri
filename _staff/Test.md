@@ -5,7 +5,7 @@ description: ""
 ---
 ## ORGANIZATIONAL CHART
 
-test1
+test2
 
 <figure>
 <img src="/images/Mdm%20Teresa%20Kelly%20Len.jpeg" style="width:25%"> 
@@ -83,7 +83,7 @@ style="width:60%"></th>
     <th class="tg-c3ow"><img src="/images/Ms%20Indira%20do%20R%20Pillai.jpeg" style="width:80%"></th>
     <th class="tg-c3ow"><img src="/images/Mrs%20Karin%20Gan-Yeo.jpeg" style="width:70%"></th>
     <th class="tg-c3ow"><img src="/images/Mr%20Christopher%20Khoo.jpeg" style="width:70%">
-<span style="color:#222;background-color:#EAEAEA"></span></th>
+<span style="color:#222;background-color:#EAEAEA"></span>
   </tr>
 </thead>
 <tbody>
