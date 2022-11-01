@@ -102,15 +102,6 @@ style="width:65%"></th>
 </tbody>
 </table>
 
-<img src="/images/Mrs%20Shirley%20Ong.jpeg" style="width:70%">
-
-<img src="/images/Mrs%20Angeline%20Teo.jpeg" style="width:70%">
-
-
-
-<img src="/images/Mr%20Effandi%20Bin%20Jasman.jpeg" style="width:70%">
-
-
 
 <br>
 
