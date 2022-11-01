@@ -9,12 +9,7 @@ description: ""
 <img src="/images/Mdm%20Teresa%20Kelly%20Len.jpeg" style="width:25%"> 
 	<figcaption><b>Mdm Teresa Kelly Len</b><br><b>Principal</b>
 
-|  |
-|:---:|
-| <b>Mdm Teresa Kelly Len</b><br>(Principal)|
-
 <br>
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
