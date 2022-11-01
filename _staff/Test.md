@@ -102,11 +102,13 @@ style="width:65%"></th>
 </tbody>
 </table>
 
-<img src="/images/mrs%20chan-yap%20xue%20li.jpeg" style="width:70%">
+<img src="/images/Mrs%20Shirley%20Ong.jpeg" style="width:70%">
 
-<img src="/images/MDM%20CHONG%20PEI%20LI.jpeg" style="width:70%">
+<img src="/images/Mrs%20Angeline%20Teo.jpeg" style="width:70%">
 
-<img src="/images/MRS%20CHAN-YAP%20SIEW%20CHENG%20SHIRLENA.jpeg" style="width:70%">
+
+
+<img src="/images/Mr%20Effandi%20Bin%20Jasman.jpeg" style="width:70%">
 
 
 
@@ -147,14 +149,14 @@ style="width:65%"></th>
 		<td class="tg-c3ow"><b>Mrs Shirlena Chan</b><br><b>HOD of PE &amp; CCA </b></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><img width="206" alt="Mrs Shirley Ong.JPG" src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/Staff%202020/Mrs%20Shirley%20Ong.JPG"></td>
-    <td class="tg-c3ow"><img width="206" alt="Mrs Angeline Teo.jpg" src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/2021/Mrs%20Angeline%20Teo.jpg"></td>
-    <td class="tg-c3ow"><img width="206" alt="Mr Effandi Bin Jasman.jpg" src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/2021/Mr%20Effandi%20Bin%20Jasman.jpg"></td>
+    <td class="tg-c3ow"><img src="/images/Mrs%20Shirley%20Ong.jpeg" style="width:80%"></td>
+    <td class="tg-c3ow"><img src="/images/Mrs%20Angeline%20Teo.jpeg" style="width:70%"></td>
+    <td class="tg-c3ow"><img src="/images/Mr%20Effandi%20Bin%20Jasman.jpeg" style="width:70%"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Mrs Shirley OngYear Head (P1 &amp; P2)</td>
-    <td class="tg-c3ow">Ms Angeline LowYear Head (P3 &amp; P4)</td>
-    <td class="tg-c3ow">Mr Effandi Jasman<br>Year Head (P5 &amp; P6)</td>
+		<td class="tg-c3ow"><b>Mrs Shirley Ong</b><br><b>Year Head (P1 &amp; P2)</b></td>
+		<td class="tg-c3ow"><b>Ms Angeline LowYear Head</b><br><b>(P3 &amp; P4)</b></td>
+		<td class="tg-c3ow"><b>Mr Effandi Jasman</b><br><b>Year Head (P5 &amp; P6)</b></td>
   </tr>
 </tbody>
 </table>
