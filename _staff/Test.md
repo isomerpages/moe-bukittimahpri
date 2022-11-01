@@ -123,9 +123,9 @@ style="width:65%"></th>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow">Ms Indira d/o Raghavan Pillai <br>HOD of English<br></td>
-    <td class="tg-c3ow">Mrs Karin GanHOD of Mathematics</td>
-    <td class="tg-c3ow">Mr Christopher Khoo <br>HOD of Science</td>
+		<td class="tg-c3ow"><b>Ms Indira d/o Raghavan Pillai</b><br><b>HOD of English</b><br></td>
+		<td class="tg-c3ow"><b>Mrs Karin Gan</b><br><b>HOD of Mathematics</b></td>
+		<td class="tg-c3ow"><b>Mr Christopher Khoo</b><br><b>HOD of Science</b></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><br><img width="199" alt="mrs chan-yap xue li.JPG" src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/2022/mrs%20chan-yap%20xue%20li.JPG"></td>
