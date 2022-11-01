@@ -166,7 +166,7 @@ style="width:65%"></th>
 <thead>
   <tr>
     <th class="tg-c3ow"><img src="/images/Mrs%20Mellissa%20Khoo.jpeg" style="width:80%"></th>
-    <th class="tg-c3ow"><img src="/images/Mdm%20Noor%20Idayu%20Bte%20Sunator.jpeg" style="width:70%"></th>
+    <th class="tg-c3ow"><img src="/images/Mdm%20Noor%20Idayu%20Bte%20Sunator.jpeg" style="width:85%"></th>
 		<th class="tg-c3ow"><img src="/images/Ms%20Sangitah.jpeg" style="width:70%"></th>
 <span style="color:#222;background-color:#EAEAEA"></span></th>
   </tr>
