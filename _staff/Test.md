@@ -178,15 +178,15 @@ style="width:65%"></th>
 		<td class="tg-c3ow"><b>Mdm Sangitah</b><br><b>SH - VIA / Student Leadership</b></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><img src="/images/mrs%20chan-yap%20xue%20li.jpeg" style="width:85%">
+    <td class="tg-c3ow"><img src="/images/MDM%20DURGADEVI%20DO%20TAMIL%20SELVAM.jpeg" style="width:80%">
 </td>
-    <td class="tg-c3ow"><img src="/images/MDM%20CHONG%20PEI%20LI.jpeg" style="width:75%"></td>
-    <td class="tg-c3ow"><img src="/images/MRS%20CHAN-YAP%20SIEW%20CHENG%20SHIRLENA.jpeg" style="width:80%"><span style="color:#222;background-color:#EAEAEA"></span></td>
+    <td class="tg-c3ow"><img src="/images/MRS%20LYNETTE%20LIM.jpeg" style="width:90%"></td>
+    <td class="tg-c3ow"><img src="/images/MDM%20XU%20AILI.jpeg" style="width:70%"><span style="color:#222;background-color:#EAEAEA"></span></td>
   </tr>
   <tr>
-		<td class="tg-c3ow"><b>Mrs Nicole Chan</b><br><b>HOD of CCE</b></td>
-		<td class="tg-c3ow"><b>Mdm Chong Peili</b><br><b>HOD of ICT</b></td>
-		<td class="tg-c3ow"><b>Mrs Shirlena Chan</b><br><b>HOD of PE &amp; CCA </b></td>
+		<td class="tg-c3ow"><b>Mdm Durgadevi</b><br><b>SH - NE / SS</b></td>
+		<td class="tg-c3ow"><b>Mrs Lynette Lim</b><br><b>SH - Aesthetics</b></td>
+		<td class="tg-c3ow"><b>Mdm Xu Aili</b><br><b>Senior Chinese Teacher </b></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><img src="/images/Mrs%20Shirley%20Ong.jpeg" style="width:80%"></td>
@@ -201,12 +201,15 @@ style="width:65%"></th>
 </tbody>
 </table>
 
-<img src="/images/Mrs%20Mellissa%20Khoo.jpeg" style="width:70%">
+<img src="/images/MDM%20DURGADEVI%20DO%20TAMIL%20SELVAM.jpeg" style="width:70%">
 
-<img src="/images/Mdm%20Noor%20Idayu%20Bte%20Sunator.jpeg" style="width:70%">
+<img src="/images/MRS%20LYNETTE%20LIM.jpeg" style="width:70%">
 
-<img src="/images/Ms%20Sangitah.jpeg" style="width:70%">
+<img src="/images/MDM%20XU%20AILI.jpeg" style="width:70%">
 
-![](/images/Mdm%20Noor%20Idayu%20Bte%20Sunator.jpeg)
+![](/images/MDM%20DURGADEVI%20DO%20TAMIL%20SELVAM.jpeg)
 
-![](/images/Ms%20Sangitah.jpeg)
+![](/images/MRS%20LYNETTE%20LIM.jpeg)
+
+![](/images/MDM%20XU%20AILI.jpeg)
+
