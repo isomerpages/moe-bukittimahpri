@@ -142,9 +142,9 @@ style="width:65%"></th>
     <td class="tg-c3ow"><img src="/images/MRS%20CHAN-YAP%20SIEW%20CHENG%20SHIRLENA.jpeg" style="width:80%"><span style="color:#222;background-color:#EAEAEA"></span></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Mrs Nicole ChanHOD of CCE</td>
-    <td class="tg-c3ow">Mdm Chong Peili<br>HOD of ICT</td>
-    <td class="tg-c3ow">Mrs Shirlena Chan <br>HOD of PE &amp; CCA </td>
+		<td class="tg-c3ow"><b>Mrs Nicole Chan</b><br><b>HOD of CCE</b></td>
+		<td class="tg-c3ow"><b>Mdm Chong Peili</b><br><b>HOD of ICT</b></td>
+		<td class="tg-c3ow"><b>Mrs Shirlena Chan</b><br><b>HOD of PE &amp; CCA </b></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><img width="206" alt="Mrs Shirley Ong.JPG" src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/Staff%202020/Mrs%20Shirley%20Ong.JPG"></td>
