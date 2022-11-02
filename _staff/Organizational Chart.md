@@ -28,7 +28,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-zkss"><img src="/images/Mdm%20Kitha%20Arumugam.jpeg" style="width:25%"> 
-    </th><th class="tg-tlx9"><img src="/images/Mr%20Edward%20Wong.jpeg" style="width:50%"> </th>
+    </th><th class="tg-tlx9"><img src="/images/Mr%20Edward%20Wong.jpeg" style="width:25%"> </th>
 	</tr>
 </thead>
 <tbody>
