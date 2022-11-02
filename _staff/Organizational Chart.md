@@ -110,7 +110,7 @@ style="width:60%"></th>
   </tr>
   <tr>
 		<td class="tg-c3ow"><b>Mrs Shirley Ong</b><br><b>Year Head (P1 &amp; P2)</b></td>
-		<td class="tg-c3ow"><b>Ms Angeline LowYear Head</b><br><b>(P3 &amp; P4)</b></td>
+		<td class="tg-c3ow"><b>Ms Angeline Low<br>Year Head</b><br><b>(P3 &amp; P4)</b></td>
 		<td class="tg-c3ow"><b>Mr Effandi Jasman</b><br><b>Year Head (P5 &amp; P6)</b></td>
   </tr>
 </tbody>
