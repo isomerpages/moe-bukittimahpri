@@ -93,8 +93,8 @@ description: ""
   <tr>
     <td class="tg-c3ow"><img style="width:85%" src="/images/Staff%20Photos/Organisation%Photos/mrs%20chan-yap%20xue%20li.jpeg">
 </td>
-    <td class="tg-c3ow"><img style="width:75%" src="/images/Staff%20Photos/Organisation%Photos/MDM%20CHONG%20PEI%20LI.jpeg"></td>
-    <td class="tg-c3ow"><img style="width:80%" src="/images/Staff%20Photos/Organisation%Photos/MRS%20CHAN-YAP%20SIEW%20CHENG%20SHIRLENA.jpeg"><span style="color:#222;background-color:#EAEAEA"></span></td>
+    <td class="tg-c3ow"><img style="width:75%" src="/images/Staff%20Photos/Organisation%Photos/mdm%20chong%20pei%20li.jpeg"></td>
+    <td class="tg-c3ow"><img style="width:80%" src="/images/Staff%20Photos/Organisation%Photos/mrs%20shirlena%20chan.jpeg"><span style="color:#222;background-color:#EAEAEA"></span></td>
   </tr>
   <tr>
 		<td class="tg-c3ow"><b>Mrs Nicole Chan</b><br><b>HOD of CCE</b></td>
