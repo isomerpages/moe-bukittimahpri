@@ -51,8 +51,8 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img style="width:70%" src="/images/Staff%20Photos/Organisation%Photos/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg"></th>
-    <th class="tg-tlx9"><img style="width:60%" src="/images/Staff%20Photos/Organisation%Photos/Mr%20K%20M%20Samales.jpeg"></th>
+    <th class="tg-tlx9"><img style="width:70%" src="/images/Staff%20Photos/Organisation%Photos/mr%20abdul%20halik%20bin%20abdul%20hamid.jpeg"></th>
+    <th class="tg-tlx9"><img style="width:60%" src="/images/Staff%20Photos/Organisation%Photos/mr%20samales%20kuppusamy.jpeg"></th>
     <th class="tg-tlx9"><img style="width:70%" src="/images/Mr%20Philip%20Lee.jpeg"></th>
   </tr>
 </thead>
