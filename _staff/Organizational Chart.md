@@ -8,7 +8,7 @@ description: ""
 
 
 <figure>
-<img style="width:20%" src="/images/Staff%20Photos/Organisation%20Photos/Mdm%20Teresa%20Kelly%20Len.jpeg"> 
+<img style="width:25%" src="/images/Staff%20Photos/Organisation%20Photos/Mdm%20Teresa%20Kelly%20Len.jpeg"> 
 	<figcaption><b>Mdm Teresa Kelly Len</b><br><b>Principal</b>
 
 <br>
@@ -26,8 +26,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zkss"><img style="width:25%" src="/images/Staff%20Photos/Organisation%Photos/Mdm%20Kitha%20Arumugam.jpeg"> 
-    </th><th class="tg-tlx9"><img style="width:25%" src="/images/Staff%20Photos/Organisation%Photos/Mr%20Edward%20Wong.jpeg"> </th>
+    <th class="tg-zkss"><img style="width:50%" src="/images/Staff%20Photos/Organisation%Photos/Mdm%20Kitha%20Arumugam.jpeg"> 
+    </th><th class="tg-tlx9"><img style="width:50%" src="/images/Staff%20Photos/Organisation%Photos/Mr%20Edward%20Wong.jpeg"> </th>
 	</tr>
 </thead>
 <tbody>
