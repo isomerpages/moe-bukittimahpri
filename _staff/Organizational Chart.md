@@ -24,8 +24,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zkss"><img style="width:40%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20kitha%20arumugam.jpeg"> 
-    </th><th class="tg-tlx9"><img style="width:40%" src="/images/Staff%20Photos/Organisation%20Photos/mr%20edward%20wong.jpeg"> </th>
+    <th class="tg-zkss"><img style="width:50%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20kitha%20arumugam.jpeg"> 
+    </th><th class="tg-tlx9"><img style="width:52%" src="/images/Staff%20Photos/Organisation%20Photos/mr%20edward%20wong.jpeg"> </th>
 	</tr>
 </thead>
 <tbody>
@@ -51,7 +51,7 @@ description: ""
 <thead>
 <tr>
     <th class="tg-tlx9"><img style="width:75%" src="/images/Staff%20Photos/Organisation%20Photos/mr%20abdul%20halik%20bin%20abdul%20hamid.jpeg"></th>
-    <th class="tg-tlx9"><img style="width:70%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20nurhayati%20bte%20rahmat.jpeg"></th>
+    <th class="tg-tlx9"><img style="width:73%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20nurhayati%20bte%20rahmat.jpeg"></th>
     <th class="tg-tlx9"><img style="width:63%" src="/images/Staff%20Photos/Organisation%20Photos/mr%20samales%20kuppusamy.jpeg"></th>
   </tr>
 </thead>
@@ -77,7 +77,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c3ow"><img style="width:80%" src="/images/Staff%20Photos/Organisation%20Photos/ms%20indira%20do%20raghavan%20pillai.jpeg"></th>
+    <th class="tg-c3ow"><img style="width:75%" src="/images/Staff%20Photos/Organisation%20Photos/ms%20indira%20do%20raghavan%20pillai.jpeg"></th>
     <th class="tg-c3ow"><img style="width:70%" src="/images/Staff%20Photos/Organisation%20Photos/mrs%20Karin%20gan.jpeg"></th>
     <th class="tg-c3ow"><img style="width:70%" src="/images/Staff%20Photos/Organisation%20Photos/mr%20christopher%20khoo.jpeg">
 <span style="color:#222;background-color:#EAEAEA"></span></th>
@@ -90,7 +90,7 @@ description: ""
 		<td class="tg-c3ow"><b>Mr Christopher Khoo</b><br><b>HOD of Science</b></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><img style="width:85%" src="/images/Staff%20Photos/Organisation%20Photos/mrs%20chan-yap%20xue%20li.jpeg">
+    <td class="tg-c3ow"><img style="width:80%" src="/images/Staff%20Photos/Organisation%20Photos/mrs%20chan-yap%20xue%20li.jpeg">
 </td>
     <td class="tg-c3ow"><img style="width:75%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20chong%20pei%20li.jpeg"></td>
     <td class="tg-c3ow"><img style="width:80%" src="/images/Staff%20Photos/Organisation%20Photos/mrs%20shirlena%20chan.jpeg"><span style="color:#222;background-color:#EAEAEA"></span></td>
