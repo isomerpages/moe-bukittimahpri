@@ -5,8 +5,7 @@ description: ""
 ---
 ## ORGANIZATIONAL CHART
 
-
-
+![](/images/Staff%20Photos/Organisation%20Photos/Mdm%20Kitha%20Arumugam.jpeg)
 
 <figure>
 <img style="width:25%" src="/images/Staff%20Photos/Organisation%20Photos/Mdm%20Teresa%20Kelly%20Len.jpeg"> 
