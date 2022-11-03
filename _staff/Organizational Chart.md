@@ -52,15 +52,15 @@ description: ""
 <thead>
 <tr>
     <th class="tg-tlx9"><img style="width:70%" src="/images/Staff%20Photos/Organisation%Photos/mr%20abdul%20halik%20bin%20abdul%20hamid.jpeg"></th>
-    <th class="tg-tlx9"><img style="width:60%" src="/images/Staff%20Photos/Organisation%Photos/mr%20samales%20kuppusamy.jpeg"></th>
-    <th class="tg-tlx9"><img style="width:70%" src="/images/Mr%20Philip%20Lee.jpeg"></th>
+    <th class="tg-tlx9"><img style="width:60%" src="/images/Staff%20Photos/Organisation%Photos/mdm%20nurhayati%20bte%20rahmat.jpeg"></th>
+    <th class="tg-tlx9"><img style="width:70%" src="/images/Staff%20Photos/Organisation%Photos/mr%20samales%20kuppusamy.jpeg">
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mr  </span>Abdul Halik Bin Abdul Hamid<br>Admin Manager<br></td>
-    <td class="tg-apyk">Mr Samales Kuppusamy<br> Operations Manager</td>
-    <td class="tg-apyk">Mr Phillip Lee<br>ICT Manager</td>
+    <td class="tg-apyk">Mdm Nurhayati Bte Rahmat<br> Admin Manager</td>
+    <td class="tg-apyk">Mr Samales Kuppusamy<br>Operations Manager</td>
   </tr>
 </tbody>
 </table>
