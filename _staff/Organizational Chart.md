@@ -8,7 +8,7 @@ description: ""
 
 
 <figure>
-<img style="width:50%" src="/images/Staff%20Photos/Organisation%20Photos/Mdm%20Teresa%20Kelly%20Len.jpeg"> 
+<img style="width:40%" src="/images/Staff%20Photos/Organisation%20Photos/Mdm%20Teresa%20Kelly%20Len.jpeg"> 
 	<figcaption><b>Mdm Teresa Kelly Len</b><br><b>Principal</b>
 
 <br>
