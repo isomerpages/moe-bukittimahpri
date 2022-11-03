@@ -6,7 +6,6 @@ description: ""
 ## ORGANIZATIONAL CHART
 
 
-
 <figure>
 <img style="width:25%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20teresa%20kelly%20len.jpeg"> 
 	<figcaption><b>Mdm Teresa Kelly Len</b><br><b>Principal</b>
@@ -26,8 +25,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zkss"><img style="width:25%" src="/images/Staff%20Photos/Organisation%Photos/mdm%20kitha%20arumugam.jpeg"> 
-    </th><th class="tg-tlx9"><img style="width:25%" src="/images/Staff%20Photos/Organisation%Photos/mr%20edward%20wong.jpeg"> </th>
+    <th class="tg-zkss"><img style="width:25%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20kitha%20arumugam.jpeg"> 
+    </th><th class="tg-tlx9"><img style="width:25%" src="/images/Staff%20Photos/Organisation%20Photos/mr%20Edward%20wong.jpeg"> </th>
 	</tr>
 </thead>
 <tbody>
