@@ -78,9 +78,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c3ow"><img style="width:80%" src="/images/Staff%20Photos/Organisation%Photos/Ms%20Indira%20do%20R%20Pillai.jpeg"></th>
-    <th class="tg-c3ow"><img style="width:70%" src="/images/Staff%20Photos/Organisation%Photos/Mrs%20Karin%20Gan-Yeo.jpeg"></th>
-    <th class="tg-c3ow"><img style="width:70%" src="/images/Staff%20Photos/Organisation%Photos/Mr%20Christopher%20Khoo.jpeg">
+    <th class="tg-c3ow"><img style="width:80%" src="/images/Staff%20Photos/Organisation%Photos/ms%20indira%20do%20raghavan%20pillai.jpeg"></th>
+    <th class="tg-c3ow"><img style="width:70%" src="/images/Staff%20Photos/Organisation%Photos/mrs%20karin%20Ggan.jpeg"></th>
+    <th class="tg-c3ow"><img style="width:70%" src="/images/Staff%20Photos/Organisation%Photos/mr%20christopher%20khoo.jpeg">
 <span style="color:#222;background-color:#EAEAEA"></span></th>
   </tr>
 </thead>
