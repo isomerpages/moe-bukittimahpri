@@ -24,8 +24,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zkss"><img style="width:25%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20kitha%20arumugam.jpeg"> 
-    </th><th class="tg-tlx9"><img style="width:25%" src="/images/Staff%20Photos/Organisation%20Photos/mr%20edward%20wong.jpeg"> </th>
+    <th class="tg-zkss"><img style="width:40%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20kitha%20arumugam.jpeg"> 
+    </th><th class="tg-tlx9"><img style="width:40%" src="/images/Staff%20Photos/Organisation%20Photos/mr%20edward%20wong.jpeg"> </th>
 	</tr>
 </thead>
 <tbody>
@@ -50,9 +50,9 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img style="width:70%" src="/images/Staff%20Photos/Organisation%20Photos/mr%20abdul%20halik%20bin%20abdul%20hamid.jpeg"></th>
-    <th class="tg-tlx9"><img style="width:60%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20nurhayati%20bte%20rahmat.jpeg"></th>
-    <th class="tg-tlx9"><img style="width:70%" src="/images/Staff%20Photos/Organisation%20Photos/mr%20samales%20kuppusamy.jpeg"></th>
+    <th class="tg-tlx9"><img style="width:75%" src="/images/Staff%20Photos/Organisation%20Photos/mr%20abdul%20halik%20bin%20abdul%20hamid.jpeg"></th>
+    <th class="tg-tlx9"><img style="width:70%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20nurhayati%20bte%20rahmat.jpeg"></th>
+    <th class="tg-tlx9"><img style="width:63%" src="/images/Staff%20Photos/Organisation%20Photos/mr%20samales%20kuppusamy.jpeg"></th>
   </tr>
 </thead>
 <tbody>
@@ -151,9 +151,9 @@ description: ""
 		<td class="tg-c3ow"><b>Mdm Xu Aili</b><br><b>Senior Chinese Teacher </b></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><img style="width:90%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20junaida%20jasman.jpeg"></td>
+    <td class="tg-c3ow"><img style="width:70%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20junaida%20jasman.jpeg"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"><img style="width:80%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20rozana%20hashim.jpeg"></td>
+    <td class="tg-c3ow"><img style="width:70%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20rozana%20hashim.jpeg"></td>
   </tr>
   <tr>
 		<td class="tg-c3ow"><b>Mdm Junaida Jasman</b><br><b>Senior Maths Teacher</b></td>
