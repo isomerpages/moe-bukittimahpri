@@ -102,8 +102,8 @@ description: ""
 		<td class="tg-c3ow"><b>Mrs Shirlena Chan</b><br><b>HOD of PE &amp; CCA </b></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><img style="width:80%" src="/images/Staff%20Photos/Organisation%Photos/Mrs%20Shirley%20Ong.jpeg"></td>
-    <td class="tg-c3ow"><img style="width:70%" src="/images/Staff%20Photos/Organisation%Photos/Mrs%20Angeline%20Teo.jpeg"></td>
+    <td class="tg-c3ow"><img style="width:80%" src="/images/Staff%20Photos/Organisation%Photos/mrs%20shirley%20ong.jpeg"></td>
+    <td class="tg-c3ow"><img style="width:70%" src="/images/Staff%20Photos/Organisation%Photos/mrs%20angeline%20teo.jpeg"></td>
     <td class="tg-c3ow"><img style="width:70%" src="/images/Staff%20Photos/Organisation%Photos/Mr%20Effandi%20Bin%20Jasman.jpeg"></td>
   </tr>
   <tr>
