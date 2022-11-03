@@ -154,7 +154,7 @@ description: ""
 		<td class="tg-c3ow"><b>Mdm Xu Aili</b><br><b>Senior Chinese Teacher </b></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><img style="width:90%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20junaida%20bte%20jasman.jpeg"></td>
+    <td class="tg-c3ow"><img style="width:90%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20junaida%20jasman.jpeg"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"><img style="width:80%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20rozana%20hashim.jpeg"></td>
   </tr>
@@ -165,5 +165,4 @@ description: ""
   </tr>
 </tbody>
 </table></figcaption></figure>
-
 
