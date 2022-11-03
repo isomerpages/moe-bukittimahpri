@@ -26,7 +26,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-zkss"><img style="width:25%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20kitha%20arumugam.jpeg"> 
-    </th><th class="tg-tlx9"><img style="width:25%" src="/images/Staff%20Photos/Organisation%20Photos/mr%20Edward%20wong.jpeg"> </th>
+    </th><th class="tg-tlx9"><img style="width:25%" src="/images/Staff%20Photos/Organisation%20Photos/mr%20edward%20wong.jpeg"> </th>
 	</tr>
 </thead>
 <tbody>
