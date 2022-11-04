@@ -122,7 +122,6 @@ description: ""
 |---|---|---|---|
 | 6 Adaptability | Mdm Suzanna Mohd Isnin (SSD) | suzanna_mohamed_isnin@moe.edu.sg | 204 |
 | 6 Adaptability | Ms Daphne Ng (FAJT) | ng_sze_yee@moe.edu.sg | 310 |
-|  6 Adaptability |  Mr Effandi Bin Jasman | effandi_jasman@moe.edu.sg   | 373 |
 | 6 Compassion | Mrs Mellissa Khoo (LH EL) | chan_yu_fang_mellissa@moe.edu.sg | 317 |
 | 6 Compassion | Mr Jesudass Joseph Patros | jesudass_joseph_patros@moe.edu.sg | 370 |
 | 6 Graciousness | Mdm Rozana Bte Hashim | rozana_hashim@moe.edu.sg | 316 |
@@ -137,10 +136,10 @@ description: ""
 
 | Position | Teacher Name | Email Address | Extension Number |  |
 |---|---|---|---|---|
-| SSC | Mdm Mariam Bte Isnin | mariam_isnin@moe.edu.sg | 381/301 |  |
+| SSC | Mdm Mariam Bte Isnin | mariam_isnin@moe.edu.sg |301 |  |
 | AED (LBS) | Ms Ivy Tan Ah Bitt | tan_ah_bitt@moe.edu.sg | 343 |  |
 | AED (LBS) | Mdm Wong Chi Ki | wong_chi_ki@moe.edu.sg | 344 |  |
-|   AED (T&L) |  Elyana Binte Al-Ghazali | elyana_al_ghazali@moe.edu.sg  |  369 |  |
+|   AED (T&L) |  Elyana Binte Al-Ghazali | elyana_al_ghazali@moe.edu.sg  |  369 |
 | Teacher | Mrs Jeannette Yeo (FAJT) | lim_mui_ling_jeannette@moe.edu.sg | 309 |
 | Teacher | Mdm Evelyn Nah Bee Har | nah_bee_har@moe.edu.sg | 312 |
 | Teacher | Ms Subah  (FAJT) | subahshini_jayaseelan@moe.edu.sg  | 364 |
