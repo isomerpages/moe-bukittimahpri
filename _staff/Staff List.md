@@ -140,6 +140,10 @@ description: ""
 | AED (LBS) | Ms Ivy Tan Ah Bitt | tan_ah_bitt@moe.edu.sg | 343 |  |
 | AED (LBS) | Mdm Wong Chi Ki | wong_chi_ki@moe.edu.sg | 344 |  |
 |   AED (T&L) |  Elyana Binte Al-Ghazali | elyana_al_ghazali@moe.edu.sg  |  369 |
+|UT|Ms Sun XiaoJun|                   |344|
 | Teacher | Mrs Jeannette Yeo (FAJT) | lim_mui_ling_jeannette@moe.edu.sg | 309 |
 | Teacher | Mdm Evelyn Nah Bee Har | nah_bee_har@moe.edu.sg | 312 |
 | Teacher | Ms Subah  (FAJT) | subahshini_jayaseelan@moe.edu.sg  | 364 |
+|Mr Ng Kim Chwee (FAJT)  |                | 375 |
+|Ms Susan Sng Sim Neo (FAJT) |         |        |
+|Ng Puay Choo (FAJT) |                        | 311 |
