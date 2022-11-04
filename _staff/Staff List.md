@@ -76,7 +76,7 @@ description: ""
 | 3 Gracioiusness | Miss Annabelle Chua Wen Xin | annabelle_chua_wen_xin@moe.edu.sg | 319 |
 | 3 Graciousness | Mr Ho Boon Huat (HOD MT) | ho_boon_huat@moe.edu.sg | 363 |
 | 3 Integrity | Mrs Serene Tear Poh Keng | yap_poh_keng@moe.edu.sg | 314 |
-| 3 Respect | Mdm Rosna Bte Hussien | rosna_hussien@moe.edu.sg | 305 |
+| 3 Integrity | Mrs Angeline Teo (Year Head P3/P4) | low_swee_ling_angeline@moe.edu.sg  |  372 |
 | 3 Respect | Mdm Suzana Yaacob (ART) | suzana_mohd_yaacob@moe.edu.sg  | 357 |
 
 
