@@ -40,7 +40,7 @@ third_nav_title: Information for Parents
 
 **Vendors Information**
 1. [Booklist 2022](/files/2022/Vendors%20Information/2022%20Booklist.pdf)
-2.  [Info Sheet on School Bus Services_updated.pdf](/files/Info%20Sheet%20on%20School%20Bus%20Services_updated.pdf)
+2. [School Bus Services](/files/2022/Vendors%20Information/Info%20Sheet%20on%20School%20Bus%20Services_updated.pdf)
 3.  [School Uniform.pdf](/files/School%20uniform.pdf)
 
 
