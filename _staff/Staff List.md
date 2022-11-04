@@ -144,6 +144,6 @@ description: ""
 | Teacher | Mrs Jeannette Yeo (FAJT) | lim_mui_ling_jeannette@moe.edu.sg | 309 |
 | Teacher | Mdm Evelyn Nah Bee Har | nah_bee_har@moe.edu.sg | 312 |
 | Teacher | Ms Subah  (FAJT) | subahshini_jayaseelan@moe.edu.sg  | 364 |
-|Mr Ng Kim Chwee (FAJT)  |                | 375 |
-|Ms Susan Sng Sim Neo (FAJT) |         |        |
-|Ng Puay Choo (FAJT) |                        | 311 |
+|FAJT| Mr Ng Kim Chwee  |                | 375 |
+|FAJT| Ms Susan Sng Sim Neo |         |        |
+|FAJT | Ng Puay Choo |                        | 311 |
