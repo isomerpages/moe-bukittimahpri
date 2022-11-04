@@ -64,7 +64,7 @@ description: ""
 
 [P6 - Principal's Address](/files/2022/Briefing%20Documents/P6%20Ps%20Address.pdf)
 
-[English](/files/P6%20Subject%20Briefing%20-%20EL.pdf)
+[English](/files/2022/Briefing%20Documents/P6%20Subject%20Briefing%20-%20EL.pdf)
 
 [Mathematics](/files/P6%20Subject%20Briefing%20-%20Math.pdf)
 
