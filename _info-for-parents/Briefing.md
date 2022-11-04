@@ -28,13 +28,13 @@ description: ""
 
 [Science](/files/2022/Briefing%20Documents/P3%20Subject%20Briefing%20-%20Science.pdf)
 
-[Mother Tongue](/files/P3%20Subject%20Briefing%20-%20MT.pdf)
+[Mother Tongue](/files/2022/Briefing%20Documents/P3%20Subject%20Briefing%20-%20MT.pdf)
 
   
 
-Primary 4 Parent's Briefing Slides  
+**Primary 4 Parent's Briefing Slides ** 
 
-[Principal's Address](/files/P4%20Ps%20Address.pdf)
+[P4-Principal's Address](/files/2022/Briefing%20Documents/P4%20Ps%20Address.pdf)
 
 [English](/files/P4%20Subject%20Briefing%20-%20EL.pdf)
 
