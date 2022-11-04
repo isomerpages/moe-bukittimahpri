@@ -34,11 +34,11 @@ description: ""
 
 **Primary 4 Parent's Briefing Slides ** 
 
-[P4-Principal's Address](/files/2022/Briefing%20Documents/P4%20Ps%20Address.pdf)
+[P4 - Principal's Address](/files/2022/Briefing%20Documents/P4%20Ps%20Address.pdf)
 
-[English](/files/P4%20Subject%20Briefing%20-%20EL.pdf)
+[English](/files/2022/Briefing%20Documents/P4%20Subject%20Briefing%20-%20EL.pdf)
 
-[Mathematics](/files/P4%20Subject%20Briefing%20-%20Math.pdf)
+[Mathematics](/files/2022/Briefing%20Documents/P4%20Subject%20Briefing%20-%20Math.pdf)
 
 [Science](/files/P4%20Subject%20Briefing%20-%20Science.pdf)
 
