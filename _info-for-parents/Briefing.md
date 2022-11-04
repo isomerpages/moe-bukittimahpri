@@ -24,7 +24,7 @@ description: ""
 
 [English](/files/2022/Briefing%20Documents/P3%20Subject%20Briefing%20-%20EL.pdf)
 
-[Mathematics](/files/P3%20Subject%20Briefing%20-%20Math.pdf)
+[Mathematics](/files/2022/Briefing%20Documents/P3%20Subject%20Briefing%20-%20Math.pdf)
 
 [Science](/files/P3%20Subject%20Briefing%20-%20Science.pdf)
 
