@@ -57,7 +57,7 @@ description: ""
 | 2 Integrity | Ms Goh Xue Yi (HOD Pupil Management) | goh_xue_yi@moe.edu.sg | 210 |
 | 2 Resilience | Mrs Evelyn Lee | evelyn_ang_gek_shia@moe.edu.sg | 326 |
 | 2 Resilience | Mdm Xu Aili (ST/CL) | xu_ai_li@moe.edu.sg | 329 |
-| 2 Respect | Ms Teresa Chai Siew Lan | chai_siew_lan_teresa@mor.edu.sg | 336 |
+| 2 Respect | Mrs Lynette Lim (SH Aesthetics) | chai_siew_lan_teresa@mor.edu.sg | 336 |
 |  2 Respect | Mr Wang Hao  | wang_hao@moe.edu.sg  | 355  |
 |  2 Respect | Mrs Shirley Ong (Year Head P1/P2)  | low_yin_choo@moe.edu.sg   | 374 |
 |  2 Harmony |  Mr Almir Shafur Bin Mohamed (ART) | almir_shafur_mohamed@moe.edu.sg  |  348 |
