@@ -5,7 +5,8 @@ description: ""
 ---
 <h3>BRIEFING SLIDES FOR PARENTS YEAR 2022</h3>
 
-P2 MT Briefing Slides[[](/files/2022/Briefing%20Documents/BTPS%20P3%20and%20P4%20HMTL_Briefing%20Slides%20for%20P2%20Parents.pdf)]
+P2 MT Briefing Slides[](/files/2022/Briefing%20Documents/BTPS%20P3%20and%20P4%20HMTL_Briefing%20Slides%20for%20P2%20Parents.pdf)
+
 
 [Principal's Address](/files/P2%20Ps%20Address.pdf)
 
