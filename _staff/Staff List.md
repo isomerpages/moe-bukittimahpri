@@ -126,7 +126,6 @@ description: ""
 | 6 Graciousness | Mdm Rozana Bte Hashim | rozana_hashim@moe.edu.sg | 316 |
 | 6 Graciousness | Mr Donald Tan Eit Peow (PE) | tan_eit_peow@moe.edu.sg | 346 |
 | 6 Respect | Ms Cheng May Ling | cheng_may_ling@moe.edu.sg | 302 |
-| 6 Respect | Mrs Joanne Hu (Music) | lim_xue_mei_joanne@moe.edu.sg      | 358 |
 |  6 Respect | Mdm Nur Namira Mazlan  | nur_namira_mazlan@moe.edu.sg  |  366 |
 
 
