@@ -5,22 +5,24 @@ description: ""
 ---
 <h3>BRIEFING SLIDES FOR PARENTS YEAR 2022</h3>
 
+**Primary 2 Parent's Briefing Slides**
+
 
 [P2 - Principal's Address](/files/2022/Briefing%20Documents/P2%20Ps%20Address.pdf)
 
 [English](/files/2022/Briefing%20Documents/P2%20Subject%20Briefing%20-%20EL.pdf)
 
-[Mathematics](/files/P2%20Subject%20Briefing%20-%20Math.pdf)
+[Mathematics](/files/2022/Briefing%20Documents/P2%20Subject%20Briefing%20-%20Math.pdf)
 
-[Mother Tongue](/files/P2%20Subject%20Briefing%20-%20MT.pdf)
+[Mother Tongue](/files/2022/Briefing%20Documents/P2%20Subject%20Briefing%20-%20MT.pdf)
 
   
 
-Primary 3 Parent's Briefing Slides  
+**Primary 3 Parent's Briefing Slides**  
 
-[Principal's Address](/files/P3%20Ps%20Address.pdf)
+[P3 - Principal's Address](/files/2022/Briefing%20Documents/P3%20Ps%20Address.pdf)
 
-[English](/files/P3%20Subject%20Briefing%20-%20EL.pdf)
+[English](/files/2022/Briefing%20Documents/P3%20Subject%20Briefing%20-%20EL.pdf)
 
 [Mathematics](/files/P3%20Subject%20Briefing%20-%20Math.pdf)
 
