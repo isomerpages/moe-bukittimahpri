@@ -51,5 +51,6 @@ third_nav_title: Information for Parents
 2. [MOE Student GPA Claim Form](/files/2022/Vendors%20Information/MOE%20Student%20GPA%20claim%20form.pdf)
 
 * [Building Resilience in Our Children](/files/Building%20Resilience%20in%20Our%20Children.pdf)
-* [MOO-O Installation Guide for Windows](/files/MOO-O%20Parent's%20Guide%20for%20Windows.pdf)
+
+* [MOO-O Parent's Guide for Windows](/files/2022/Guides/MOO-O%20Parent's%20Guide%20for%20Windows.pdf)
 * [MOO-O Installation Guide for iPad](/files/MOO-O%20Parent's%20Guide%20for%20ipad.pdf)
