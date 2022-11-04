@@ -77,6 +77,7 @@ description: ""
 | 3 Graciousness | Mr Ho Boon Huat (HOD MT) | ho_boon_huat@moe.edu.sg | 363 |
 | 3 Integrity | Mrs Serene Tear Poh Keng | yap_poh_keng@moe.edu.sg | 314 |
 | 3 Integrity | Mrs Angeline Teo (Year Head P3/P4) | low_swee_ling_angeline@moe.edu.sg  |  372 |
+| 3 Respect | Mdm Rosna Bte Hussein | rosna_hussien@moe.edu.sg  | 305 |
 | 3 Respect | Mdm Suzana Yaacob (ART) | suzana_mohd_yaacob@moe.edu.sg  | 357 |
 
 
@@ -86,7 +87,7 @@ description: ""
 
 | Class | Teacher Name | Email Address | Extension Number |
 |---|---|---|---|
-| 4 Adaptability | Mr Chua Khoon Sia Raymond | chua_khoon_sia@moe.edu.sg | 308 |
+| 4 Adaptability | Mdm Durgadevi d/o Tamil Selvam (SH NE/SS) | durgadevi_tamil_selvam@moe.edu.sg | 303|
 | 4 Adaptability | Sangitah d/o K Jayaseelan  (SH VIA/Student Leaadership) | sangitah_k_jayaseelan@moe.edu.sg | 365 |
 | 4 Compassion | Mrs Raj-Lorshennik d/o Jaya Sanger | lorshenni_jaya_sanger_a@moe.edu.sg | 318 |
 | 4 Compassion | Mr Chua Peng Swee | chua_peng_swee@moe.edu.sg | 345 |
@@ -98,7 +99,7 @@ description: ""
 | 4 Respect | Ms Koh Beng Li | koh_beng_li@moe.edu.sg | 354 |
 |  4 Resilience |  Mr Jeremy Ho (PE)) | ho_jian_xiong@moe.edu.sg  |  360 |
 |   4 Resilience |  Mr Soloman Tan Ding Huang | solomon_tan_ding_huang@moe.edu.sg  |  362 |
-|   4 Resilience |   Ms Angeline Low (Year Head P3/P4) | low_swee_ling_angeline@moe.edu.sg  |  372 |
+
 
 
 # Primary 5
