@@ -50,8 +50,9 @@ third_nav_title: Information for Parents
 1. [Product Fact Sheet (Nov 2017) Students GPA](/files/2022/Vendors%20Information/Product%20Fact%20Sheet%20(Nov%202017)%20Student%20GPA.pdf)
 2. [MOE Student GPA Claim Form](/files/2022/Vendors%20Information/MOE%20Student%20GPA%20claim%20form.pdf)
 
+
 * [Building Resilience in Our Children](/files/Building%20Resilience%20in%20Our%20Children.pdf)
 
 * [MOO-O Parent's Guide for Windows](/files/2022/Guides/MOO-O%20Parent's%20Guide%20for%20Windows.pdf)
 
-* [MOO-o Parent's Guide for IPADs](/files/2022/Guides/MOO-O%20Parent's%20Guide%20for%20ipad.pdf)
+* [MOO-O Parent's Guide for IPADs](/files/2022/Guides/MOO-O%20Parent's%20Guide%20for%20ipad.pdf)
