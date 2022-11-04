@@ -48,7 +48,7 @@ third_nav_title: Information for Parents
 **Group Personal Accident Insurance**
 
 1. [Product Fact Sheet (Nov 2017) Students GPA](/files/2022/Vendors%20Information/Product%20Fact%20Sheet%20(Nov%202017)%20Student%20GPA.pdf)
-2. [MOE Student GPA claim](http://studentgpa.incomegroupins.com.sg/#/dashboard)
+2. [MOE Student GPA Claim Form](/files/2022/Vendors%20Information/MOE%20Student%20GPA%20claim%20form.pdf)
 
 * [Building Resilience in Our Children](/files/Building%20Resilience%20in%20Our%20Children.pdf)
 * [MOO-O Installation Guide for Windows](/files/MOO-O%20Parent's%20Guide%20for%20Windows.pdf)
