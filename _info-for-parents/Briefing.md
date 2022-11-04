@@ -26,7 +26,7 @@ description: ""
 
 [Mathematics](/files/2022/Briefing%20Documents/P3%20Subject%20Briefing%20-%20Math.pdf)
 
-[Science](/files/P3%20Subject%20Briefing%20-%20Science.pdf)
+[Science](/files/2022/Briefing%20Documents/P3%20Subject%20Briefing%20-%20Science.pdf)
 
 [Mother Tongue](/files/P3%20Subject%20Briefing%20-%20MT.pdf)
 
