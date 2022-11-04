@@ -11,6 +11,8 @@ third_nav_title: Information for Parents
 [2022 Term1 CommzBTPS](/files/2022/Term%20Comms/Term%201%20CommzBTPS%202022.pdf)
 
 [2022 Term2 CommzBTPS](/files/2022/Term%20Comms/Term%202%20CommzBTPS%202022.pdf)
+
+[2022 Term3 CommzBTPS](/files/2022/Term%20Comms/Term%203%20CommzBTPS.pdf)
 # OTHER INFORMATIONS FOR DOWNLOADS
 
 
