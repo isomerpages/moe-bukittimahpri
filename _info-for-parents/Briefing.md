@@ -18,7 +18,7 @@ description: ""
 
   
 
-**Primary 3 Parent's Briefing Slides**  
+**Primary 3 Parent's Briefing Slides  **
 
 [P3 - Principal's Address](/files/2022/Briefing%20Documents/P3%20Ps%20Address.pdf)
 
@@ -60,7 +60,7 @@ description: ""
 
   
 
-Primary 6 Parent's Briefing Slides  
+**Primary 6 Parent's Briefing Slides**  
 
 [Principal's Address](/files/P6%20Ps%20Address.pdf)
 
