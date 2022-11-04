@@ -114,7 +114,7 @@ description: ""
 | 5 Graciousness | Mrs Ong Kai Chun | tay_kai_chun@moe.edu.sg | 307 |
 | 5 Graciousness | Mdm Suzanah Bte Miswari | suzanah_miswari@moe.edu.sg | 368 |
 | 5 Respect | Mrs Karin Gan (HOD Maths) | yeo_lei_teng@moe.edu.sg | 206 |
-
+| 5 Respect | Mr Effandi Bin Jasman | effandi_jasman@moe.edu.sg   | 373 |
 
 # Primary 6
 
