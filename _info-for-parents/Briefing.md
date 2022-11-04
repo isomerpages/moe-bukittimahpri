@@ -16,7 +16,7 @@ description: ""
 
 [Mother Tongue](/files/2022/Briefing%20Documents/P2%20Subject%20Briefing%20-%20MT.pdf)
 
-  
+
 
 **Primary 3 Parent's Briefing Slides  **
 
@@ -62,7 +62,7 @@ description: ""
 
 **Primary 6 Parent's Briefing Slides**  
 
-[Principal's Address](/files/P6%20Ps%20Address.pdf)
+[P6 - Principal's Address](/files/2022/Briefing%20Documents/P6%20Ps%20Address.pdf)
 
 [English](/files/P6%20Subject%20Briefing%20-%20EL.pdf)
 
