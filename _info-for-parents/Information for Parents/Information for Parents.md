@@ -47,7 +47,7 @@ third_nav_title: Information for Parents
 
 **Group Personal Accident Insurance**
 
-1. [ Product Fact Sheet (Nov 2017) Student GPA](/files/Product%20Fact%20Sheet%20(Nov%202017)%20Student%20GPA.pdf)
+1. [Product Fact Sheet (Nov 2017) Students GPA](/files/2022/Vendors%20Information/Product%20Fact%20Sheet%20(Nov%202017)%20Student%20GPA.pdf)
 2. [MOE Student GPA claim](http://studentgpa.incomegroupins.com.sg/#/dashboard)
 
 * [Building Resilience in Our Children](/files/Building%20Resilience%20in%20Our%20Children.pdf)
