@@ -70,7 +70,7 @@ description: ""
 | Class | Teacher Name | Email Address | Extension Number |
 |---|---|---|---|
 | 3 Adaptability | Mrs Wong-Chong Yu Pei | chong_yu_pei@moe.edu.sg | 315 |
-| 3 Adaptability | Mr Zuraimie Khamis (PE/CCA Coordinator) |  mohamad_zuraimie_b_khamis@moe.edu.sg | 361 |
+| 3 Adaptability | Mrs Joanne Hu (Music) |  lim_xue_mei_joanne@moe.edu.sg | 358 |
 | 3 Compassion | Mdm Chong Pei Li (HOD ICT) | chong_pei_li@moe.edu.sg | 205 |
 | 3 Compassion | Mr Idris Taha (PE) | idris_b_mohd_taha@moe.edu.sg | 367 |
 | 3 Gracioiusness | Miss Annabelle Chua Wen Xin | annabelle_chua_wen_xin@moe.edu.sg | 319 |
