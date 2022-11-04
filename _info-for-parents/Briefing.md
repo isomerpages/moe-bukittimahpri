@@ -40,7 +40,7 @@ description: ""
 
 [Mathematics](/files/2022/Briefing%20Documents/P4%20Subject%20Briefing%20-%20Math.pdf)
 
-[Science](/files/2022/Briefing%20Documents/P4%20Subject%20Briefing%20-%20Science.pdf)
+[Science](/files/2022/Briefing%20Documents/P5%20Subject%20Briefing%20-%20Science.pdf)
 
 [Mother Tongue](/files/2022/Briefing%20Documents/P4%20Subject%20Briefing%20-%20MT.pdf)
 
@@ -52,7 +52,7 @@ description: ""
 
 [English](/files/2022/Briefing%20Documents/P5%20Subject%20Briefing%20-%20EL.pdf)
 
-[Mathematics](/files/P5%20Subject%20Briefing%20-%20Math.pdf)
+[Mathematics](/files/2022/Briefing%20Documents/P5%20Subject%20Briefing%20-%20Math.pdf)
 
 [Science](/files/P5%20Subject%20Briefing%20-%20Science.pdf)
 
