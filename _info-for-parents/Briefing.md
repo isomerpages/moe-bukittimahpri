@@ -12,7 +12,7 @@ description: ""
 
 [English](/files/2022/Briefing%20Documents/P2%20Subject%20Briefing%20-%20EL.pdf)
 
-[Mathematics](/files/2022/Briefing%20Documents/P2%20Subject%20Briefing%20-%20Math.pdf)
+[Mathematics](/files/2022/Briefing%20Documents/P6%20Subject%20Briefing%20-%20Math.pdf)
 
 [Mother Tongue](/files/2022/Briefing%20Documents/P2%20Subject%20Briefing%20-%20MT.pdf)
 
