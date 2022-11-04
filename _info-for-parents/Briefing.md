@@ -46,9 +46,9 @@ description: ""
 
   
 
-Primary 5 Parent's Briefing Slides  
+**Primary 5 Parent's Briefing Slides ** 
 
-[Principal's Address](/files/P5%20Ps%20Address.pdf)
+[P5 - Principal's Address](/files/2022/Briefing%20Documents/P5%20Ps%20Address.pdf)
 
 [English](/files/P5%20Subject%20Briefing%20-%20EL.pdf)
 
