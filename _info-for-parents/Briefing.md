@@ -8,7 +8,7 @@ description: ""
 
 [P2 - Principal's Address](/files/2022/Briefing%20Documents/P2%20Ps%20Address.pdf)
 
-[English](/files/P2%20Subject%20Briefing%20-%20EL.pdf)
+[English](/files/2022/Briefing%20Documents/P2%20Subject%20Briefing%20-%20EL.pdf)
 
 [Mathematics](/files/P2%20Subject%20Briefing%20-%20Math.pdf)
 
