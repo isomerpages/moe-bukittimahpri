@@ -88,7 +88,6 @@ description: ""
 | Class | Teacher Name | Email Address | Extension Number |
 |---|---|---|---|
 | 4 Adaptability | Mdm Durgadevi d/o Tamil Selvam (SH NE/SS) | durgadevi_tamil_selvam@moe.edu.sg | 303|
-| 4 Adaptability | Sangitah d/o K Jayaseelan  (SH VIA/Student Leaadership) | sangitah_k_jayaseelan@moe.edu.sg | 365 |
 | 4 Compassion | Mrs Raj-Lorshennik d/o Jaya Sanger | lorshenni_jaya_sanger_a@moe.edu.sg | 318 |
 | 4 Compassion | Mr Chua Peng Swee | chua_peng_swee@moe.edu.sg | 345 |
 | 4 Graciousness | Mr Christopher Khoo (HOD Science) | khoo_kian_kiong_christopher@moe.edu.sg | 208 |
