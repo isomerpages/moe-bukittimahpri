@@ -16,7 +16,7 @@ third_nav_title: Information for Parents
 
 [2022 Term4 Commz@BTPS][](/files/2022/Term%20Comms/Term%204%20Commz@BTPS%20(Updated).pdf)
 
-
+[](/files/2022/Term%20Comms/2022%20School%20Calendar.pdf)
 
 # OTHER INFORMATIONS FOR DOWNLOADS
 
