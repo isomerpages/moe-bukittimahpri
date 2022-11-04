@@ -70,4 +70,4 @@ description: ""
 
 [Science](/files/2022/Briefing%20Documents/P6%20Subject%20Briefing%20-%20Science.pdf)
 
-[Mother Tongue](/files/P6%20Subject%20Briefing%20-%20MT.pdf)
+[Mother Tongue](/files/2022/Briefing%20Documents/P6%20Subject%20Briefing%20-%20MT.pdf)
