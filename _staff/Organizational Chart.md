@@ -52,7 +52,7 @@ description: ""
 <tr>
     <th class="tg-tlx9"><img style="width:75%" src="/images/Staff%20Photos/Organisation%20Photos/mr%20abdul%20halik%20bin%20abdul%20hamid.jpeg"></th>
     <th class="tg-tlx9"><img style="width:73%" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20nurhayati%20bte%20rahmat.jpeg"></th>
-    <th class="tg-tlx9"><img style="width:66%" src="/images/Staff%20Photos/Organisation%20Photos/mr%20samales%20kuppusamy.jpeg"></th>
+    <th class="tg-tlx9"><img style="width:69" src="/images/Staff%20Photos/Organisation%20Photos/mr%20samales%20kuppusamy.jpeg"></th>
   </tr>
 </thead>
 <tbody>
