@@ -1,8 +1,9 @@
 ---
 title: I&E Day
-permalink: /key-programmes/I-and-E-day
+permalink: /key-programmes/I-and-E-day/
 description: ""
 ---
+
 # I&E DAY
 
 We have been partnering SASCO Senior Citizen’s Home since 2015. The P5 pupils make visits to SASCO Senior Citizen’s Home as part of their VIA activity. At the home, the pupils engage the elderly through interactive activities such as digital colouring, finger painting and origami.
@@ -16,10 +17,8 @@ After PSLE, our Primary six pupils form their own groups to create items using r
 <img src="/images/I%20&E%20Day.png" 
      style="width:65%">
 
-
 <img src="/images/I&E%20Group%20photo.jpeg" 
      style="width:65%">
-
 
 <img src="/images/I&E%20handmade.png" 
      style="width:65%">

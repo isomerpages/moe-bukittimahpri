@@ -1,8 +1,9 @@
 ---
 title: Our Vision, Mission and Motto
-permalink: /school-info/our-vision-mission-and-motto
+permalink: /school-info/our-vision-mission-and-motto/
 description: ""
 ---
+
 **SCHOOL VISION:**
 
 A school that fuels the hearts and minds to be future-ready.
@@ -13,10 +14,8 @@ To Enthuse, Engage and Empower in a Learning Community that inculcates sound val
 
 **SCHOOL BADGE**
 
-
 <img src="/images/BTPS_Logo.jpeg" 
      style="width:25%">
-
 
 The school crest consists of a human figure with outstretched arms, and a peak of excellence balancing a circle of all roundness against a blue background.
 

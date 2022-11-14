@@ -1,9 +1,11 @@
 ---
 title: Eco Charity Day
-permalink: /key-programmes/eco-charity-day
+permalink: /key-programmes/eco-charity-day/
 description: ""
 ---
-# ECO-CHARITY DRIVE #
+
+# ECO-CHARITY DRIVE
+
 Our school held an Eco-charity Drive on the 14th of July and through this event, we had raised awareness among our pupils, staff and community about the environmental issues that our planet is facing, how we can take actions to contribute to reduced wastage and the importance of recycling electronic waste. Pupils, staff and members of the community donated their old books, toys and clothes which they no longer needed anymore, yet, were still in usable condition.
 
 We saw the value of kindness and compassion come alive in our pupils when our CCA teams set up stalls at the eco-charity bazaar to sell the donated items in order to raise funds for MINDS.
@@ -14,7 +16,7 @@ We saw the value of kindness and compassion come alive in our pupils when our CC
 <img src="/images/eco-charity%20student_staff.jpeg" 
      style="width:65%">
 
-Furthermore, through this meaningful event, we, as a school have impacted our environment by helping to reduce wastage and learning a new skill through the terrarium and upcycling workshops. It was great to see many pupils and parents working together, delightfully transforming their bottles into beautiful terrariums and weaving strings to bottle holders. 
+Furthermore, through this meaningful event, we, as a school have impacted our environment by helping to reduce wastage and learning a new skill through the terrarium and upcycling workshops. It was great to see many pupils and parents working together, delightfully transforming their bottles into beautiful terrariums and weaving strings to bottle holders.
 
 <img src="/images/eco-charity_diy.jpeg" 
      style="width:65%">

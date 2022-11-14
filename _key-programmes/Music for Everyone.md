@@ -1,11 +1,12 @@
 ---
 title: Music for Everyone
-permalink: /key-programmes/music-for-everyone
+permalink: /key-programmes/music-for-everyone/
 description: ""
 ---
+
 # BUILDING EMPATHY AND RESILIENCE
 
-Bukit Timah Primary School strongly believes that music, being a universal language, will fuel the hearts and minds of its pupils so as to prepare them to be world-ready citizens. To create a strong and vibrant school culture, the school has a diverse music programme that not only engages the students but empowers them with basic theoretical knowledge as well as exposure to individual and ensemble performances. 
+Bukit Timah Primary School strongly believes that music, being a universal language, will fuel the hearts and minds of its pupils so as to prepare them to be world-ready citizens. To create a strong and vibrant school culture, the school has a diverse music programme that not only engages the students but empowers them with basic theoretical knowledge as well as exposure to individual and ensemble performances.
 
 The school aims to inculcate creativity and thinking skills that inspire and nurture independent life-long learning. Through ‘Music for Everyone!’, we envision that every student will be able to express himself/herself confidently through at least one of the instruments introduced over the six years.
 
@@ -23,7 +24,7 @@ Therefore, our mission is to develop our students in the five domains: Moral, In
 
 **A**ppreciation – Appreciation of the environment, nature and the world through active learning process.
 
-**C**reation – Creation of own learning 
+**C**reation – Creation of own learning
 
 **E**xpression – Expressing of ones’ appreciation and creation.
 

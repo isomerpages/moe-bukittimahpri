@@ -1,9 +1,10 @@
 ---
 title: BTPS Character Programme
-permalink: /department/CCE/btps-character-programme
+permalink: /department/CCE/btps-character-programme/
 description: ""
 third_nav_title: CCE
 ---
+
 # BTPS CHARACTER PROGRAMME
 
 The school emphasises Character and Leadership Development through the teaching of School Values, Social Emotional Learning competencies and leadership skills. Positive Psychology is used to build confidence in our pupils by focusing on their character strengths.

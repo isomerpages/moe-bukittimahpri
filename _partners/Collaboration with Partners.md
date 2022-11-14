@@ -1,6 +1,6 @@
 ---
 title: Collaboration with Partners
-permalink: /partners/collaboration-with-partners
+permalink: /partners/collaboration-with-partners/
 description: ""
 ---
 

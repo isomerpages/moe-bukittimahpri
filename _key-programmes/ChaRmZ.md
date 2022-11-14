@@ -1,11 +1,12 @@
 ---
 title: ChaRmZ
-permalink: /key-programmes/ChaRmZ
+permalink: /key-programmes/ChaRmZ/
 description: ""
 ---
+
 # CHARMZ @ BTPS
 
-“**ChaRmz**” supports the BTPS Lifelong Learning Programme (LLP) – ***Music for Everyone*** by celebrating the young talents in the various CCAs and school programmes, as well as the talents in our teachers. Members of ***ArtVoice***  also showcase their work in an art exhibition.
+“**ChaRmz**” supports the BTPS Lifelong Learning Programme (LLP) – **_Music for Everyone_** by celebrating the young talents in the various CCAs and school programmes, as well as the talents in our teachers. Members of **_ArtVoice_** also showcase their work in an art exhibition.
 
 ![](/images/music%20in%202018.jpeg)
 ![](/images/music%20in%20btps.jpeg)

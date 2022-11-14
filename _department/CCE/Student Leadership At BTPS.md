@@ -1,9 +1,10 @@
 ---
 title: Student Leadership At BTPS
-permalink: /department/CCE/student-leadership-at-btps
+permalink: /department/CCE/student-leadership-at-btps/
 description: ""
 third_nav_title: CCE
 ---
+
 # STUDENT LEADERSHIP AT BTPS
 
 <center> <Strong> Vision </strong>
@@ -29,6 +30,7 @@ third_nav_title: CCE
 <strong>With these intentional efforts, the BTPS student leader eventually becomes a Leader of Character, who contributes back to the community.</strong>
 
 # Our Values-based Approach
+
 <img src="/images/CCE2.png" 
      style="width:65%">
 
@@ -37,11 +39,9 @@ third_nav_title: CCE
 <img src="/images/CCE4.jpeg" 
      style="width:65%">
 
-
 <strong><center>Peer Support Relationship (PSR)</center></strong>
 
 A strong Peer Support culture enables our students develop resilience as they give or seek support from peers or trusted adults in school. Our school adopts a two-tiered approach <strong>(Tier 1: Everyone is a Peer Supporter and Tier 2: Peer Support Ambassadors)</strong>, to strengthen the peer support relationships (PSR) among peers, as well as to foster a culture of care and inclusiveness within the school.
-
 
 <strong><center>Level 1: Everyone is a peer supporter</center></strong>
 
@@ -51,25 +51,21 @@ To allow everyone to be a peer supporter, the “CHEER” model adapted from Gui
      style="width:65%">
 
 <strong><center>Level 2: Peer Support Ambassadors</center></strong>
-	
 <strong><center>VISION:</center></strong>
 
 <strong><center>There are compassionate leaders in every class who care and inspire others to make a positive difference</center></strong>
 
 <strong><center>MISSION:</center></strong>
-	
 <strong><center>To provide an inclusive and caring school environment by developing Peer Support Ambassadors who Model the Way and Encourage the Hearts of others</center></strong>
-
 
 <strong><center>TEACHERS-IN-CHARGE:</center></strong>
 
 <center><strong>OIC:</strong> Mdm Idayu</center>
 <center><strong>Other Teacher I/Cs:</strong> Ms Wong Siow Yen</center>
 
+Peer Support Ambassadors (PSAs) were appointed to support peers socially and emotionally, therefore promoting overall student well-being and strengthen the positive network of peers in the school, therefore contributing to a caring and positive learning environment.
 
-Peer Support Ambassadors (PSAs) were appointed to support peers socially and emotionally, therefore promoting overall student well-being and strengthen the positive network of peers in the school, therefore contributing to a caring and positive learning environment. 
-
-To develop an effective Peer Support culture within the school, PSAs@BTPS were selected for their sense of empathy and moral courage, and are trained in  interpersonalskills to positively influence and support their peers. They are also taught to recognise signs of distress, and offer practical help or seek support for their peers. 
+To develop an effective Peer Support culture within the school, PSAs@BTPS were selected for their sense of empathy and moral courage, and are trained in interpersonalskills to positively influence and support their peers. They are also taught to recognise signs of distress, and offer practical help or seek support for their peers.
 
 <img src="/images/student%20leadership.png" 
      style="width:85%">

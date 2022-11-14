@@ -1,8 +1,9 @@
 ---
 title: Principal's Message
-permalink: /school-info/principals-message
+permalink: /school-info/principals-message/
 description: ""
 ---
+
 From the Principal…..
 
 I believe all pupils have the ability to learn, unlearn and relearn. Learning can take place at any time and any place. Thus, it is important to create space and opportunities for learning to happen and allowing our pupils the time and space to experience and reflect upon their learning. Learning is a life-long journey and so the pupils must learn and want to take ownership of it.

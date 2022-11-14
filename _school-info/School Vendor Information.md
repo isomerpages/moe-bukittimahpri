@@ -1,8 +1,9 @@
 ---
 title: School Vendor Information
-permalink: /school-info/school-vendor-information
+permalink: /school-info/school-vendor-information/
 description: ""
 ---
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -62,9 +63,8 @@ description: ""
 </tbody>
 </table>
 
-
 <br>
 
-* [2022 Booklist.pdf](/files/2022%20Booklist.pdf)
-* [Info Sheet on School Bus Services_updated.pdf](/files/Info%20Sheet%20on%20School%20Bus%20Services_updated.pdf)
-* [School uniform.pdf](/files/School%20uniform.pdf)
+- [2022 Booklist.pdf](/files/2022%20Booklist.pdf)
+- [Info Sheet on School Bus Services_updated.pdf](/files/Info%20Sheet%20on%20School%20Bus%20Services_updated.pdf)
+- [School uniform.pdf](/files/School%20uniform.pdf)

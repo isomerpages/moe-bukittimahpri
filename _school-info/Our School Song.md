@@ -1,8 +1,9 @@
 ---
 title: Our School Song
-permalink: /school-info/our-school-song
+permalink: /school-info/our-school-song/
 description: ""
 ---
+
 **School Song**
 
 Bukit Timah School we honour you,
