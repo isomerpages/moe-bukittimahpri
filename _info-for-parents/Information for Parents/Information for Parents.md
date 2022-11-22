@@ -24,6 +24,8 @@ third_nav_title: Information for Parents
 * [Praise Your Child](/files/Scan1.pdf)
 
 **P1 Orientation Slides** 
+[Principal's Slides for P1 E-Orientation 2023](/files/2022/Principal's%20Slides%20for%20P1%20E-Orientation%202023.pdf)
+
 [FT slides for P1 E-Orientation 2023](/files/2022/FTs'%20Slides%20for%20P1%20E-Orientation_2023.pdf)
 
 [YH slides P1 Orientation for Parents 2023](/files/2022/YH%20slides%20P1%20Orientation_Parents_2023.pdf)
