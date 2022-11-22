@@ -24,11 +24,9 @@ third_nav_title: Information for Parents
 * [Praise Your Child](/files/Scan1.pdf)
 
 **P1 Orientation Slides** 
-*  [Principal Slides for P1 E-Orientation 2022](/files/2022/Briefing%20Documents/Principals%20Slides%20for%20P1%20E-Orientation%202022.pdf)
 
-* [Form Teachers Slides for P1 E-Orientation 2022](/files/2022/Briefing%20Documents/Form%20Teachers%20Slides%20for%20P1%20E-Orientation2022.pdf)
 
-* [Year Heads slides P1 Orientation_Parents_2022.pdf](/files/Year%20Heads%20slides%20P1%20Orientation_Parents_2022.pdf)
+
 
 * [P1 Administrative Matter 2022](/files/2022/Briefing%20Documents/P1%20Administrative%20matters%202022.pdf)
 
