@@ -1,0 +1,6 @@
+collections:
+  partners:
+    output: true
+    order:
+      - Parent Support Group.md
+      - Collaboration with Partners.md

@@ -2,31 +2,37 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Bukit Timah Primary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - "111"
+      - Lorong Kismis
+      - Singapore 598112
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+      - days: Monday - Friday
+        time: 8am - 4pm
+        description: ""
+    maps_link: ""
+    title: School Building
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6466 2863
+      - email: ""
+      - other: ""
+    title: Phone
+  - content:
+      - phone: +65 6469 2179
+      - email: bukittimahps@moe.edu.sg
+      - other: ""
+    title: Mail
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "173"
+    title: Bus Services
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Bukit Batok MRT <br>Clementi stations
+    title: Nearest MRT Stations
 ---

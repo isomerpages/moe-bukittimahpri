@@ -1,0 +1,7 @@
+collections:
+  staff:
+    output: true
+    order:
+      - Organizational Chart.md
+      - Staff List.md
+      - Staff in Action.md

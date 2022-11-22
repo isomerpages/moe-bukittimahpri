@@ -1,0 +1,14 @@
+collections:
+  info-for-parents:
+    output: true
+    order:
+      - Information for Parents/.keep
+      - Information for Parents/Information for Parents.md
+      - Information for Parents/2022 WE STORIES.md
+      - Information for Parents/Student Icon.md
+      - HOME BASED LEARNING.md
+      - Dental Information.md
+      - Briefing.md
+      - Sexuality Education.md
+      - Others/.keep
+      - Others/Choosing a Secondary School.md

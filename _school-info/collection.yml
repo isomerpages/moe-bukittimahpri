@@ -1,0 +1,10 @@
+collections:
+  school-info:
+    output: true
+    order:
+      - Our Vision, Mission and Motto.md
+      - Our School Song.md
+      - School History.md
+      - BTPS Virtual Tour.md
+      - Principal's Message.md
+      - School Vendor Information.md

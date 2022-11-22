@@ -1,13 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/btps home.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Staff
+    collection: staff
+  - title: School Info
+    collection: school-info
+  - title: Key Programmes
+    collection: key-programmes
+  - title: Department
+    collection: department
+  - title: CCA
+    collection: cca
+  - title: Partners
+    collection: partners
+  - title: Info For Parents
+    collection: info-for-parents
