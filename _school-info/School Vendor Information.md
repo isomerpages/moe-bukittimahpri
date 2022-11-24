@@ -3,7 +3,6 @@ title: School Vendor Information
 permalink: /school-info/school-vendor-information/
 description: ""
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -55,10 +54,10 @@ description: ""
     <td class="tg-22y8">64623920</td>
   </tr>
   <tr>
-    <td class="tg-a6s9"><a href="/files/After%20School%20-%20NTUC.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;text-decoration:none">After School (NTUC) </span></a></td>
+    <td class="tg-a6s9"><a href="/files/After%20School%20-%20NTUC.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;text-decoration:none">Student Care Services </span></a></td>
     <td class="tg-22y8">After School </td>
     <td class="tg-22y8"> NIL</td>
-    <td class="tg-22y8">NIL </td>
+    <td class="tg-22y8">87689011 </td>
   </tr>
 </tbody>
 </table>
