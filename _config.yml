@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-bukittimahpri-staging.netlify.app
-prod: https://moe-bukittimahpri-prod.netlify.app
+staging: https://staging.d1kp2p9z7n93ot.amplifyapp.com
+prod: https://master.d1kp2p9z7n93ot.amplifyapp.com
 shareicon: /images/BTPS_Logo.jpeg
 resources_name: announcements
 is_government: false
