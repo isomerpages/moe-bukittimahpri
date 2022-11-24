@@ -54,7 +54,7 @@ description: ""
     <td class="tg-22y8">64623920</td>
   </tr>
   <tr>
-    <td class="tg-a6s9"><a href="/files/After%20School%20-%20NTUC.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;text-decoration:none">Student Care Services </span></a></td>
+    <td class="tg-a6s9">Student Care Services </span></a></td>
     <td class="tg-22y8">After School </td>
     <td class="tg-22y8"> NIL</td>
     <td class="tg-22y8">87689011 </td>
