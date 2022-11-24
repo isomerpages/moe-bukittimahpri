@@ -45,7 +45,7 @@ third_nav_title: Information for Parents
 1. [Booklist 2022](/files/2022/Vendors%20Information/2022%20Booklist.pdf)
 2. [School Bus Services](/files/2022/Vendors%20Information/Info%20Sheet%20on%20School%20Bus%20Services_updated.pdf)
 3. [School Uniforms](/files/2022/Vendors%20Information/School%20uniform.pdf)
-4. [After School - NTUC](/files/2022/Vendors%20Information/After%20School%20-%20NTUC.pdf)
+4. 
 
 
 **Group Personal Accident Insurance**
