@@ -72,7 +72,7 @@ description: ""
 | 3 Respect | Mr Chua Khoon Sia Raymond| chua_khoon_sia@moe.edu.sg  | 308 |
 | 3 Respect | Miss Goh Xue Yi (HOD/Pupil Management)  | goh_xue_yi@moe.edu.sg | 210 |
 | 3 Resilience | Mr Solomon Tan Ding Huang| solomon_tan_ding_huang@moe.edu.sg  | 362|
-| 3 Resilience | Mrs Jeanette Yeo  | goh_xue_yi@moe.edu.sg | 309 |
+| 3 Resilience | Mrs Jeanette Yeo  | lim_mui_ling_jeannette@moe.edu.sg | 309 |
 
 
 # 2023 Primary 4 Teachers
