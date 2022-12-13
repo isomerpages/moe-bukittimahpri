@@ -30,7 +30,7 @@ description: ""
 | 1 Adaptability | Mr Wang Hao | wang_hao@moe.edu.sg | 355|
 | 1 Compassion | Mrs Iman - Akidah  |  shahidatul_akidah_mohd_suaidi@moe.edu.sg | 324 |
 | 1 Compassion | Mdm Tan Hwee Hsia  | tan_hwee_hsia@moe.edu.sg  | 353 |
-| 1 Graciousness | Mrs Kimberly Tan | koh_ai_yong@moe.edu.sg | 335 |
+| 1 Graciousness | Mrs Kimberly Tan | koh_ai_yong_kimberly@moe.edu.sg | 335 |
 | 1 Graciousness | Miss Koh Beng Li | koh_beng_li@moe.edu.sg | 354 |
 | 1 Integrity | Mrs Shirlena Chan (HOD PE/CCA) | yap_siew_cheng_shirlena@moe.edu.sg | 209 |
 | 1 Integrity | Mdm Wang Ling | wang_ling@moe.edu.sg | 327 |
