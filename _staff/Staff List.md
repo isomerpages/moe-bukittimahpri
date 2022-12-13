@@ -25,11 +25,11 @@ description: ""
 
 | Class | Teacher Name | Email Address | Extension Number |
 |---|---|---|---|
-| 1 Adaptability | Mrs Goh  - Chan Khai Gin | chan_khai_gin@moe.edu.sg | 339 |
-| 1 Adaptability | Wang Lu | wang_lu_a@moe.edu.sg | 328 |
-| 1 Compassion | Mdm Noor Idayu Bte Sunator   (SH/SW) |  noor_idayu_sunator@moe.edu.sg | 321 |
-| 1 Compassion | Ms Edna Phong Yang Yi  | phong_yang_yi_edna@moe.edu.sg  | 330 |
-| 1 Graciousness | Ms Karyn Ang | ang_bi_xia_karyn@moe.edu.sg | 323 |
+| 1 Adaptability | Mrs Evelyn Lee | evelyn_ang_gek_shia@moe.edu.sg | 326 |
+| 1 Adaptability | Mr Wang Hao | wang_hao@moe.edu.sg | 355|
+| 1 Compassion | Mrs Iman - Akidah  |  shahidatul_akidah_mohd_suaidi@moe.edu.sg | 324 |
+| 1 Compassion | Mdm Tan Hwee Hsia  | tan_hwee_hsia@moe.edu.sg  | 353 |
+| 1 Graciousness | Mrs Kimberly Tan | ang_bi_xia_karyn@moe.edu.sg | 323 |
 | 1 Graciousness | Mr Ernest Ong Wei Ming | ong_wei_ming@moe.edu.sg | 331 |
 | 1 Integrity | Ms Celeste Wong Siow Yen | wong_siow_yen@moe.edu.sg | 338 |
 | 1 Integrity | Mdm Du Ying | du_ying@moe.edu.sg | 350 |
