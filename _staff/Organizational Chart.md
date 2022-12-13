@@ -146,7 +146,8 @@ description: ""
     <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm%20xu%20aili.jpeg" style="width:80%"><span style="color:#222;background-color:#EAEAEA"></span></td>
   </tr>
   <tr>
-		<td class="tg-c3ow"><b>Mdm Durgadevi</b><br><b>SH - NE / SS</b></td>
+		<td class="tg-c3ow"><b>Mdm Durgadevi</b><br><b>SH - NE / SS</b>
+<b>HOD ICT (covering)</b></td>
 		<td class="tg-c3ow"><b>Mrs Lynette Lim</b><br><b>SH - Aesthetics</b></td>
 		<td class="tg-c3ow"><b>Mdm Xu Aili</b><br><b>Senior Chinese Teacher </b></td>
   </tr>
