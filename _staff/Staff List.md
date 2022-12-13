@@ -8,7 +8,6 @@ description: ""
 
 | School Leaders | Name | Email Address | Extension Number |
 |---|---|---|---|
-| Principal | Mdm Teresa Kelly Len | Teresa_Kelly_LEN@schools.gov.sg | N/A |
 |  Principal | Ms Lau Wan Sze | Lau_Wan_Sze@schools.gov.sg |  N/A |
 |  Vice Principal | Mr Wong Sung Lai  Edward | WONG_Sung_Lai@schools.gov.sg |  N/A |
 |   Vice Principal  |  Mdm Kitha Arumugam | Kitha_ARUMUGAM@schools.gov.sg  | NA  |
