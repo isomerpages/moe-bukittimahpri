@@ -65,10 +65,9 @@ lau_wan_sze@schools.gov.sg | N/A |
 
 | Class | Teacher Name | Email Address | Extension Number |
 |---|---|---|---|
-| 3 Adaptability | Mrs Wong-Chong Yu Pei | chong_yu_pei@moe.edu.sg | 315 |
-| 3 Adaptability | Mrs Joanne Hu (Music) |  lim_xue_mei_joanne@moe.edu.sg | 358 |
-| 3 Compassion | Mdm Chong Pei Li (HOD ICT) | chong_pei_li@moe.edu.sg | 205 |
-| 3 Compassion | Mr Idris Taha (PE) | idris_b_mohd_taha@moe.edu.sg | 367 |
+| 3 Adaptability | Ms Josesphine Ho Hui Shan (Music) | ho_hui_suan_josephine@moe.edu.sg | 347 |
+| 3 Compassion | Mrs Joanne Hu (Music) | lim_xue_mei_joanne@moe.edu.sg | 358 |
+| 3 Compassion | Mr Ng Kim Chwee (FAJT) | ng_kim_chwee@moe.edu.sg | 375 |
 | 3 Gracioiusness | Miss Annabelle Chua Wen Xin | annabelle_chua_wen_xin@moe.edu.sg | 319 |
 | 3 Graciousness | Mr Ho Boon Huat (HOD MT) | ho_boon_huat@moe.edu.sg | 363 |
 | 3 Integrity | Mrs Serene Tear Poh Keng | yap_poh_keng@moe.edu.sg | 314 |
