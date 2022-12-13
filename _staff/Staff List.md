@@ -68,13 +68,12 @@ lau_wan_sze@schools.gov.sg | N/A |
 | 3 Adaptability | Ms Josesphine Ho Hui Shan (Music) | ho_hui_suan_josephine@moe.edu.sg | 347 |
 | 3 Compassion | Mrs Joanne Hu (Music) | lim_xue_mei_joanne@moe.edu.sg | 358 |
 | 3 Compassion | Mr Ng Kim Chwee (FAJT) | ng_kim_chwee@moe.edu.sg | 375 |
-| 3 Gracioiusness | Miss Annabelle Chua Wen Xin | annabelle_chua_wen_xin@moe.edu.sg | 319 |
-| 3 Graciousness | Mr Ho Boon Huat (HOD MT) | ho_boon_huat@moe.edu.sg | 363 |
-| 3 Integrity | Mrs Serene Tear Poh Keng | yap_poh_keng@moe.edu.sg | 314 |
-| 3 Integrity | Mrs Angeline Teo (Year Head P3/P4) | low_swee_ling_angeline@moe.edu.sg  |  372 |
-| 3 Respect | Mdm Rosna Bte Hussein | rosna_hussien@moe.edu.sg  | 305 |
-| 3 Respect | Mdm Suzana Yaacob (ART) | suzana_mohd_yaacob@moe.edu.sg  | 357 |
-
+| 3 Gracioiusness | Mrs Raj-Lorshenni D/O Jaya Sanger | lorshenni_jaya_sanger_a@moe.edu.sg | 318 |
+| 3 Integrity | Mr Chua Peng Swee | chua_peng_swee@moe.edu.sg | 345 |
+| 3 Respect | Mr Chua Khoon Sia Raymond| chua_khoon_sia@moe.edu.sg  | 308 |
+| 3 Respect | Miss Goh Xue Yi (HOD Pupil Management)  | goh_xue_yi@moe.edu.sg | 210 |
+| 3 Resilience | Mr Solomon Tan Ding Huang| solomon_tan_ding_huang@moe.edu.sg  | 362|
+| 3 Resilience | Mrs Jeanette Yeo  | goh_xue_yi@moe.edu.sg | 309 |
 
 
 # 2023 Primary 4 Teachers
@@ -82,8 +81,9 @@ lau_wan_sze@schools.gov.sg | N/A |
 
 | Class | Teacher Name | Email Address | Extension Number |
 |---|---|---|---|
-| 4 Adaptability | Mdm Durgadevi d/o Tamil Selvam (SH NE/SS) | durgadevi_tamil_selvam@moe.edu.sg | 303|
-| 4 Compassion | Mrs Raj-Lorshennik d/o Jaya Sanger | lorshenni_jaya_sanger_a@moe.edu.sg | 318 |
+| 4 Adaptability | Mrs Wong-Chong Yu Pei | chong_yu_pei@moe.edu.sg | 315|
+| 4 Adaptability | Ms Peng Yuanzhen | peng_yuanzhen@moe.edu.sg | 333|
+| 4 Compassion | Mdm Suzanna Bte Mohd Isnin(SSD)| suzanna_mohamed_isnin @moe.edu.sg | 204 |
 | 4 Compassion | Mr Chua Peng Swee | chua_peng_swee@moe.edu.sg | 345 |
 | 4 Graciousness | Mr Christopher Khoo (HOD Science) | khoo_kian_kiong_christopher@moe.edu.sg | 208 |
 | 4 Graciousness | Mrs Yvonne Kwan | yvonne_tan_bee_leng@moe.edu.sg | 313 |
