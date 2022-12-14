@@ -50,8 +50,8 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img src="/images/Staff%20Photos/Organisation%20Photos/mr%20abdul%20halik%20bin%20abdul%20hamid.jpeg" style="width:75%"></th>
-    <th class="tg-tlx9"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm%20nurhayati%20bte%20rahmat.jpeg" style="width:73%"></th>
+    <th class="tg-tlx9"><img src="/images/Staff%20Photos/Organisation%20Photos/mr%20abdul%20halik%20bin%20abdul%20hamid.jpeg" style="width:80%"></th>
+    <th class="tg-tlx9"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm%20nurhayati%20bte%20rahmat.jpeg" style="width:80%"></th>
     <th class="tg-tlx9"><img src="/images/Staff%20Photos/Organisation%20Photos/mr%20samales%20kuppusamy.jpeg" style="width:70%"> </th>
   </tr>
 </thead>
@@ -77,9 +77,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/ms%20indira%20do%20raghavan%20pillai.jpeg" style="width:75%"></th>
-    <th class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20Karin%20gan.jpeg" style="width:70%"></th>
-    <th class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mr%20christopher%20khoo.jpeg" style="width:70%">
+    <th class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/ms%20indira%20do%20raghavan%20pillai.jpeg" style="width:100%"></th>
+    <th class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20Karin%20gan.jpeg" style="width:60%"></th>
+    <th class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mr%20christopher%20khoo.jpeg" style="width:80%">
 <span style="color:#222;background-color:#EAEAEA"></span></th>
   </tr>
 </thead>
@@ -90,20 +90,20 @@ description: ""
 		<td class="tg-c3ow"><b>Mr Christopher Khoo</b><br><b>HOD/Science</b></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20chan-yap%20xue%20li.jpeg" style="width:80%">
+    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20chan-yap%20xue%20li.jpeg" style="width:100%">
 </td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20shirlena%20chan.jpeg" style="width:80%"><span style="color:#222;background-color:#EAEAEA"></span></td>
   </tr>
   <tr>
 		<td class="tg-c3ow"><b>Mrs Nicole Chan</b><br><b>HOD/ CCE</b></td>
-		<td class="tg-c3ow">vacant<br><b>HOD/ICT</b></td>
+		<td class="tg-c3ow"><br><b></b></td>
 		<td class="tg-c3ow"><b>Mrs Shirlena Chan</b><br><b>HOD/PE &amp; CCA </b></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20shirley%20ong.jpeg" style="width:80%"></td>
-    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20angeline%20teo.jpeg" style="width:70%"></td>
-    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mr%20effandi%20bin%20jasman.jpeg" style="width:70%"></td>
+    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20shirley%20ong.jpeg" style="width:100%"></td>
+    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20angeline%20teo.jpeg" style="width:60%"></td>
+    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mr%20effandi%20bin%20jasman.jpeg" style="width:80%"></td>
   </tr>
   <tr>
 		<td class="tg-c3ow"><b>Mrs Shirley Ong</b><br><b>Year Head <br>(P1 &amp; P2)</b></td>
@@ -128,7 +128,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20mellissa%20khoo.jpeg" style="width:80%"></th>
-    <th class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm%20noor%20idayu%20bte%20sunator.jpeg" style="width:85%"></th>
+    <th class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm%20noor%20idayu%20bte%20sunator.jpeg" style="width:90%"></th>
 		<th class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm%20sangitah%20do%20jayaseelan.jpeg" style="width:80%"></th>
 
   </tr>
@@ -137,13 +137,13 @@ description: ""
   <tr>
 		<td class="tg-c3ow"><b>Ms Mellissa Khoo</b><br><b>LH/EL</b><br></td>
 		<td class="tg-c3ow"><b>Mdm Noor Idayu</b><br><b>SH/Pupils Affair</b></td>
-		<td class="tg-c3ow"><b>Mdm Sangitah</b><br><b>SH/VIA &amp; Student Leadership</b></td>
+		<td class="tg-c3ow"><b>Mdm Sangitah</b><br><b>SH/VIA&amp;Student Leadership</b></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm%20durgadevi.jpeg" style="width:83%">
 </td>
-    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20lynette%20lim.jpeg" style="width:80%"></td>
-    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm%20xu%20aili.jpeg" style="width:80%"><span style="color:#222;background-color:#EAEAEA"></span></td>
+    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20lynette%20lim.jpeg" style="width:90%"></td>
+    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm%20xu%20aili.jpeg" style="width:75%"><span style="color:#222;background-color:#EAEAEA"></span></td>
   </tr>
   <tr>
 		<td class="tg-c3ow"><b>Mdm Durgadevi</b><br><b>SH/ICT</b></td>
@@ -151,9 +151,9 @@ description: ""
 		<td class="tg-c3ow"><b>Mdm Xu Aili</b><br><b>ST/CL </b></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm%20junaida%20jasman.jpeg" style="width:70%"></td>
+    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm%20junaida%20jasman.jpeg" style="width:80%"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm%20rozana%20hashim.jpeg" style="width:70%"></td>
+    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm%20rozana%20hashim.jpeg" style="width:80%"></td>
   </tr>
   <tr>
 		<td class="tg-c3ow"><b>Mdm Junaida Jasman</b><br><b>ST/Mathematics</b></td>
