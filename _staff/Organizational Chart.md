@@ -6,9 +6,9 @@ description: ""
 ## ORGANIZATIONAL CHART
 
 <figure>
-<img src="/images/Staff%20Photos/Organisation%20Photos/Ms%20Lau%20Wan%20Sze.jpeg" style="width:100%"> 
+<img src="/images/Staff%20Photos/Organisation%20Photos/mr%20edward%20wong.jpeg" >
 </b><br><b>MS LAU WAN SZE</b><br><b>Principal</b>
-
+</figure>
 <br>
 
 <style type="text/css">
