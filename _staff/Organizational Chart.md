@@ -92,7 +92,7 @@ description: ""
   <tr>
     <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20chan-yap%20xue%20li.jpeg" style="width:80%">
 </td>
-    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm%20chong%20pei%20li.jpeg" style="width:75%"></td>
+    <td class="tg-c3ow"></td>
     <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20shirlena%20chan.jpeg" style="width:80%"><span style="color:#222;background-color:#EAEAEA"></span></td>
   </tr>
   <tr>
