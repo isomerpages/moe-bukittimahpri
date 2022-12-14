@@ -124,7 +124,7 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 </style>
-<span style="color:#222;background-color:#EAEAEA"></span><table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20mellissa%20khoo.jpeg" style="width:80%"></th>
