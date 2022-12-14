@@ -6,8 +6,8 @@ description: ""
 ## ORGANIZATIONAL CHART
 
 <figure>
-<img src="/images/Staff%20Photos/Organisation%20Photos/mdm%20teresa%20kelly%20len.jpeg" style="width:25%"> 
-	<figcaption><b>Mdm Teresa Kelly Len</b><br><b>Principal</b>
+<img src="/images/Staff%20Photos/Organisation%20Photos/Ms%20Lau%20Wan%20Sze.jpeg" style="width:100%"> 
+</b><br><b>MS LAU WAN SZE</b><br><b>Principal</b>
 
 <br>
 
