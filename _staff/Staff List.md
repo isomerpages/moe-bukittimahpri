@@ -51,6 +51,8 @@ description: ""
 | 2_Compassion | Ms Phong Yang Yi Edna | phong_yang_yi_edna@moe.edu.sg | 330 |
 | 2_Graciousness |Mr Ernest Ong Wei Ming | ong_wei_ming@moe.edu.sg | 331 |
 | 2_Graciousness | Miss Chai Siew Lan Teresa (FAJT) | chai_siew_lan_teresa@moe.edu.sg  | 325 |
+| 2_Harmony |Mrs Nicole Chan (HOD/CCE | yap_xue_li_nicole@moe.edu.sg | 202 |
+| 2_Graciousness | Mdm Li Yiling | Li_yiling@moe.edu.sg  | 353 |
 | 2_Integrity | Ms Celeste Wong Siow Yen | wong_siow_yen@moe.edu.sg | 338 |
 | 2_Integrity | Mdm Du Ying | du_ying@moe.edu.sg | 350 |
 | 2_Respect | Mrs Samantha Er | ong_yen_ting_samantha@moe.edu.sg | 322 |
