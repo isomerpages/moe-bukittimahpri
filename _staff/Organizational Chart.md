@@ -163,4 +163,3 @@ description: ""
 </tbody>
 </table>
 
-</figure>
