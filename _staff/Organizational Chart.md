@@ -162,5 +162,5 @@ description: ""
   </tr>
 </tbody>
 </table>
-</figcaption>
+
 </figure>
