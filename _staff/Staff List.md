@@ -82,7 +82,7 @@ description: ""
 
 | Class | Teacher Name | Email Address | Extension Number |
 |---|---|---|---|
-| 4_Adaptability | Mrs Wong-Chong Yu Pei | [[chong_yu_pei@moe.edu.sg](mailto:chong_yu_pei@moe.edu.sg) | 315|
+| 4_Adaptability | Mrs Wong-Chong Yu Pei | [\[chong_yu_pei@moe.edu.sg](mailto:chong_yu_pei@moe.edu.sg) | 315|
 | 4_Adaptability | Ms Peng Yuanzhen | [peng_yuanzhen@moe.edu.sg](mailto:peng_yuanzhen@moe.edu.sg) | 333|
 | 4_Compassion | Mdm Suzanna Bte Mohd Isnin (HOD SSD)| [suzanna_mohamed_isnin@moe.edu.sg](mailto:suzanna_mohamed_isnin@moe.edu.sg) | 204 |
 | 4_Compassion | Mr Idris Bin Mohd Taha | [idris_b_mohd_taha@moe.edu.sg](mailto:idris_b_mohd_taha@moe.edu.sg)| 367 |
