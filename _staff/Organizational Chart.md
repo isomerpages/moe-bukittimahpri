@@ -24,7 +24,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zkss"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm%20kitha%20arumugam.jpeg" style="width:30%"> 
+    <th class="tg-tlx9"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm%20kitha%20arumugam.jpeg" style="width:30%"> 
     </th><th class="tg-tlx9"><img src="/images/Staff%20Photos/Organisation%20Photos/mr%20edward%20wong.jpeg" style="width:32%"> </th>
 	</tr>
 </thead>
