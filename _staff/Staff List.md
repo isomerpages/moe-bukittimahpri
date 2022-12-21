@@ -24,7 +24,7 @@ description: ""
 # 2023 Primary 1 Teachers
 
 
-| Class | Teacher Name | Email Address | Extension Number |
+| Class | Name of Teacher | Email Address | Extension Number |
 |---|---|---|---|
 | 1_Adaptability | Mrs Evelyn Lee | [evelyn_ang_gek_shia@moe.edu.sg](mailto:evelyn_ang_gek_shia@moe.edu.sg) | 326 |
 | 1_Adaptability | Mr Wang Hao | [wang_hao@moe.edu.sg](mailto:wang_hao@moe.edu.sg) | 355|
@@ -43,7 +43,7 @@ description: ""
 # 2023 Primary 2 Teachers
 
 
-| Class | Teacher Name | Email Address | Extension Number |
+| Class | Name of Teacher | Email Address | Extension Number |
 |---|---|---|---|
 | 2_Adaptablity | Mrs Goh - Chan Khai Gin | [chan_khai_gin@moe.edu.sg](mailto:chan_khai_gin@moe.edu.sg) | 339 |
 | 2_Adaptablity |Mdm Wang Lu  | [wang_lu_a@moe.edu.sg](mailto:wang_lu_a@moe.edu.sg)  | 328 |
@@ -64,7 +64,7 @@ description: ""
 # 2023 Primary 3 Teachers
 
 
-| Class | Teacher Name | Email Address | Extension Number |
+| Class | Name of Teacher | Email Address | Extension Number |
 |---|---|---|---|
 | 3_Adaptability | Ms Josesphine Ho Hui Shan (Music) | [ho_hui_suan_josephine@moe.edu.sg](mailto:ho_hui_suan_josephine@moe.edu.sg) | 347 |
 | 3_Compassion | Mrs Joanne Hu (Music) | [lim_xue_mei_joanne@moe.edu.sg](mailto:lim_xue_mei_joanne@moe.edu.sg) | 358 |
@@ -80,7 +80,7 @@ description: ""
 # 2023 Primary 4 Teachers
 
 
-| Class | Teacher Name | Email Address | Extension Number |
+| Class | Name of Teacher | Email Address | Extension Number |
 |---|---|---|---|
 | 4_Adaptability | Mrs Wong-Chong Yu Pei | [chong_yu_pei@moe.edu.sg](mailto:chong_yu_pei@moe.edu.sg) | 315|
 | 4_Adaptability | Ms Peng Yuanzhen | [peng_yuanzhen@moe.edu.sg](mailto:peng_yuanzhen@moe.edu.sg) | 333|
@@ -97,7 +97,7 @@ description: ""
 # 2023 Primary 5 Teachers
 
 
-| Class | Teacher Name | Email Address | Extension Number |
+| Class | Name of Teacher | Email Address | Extension Number |
 |---|---|---|---|
 | 5_Adaptability | Mdm Durgadevi d/o Tamil Selvam | [durgadevi_tamil_selvam@moe.edu.sg](mailto:durgadevi_tamil_selvam@moe.edu.sg) | 303 |
 | 5_Adaptability | Dr Mohammad Shah Bin Razak | [mohammad_shah_razak@moe.edu.sg](mailto:mohammad_shah_razak@moe.edu.sg) |   |
@@ -112,7 +112,7 @@ description: ""
 
 # 2023 Primary 6 Teachers
 
-| Class | Teacher Name | Email Address | Extension Number |
+| Class | Name of Teacher | Email Address | Extension Number |
 |---|---|---|---|
 | 6_Adaptability | Mdm Chitra d/o Selvaraju | [chitra_selvaraju@moe.edu.sg](mailto:chitra_selvaraju@moe.edu.sg) | 342 |
 | 6_Adaptability | Mr Zaini Bin Zanal | [zaini_zanal@moe.edu.sg](mailto:zaini_zanal@moe.edu.sg) | 359 |
@@ -127,7 +127,7 @@ description: ""
 # Other Teachers
 
 
-| Position | Teacher Name | Email Address | Extension Number |  |
+| Position | Name of Teacher | Email Address | Extension Number |  |
 |---|---|---|---|---|
 | SSC | Mdm Mariam Bte Isnin | [mariam_isnin@moe.edu.sg](mailto:mariam_isnin@moe.edu.sg) |301 |  |
 | AED/LBS | Ms Ivy Tan Ah Bitt | [tan_ah_bitt@moe.edu.sg](mailto:tan_ah_bitt@moe.edu.sg) | 343 |  |
