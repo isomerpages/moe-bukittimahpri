@@ -17,5 +17,3 @@ As I start my time in BTPS, I hope to get to know students, staff, parents and o
 
 Ms Lau Wan Sze <br>
 Principal BTPS
-
-
