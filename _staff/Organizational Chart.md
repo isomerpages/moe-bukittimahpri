@@ -77,7 +77,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/ms%20indira%20do%20raghavan%20pillai.jpeg" style="width:80%"></th>
+    <th class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/ms%20indira%20do%20raghavan%20pillai.jpeg" style="width:70%"></th>
     <th class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20Karin%20gan.jpeg" style="width:50%"></th>
     <th class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mr%20christopher%20khoo.jpeg" style="width:60%">
 <span style="color:#222;background-color:#EAEAEA"></span></th>
@@ -90,10 +90,10 @@ description: ""
 		<td class="tg-c3ow"><b>Mr Christopher Khoo</b><br><b>HOD/Science</b></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20chan-yap%20xue%20li.jpeg" style="width:80%">
+    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20chan-yap%20xue%20li.jpeg" style="width:70%">
 </td>
     <td class="tg-c3ow"></td>
-    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20shirlena%20chan.jpeg" style="width:70%"><span style="color:#222;background-color:#EAEAEA"></span></td>
+    <td class="tg-c3ow"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs%20shirlena%20chan.jpeg" style="width:60%"><span style="color:#222;background-color:#EAEAEA"></span></td>
   </tr>
   <tr>
 		<td class="tg-c3ow"><b>Mrs Nicole Chan</b><br><b>HOD/ CCE</b></td>
