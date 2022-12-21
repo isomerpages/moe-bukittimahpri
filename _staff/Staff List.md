@@ -14,7 +14,7 @@ description: ""
 | Admin Manager | Mr Abdul Halik Bin Abdul Hamid |  [abdul_halik_abdul_hamid@schools.gov.sg](mailto:abdul_halik_abdul_hamid@schools.gov.sg) | 107 |
 |  Admin Manager |  Mdm Nurhayati Bte Rahmat | [nurhayati_rahmat@moe.edu.sg](mailto:nurhayati_rahmat@moe.edu.sg)  |  103 |
 | Operation Manager | Mr Samales Kuppusamy | [kuppusamy_m_samales@moe.edu.sg](mailto:kuppusamy_m_samales@moe.edu.sg) | 104 |
-| ICT Manager | Mr Philip Lee | [lee_weng_philip_james@moe.edu.sg](mailto:lee_weng_philip_james@moe.edu.sg) | 109 |
+| ICT Manager | Mr Philip Lee | [lee_weng_philip_james@moe.edu.sg](mailto:lee_weng_philip_james@moe.edu.sg) | 101 |
 | ICT Manager | Mrs Lin Shu Rui | [tan_shu_rui@moe.edu.sg](mailto:tan_shu_rui@moe.edu.sg) | 109 ||
 |  MSO | Mdm Marlina Bte Mohd Nor  | [marlina_mohd_nor@moe.edu.sg](mailto:marlina_mohd_nor@moe.edu.sg)  |  102 |
 |  MSO  |  Mdm Irene Lee | [irene_lee_siew_hua@moe.edu.sg](mailto:irene_lee_siew_hua@moe.edu.sg)  |  802 |
