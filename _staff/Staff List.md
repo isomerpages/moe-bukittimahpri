@@ -82,7 +82,7 @@ description: ""
 
 | Class | Teacher Name | Email Address | Extension Number |
 |---|---|---|---|
-| 4_Adaptability | Mrs Wong-Chong Yu Pei | [\[chong_yu_pei@moe.edu.sg](mailto:chong_yu_pei@moe.edu.sg) | 315|
+| 4_Adaptability | Mrs Wong-Chong Yu Pei | [chong_yu_pei@moe.edu.sg](mailto:chong_yu_pei@moe.edu.sg) | 315|
 | 4_Adaptability | Ms Peng Yuanzhen | [peng_yuanzhen@moe.edu.sg](mailto:peng_yuanzhen@moe.edu.sg) | 333|
 | 4_Compassion | Mdm Suzanna Bte Mohd Isnin (HOD SSD)| [suzanna_mohamed_isnin@moe.edu.sg](mailto:suzanna_mohamed_isnin@moe.edu.sg) | 204 |
 | 4_Compassion | Mr Idris Bin Mohd Taha | [idris_b_mohd_taha@moe.edu.sg](mailto:idris_b_mohd_taha@moe.edu.sg)| 367 |
@@ -121,7 +121,7 @@ description: ""
 | 6_Graciousness | Mrs Ong Kai Chun | [tay_kai_chun@moe.edu.sg](mailto:tay_kai_chun@moe.edu.sg) | 307 |
 | 6_Graciousness | Mdm Nur Namira Bte Mazlan | [nur_namira_mazlan@moe.edu.sg](mailto:nur_namira_mazlan@moe.edu.sg) | 366 |
 | 6_Respect | Mrs Karin Gan (HOD/Math) | [yeo_lei_teng@moe.edu.sg](mailto:yeo_lei_teng@moe.edu.sg) | 206 |
-|  6_Respect | Mr Donald Tan Eit Peow (PE)  | [tan_eit_peow@moe.edu.sg@moe.edu.sg](mailto:tan_eit_peow@moe.edu.sg@moe.edu.sg)  |  346 |
+|  6_Respect | Mr Donald Tan Eit Peow (PE)  | [tan_eit_peow@moe.edu.sg](mailto:tan_eit_peow@moe.edu.sg@moe.edu.sg)  |  346 |
 
 
 # Other Teachers
