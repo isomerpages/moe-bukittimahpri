@@ -6,7 +6,7 @@ description: ""
 # School Leaders
 
 
-| School Leaders | Name | Email Address | Extension Number |
+| Titles | Name | Email Address | Extension Number |
 |---|---|---|---|
 |  Principal | Ms Lau Wan Sze | [Lau_Wan_Sze@schools.gov.sg](mailto:Lau_Wan_Sze@schools.gov.sg) |  N/A |
 |  Vice Principal | Mr Wong Sung Lai  Edward | [WONG_Sung_Lai@schools.gov.sg](mailto:WONG_Sung_Lai@schools.gov.sg) |  N/A |
@@ -51,7 +51,7 @@ description: ""
 | 2_Compassion | Ms Phong Yang Yi Edna | [phong_yang_yi_edna@moe.edu.sg](mailto:phong_yang_yi_edna@moe.edu.sg) | 330 |
 | 2_Graciousness |Mr Ernest Ong Wei Ming | [ong_wei_ming@moe.edu.sg](mailto:ong_wei_ming@moe.edu.sg) | 331 |
 | 2_Graciousness | Miss Chai Siew Lan Teresa (FAJT) | [chai_siew_lan_teresa@moe.edu.sg](mailto:chai_siew_lan_teresa@moe.edu.sg)  | 325 |
-| 2_Harmony |Mrs Nicole Chan (HOD/CCE | [yap_xue_li_nicole@moe.edu.sg](mailto:yap_xue_li_nicole@moe.edu.sg) | 202 |
+| 2_Harmony |Mrs Nicole Chan (HOD/CCE)   | [yap_xue_li_nicole@moe.edu.sg](mailto:yap_xue_li_nicole@moe.edu.sg) | 202 |
 | 2_Graciousness | Mdm Li Yiling | [Li_yiling@moe.edu.sg](mailto:Li_yiling@moe.edu.sg)  | 353 |
 | 2_Integrity | Ms Celeste Wong Siow Yen | [wong_siow_yen@moe.edu.sg](mailto:wong_siow_yen@moe.edu.sg) | 338 |
 | 2_Integrity | Mdm Du Ying | [du_ying@moe.edu.sg](mailto:du_ying@moe.edu.sg) | 350 |
@@ -90,7 +90,7 @@ description: ""
 | 4_Graciousness | Mr Ho Boon Huat (HOD/MTL) | [ho_boon_huat@moe.edu.sg](mailto:ho_boon_huat@moe.edu.sg) | 203 |
 | 4_Integrity |  Mrs Serene Tear Poh Keng | [yap_poh_keng@moe.edu.sg](mailto:yap_poh_keng@moe.edu.sg)  | 314 |
 | 4_Integrity | Mr Jeremy Ho (PE) | [ho_jian_xiong@moe.edu.sg](mailto:ho_jian_xiong@moe.edu.sg) | 360 |
-| 4_Respect | Ms Sharmini d/o Jaya Kumaran | [sharmini_jaya_kumaran@moe.edu.sg](mailto:sharmini_jaya_kumaran@moe.edu.sg) | 304 |
+| 4_Respect | Ms Sharmini d/o Jaya Kumaran (SH/CCE Covering)| [sharmini_jaya_kumaran@moe.edu.sg](mailto:sharmini_jaya_kumaran@moe.edu.sg) | 304 |
 | 4_Respect | Mdm Suzana Bte Mohd Yaacob (ART) | [suzana_mohd_yaacob@moe.edu.sg](mailto:suzana_mohd_yaacob@moe.edu.sg) | 357 |
 
 
@@ -99,7 +99,7 @@ description: ""
 
 | Class | Name of Teacher | Email Address | Extension Number |
 |---|---|---|---|
-| 5_Adaptability | Mdm Durgadevi d/o Tamil Selvam | [durgadevi_tamil_selvam@moe.edu.sg](mailto:durgadevi_tamil_selvam@moe.edu.sg) | 303 |
+| 5_Adaptability | Mdm Durgadevi d/o Tamil Selvam (SH/ICT)| [durgadevi_tamil_selvam@moe.edu.sg](mailto:durgadevi_tamil_selvam@moe.edu.sg) | 303 |
 | 5_Adaptability | Dr Mohammad Shah Bin Razak | [mohammad_shah_razak@moe.edu.sg](mailto:mohammad_shah_razak@moe.edu.sg) |   |
 | 5_Compassion | Mrs Melissa Khoo (LH/EL) | [chan_yu_fang_mellissa@moe.edu.sg](mailto:chan_yu_fang_mellissa@moe.edu.sg) | 317 |
 | 5_Compassion | Ms Tee Xinyi| [tee_xinyi@moe.edu.sg](mailto:tee_xinyi@moe.edu.sg) | 332 |
