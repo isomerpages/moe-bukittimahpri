@@ -82,7 +82,7 @@ description: ""
 
 | Class | Name of Teacher | Email Address | Extension Number |
 |---|---|---|---|
-| 4_Adaptability | Mrs Wong-Chong Yu Pei | [chong_yu_pei@moe.edu.sg](mailto:chong_yu_pei@moe.edu.sg) | 315|
+| 4_Adaptability | Mrs Wong-Chong Yu Pei (LH/Math - Covering) | [chong_yu_pei@moe.edu.sg](mailto:chong_yu_pei@moe.edu.sg) | 315|
 | 4_Adaptability | Ms Peng Yuanzhen | [peng_yuanzhen@moe.edu.sg](mailto:peng_yuanzhen@moe.edu.sg) | 333|
 | 4_Compassion | Mdm Suzanna Bte Mohd Isnin (HOD SSD)| [suzanna_mohamed_isnin@moe.edu.sg](mailto:suzanna_mohamed_isnin@moe.edu.sg) | 204 |
 | 4_Compassion | Mr Idris Bin Mohd Taha | [idris_b_mohd_taha@moe.edu.sg](mailto:idris_b_mohd_taha@moe.edu.sg)| 367 |
@@ -90,7 +90,7 @@ description: ""
 | 4_Graciousness | Mr Ho Boon Huat (HOD/MTL) | [ho_boon_huat@moe.edu.sg](mailto:ho_boon_huat@moe.edu.sg) | 203 |
 | 4_Integrity |  Mrs Serene Tear Poh Keng | [yap_poh_keng@moe.edu.sg](mailto:yap_poh_keng@moe.edu.sg)  | 314 |
 | 4_Integrity | Mr Jeremy Ho (PE) | [ho_jian_xiong@moe.edu.sg](mailto:ho_jian_xiong@moe.edu.sg) | 360 |
-| 4_Respect | Ms Sharmini d/o Jaya Kumaran (SH/CCE Covering)| [sharmini_jaya_kumaran@moe.edu.sg](mailto:sharmini_jaya_kumaran@moe.edu.sg) | 304 |
+| 4_Respect | Ms Sharmini d/o Jaya Kumaran (SH/CCE - Covering)| [sharmini_jaya_kumaran@moe.edu.sg](mailto:sharmini_jaya_kumaran@moe.edu.sg) | 304 |
 | 4_Respect | Mdm Suzana Bte Mohd Yaacob (ART) | [suzana_mohd_yaacob@moe.edu.sg](mailto:suzana_mohd_yaacob@moe.edu.sg) | 357 |
 
 
@@ -116,7 +116,7 @@ description: ""
 |---|---|---|---|
 | 6_Adaptability | Mdm Chitra d/o Selvaraju | [chitra_selvaraju@moe.edu.sg](mailto:chitra_selvaraju@moe.edu.sg) | 342 |
 | 6_Adaptability | Mr Zaini Bin Zanal | [zaini_zanal@moe.edu.sg](mailto:zaini_zanal@moe.edu.sg) | 359 |
-| 6_Compassion | Mdm Junaida Bte Jasman (ST/Math | [junaida_jasman@moe.edu.sg](mailto:junaida_jasman@moe.edu.sg) | 306 |
+| 6_Compassion | Mdm Junaida Bte Jasman (ST/Math) | [junaida_jasman@moe.edu.sg](mailto:junaida_jasman@moe.edu.sg) | 306 |
 | 6_Compassion | Ms Indira d/o R Pillai (HOD/EL) | [indira_raghavan_pillai@moe.edu.sg](mailto:indira_raghavan_pillai@moe.edu.sg) | 201 |
 | 6_Graciousness | Mrs Ong Kai Chun | [tay_kai_chun@moe.edu.sg](mailto:tay_kai_chun@moe.edu.sg) | 307 |
 | 6_Graciousness | Mdm Nur Namira Bte Mazlan | [nur_namira_mazlan@moe.edu.sg](mailto:nur_namira_mazlan@moe.edu.sg) | 366 |
