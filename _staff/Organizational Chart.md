@@ -11,7 +11,7 @@ description: ""
       <td colspan="2"><center><b>Principal</b></center></td>
     </tr>
     <tr>
-       <td width="135" rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/01_P.png" style="width:60%"></td>
+       <td width="135" rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/01_P.png" style="width:30%"></td>
       <td width="356">Ms Lau Wan Sze</td>
     </tr>
     <tr>
@@ -39,7 +39,8 @@ description: ""
     </tr>
   </tbody>
 </table>
-<center><strong>YEAR HEAD</strong></center>
+<br><br>
+<center><big>YEAR HEAD</big></center>
 <table width="600" border="0">
   <tbody>
     <tr>
