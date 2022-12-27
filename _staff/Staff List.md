@@ -91,7 +91,7 @@ description: ""
 | 4_Integrity |  Mrs Serene Tear Poh Keng | [yap_poh_keng@moe.edu.sg](mailto:yap_poh_keng@moe.edu.sg)  | 314 |
 | 4_Integrity | Mr Jeremy Ho (PE) | [ho_jian_xiong@moe.edu.sg](mailto:ho_jian_xiong@moe.edu.sg) | 360 |
 | 4_Respect | Ms Sharmini d/o Jaya Kumaran (SH/CCE - Covering)| [sharmini_jaya_kumaran@moe.edu.sg](mailto:sharmini_jaya_kumaran@moe.edu.sg) | 304 |
-| 4_Respect | Mdm Suzana Bte Mohd Yaacob (ART) | [suzana_mohd_yaacob@moe.edu.sg](mailto:suzana_mohd_yaacob@moe.edu.sg) | 357 |
+| 4_Respect | Mdm Suzana Bte Mohd Yaacob | [suzana_mohd_yaacob@moe.edu.sg](mailto:suzana_mohd_yaacob@moe.edu.sg) | 357 |
 
 
 # 2023 Primary 5 Teachers
