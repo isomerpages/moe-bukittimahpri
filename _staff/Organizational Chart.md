@@ -3,7 +3,7 @@ title: Organizational Chart
 permalink: /staff/organisational-chart/
 description: ""
 ---
-### SCHOOL ORGANISATIONAL CHART
+###  ORGANISATIONAL CHART
 
 <table width="600" border="0">
   <tbody>
