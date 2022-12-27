@@ -3,10 +3,10 @@ title: Staff List
 permalink: /staff/staff-list/
 description: ""
 ---
-# School Leaders
+#
 
 
-| Titles | Name | Email Address | Extension Number |
+| Appointments | Name | Email Address | Extension Number |
 |---|---|---|---|
 |  Principal | Ms Lau Wan Sze | [Lau_Wan_Sze@schools.gov.sg](mailto:Lau_Wan_Sze@schools.gov.sg) |  N/A |
 |  Vice Principal | Mr Wong Sung Lai  Edward | [WONG_Sung_Lai@schools.gov.sg](mailto:WONG_Sung_Lai@schools.gov.sg) |  N/A |
