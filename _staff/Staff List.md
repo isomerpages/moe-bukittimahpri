@@ -100,7 +100,7 @@ description: ""
 | Class | Name of Teacher | Email Address | Extension Number |
 |---|---|---|---|
 | 5_Adaptability | Mdm Durgadevi d/o Tamil Selvam (SH/ICT)| [durgadevi_tamil_selvam@moe.edu.sg](mailto:durgadevi_tamil_selvam@moe.edu.sg) | 303 |
-| 5_Adaptability | Dr Mohammad Shah Bin Razak | [mohammad_shah_razak@moe.edu.sg](mailto:mohammad_shah_razak@moe.edu.sg) |   |
+| 5_Adaptability | Dr Mohammad Shah Bin Razak (ST/PE) | [mohammad_shah_razak@moe.edu.sg](mailto:mohammad_shah_razak@moe.edu.sg) |   |
 | 5_Compassion | Mrs Melissa Khoo (LH/EL) | [chan_yu_fang_mellissa@moe.edu.sg](mailto:chan_yu_fang_mellissa@moe.edu.sg) | 317 |
 | 5_Compassion | Ms Tee Xinyi| [tee_xinyi@moe.edu.sg](mailto:tee_xinyi@moe.edu.sg) | 332 |
 | 5_Graciousness | Mdm Rozana Bte Hashim (ST/EL) | [rozana_hashim@moe.edu.sg](mailto:rozana_hashim@moe.edu.sg) | 316 |
