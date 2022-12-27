@@ -34,7 +34,7 @@ description: ""
 | 1_Graciousness | Miss Koh Beng Li | [koh_beng_li@moe.edu.sg](mailto:koh_beng_li@moe.edu.sg) | 354 |
 | 1_Integrity | Mrs Shirlena Chan (HOD PE/CCA) | [yap_siew_cheng_shirlena@moe.edu.sg](mailto:yap_siew_cheng_shirlena@moe.edu.sg) | 209 |
 | 1_Integrity | Mdm Wang Ling | [wang_ling@moe.edu.sg](mailto:wang_ling@moe.edu.sg) | 327 |
-| 1_Resilience | Mr Almir Shafur Bin Mohamed (ART) | [almir_shafur_mohamed@moe.edu.sg](mailto:almir_shafur_mohamed@moe.edu.sg) | 348
+| 1_Resilience | Mr Almir Shafur Bin Mohamed | [almir_shafur_mohamed@moe.edu.sg](mailto:almir_shafur_mohamed@moe.edu.sg) | 348
 | 1_Resilience | Ms Pang Liew Chin  | [pang_liew_chin@moe.edu.sg](mailto:pang_liew_chin@moe.edu.sg)  | 334 | 
 | 1_Respect | Mrs Lynette Lim (SH/Aesthetics) | [thia_hui_shan_lynette@moe.edu.sg](mailto:thia_hui_shan_lynette@moe.edu.sg) | 336 |
 | 1_Respect | Miss Neo Kai Lin | [neo_kai_lin@moe.edu.sg](mailto:neo_kai_lin@moe.edu.sg) | 349 |
@@ -57,7 +57,7 @@ description: ""
 | 2_Integrity | Mdm Du Ying | [du_ying@moe.edu.sg](mailto:du_ying@moe.edu.sg) | 350 |
 | 2_Respect | Mrs Samantha Er | [ong_yen_ting_samantha@moe.edu.sg](mailto:ong_yen_ting_samantha@moe.edu.sg) | 322 |
 | 2_Respect | Mrs Yvonne Kwan (FAJT) | [yvonne_tan_bee_leng@moe.edu.sg](mailto:yvonne_tan_bee_leng@moe.edu.sg) | 313 |
-| 2_Resilience | Ms Nur Fidyyana Ab Latiff (ART) | [nur_fidyyana_ab_latiff@moe.edu.sg](mailto:nur_fidyyana_ab_latiff@moe.edu.sg) | 356 |
+| 2_Resilience | Ms Nur Fidyyana Ab Latiff | [nur_fidyyana_ab_latiff@moe.edu.sg](mailto:nur_fidyyana_ab_latiff@moe.edu.sg) | 356 |
 |  2_Resilience | Mdm Chng Ling Ling (SH/CL)  | [chng_ling_ling@moe.edu.sg](mailto:chng_ling_ling@moe.edu.sg)  | 351  |
 
 
@@ -66,8 +66,8 @@ description: ""
 
 | Class | Name of Teacher | Email Address | Extension Number |
 |---|---|---|---|
-| 3_Adaptability | Ms Josesphine Ho Hui Shan (Music) | [ho_hui_suan_josephine@moe.edu.sg](mailto:ho_hui_suan_josephine@moe.edu.sg) | 347 |
-| 3_Compassion | Mrs Joanne Hu (Music) | [lim_xue_mei_joanne@moe.edu.sg](mailto:lim_xue_mei_joanne@moe.edu.sg) | 358 |
+| 3_Adaptability | Ms Josesphine Ho Hui Shan | [ho_hui_suan_josephine@moe.edu.sg](mailto:ho_hui_suan_josephine@moe.edu.sg) | 347 |
+| 3_Compassion | Mrs Joanne Hu | [lim_xue_mei_joanne@moe.edu.sg](mailto:lim_xue_mei_joanne@moe.edu.sg) | 358 |
 | 3_Compassion | Mr Ng Kim Chwee (FAJT) | [ng_kim_chwee@moe.edu.sg](mailto:ng_kim_chwee@moe.edu.sg) | 375 |
 | 3_Gracioiusness | Mrs Raj-Lorshenni D/O Jaya Sanger | [lorshenni_jaya_sanger_a@moe.edu.sg](mailto:lorshenni_jaya_sanger_a@moe.edu.sg) | 318 |
 | 3_Integrity | Mr Chua Peng Swee | [chua_peng_swee@moe.edu.sg](mailto:chua_peng_swee@moe.edu.sg) | 345 |
