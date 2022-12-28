@@ -5,11 +5,11 @@ description: ""
 ---
 ###  ORGANISATIONAL CHART
 
-<table border="0">
+<table width="800" border="0">
   <tbody>
    <tr><td colspan="2"><b>Principal</b></td>
     <tr>
-       <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/01_P.png" style="width:50%"></td>
+       <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/01_P.png" style="width:30%"></td>
       <td><b>Ms Lau Wan Sze</td>
     </tr>
     <tr>
