@@ -92,12 +92,57 @@ description: ""
     </tr>
        <tr>
       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/male.png" style="width:60%"></td>
+      <td>Mr Christopher Khoo</td>
+    </tr>
+<tr><td><b>HOD/ Science</b></td></td>
+    <tr>
+      <td><a href="mailto:khoo_kian_kiong_christopher@moe.edu.sg">khoo_kian_kiong_christopher@moe.edu.sg
+</a></td>
+    </tr>
+   <tr>
+      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/male.png" style="width:60%"></td>
       <td>Mr Ho Boon Huat</td>
     </tr>
-<tr><td><b>HOD/ Mother Tongue Languages)</b></td></td>
+<tr><td><b>HOD/ Mother Tongue Languages</b></td></td>
     <tr>
       <td><a href="mailto:ho_boon_huat@moe.edu.sg
 ">ho_boon_huat@moe.edu.sg
+</a></td>
+    </tr>
+<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/male.png" style="width:60%"></td>
+      <td>Mrs Shirlena Chan</td>
+    </tr>
+<tr><td><b>HOD/ PE & CCA</b></td></td>
+    <tr>
+      <td><a href="mailto:yap_siew_cheng_shirlena@moe.edu.sg
+">yap_siew_cheng_shirlena@moe.edu.sg
+</a></td>
+    </tr>
+		<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/male.png" style="width:60%"></td>
+      <td>Mrs Nicole Chan</td>
+    </tr>
+<tr><td><b>HOD/ Character and Citizenship Education (CCE)</b></td></td>
+    <tr>
+      <td><a href="mailto:yap_xue_li_nicole@moe.edu.sg
+">yap_xue_li_nicole@moe.edu.sg
+</a></td>
+    </tr>
+		<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/male.png" style="width:60%"></td>
+      <td>Miss Goh Xue Yi</td>
+    </tr>
+<tr><td><b>HOD/ Pupil Managment</b></td></td>
+    <tr>
+      <td><a href="mailto:goh_xue_yi@moe.edu.sg
+">goh_xue_yi@moe.edu.sg
+</a></td>
+    </tr>
+		<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/male.png" style="width:60%"></td>
+      <td>Mdm Suzanna Bte Mohd Isnin</td>
+    </tr>
+<tr><td><b>HOD/ Schoo Staff Developer (SSD)</b></td></td>
+    <tr>
+      <td><a href="mailto:suzanna_mohamed_isnin@moe.edu.sg
+">suzanna_mohamed_isnin@moe.edu.sg
 </a></td>
     </tr>
   </tbody>
