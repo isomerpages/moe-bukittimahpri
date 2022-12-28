@@ -10,16 +10,16 @@ description: ""
    <tr><td colspan="2"><b>Principal</b></td>
     <tr>
        <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/01_P.png" style="width:30px" ></td>
-      <td><b>Ms Lau Wan Sze</td>
+      <td><b>Ms Lau Wan Sze</b></td>
     </tr>
     <tr>
       <td><a href="mailto:lau_wan_sze@schools.gov.sg">lau_wan_sze@schools.gov.sg</a></td>
     </tr>
-<br>
+
    <tr><td colspan="2"><b>Vice Principal</b></td><td></td></tr>
     <tr>  <tr>
       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/02_VP_WONGSL.png" style="width:30px"></td>
-      <td><b>Mr Wong Sung Lai Edward</td>
+      <td><b>Mr Wong Sung Lai Edward</b></td>
     </tr>
     <tr>
       <td><a href="mailto:WONG_Sung_Lai@schools.gov.sg">WONG_Sung_Lai@schools.gov.sg</a></td>
@@ -27,7 +27,7 @@ description: ""
         <tr><td colspan="2" ><b>Vice Principal</b></td><td></td></tr>
     <tr>
          <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/03_VP_MDM KITHA.png" style="width:30px"></td>
-      <td><b>Mdm Kitha Arumugam</td>
+      <td><b>Mdm Kitha Arumugam</b></td>
     </tr>
     <tr>
       <td><a href="mailto:Kitha_ARUMUGAM@schools.gov.sg">Kitha_ARUMUGAM@schools.gov.sg</a></td>
