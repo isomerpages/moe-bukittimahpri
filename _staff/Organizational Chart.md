@@ -75,7 +75,7 @@ description: ""
     <tr>
       <td colspan="2"><center><b>Department Heads</b></center></td></tr>
     <tr>
-       <td width="135" rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:60%"></td>
+       <td width="135" rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/04_HODEL.png" style="width:60%"></td>
       <td width="356">Ms Indira d/o R Pillai</td>
     </tr>
 <tr><td><b>HOD/English Language (EL)</b></td></tr>
@@ -91,7 +91,7 @@ description: ""
       <td><a href="mailto:yeo_lei_teng@moe.edu.sg">yeo_lei_teng@moe.edu.sg</a></td>
     </tr>
        <tr>
-      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/male.png" style="width:60%"></td>
+      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/05_HODSC.png" style="width:60%"></td>
       <td>Mr Christopher Khoo</td>
     </tr>
 <tr><td><b>HOD/ Science</b></td></td>
@@ -100,7 +100,7 @@ description: ""
 </a></td>
     </tr>
    <tr>
-      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/male.png" style="width:60%"></td>
+      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/09_HODMTL.png" style="width:60%"></td>
       <td>Mr Ho Boon Huat</td>
     </tr>
 <tr><td><b>HOD/ Mother Tongue Languages</b></td></td>
@@ -118,7 +118,7 @@ description: ""
 ">yap_siew_cheng_shirlena@moe.edu.sg
 </a></td>
     </tr>
-		<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/male.png" style="width:60%"></td>
+		<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/06_HODCCE.png" style="width:60%"></td>
       <td>Mrs Nicole Chan</td>
     </tr>
 <tr><td><b>HOD/ Character and Citizenship Education (CCE)</b></td></td>
@@ -127,7 +127,7 @@ description: ""
 ">yap_xue_li_nicole@moe.edu.sg
 </a></td>
     </tr>
-		<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/male.png" style="width:60%"></td>
+		<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/07_HOD PUPIL MANAGEMENT.png" style="width:60%"></td>
       <td>Miss Goh Xue Yi</td>
     </tr>
 <tr><td><b>HOD/ Pupil Managment</b></td></td>
@@ -136,7 +136,7 @@ description: ""
 ">goh_xue_yi@moe.edu.sg
 </a></td>
     </tr>
-		<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/male.png" style="width:60%"></td>
+		<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/08_HOD SSD.png" style="width:60%"></td>
       <td>Mdm Suzanna Bte Mohd Isnin</td>
     </tr>
 <tr><td><b>HOD/ Schoo Staff Developer (SSD)</b></td></td>
