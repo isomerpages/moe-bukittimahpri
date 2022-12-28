@@ -21,7 +21,7 @@ description: ""
       <td colspan="2"><CENTER><B>Vice Principal</B></CENTER></td>
     </tr>
     <tr>
-      <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/02_VP_WONGSL.png" style="width:60%"></td>
+      <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/02_VP_WONGSL.png" style="width:30%"></td>
       <td>Mr Wong Sung Lai Edward</td>
     </tr>
     <tr>
@@ -31,7 +31,7 @@ description: ""
       <td colspan="2"><center><b>Vice Principal</b></center></td>
     </tr>
     <tr>
-      <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/03_VP_MDM KITHA.png" style="width:60%"></td>
+      <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/03_VP_MDM KITHA.png" style="width:30%"></td>
       <td>Mdm Kitha Arumugam</td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@ description: ""
       <td colspan="2"><center><b>Lower Primary (P1 and 2)</b></center></td>
     </tr>
     <tr>
-       <td width="135" rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:60%"></td>
+       <td width="135" rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:30%"></td>
       <td width="356">Ms Shirley Ong</td>
     </tr>
     <tr>
@@ -57,7 +57,7 @@ description: ""
       <td colspan="2"><CENTER><B>Mid Primary (P3 and 4)</B></CENTER></td>
     </tr>
     <tr>
-      <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:60%"></td>
+      <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:30%"></td>
       <td>Mrs Angeline Teo</td>
     </tr>
     <tr>
