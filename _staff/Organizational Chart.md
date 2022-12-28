@@ -6,7 +6,6 @@ description: ""
 ###  ORGANISATIONAL CHART
 
 <table width="800" border="0">
-  <tbody>
    <tr><td colspan="2"><b>Principal</b></td>
 <td></td></tr>
     <tr>
@@ -32,9 +31,8 @@ description: ""
     <tr><td><a href="mailto:Kitha_ARUMUGAM@schools.gov.sg">Kitha_ARUMUGAM@schools.gov.sg</a></td>
     </tr>
 <tr><td></td></tr>
-
+</table>
 <table width="800" border="0">
-  <tbody>
     <tr>
       <td colspan="2" ><b>YEAR HEAD (YH)</b></td </tr>
      <tr>
@@ -66,7 +64,6 @@ description: ""
 <tr><td></td></tr>
 </table>
 <table width="800" border="0">
-  <tbody>
     <tr>
       <td colspan="2"><b>HEADS OF DEPARTMENT (HOD)</b></td></tr>
     <tr>
@@ -140,9 +137,8 @@ description: ""
 </a></td>
     </tr> <tr><td></td></tr>
 </table>
-	<table width="800" border="0">
-  <tbody>
-    <tr>
+<table width="800" border="0">
+<tr>
       <td colspan="2"><b>LEVEL HEAD (LH)</b></td></tr>
     <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/15_LHEL.png" style="width:60px"></td>
@@ -154,10 +150,8 @@ description: ""
     </tr>
 <tr><td></td></tr>
 </table>
-
 <table width="800" border="0">
-  <tbody>
-    <tr>
+<tr>
       <td colspan="2"><b>SUBJECT HEAD (SH)</b></td></tr>
     <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/15_SHAESTHETICS.png" style="width:60px"></td>
@@ -204,5 +198,4 @@ sharmini_jaya_kumaran@moe.edu.sg">
 sharmini_jaya_kumaran@moe.edu.sg</a></td>
     </tr>
  </tr><tr><td></td></tr>
-</tbody></tbody></tbody></tbody>
 </table>
