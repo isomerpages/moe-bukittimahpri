@@ -35,7 +35,7 @@ description: ""
 <tr><td></td></tr>
 </tbody>
 </table>
-<table border="0">
+<table width="800" border="0">
   <tbody>
     <tr>
       <td colspan="2"><b>YEAR HEAD (YH)</b></td></tr>
@@ -67,7 +67,7 @@ description: ""
     </tr><tr><td></td></tr>
 </tbody>
 </table>
-<table border="0">
+<table width="800" border="0">
   <tbody>
     <tr>
       <td colspan="2"><b>HEADS OF DEPARTMENT (HOD)</b></td></tr>
@@ -143,7 +143,7 @@ description: ""
     </tr> </tr><tr><td></td></tr>
 </table>
   </tbody>
-	<table border="0">
+	<table width="800" border="0">
   <tbody>
     <tr>
       <td colspan="2"><b>LEVEL HEAD (LH)</b></td></tr>
@@ -160,7 +160,7 @@ description: ""
 </tr> </tr><tr><td></td></tr>
 </table>
   </tbody>
-	<table border="0">
+	<table width="800" border="0">
   <tbody>
     <tr>
       <td colspan="2"><b>SUBJECT HEAD (SH)</b></td></tr>
