@@ -18,8 +18,7 @@ description: ""
     </tr>
 <tr><td></td></tr>
    <tr><td colspan="2"><b>Vice Principal</b></td><td></td></tr>
-    <tr>
-    <tr>
+    <tr>  <tr>
       <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/02_VP_WONGSL.png" style="width:50%"></td>
       <td>Mr Wong Sung Lai Edward</td>
     </tr>
@@ -37,10 +36,7 @@ description: ""
     <tr>
       <td><a href="mailto:Kitha_ARUMUGAM@schools.gov.sg">Kitha_ARUMUGAM@schools.gov.sg</a></td>
     </tr><tr><td></td></tr>
-  </tbody>
-</table>
-<table width="800" border="0">
-  <tbody>
+ 
     <tr>
       <td colspan="2"><b>YEAR HEAD</b></td></tr>
     <tr>
@@ -69,8 +65,7 @@ description: ""
 ">effandi_jasman@moe.edu.sg
 </a></td>
     </tr><tr><td></td></tr>
-<table width="600" border="0">
-  <tbody>
+
     <tr>
       <td colspan="2"><b>HEADS OF DEPARTMENT</b></td></tr>
     <tr>
@@ -81,8 +76,7 @@ description: ""
     <tr>
       <td><a href="mailto:indira_raghavan_pillai@moe.edu.sg">indira_raghavan_pillai@moe.edu.sg</a></td>
     </tr>
-      <tr>
-      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/11_HOD Math.png" style="width:60%"></td>
+      <tr><td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/11_HOD Math.png" style="width:60%"></td>
       <td>Mrs Karin Gan</td>
     </tr>
 <tr><td><b>HOD/Mathematics</b></td></tr>
