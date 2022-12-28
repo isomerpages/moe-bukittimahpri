@@ -8,6 +8,7 @@ description: ""
 <table width="800" border="0">
   <tbody>
    <tr><td colspan="2"><b>Principal</b></td>
+<td></td></tr>
     <tr>
        <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/01_P.png" style="width:60px" ></td>
       <td><b>Ms Lau Wan Sze</b></td>
@@ -23,14 +24,12 @@ description: ""
     </tr>
     <tr>
       <td><a href="mailto:WONG_Sung_Lai@schools.gov.sg">WONG_Sung_Lai@schools.gov.sg</a></td>
-    </tr>
-        <tr><td colspan="2" ><b>Vice Principal</b></td><td></td></tr>
-    <tr>
-         <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/03_VP_MDM KITHA.png" style="width:60px"></td>
+    </tr><tr></tr>
+        <tr><td colspan="2"><b>Vice Principal</b></td><td></td></tr>
+    <tr><td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/03_VP_MDM KITHA.png" style="width:60px"></td>
       <td><b>Mdm Kitha Arumugam</b></td>
     </tr>
-    <tr>
-      <td><a href="mailto:Kitha_ARUMUGAM@schools.gov.sg">Kitha_ARUMUGAM@schools.gov.sg</a></td>
+    <tr><td><a href="mailto:Kitha_ARUMUGAM@schools.gov.sg">Kitha_ARUMUGAM@schools.gov.sg</a></td>
     </tr>
 <tr><td></td></tr>
 </tbody>
@@ -38,7 +37,7 @@ description: ""
 <table width="800" border="0">
   <tbody>
     <tr>
-      <td colspan="2"><b>YEAR HEAD (YH)</b></td></tr>
+      <td colspan="2"><b>YEAR HEAD (YH)</b></td>   </tr>
     <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/13_YHLP.png" style="width:60px"></td>
       <td>Ms Shirley Ong</td>
@@ -64,7 +63,8 @@ description: ""
       <td><a href="mailto:effandi_jasman@moe.edu.sg
 ">effandi_jasman@moe.edu.sg
 </a></td>
-    </tr><tr><td></td></tr>
+    </tr>
+<tr><td></td></tr>
 </tbody>
 </table>
 <table width="800" border="0">
@@ -209,7 +209,5 @@ sharmini_jaya_kumaran@moe.edu.sg">
 sharmini_jaya_kumaran@moe.edu.sg</a></td>
     </tr>
  </tr><tr><td></td></tr>
-</table></tbody>
-
-	
+</tbody>
 </table>
