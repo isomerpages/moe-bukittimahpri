@@ -198,6 +198,16 @@ description: ""
 chng_ling_ling@moe.edu.sg">
 chng_ling_ling@moe.edu.sg</a></td>
     </tr>
+	 <tr>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:60%"></td>
+      <td>Ms Sharmini d/o Jaya Kumaran</td>
+    </tr>
+<tr><td><b>SH/CCE</b></td></tr>
+    <tr>
+      <td><a href="mailto:
+sharmini_jaya_kumaran@moe.edu.sg">
+sharmini_jaya_kumaran@moe.edu.sg</a></td>
+    </tr>
  </tr><tr><td></td></tr>
 </table></tbody>
 
