@@ -7,8 +7,8 @@ description: ""
 
 <table width="800" border="0">
   <tbody>
-<tr><td></td></tr>
-     <tr><td></td><td><b>Principal</b></td>
+<td></td>
+     <tr><td><b>Principal</b></td><td></td>
     <tr>
        <td width="135" rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/01_P.png" style="width:50%"></td>
       <td width="356">Ms Lau Wan Sze</td>
@@ -17,7 +17,7 @@ description: ""
       <td><a href="mailto:lau_wan_sze@schools.gov.sg">lau_wan_sze@schools.gov.sg</a></td>
     </tr>
 <tr><td></td></tr>
-   <tr><td></td><td><b>Vice Principal</b></td></tr>
+   <tr><td colspan="2"><b>Vice Principal</b></td><td></td></tr>
     <tr>
     <tr>
       <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/02_VP_WONGSL.png" style="width:50%"></td>
@@ -27,7 +27,7 @@ description: ""
       <td><a href="mailto:WONG_Sung_Lai@schools.gov.sg">WONG_Sung_Lai@schools.gov.sg</a></td>
     </tr>
    <tr><td></td></tr>
-      <tr><td></td><td><b>Vice Principal</b></td></tr>
+      <tr><td colspan="2" ><b>Vice Principal</b></td><td></td></tr>
     <tr>
     <tr>
     <tr>
@@ -36,15 +36,15 @@ description: ""
     </tr>
     <tr>
       <td><a href="mailto:Kitha_ARUMUGAM@schools.gov.sg">Kitha_ARUMUGAM@schools.gov.sg</a></td>
-    </tr>
+    </tr><tr><td></td></tr>
   </tbody>
 </table>
 <table width="800" border="0">
   <tbody>
     <tr>
-      <td colspan="2"><center><b>YEAR HEAD</b></center></td></tr>
+      <td colspan="2"><b>YEAR HEAD</b></td></tr>
     <tr>
-       <td width="135" rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:60%"></td>
+       <td width="135" rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/13_YHLP.png" style="width:60%"></td>
       <td width="356">Ms Shirley Ong</td>
     </tr>
 <tr><td><b>YH/Lower Primary (Pri 1 and Pri 2)</b></td></tr>
@@ -52,7 +52,7 @@ description: ""
       <td><a href="mailto:low_yin_choo@moe.edu.sg">low_yin_choo@moe.edu.sg</a></td>
     </tr>
       <tr>
-      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:60%"></td>
+      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/14_YHMP.png" style="width:60%"></td>
       <td>Mrs Angeline Teo</td>
     </tr>
 <tr><td><b>YH/Mid Primary (Pri 3 and Pri 4)</b></td></tr>
@@ -60,7 +60,7 @@ description: ""
       <td><a href="mailto:low_swee_ling_angeline@moe.edu.sg">low_swee_ling_angeline@moe.edu.sg</a></td>
     </tr>
        <tr>
-      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/male.png" style="width:60%"></td>
+      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/12_YHUP.png" style="width:60%"></td>
       <td>Mr Effandi Jasman</td>
     </tr>
 <tr><td><b>YH/Upper Primary (Pri 5 and Pri 6)</b></td></td>
@@ -68,11 +68,11 @@ description: ""
       <td><a href="mailto:effandi_jasman@moe.edu.sg
 ">effandi_jasman@moe.edu.sg
 </a></td>
-    </tr>
+    </tr><tr><td></td></tr>
 <table width="600" border="0">
   <tbody>
     <tr>
-      <td colspan="2"><center><b>Department Heads</b></center></td></tr>
+      <td colspan="2"><b>HEADS OF DEPARTMENT</b></td></tr>
     <tr>
        <td width="135" rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/04_HODEL.png" style="width:60%"></td>
       <td width="356">Ms Indira d/o R Pillai</td>
@@ -82,7 +82,7 @@ description: ""
       <td><a href="mailto:indira_raghavan_pillai@moe.edu.sg">indira_raghavan_pillai@moe.edu.sg</a></td>
     </tr>
       <tr>
-      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:60%"></td>
+      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/11_HOD Math.png" style="width:60%"></td>
       <td>Mrs Karin Gan</td>
     </tr>
 <tr><td><b>HOD/Mathematics</b></td></tr>
@@ -108,7 +108,7 @@ description: ""
 ">ho_boon_huat@moe.edu.sg
 </a></td>
     </tr>
-<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/male.png" style="width:60%"></td>
+<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/09_HODPE.png" style="width:60%"></td>
       <td>Mrs Shirlena Chan</td>
     </tr>
 <tr><td><b>HOD/ PE & CCA</b></td></td>
