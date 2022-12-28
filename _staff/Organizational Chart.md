@@ -18,7 +18,7 @@ description: ""
 <br>
    <tr><td colspan="2"><b>Vice Principal</b></td><td></td></tr>
     <tr>  <tr>
-      <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/02_VP_WONGSL.png" style="width:50%"></td>
+      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/02_VP_WONGSL.png" style="width:50%"></td>
       <td><b>Mr Wong Sung Lai Edward</td>
     </tr>
     <tr>
