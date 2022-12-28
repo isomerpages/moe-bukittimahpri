@@ -38,7 +38,7 @@ description: ""
 <table border="0">
   <tbody>
     <tr>
-      <td colspan="2"><b>YEAR HEAD</b></td></tr>
+      <td colspan="2"><b>YEAR HEAD (YH)</b></td></tr>
     <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/13_YHLP.png" style="width:60%"></td>
       <td>Ms Shirley Ong</td>
@@ -70,7 +70,7 @@ description: ""
 <table border="0">
   <tbody>
     <tr>
-      <td colspan="2"><b>HEADS OF DEPARTMENT</b></td></tr>
+      <td colspan="2"><b>HEADS OF DEPARTMENT (HOD)</b></td></tr>
     <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/04_HODEL.png" style="width:60%"></td>
       <td>Ms Indira d/o R Pillai</td>
@@ -140,7 +140,66 @@ description: ""
       <td><a href="mailto:suzanna_mohamed_isnin@moe.edu.sg
 ">suzanna_mohamed_isnin@moe.edu.sg
 </a></td>
-    </tr>
+    </tr> </tr><tr><td></td></tr>
 </table>
   </tbody>
+	<table border="0">
+  <tbody>
+    <tr>
+      <td colspan="2"><b>LEVEL HEAD (LH)</b></td></tr>
+    <tr>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/15_LHEL.png" style="width:60%"></td>
+      <td>Mrs Mellissa Khoo</td>
+    </tr>
+<tr><td><b>LH/English Language (EL)</b></td></tr>
+    <tr>
+      <td><a href="mailto:chan_yu_fang_mellissa@moe.edu.sg">chan_yu_fang_mellissa@moe.edu.sg</a></td>
+    </tr>
+ </tr><tr><td></td></tr>
+</table></tbody>
+</tr> </tr><tr><td></td></tr>
+</table>
+  </tbody>
+	<table border="0">
+  <tbody>
+    <tr>
+      <td colspan="2"><b>SUBJECT HEAD (SH)</b></td></tr>
+    <tr>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/15_SHAESTHETICS.png" style="width:60%"></td>
+      <td>Mrs Lynette Lim</td>
+    </tr>
+<tr><td><b>SH/Aesthetics</b></td></tr>
+    <tr>
+      <td><a href="mailto:thia_hui_shan_lynette@moe.edu.sg">thia_hui_shan_lynette@moe.edu.sg</a></td>
+    </tr>
+ <tr>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/15_SHICT.png" style="width:60%"></td>
+      <td>Mdm Durgadevi d/o Tamil Selvam</td>
+    </tr>
+<tr><td><b>SH/Information Technology</b></td></tr>
+    <tr>
+      <td><a href="mailto:durgadevi_tamil_selvam@moe.edu.sg">durgadevi_tamil_selvam@moe.edu.sg</a></td>
+    </tr>
+ <tr>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/15_SHSA.png" style="width:60%"></td>
+      <td>Mdm Noor Idayu Bte Sunator</td>
+    </tr>
+<tr><td><b>SH/Student Well-Being</b></td></tr>
+    <tr>
+      <td><a href="mailto:noor_idayu_sunator@moe.edu.sg">noor_idayu_sunator@moe.edu.sg</a></td>
+    </tr>
+		 <tr>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:60%"></td>
+      <td>Mdm Chng Ling Ling</td>
+    </tr>
+<tr><td><b>SH/Chinese Language</b></td></tr>
+    <tr>
+      <td><a href="mailto:
+chng_ling_ling@moe.edu.sg">
+chng_ling_ling@moe.edu.sg</a></td>
+    </tr>
+ </tr><tr><td></td></tr>
+</table></tbody>
+
+	
 </table>
