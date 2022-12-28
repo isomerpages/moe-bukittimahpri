@@ -123,7 +123,7 @@ description: ""
 ">yap_xue_li_nicole@moe.edu.sg
 </a></td>
     </tr>
-		<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/07_HOD PUPIL MANAGEMENT.png" style="width:30px"></td>
+		<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/07_HOD PUPIL MANAGEMENT.png" style="width:60px"></td>
       <td>Miss Goh Xue Yi</td>
     </tr>
 <tr><td><b>HOD/ Pupil Managment</b></td></td>
