@@ -11,7 +11,7 @@ description: ""
       <td colspan="2"><center><b>Principal</b></center></td>
     </tr>
     <tr>
-       <td width="135" rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/01_P.png" style="width:30%"></td>
+       <td width="135" rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/01_P.png" style="width:50%"></td>
       <td width="356">Ms Lau Wan Sze</td>
     </tr>
     <tr>
@@ -21,7 +21,7 @@ description: ""
       <td colspan="2"><CENTER><B>Vice Principal</B></CENTER></td>
     </tr>
     <tr>
-      <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/02_VP_WONGSL.png" style="width:30%"></td>
+      <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/02_VP_WONGSL.png" style="width:50%"></td>
       <td>Mr Wong Sung Lai Edward</td>
     </tr>
     <tr>
@@ -31,7 +31,7 @@ description: ""
       <td colspan="2"><center><b>Vice Principal</b></center></td>
     </tr>
     <tr>
-      <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/03_VP_MDM KITHA.png" style="width:30%"></td>
+      <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/03_VP_MDM KITHA.png" style="width:50%"></td>
       <td>Mdm Kitha Arumugam</td>
     </tr>
     <tr>
@@ -39,17 +39,16 @@ description: ""
     </tr>
   </tbody>
 </table>
-<br><br>
-<center><big>YEAR HEAD</big></center>
+
 <table width="600" border="0">
   <tbody>
     <tr>
-      <td colspan="2"><center><b>Lower Primary (P1 and 2)</b></center></td>
-    </tr>
+      <td colspan="2"><center><b>YEAR HEAD</b></center></td></tr>
     <tr>
-       <td width="135" rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:30%"></td>
+       <td width="135" rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:60%"></td>
       <td width="356">Ms Shirley Ong</td>
     </tr>
+<tr><td><b>YH/Lower Primary (P1 and P2)</b></td></tr>
     <tr>
       <td><a href="mailto:low_yin_choo@moe.edu.sg">low_yin_choo@moe.edu.sg</a></td>
     </tr>
