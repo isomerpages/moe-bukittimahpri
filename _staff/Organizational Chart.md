@@ -33,12 +33,15 @@ description: ""
       <td><a href="mailto:Kitha_ARUMUGAM@schools.gov.sg">Kitha_ARUMUGAM@schools.gov.sg</a></td>
     </tr>
 <tr><td></td></tr>
-
+</tbody>
+</table>
+<table border="0">
+  <tbody>
     <tr>
       <td colspan="2"><b>YEAR HEAD</b></td></tr>
     <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/13_YHLP.png" style="width:60%"></td>
-      <td width="356">Ms Shirley Ong</td>
+      <td>Ms Shirley Ong</td>
     </tr>
 <tr><td><b>YH/Lower Primary (Pri 1 and Pri 2)</b></td></tr>
     <tr>
@@ -62,7 +65,10 @@ description: ""
 ">effandi_jasman@moe.edu.sg
 </a></td>
     </tr><tr><td></td></tr>
-
+</tbody>
+</table>
+<table border="0">
+  <tbody>
     <tr>
       <td colspan="2"><b>HEADS OF DEPARTMENT</b></td></tr>
     <tr>
