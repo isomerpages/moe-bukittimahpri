@@ -18,7 +18,7 @@ description: ""
       <td><a href="mailto:lau_wan_sze@schools.gov.sg">lau_wan_sze@schools.gov.sg</a></td>
     </tr>
     <tr>
-      <td colspan="2"><CENTER><B>Vice Principal</B></CENTER></td>
+      <td colspan="2"><CENTER><B>Vice Principal</B></td>
     </tr>
     <tr>
       <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/02_VP_WONGSL.png" style="width:50%"></td>
@@ -48,30 +48,56 @@ description: ""
        <td width="135" rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:60%"></td>
       <td width="356">Ms Shirley Ong</td>
     </tr>
-<tr><td><b>YH/Lower Primary (P1 and P2)</b></td></tr>
+<tr><td><b>YH/Lower Primary (Pri 1 and Pri 2)</b></td></tr>
     <tr>
       <td><a href="mailto:low_yin_choo@moe.edu.sg">low_yin_choo@moe.edu.sg</a></td>
     </tr>
-    <tr>
-      <td colspan="2"><CENTER><B>Mid Primary (P3 and 4)</B></CENTER></td>
-    </tr>
-    <tr>
-      <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:30%"></td>
+      <tr>
+      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:60%"></td>
       <td>Mrs Angeline Teo</td>
     </tr>
+<tr><td><b>YH/Mid Primary (Pri 3 and Pri 4)</b></td></tr>
     <tr>
       <td><a href="mailto:low_swee_ling_angeline@moe.edu.sg">low_swee_ling_angeline@moe.edu.sg</a></td>
     </tr>
-    <tr>
-      <td colspan="2"><CENTER><B>Upper Primary (P5 and 6)</B></CENTER></td>
-    </tr>
-    <tr>
-      <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/male.png" style="width:60%"></td>
+       <tr>
+      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/male.png" style="width:60%"></td>
       <td>Mr Effandi Jasman</td>
     </tr>
+<tr><td><b>YH/Upper Primary (Pri 5 and Pri 6)</b></td></td>
     <tr>
       <td><a href="mailto:effandi_jasman@moe.edu.sg
 ">effandi_jasman@moe.edu.sg
+</a></td>
+    </tr>
+<table width="600" border="0">
+  <tbody>
+    <tr>
+      <td colspan="2"><center><b>Department Heads</b></center></td></tr>
+    <tr>
+       <td width="135" rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:60%"></td>
+      <td width="356">Ms Indira d/o R Pillai</td>
+    </tr>
+<tr><td><b>HOD/English Language (EL)</b></td></tr>
+    <tr>
+      <td><a href="mailto:indira_raghavan_pillai@moe.edu.sg">indira_raghavan_pillai@moe.edu.sg</a></td>
+    </tr>
+      <tr>
+      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:60%"></td>
+      <td>Mrs Karin Gan</td>
+    </tr>
+<tr><td><b>HOD/Mathematics</b></td></tr>
+    <tr>
+      <td><a href="mailto:yeo_lei_teng@moe.edu.sg">yeo_lei_teng@moe.edu.sg</a></td>
+    </tr>
+       <tr>
+      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/male.png" style="width:60%"></td>
+      <td>Mr Ho Boon Huat</td>
+    </tr>
+<tr><td><b>HOD/ Mother Tongue Languages)</b></td></td>
+    <tr>
+      <td><a href="mailto:ho_boon_huat@moe.edu.sg
+">ho_boon_huat@moe.edu.sg
 </a></td>
     </tr>
   </tbody>
