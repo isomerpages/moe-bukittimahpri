@@ -3,7 +3,7 @@ title: Organizational Chart
 permalink: /staff/organisational-chart/
 description: ""
 ---
-###  ORGANISATIONAL CHART D
+###  ORGANISATIONAL CHART E
 <table width="800" border="0">
    <tr><td colspan="2"><b>Principal</b></td>
 <td></td></tr>
@@ -25,8 +25,8 @@ description: ""
     </tr>
     <tr><td><a href="mailto:Kitha_ARUMUGAM@schools.gov.sg">Kitha_ARUMUGAM@schools.gov.sg</a></td>
     </tr>
-<tr><td></td>
-</tr></table>
+<tr><td></td></tr>
+</table></tr></table>
 <table width="800" border="0">
     <tr>
       <td colspan="2" ><b>YEAR HEAD (YH)</b></td </tr>
@@ -146,8 +146,7 @@ description: ""
 <tr><td></td></tr>
 </table>
 <table width="800" border="0">
-<tr>
-      <td colspan="2"><b>SUBJECT HEAD (SH)</b></td></tr>
+<tr><td colspan="2"><b>SUBJECT HEAD (SH)</b></td></tr>
     <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/15_SHAESTHETICS.png" style="width:60px"></td>
       <td>Mrs Lynette Lim</td>
