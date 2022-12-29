@@ -196,5 +196,4 @@ sharmini_jaya_kumaran@moe.edu.sg</a></td>
     <tr>
       <td><a href="mailto:kuppusamy_m_samales@moe.edu.sg">kuppusamy_m_samales@moe.edu.sg</a></td>
     </tr>
-<tr><td></td></tr>
 </table>
