@@ -16,7 +16,7 @@ description: ""
   <col width="68">
   <col width="301">
   <tr>
-    <td colspan="4"><b>STAFF LIST 2023</b></td>
+    <td colspan="4"><b>TEACHING STAFFS</b></td>
   </tr>
   <tr>
     <td width="129"><b>CLASS</b></td>
@@ -467,6 +467,75 @@ description: ""
     <td>Ms Daphne Ng</td>
     <td align="right">310</td>
     <td><a href="mailto:ng_sze_yee@moe.edu.sg">ng_sze_yee@moe.edu.sg</a></td>
+  </tr>
+<tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+<tr>
+    <td colspan="4"><b>SCHOOL ADMIN TEAM</b></td>
+  </tr>
+  <tr>
+    <td width="129"><b>APPOINTMENT</b></td>
+    <td width="296"><b>NAME</b></td>
+    <td width="100"><b>EXTENSION </b></td>
+    <td width="312"><b>EMAIL ADDRESS</b></td>
+  </tr>
+  <tr>
+    <td>ADMIN MANAGER</td>
+    <td>Mr Abdul Halik Bin Abdul Hamid</td>
+    <td align="right">107</td>
+    <td><a href="mailto:abdul_halik_abdul_hamid@moe.edu.sg">abdul_halik_abdul_hamid@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>ADMIN MANAGER</td>
+    <td>Mdm Nurhayati Bte Rahmat</td>
+    <td align="right">103</td>
+    <td><a href="mailto:nurhayati_rahmat@moe.edu.sgg">nurhayati_rahmat@moe.edu.sg</a></td>
+  </tr>
+<tr>
+    <td>OPERATIONS MANAGER</td>
+    <td>Mr Samales Kuppusamy</td>
+    <td align="right">104</td>
+    <td><a href="mailto:kuppusamy_m_samales@moe.edu.sg
+">kuppusamy_m_samales@moe.edu.sg
+</a></td>
+  </tr>
+  <tr>
+    <td>ICT MANAGER</td>
+    <td>Mrs Lin Shu Rui</td>
+    <td align="right">109</td>
+    <td><a href="mailto:tan_shu_rui@moe.edu.sg">tan_shu_rui@moe.edu.sg</a></td>
+  </tr>
+</tr>
+  <tr>
+    <td>MSO</td>
+    <td>Mdm Marlina Bte Mohd Nor</td>
+    <td align="right">102</td>
+    <td><a href="mailto:marlina_mohd_nor@moe.edu.sg
+">marlina_mohd_nor@moe.edu.sg</a></td>
+  </tr>
+<tr>
+    <td>MSO</td>
+    <td>Mdm Irene Lee</td>
+    <td align="right">802</td>
+    <td><a href="mailto:irene_lee_siew_hua@moe.edu.sg
+">irene_lee_siew_hua@moe.edu.sg</a></td>
+  </tr>
+<tr>
+    <td>MSO</td>
+    <td>Mdm Nor Junedah Binte Salim </td>
+    <td align="right">801</td>
+    <td><a href="mailto:nor_junedah_salim@moe.edu.sg
+">nor_junedah_salim@moe.edu.sg</a></td>
+  </tr>
+<tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
 </table>
 <br>
