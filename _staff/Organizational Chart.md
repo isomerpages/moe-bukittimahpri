@@ -3,7 +3,8 @@ title: Organizational Chart
 permalink: /staff/organisational-chart/
 description: ""
 ---
-###  ORGANISATIONAL CHART N
+###  ORGANISATIONAL CHART
+
 <table width="800" border="0">
    <tr><td colspan="2"><b>PRINCIPAL</b></td></tr>
     <tr><td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/01_P.png" style="width:60px" ></td>
@@ -78,7 +79,7 @@ description: ""
       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mr christopher khoo.jpeg" style="width:60px"></td>
       <td>Mr Christopher Khoo</td>
     </tr>
-<tr><td><b>HOD/ Science</b></td></td></tr>
+<tr><td><b>HOD/ Science</b></td></tr>
     <tr>
       <td><a href="mailto:khoo_kian_kiong_christopher@moe.edu.sg">khoo_kian_kiong_christopher@moe.edu.sg
 </a></td>
@@ -91,34 +92,32 @@ description: ""
     <tr>
       <td><a href="mailto:ho_boon_huat@moe.edu.sg
 ">ho_boon_huat@moe.edu.sg
-</a></td>
-    </tr><tr>
+</a></td></tr>
+<tr>
 <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/09_HODPE.png" style="width:60px"></td>
       <td>Mrs Shirlena Chan</td>
     </tr>
-<tr><td><b>HOD/ PE & CCA</b></td></td></tr>
+<tr><td><b>HOD/ PE & CCA</b></td></tr>
     <tr>
       <td><a href="mailto:yap_siew_cheng_shirlena@moe.edu.sg
-">yap_siew_cheng_shirlena@moe.edu.sg
-</a></td>
-    </tr><tr>
+">yap_siew_cheng_shirlena@moe.edu.sg</a></td>
+    </tr>
+<tr>
 		<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/06_HODCCE.png" style="width:60px"></td>
       <td>Mrs Nicole Chan</td>
     </tr>
-<tr><td><b>HOD/ Character and Citizenship Education (CCE)</b></td></td></tr>
+<tr><td><b>HOD/ Character and Citizenship Education (CCE)</b></td></tr>
     <tr>
       <td><a href="mailto:yap_xue_li_nicole@moe.edu.sg
 ">yap_xue_li_nicole@moe.edu.sg
-</a></td>
-    </tr><tr>
-		<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/miss goh xue yi.jpeg" style="width:60px"></td>
+</a></td></tr>
+<tr><td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/miss goh xue yi.jpeg" style="width:60px"></td>
       <td>Miss Goh Xue Yi</td>
     </tr>
-<tr><td><b>HOD/ Pupil Managment</b></td></td></tr>
+<tr><td><b>HOD/ Pupil Managment</b></td></tr>
     <tr>
       <td><a href="mailto:goh_xue_yi@moe.edu.sg
-">goh_xue_yi@moe.edu.sg
-</a></td></tr>
+">goh_xue_yi@moe.edu.sg</a></td></tr>
 <tr><td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm suzanna bte mohamed.jpeg" style="width:60px"></td>
       <td>Mdm Suzanna Bte Mohd Isnin</td></tr>
 <tr><td><b>HOD/ Schoo Staff Developer (SSD)</b></td></tr>
@@ -191,7 +190,6 @@ chng_ling_ling@moe.edu.sg</a></td>
 sharmini_jaya_kumaran@moe.edu.sg">
 sharmini_jaya_kumaran@moe.edu.sg</a></td>
     </tr>
- </tr>
 <tr>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
