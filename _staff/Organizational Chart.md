@@ -3,7 +3,7 @@ title: Organizational Chart
 permalink: /staff/organisational-chart/
 description: ""
 ---
-###  ORGANISATIONAL CHART c
+###  ORGANISATIONAL CHART D
 <table width="800" border="0">
    <tr><td colspan="2"><b>Principal</b></td>
 <td></td></tr>
@@ -26,7 +26,7 @@ description: ""
     <tr><td><a href="mailto:Kitha_ARUMUGAM@schools.gov.sg">Kitha_ARUMUGAM@schools.gov.sg</a></td>
     </tr>
 <tr><td></td>
-
+</tr></table>
 <table width="800" border="0">
     <tr>
       <td colspan="2" ><b>YEAR HEAD (YH)</b></td </tr>
