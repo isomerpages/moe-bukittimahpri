@@ -25,8 +25,8 @@ description: ""
     </tr>
     <tr><td><a href="mailto:Kitha_ARUMUGAM@schools.gov.sg">Kitha_ARUMUGAM@schools.gov.sg</a></td>
     </tr>
-<tr><td></td></tr>
-</table>
+<tr><td></td>
+
 <table width="800" border="0">
     <tr>
       <td colspan="2" ><b>YEAR HEAD (YH)</b></td </tr>
