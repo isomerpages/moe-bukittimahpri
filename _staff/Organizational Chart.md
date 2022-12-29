@@ -159,7 +159,7 @@ description: ""
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/15_SHICT.png" style="width:60px"></td>
       <td>Mdm Durgadevi d/o Tamil Selvam</td>
     </tr>
-<tr><td><b>SH/Information Technology</b></td></tr>
+<tr><td><b>SH/ICT - Covering HOD</b></td></tr>
     <tr>
       <td><a href="mailto:durgadevi_tamil_selvam@moe.edu.sg">durgadevi_tamil_selvam@moe.edu.sg</a></td>
     </tr>
@@ -184,7 +184,7 @@ chng_ling_ling@moe.edu.sg</a></td>
 	 <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:60px"></td>
       <td>Ms Sharmini d/o Jaya Kumaran</td></tr>
-<tr><td><b>SH/CCE</b></td></tr>
+<tr><td><b>Covering - SH/CCE</b></td></tr>
     <tr>
       <td><a href="mailto:
 sharmini_jaya_kumaran@moe.edu.sg">
