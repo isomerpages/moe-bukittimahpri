@@ -36,7 +36,7 @@ description: ""
     <tr>
       <td colspan="2" ><b>YEAR HEAD (YH)</b></td </tr>
      <tr>
-      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/13_YHLP.png" style="width:60px"></td>
+      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs shirley ong.jpeg" style="width:60px"></td>
       <td>Mrs Shirley Ong</td>
     </tr>
 <td><b>YH/Lower Primary (Pri 1 and Pri 2)</b></td>
@@ -45,14 +45,14 @@ description: ""
 ">low_yin_choo@moe.edu.sg
 </a></td>
     </tr>
-      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/14_YHMP.png" style="width:60px"></td>
+      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs angeline teo.jpeg" style="width:60px"></td>
       <td>Mrs Angeline Teo</td>
     </tr>
 <tr><td><b>YH/Mid Primary (Pri 3 and Pri 4)</b></td></tr>
     <tr>
       <td><a href="mailto:low_swee_ling_angeline@moe.edu.sg">low_swee_ling_angeline@moe.edu.sg</a></td>
     </tr>
-       <tr><td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/12_YHUP.png" style="width:60px"></td>
+       <tr><td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mr effandi bin jasman.jpeg" style="width:60px"></td>
       <td>Mr Effandi Jasman</td>
     </tr>
 <tr><td><b>YH/Upper Primary (Pri 5 and Pri 6)</b></td>
@@ -67,14 +67,14 @@ description: ""
     <tr>
       <td colspan="2"><b>HEADS OF DEPARTMENT (HOD)</b></td></tr>
     <tr>
-       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/04_HODEL.png" style="width:60px"></td>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/ms indira do raghavan pillai.jpeg" style="width:60px"></td>
       <td>Ms Indira d/o R Pillai</td>
     </tr>
 <tr><td><b>HOD/English Language (EL)</b></td></tr>
     <tr>
       <td><a href="mailto:indira_raghavan_pillai@moe.edu.sg">indira_raghavan_pillai@moe.edu.sg</a></td>
     </tr>
-      <tr><td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/11_HOD Math.png" style="width:60px"></td>
+      <tr><td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs Karin gan.jpeg" style="width:60px"></td>
       <td>Mrs Karin Gan</td>
     </tr>
 <tr><td><b>HOD/Mathematics</b></td></tr>
@@ -82,7 +82,7 @@ description: ""
       <td><a href="mailto:yeo_lei_teng@moe.edu.sg">yeo_lei_teng@moe.edu.sg</a></td>
     </tr>
        <tr>
-      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/05_HODSC.png" style="width:60px"></td>
+      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mr christopher khoo.jpeg" style="width:60px"></td>
       <td>Mr Christopher Khoo</td>
     </tr>
 <tr><td><b>HOD/ Science</b></td></td></tr>
@@ -118,7 +118,7 @@ description: ""
 ">yap_xue_li_nicole@moe.edu.sg
 </a></td>
     </tr><tr>
-		<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/07_HOD PUPIL MANAGEMENT.png" style="width:60px"></td>
+		<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/miss goh xue yi.jpeg" style="width:60px"></td>
       <td>Miss Goh Xue Yi</td>
     </tr>
 <tr><td><b>HOD/ Pupil Managment</b></td></td></tr>
@@ -127,7 +127,7 @@ description: ""
 ">goh_xue_yi@moe.edu.sg
 </a></td>
     </tr><tr>
-		<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/08_HOD SSD.png" style="width:60px"></td>
+		<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm suzanna bte mohamed.jpeg" style="width:60px"></td>
       <td>Mdm Suzanna Bte Mohd Isnin</td>
     </tr>
 <tr><td><b>HOD/ Schoo Staff Developer (SSD)</b></td></tr>
@@ -141,7 +141,7 @@ description: ""
 <tr>
       <td colspan="2"><b>LEVEL HEAD (LH)</b></td></tr>
     <tr>
-       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/15_LHEL.png" style="width:60px"></td>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs mellissa khoo.jpeg" style="width:60px"></td>
       <td>Mrs Mellissa Khoo</td>
     </tr>
 <tr><td><b>LH/English Language (EL)</b></td></tr>
