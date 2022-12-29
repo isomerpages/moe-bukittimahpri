@@ -509,7 +509,6 @@ description: ""
     <td align="right">109</td>
     <td><a href="mailto:tan_shu_rui@moe.edu.sg">tan_shu_rui@moe.edu.sg</a></td>
   </tr>
-</tr>
   <tr>
     <td>MSO</td>
     <td>Mdm Marlina Bte Mohd Nor</td>
