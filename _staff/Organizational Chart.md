@@ -159,7 +159,7 @@ description: ""
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/15_SHICT.png" style="width:60px"></td>
       <td>Mdm Durgadevi d/o Tamil Selvam</td>
     </tr>
-<tr><td><b>SH/ICT - Covering HOD</b></td></tr>
+<tr><td><b>SH/ICT - Covering HOD ICT</b></td></tr>
     <tr>
       <td><a href="mailto:durgadevi_tamil_selvam@moe.edu.sg">durgadevi_tamil_selvam@moe.edu.sg</a></td>
     </tr>
