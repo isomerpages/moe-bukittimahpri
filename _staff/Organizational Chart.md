@@ -3,7 +3,7 @@ title: Organizational Chart
 permalink: /staff/organisational-chart/
 description: ""
 ---
-###  ORGANISATIONAL CHART G
+###  ORGANISATIONAL CHART H
 <table width="800" border="0">
    <tr><td colspan="2"><b>Principal</b></td>
 <td></td></tr>
@@ -127,13 +127,13 @@ description: ""
 <tr><td><b>HOD/ Schoo Staff Developer (SSD)</b></td></tr>
     <tr>
       <td><a href="mailto:suzanna_mohamed_isnin@moe.edu.sg
-">suzanna_mohamed_isnin@moe.edu.sg
-</a></td>
-    </tr> <tr><td></td></tr>
+">suzanna_mohamed_isnin@moe.edu.sg</a></td>
+    </tr> 
+<tr><td></td></tr>
 </table>
 <table width="800" border="0">
 <tr>
-      <td colspan="2"><b>LEVEL HEAD (LH)</b></td></tr>
+      <td colspan="2"><b>LEVEL HEAD (LH) </b></td></tr>
     <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs mellissa khoo.jpeg" style="width:60px"></td>
       <td>Mrs Mellissa Khoo</td>
@@ -145,7 +145,8 @@ description: ""
 <tr><td></td></tr></tr>
 </table>
 <table width="800" border="0">
-<tr><td colspan="2"><b>SUBJECT HEAD (SH)</b></td></tr>
+<tr>
+      <td colspan="2"><b>SUBJECT HEAD (SH) </b></td></tr>
     <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/15_SHAESTHETICS.png" style="width:60px"></td>
       <td>Mrs Lynette Lim</td>
@@ -194,7 +195,7 @@ sharmini_jaya_kumaran@moe.edu.sg</a></td>
 </table>
 <table width="800" border="0">
 <tr>
-      <td colspan="2"><b>School Admin Team (SAT) </b></td></tr>
+      <td colspan="2"><b>SCHOOL ADMIN TEAM (SAT) </b></td></tr>
     <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mr abdul halik bin abdul hamid.jpeg" style="width:60px"></td>
       <td>Mr Abdul Halik Bin Abdul Hamid</td>
