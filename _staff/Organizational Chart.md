@@ -3,7 +3,7 @@ title: Organizational Chart
 permalink: /staff/organisational-chart/
 description: ""
 ---
-###  ORGANISATIONAL CHART I
+###  ORGANISATIONAL CHART J
 <table width="800" border="0">
    <tr><td colspan="2"><b>PRINCIPAL</b></td>
 <td></td></tr>
