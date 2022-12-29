@@ -143,7 +143,7 @@ description: ""
     <tr>
       <td><a href="mailto:chan_yu_fang_mellissa@moe.edu.sg">chan_yu_fang_mellissa@moe.edu.sg</a></td>
     </tr>
-<tr><td></td></tr>
+<tr><td></td></tr></tr>
 </table>
 <table width="800" border="0">
 <tr><td colspan="2"><b>SUBJECT HEAD (SH)</b></td></tr>
