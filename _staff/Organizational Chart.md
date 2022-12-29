@@ -115,11 +115,9 @@ description: ""
     <tr>
       <td><a href="mailto:goh_xue_yi@moe.edu.sg
 ">goh_xue_yi@moe.edu.sg
-</a></td>
-    </tr><tr>
-		<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm suzanna bte mohamed.jpeg" style="width:60px"></td>
-      <td>Mdm Suzanna Bte Mohd Isnin</td>
-    </tr>
+</a></td></tr>
+<tr><td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm suzanna bte mohamed.jpeg" style="width:60px"></td>
+      <td>Mdm Suzanna Bte Mohd Isnin</td></tr>
 <tr><td><b>HOD/ Schoo Staff Developer (SSD)</b></td></tr>
     <tr>
       <td><a href="mailto:suzanna_mohamed_isnin@moe.edu.sg
@@ -129,8 +127,7 @@ description: ""
       <td colspan="2"><b>LEVEL HEAD (LH) </b></td></tr>
     <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs mellissa khoo.jpeg" style="width:60px"></td>
-      <td>Mrs Mellissa Khoo</td>
-    </tr>
+      <td>Mrs Melissa Khoo</td></tr>
 <tr><td><b>LH/English Language (EL)</b></td></tr>
     <tr>
       <td><a href="mailto:chan_yu_fang_mellissa@moe.edu.sg">chan_yu_fang_mellissa@moe.edu.sg</a></td>
@@ -139,8 +136,7 @@ description: ""
       <td colspan="2"><b>SUBJECT HEAD (SH) </b></td></tr>
     <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/15_SHAESTHETICS.png" style="width:60px"></td>
-      <td>Mrs Lynette Lim</td>
-    </tr>
+      <td>Mrs Lynette Lim</td></tr>
 <tr><td><b>SH/Aesthetics</b></td></tr>
     <tr>
       <td><a href="mailto:thia_hui_shan_lynette@moe.edu.sg">thia_hui_shan_lynette@moe.edu.sg</a></td>
