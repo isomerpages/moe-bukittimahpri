@@ -24,6 +24,12 @@ description: ""
     </tr>
     <tr><td><a href="mailto:Kitha_ARUMUGAM@schools.gov.sg">Kitha_ARUMUGAM@schools.gov.sg</a></td>
     </tr>
+<tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
   <tr>
       <td colspan="2"><b>YEAR HEAD </b></td></tr>
     <tr>
@@ -52,6 +58,12 @@ description: ""
 ">effandi_jasman@moe.edu.sg
 </a></td>
     </tr>
+<tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
     <tr>
       <td colspan="2"><b>HEADS OF DEPARTMENT (HOD)</b></td></tr>
     <tr>
@@ -122,6 +134,12 @@ description: ""
 ">suzanna_mohamed_isnin@moe.edu.sg</a></td>
     </tr> 
 <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+<tr>
       <td colspan="2"><b>LEVEL HEAD (LH) </b></td></tr>
     <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs mellissa khoo.jpeg" style="width:60px"></td>
@@ -130,6 +148,12 @@ description: ""
     <tr>
       <td><a href="mailto:chan_yu_fang_mellissa@moe.edu.sg">chan_yu_fang_mellissa@moe.edu.sg</a></td>
     </tr>
+<tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
 <tr>
       <td colspan="2"><b>SUBJECT HEAD (SH) </b></td></tr>
     <tr>
@@ -176,6 +200,12 @@ sharmini_jaya_kumaran@moe.edu.sg">
 sharmini_jaya_kumaran@moe.edu.sg</a></td>
     </tr>
  </tr>
+<tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
 <tr>
       <td colspan="2"><b>SCHOOL ADMIN TEAM (SAT) </b></td></tr>
     <tr>
