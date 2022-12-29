@@ -3,73 +3,472 @@ title: Staff List
 permalink: /staff/staff-list/
 description: ""
 ---
-<table border="0" cellpadding="0" cellspacing="0" ><colgroup><col width="160" style="mso-width-source:userset;mso-width-alt:4352;width:89pt"> <col width="291" style="mso-width-source:userset;mso-width-alt:10642;width:218pt"> <col width="68" style="mso-width-source:userset;mso-width-alt:2486;width:51pt"> <col width="301" style="mso-width-source:userset;mso-width-alt:11008;width:226pt"></colgroup><tbody><tr height="21" style="height:15.75pt"><td colspan="4" height="21" class="xl68" width="478" style="height:15.75pt;
-  width:358pt"><b>STAFF LIST 2023</b></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl67" style="height:15.75pt;border-top:none"><b>CLASS</b></td><td class="xl67" style="border-top:none;border-left:none"><b>NAME</b></td><td class="xl67" style="border-top:none;border-left:none"><b>EXTENSION</b></td><td class="xl67" style="border-top:none;border-left:none"><b>EMAIL ADDRESS</b></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">1 Adaptability</td><td class="xl66" style="border-top:none;border-left:none">Mrs Evelyn Lee</td><td class="xl66" align="right" style="border-top:none;border-left:none">326</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:evelyn_ang_gek_shia@moe.edu.sg"><span style="color:black;
-  text-decoration:none">evelyn_ang_gek_shia@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">1 Adaptability</td><td class="xl66" style="border-top:none;border-left:none">Mr Wang Hao</td><td class="xl66" align="right" style="border-top:none;border-left:none">355</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:wang_hao@moe.edu.sg"><span style="color:black;text-decoration:
-  none">wang_hao@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">1 Compassion<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl66" style="border-top:none;border-left:none">Mrs Iman – Akidah</td><td class="xl66" align="right" style="border-top:none;border-left:none">324</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:%20shahidatul_akidah_mohd_suaidi@moe.edu.sg"><span style="color:black;text-decoration:none">shahidatul_akidah_mohd_suaidi@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">1 Compassion<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl66" style="border-top:none;border-left:none">Mdm Tan Hwee Hsia</td><td class="xl66" align="right" style="border-top:none;border-left:none">353</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:tan_hwee_hsia@moe.edu.sg"><span style="color:black;text-decoration:
-  none">tan_hwee_hsia@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">1 Graciousness</td><td class="xl66" style="border-top:none;border-left:none">Mrs Kimberly Tan </td><td class="xl66" align="right" style="border-top:none;border-left:none">335</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:koh_ai_yong_kimberly@moe.edu.sg"><span style="color:black;
-  text-decoration:none">koh_ai_yong_kimberly@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">1 Graciousness</td><td class="xl66" style="border-top:none;border-left:none">Miss Koh Beng Li<span style="mso-spacerun:yes">&nbsp;&nbsp;</span></td><td class="xl66" align="right" style="border-top:none;border-left:none">354</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:koh_beng_li@moe.edu.sg"><span style="color:black;text-decoration:
-  none">koh_beng_li@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">1 Integrity</td><td class="xl66" style="border-top:none;border-left:none">Mrs Shirlena Chan (HOD PE CCA)</td><td class="xl66" align="right" style="border-top:none;border-left:none">209</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:yap_siew_cheng_shirlena@moe.edu.sg"><span style="color:black;
-  text-decoration:none">yap_siew_cheng_shirlena@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">1 Integrity</td><td class="xl66" style="border-top:none;border-left:none">Mdm Wang Ling</td><td class="xl66" align="right" style="border-top:none;border-left:none">327</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:wang_ling@moe.edu.sg"><span style="color:black;text-decoration:
-  none">wang_ling@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">1 Resilience</td><td class="xl66" style="border-top:none;border-left:none">Mr Almir Shafur Bin Mohamed (ART)</td><td class="xl66" align="right" style="border-top:none;border-left:none">348</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:almir_shafur_mohamed@moe.edu.sg"><span style="color:black;
-  text-decoration:none">almir_shafur_mohamed@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">1 Resilience</td><td class="xl66" style="border-top:none;border-left:none">Ms Pang Liew Chin<span style="mso-spacerun:yes">&nbsp;&nbsp;</span></td><td class="xl66" align="right" style="border-top:none;border-left:none">334</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:pang_liew_chin@moe.edu.sg"><span style="color:black;text-decoration:
-  none">pang_liew_chin@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">1 Respect<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl66" style="border-top:none;border-left:none">Mrs Lynette Lim (SH Aesthetics)</td><td class="xl66" align="right" style="border-top:none;border-left:none">336</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:thia_hui_shan_lynette@moe.edu.sg"><span style="color:black;
-  text-decoration:none">thia_hui_shan_lynette@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">1 Respect<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl66" style="border-top:none;border-left:none">Miss Neo Kai Lin</td><td class="xl66" align="right" style="border-top:none;border-left:none">349</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:neo_kai_lin@moe.edu.sg"><span style="color:black;text-decoration:
-  none">neo_kai_lin@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">2 Adaptability</td><td class="xl66" style="border-top:none;border-left:none">Mrs Goh – Chan Khai Gin</td><td class="xl66" align="right" style="border-top:none;border-left:none">339</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:chan_khai_gin@moe.edu.sg"><span style="color:black;text-decoration:
-  none">chan_khai_gin@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">2 Adaptability</td><td class="xl66" style="border-top:none;border-left:none">Mdm Wang Lu</td><td class="xl66" align="right" style="border-top:none;border-left:none">328</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:wang_lu_a@moe.edu.sg"><span style="color:black;text-decoration:
-  none">wang_lu_a@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">2 Compassion</td><td class="xl66" style="border-top:none;border-left:none">Mdm Noor Idayu Bte Sunator (SH/SW)</td><td class="xl66" align="right" style="border-top:none;border-left:none">321</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:noor_idayu_sunator@moe.edu.sg"><span style="color:black;
-  text-decoration:none">noor_idayu_sunator@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">2 Compassion</td><td class="xl66" style="border-top:none;border-left:none">Ms Edna Phong Yang Yi</td><td class="xl66" align="right" style="border-top:none;border-left:none">330</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:phong_yang_yi_edna@moe.edu.sg"><span style="color:black;
-  text-decoration:none">phong_yang_yi_edna@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">2 Graciousness</td><td class="xl66" style="border-top:none;border-left:none">Mr Ernest Ong Wei Ming</td><td class="xl66" align="right" style="border-top:none;border-left:none">331</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:ong_wei_ming@moe.edu.sg"><span style="color:black;text-decoration:
-  none">ong_wei_ming@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">2 Graciousness</td><td class="xl66" style="border-top:none;border-left:none">Miss Teresa Chai Siew Lan (FAJT)</td><td class="xl66" align="right" style="border-top:none;border-left:none">325</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:chai_siew_lan_teresa@moe.edu.sg"><span style="color:black;
-  text-decoration:none">chai_siew_lan_teresa@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">2 Harmony</td><td class="xl66" style="border-top:none;border-left:none">Mrs Nicole Chan (HOD CCE)<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl66" align="right" style="border-top:none;border-left:none">202</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:yap_xue_li_nicole@moe.edu.sg"><span style="color:black;
-  text-decoration:none">yap_xue_li_nicole@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">2 Harmony</td><td class="xl66" style="border-top:none;border-left:none">Mdm Li Yiling</td><td class="xl66" align="right" style="border-top:none;border-left:none">352</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:Li_yiling@moe.edu.sg"><span style="color:black;text-decoration:
-  none">Li_yiling@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">2 Integrity</td><td class="xl66" style="border-top:none;border-left:none">Ms Celeste Wong Siow Yen </td><td class="xl66" align="right" style="border-top:none;border-left:none">338</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:wong_siow_yen@moe.edu.sg"><span style="color:black;text-decoration:
-  none">wong_siow_yen@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">2 Integrity</td><td class="xl66" style="border-top:none;border-left:none">Mdm Du Ying</td><td class="xl66" align="right" style="border-top:none;border-left:none">350</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:du_ying@moe.edu.sg"><span style="color:black;text-decoration:
-  none">du_ying@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">2 Resilience</td><td class="xl66" style="border-top:none;border-left:none">Ms Nur Fidyyana Bte Abdul Latiff (ART)</td><td class="xl66" align="right" style="border-top:none;border-left:none">356</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:nur_fidyyana_ab_latiff@moe.edu.sg"><span style="color:black;
-  text-decoration:none">nur_fidyyana_ab_latiff@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">2 Resilience</td><td class="xl66" style="border-top:none;border-left:none">Mdm Chng Ling Ling (SH/CL)</td><td class="xl66" align="right" style="border-top:none;border-left:none">351</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:chng_ling_ling@moe.edu.sg"><span style="color:black;text-decoration:
-  none">chng_ling_ling@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">2 Respect</td><td class="xl66" style="border-top:none;border-left:none">Mrs Samantha Er</td><td class="xl66" align="right" style="border-top:none;border-left:none">322</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:ong_yen_ting_samantha@moe.edu.sg"><span style="color:black;
-  text-decoration:none">ong_yen_ting_samantha@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">2 Respect</td><td class="xl66" style="border-top:none;border-left:none">Mrs Yvonne Kwan (FAJT)</td><td class="xl66" align="right" style="border-top:none;border-left:none">313</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:yvonne_tan_bee_leng@moe.edu.sg"><span style="color:black;
-  text-decoration:none">yvonne_tan_bee_leng@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">3 Adaptability</td><td class="xl66" style="border-top:none;border-left:none">Ms Josephine Ho Hui Suan </td><td class="xl66" align="right" style="border-top:none;border-left:none">347</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:ho_hui_suan_josephine@moe.edu.sg"><span style="color:black;
-  text-decoration:none">ho_hui_suan_josephine@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">3 Adaptability</td><td class="xl66" style="border-top:none;border-left:none">&nbsp;</td><td class="xl66" style="border-top:none;border-left:none">&nbsp;</td><td class="xl66" style="border-top:none;border-left:none">&nbsp;</td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">3 Compassion</td><td class="xl66" style="border-top:none;border-left:none">Mrs Joanne Hu </td><td class="xl66" align="right" style="border-top:none;border-left:none">358</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:lim_xue_mei_joanne@moe.edu.sg"><span style="color:black;
-  text-decoration:none">lim_xue_mei_joanne@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">3 Compassion</td><td class="xl66" style="border-top:none;border-left:none">Mr Ng Kim Chwee (FAJT)</td><td class="xl66" align="right" style="border-top:none;border-left:none">375</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:ng_kim_chwee@moe.edu.sg"><span style="color:black;text-decoration:
-  none">ng_kim_chwee@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">3 Graciousness</td><td class="xl66" style="border-top:none;border-left:none">Mrs Raj-Lorshenni D/O Jaya Sanger</td><td class="xl66" align="right" style="border-top:none;border-left:none">318</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:lorshenni_jaya_sanger_a@moe.edu.sg"><span style="color:black;
-  text-decoration:none">lorshenni_jaya_sanger_a@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">3 Graciousness</td><td class="xl66" style="border-top:none;border-left:none">&nbsp;</td><td class="xl66" style="border-top:none;border-left:none">&nbsp;</td><td class="xl66" style="border-top:none;border-left:none">&nbsp;</td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">3 Integrity</td><td class="xl66" style="border-top:none;border-left:none">Mr Chua Peng Swee </td><td class="xl66" align="right" style="border-top:none;border-left:none">345</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:chua_peng_swee@moe.edu.sg"><span style="color:black;text-decoration:
-  none">chua_peng_swee@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">3 Integrity</td><td class="xl66" style="border-top:none;border-left:none">&nbsp;</td><td class="xl66" style="border-top:none;border-left:none">&nbsp;</td><td class="xl66" style="border-top:none;border-left:none">&nbsp;</td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">3 Resilience</td><td class="xl66" style="border-top:none;border-left:none">Mr Solomon Tan Ding Huang</td><td class="xl66" align="right" style="border-top:none;border-left:none">362</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:solomon_tan_ding_huang@moe.edu.sg"><span style="color:black;
-  text-decoration:none">solomon_tan_ding_huang@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">3 Resilience</td><td class="xl66" style="border-top:none;border-left:none">Mrs Jeannette Yeo</td><td class="xl66" align="right" style="border-top:none;border-left:none">309</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:lim_mui_ling_jeannette@moe.edu.sg"><span style="color:black;
-  text-decoration:none">lim_mui_ling_jeannette@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">3 Respect</td><td class="xl66" style="border-top:none;border-left:none">Mr Chua Khoon Sia Raymond</td><td class="xl66" align="right" style="border-top:none;border-left:none">308</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:chua_khoon_sia@moe.edu.sg"><span style="color:black;text-decoration:
-  none">chua_khoon_sia@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">3 Respect</td><td class="xl66" style="border-top:none;border-left:none">Miss Goh Xue Yi (HOD/ Pupil Management)</td><td class="xl66" align="right" style="border-top:none;border-left:none">210</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:goh_xue_yi@moe.edu.sg"><span style="color:black;text-decoration:
-  none">goh_xue_yi@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">4 Adaptability</td><td class="xl66" style="border-top:none;border-left:none">Mrs Wong-Chong Yu Pei</td><td class="xl66" align="right" style="border-top:none;border-left:none">315</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:chong_yu_pei@moe.edu.sg"><span style="color:black;text-decoration:
-  none">chong_yu_pei@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">4 Adaptability</td><td class="xl66" style="border-top:none;border-left:none">Ms Peng Yuanzhen</td><td class="xl66" align="right" style="border-top:none;border-left:none">333</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:peng_yuanzhen@moe.edu.sg"><span style="color:black;text-decoration:
-  none">peng_yuanzhen@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">4 Compassion</td><td class="xl66" style="border-top:none;border-left:none">Mdm Suzanna Bte Mohd Isnin (HOD/SSD)</td><td class="xl66" align="right" style="border-top:none;border-left:none">204</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:suzanna_mohamed_isnin@moe.edu.sg"><span style="color:black;
-  text-decoration:none">suzanna_mohamed_isnin@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">4 Compassion</td><td class="xl66" style="border-top:none;border-left:none">Mr Idris Bin Mohd Taha</td><td class="xl66" align="right" style="border-top:none;border-left:none">367</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:idris_b_mohd_taha@moe.edu.sg"><span style="color:black;
-  text-decoration:none">idris_b_mohd_taha@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">4 Graciousness</td><td class="xl66" style="border-top:none;border-left:none">Miss Annabelle Chua Wen Xin</td><td class="xl66" align="right" style="border-top:none;border-left:none">319</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:annabelle_chua_wen_xin@moe.edu.sg"><span style="color:black;
-  text-decoration:none">annabelle_chua_wen_xin@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">4 Graciousness</td><td class="xl66" style="border-top:none;border-left:none">Mr Ho Boon Huat (HOD/ MTL)</td><td class="xl66" align="right" style="border-top:none;border-left:none">203</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:ho_boon_huat@moe.edu.sg"><span style="color:black;text-decoration:
-  none">ho_boon_huat@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">4 Integrity</td><td class="xl66" style="border-top:none;border-left:none">Mrs Serene Tear Poh Keng</td><td class="xl66" align="right" style="border-top:none;border-left:none">314</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:yap_poh_keng@moe.edu.sg"><span style="color:black;text-decoration:
-  none">yap_poh_keng@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">4 Integrity</td><td class="xl66" style="border-top:none;border-left:none">Mr Jeremy Ho </td><td class="xl66" align="right" style="border-top:none;border-left:none">360</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:ho_jian_xiong@moe.edu.sg"><span style="color:black;text-decoration:
-  none">ho_jian_xiong@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">4 Respect</td><td class="xl66" style="border-top:none;border-left:none">Ms Sharmini d/o Jaya Kumaran</td><td class="xl66" align="right" style="border-top:none;border-left:none">304</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:sharmini_jaya_kumaran@moe.edu.sg"><span style="color:black;
-  text-decoration:none">sharmini_jaya_kumaran@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">4 Respect</td><td class="xl66" style="border-top:none;border-left:none">Mdm Suzana Bte Mohd Yaacob </td><td class="xl66" align="right" style="border-top:none;border-left:none">357</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:suzana_mohd_yaacob@moe.edu.sg"><span style="color:black;
-  text-decoration:none">suzana_mohd_yaacob@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">5 Adaptability</td><td class="xl66" style="border-top:none;border-left:none">Mdm Durgadevi d/o Tamil Selvam (SH/ ICT)</td><td class="xl66" align="right" style="border-top:none;border-left:none">303</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:durgadevi_tamil_selvam@moe.edu.sg"><span style="color:black;
-  text-decoration:none">durgadevi_tamil_selvam@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">5 Adaptability</td><td class="xl66" style="border-top:none;border-left:none">Dr Mohammad Shah Bin Razak</td><td class="xl66" style="border-top:none;border-left:none">&nbsp;</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:mohammad_shah_razak@moe.edu.sg"><span style="color:black;
-  text-decoration:none">mohammad_shah_razak@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">5 Compassion</td><td class="xl66" style="border-top:none;border-left:none">Mrs Mellissa Khoo (LH/EL)</td><td class="xl66" align="right" style="border-top:none;border-left:none">317</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:chan_yu_fang_mellissa@moe.edu.sg"><span style="color:black;
-  text-decoration:none">chan_yu_fang_mellissa@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">5 Compassion</td><td class="xl66" style="border-top:none;border-left:none">Ms Tee Xinyi (CAJT)</td><td class="xl66" align="right" style="border-top:none;border-left:none">332</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:tee_xinyi@moe.edu.sg"><span style="color:black;text-decoration:
-  none">tee_xinyi@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">5 Graciousness</td><td class="xl66" style="border-top:none;border-left:none">Mdm Rozana Bte Hashim (ST/EL)</td><td class="xl66" align="right" style="border-top:none;border-left:none">316</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:rozana_hashim@moe.edu.sg"><span style="color:black;text-decoration:
-  none">rozana_hashim@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">5 Graciousness</td><td class="xl66" style="border-top:none;border-left:none">Mr Jesudass Joseph Patros<span style="mso-spacerun:yes">&nbsp;&nbsp;</span></td><td class="xl66" align="right" style="border-top:none;border-left:none">370</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:jesudass_joseph_patros@moe.edu.sg"><span style="color:black;
-  text-decoration:none">jesudass_joseph_patros@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">5 Integrity</td><td class="xl66" style="border-top:none;border-left:none">Miss Cheng May Ling </td><td class="xl66" align="right" style="border-top:none;border-left:none">302</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:cheng_may_ling@moe.edu.sg"><span style="color:black;text-decoration:
-  none">cheng_may_ling@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">5 Integrity</td><td class="xl66" style="border-top:none;border-left:none">Mdm Xu Aili (ST/CL)</td><td class="xl66" align="right" style="border-top:none;border-left:none">329</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:xu_ai_li@moe.edu.sg"><span style="color:black;text-decoration:
-  none">xu_ai_li@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">5 Resilience</td><td class="xl66" style="border-top:none;border-left:none">Mr Christopher Khoo (HOD/Science)</td><td class="xl66" align="right" style="border-top:none;border-left:none">208</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:khoo_kian_kiong_christopher@moe.edu.sg"><span style="color:black;
-  text-decoration:none">khoo_kian_kiong_christopher@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">5 Resilience</td><td class="xl66" style="border-top:none;border-left:none">&nbsp;</td><td class="xl66" style="border-top:none;border-left:none">&nbsp;</td><td class="xl66" style="border-top:none;border-left:none">&nbsp;</td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">5 Respect</td><td class="xl66" style="border-top:none;border-left:none">Mdm Suzanah Bte Miswari<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td><td class="xl66" align="right" style="border-top:none;border-left:none">368</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:suzanah_miswari@moe.edu.sg"><span style="color:black;text-decoration:
-  none">suzanah_miswari@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">5 Respect</td><td class="xl66" style="border-top:none;border-left:none">&nbsp;</td><td class="xl66" style="border-top:none;border-left:none">&nbsp;</td><td class="xl66" style="border-top:none;border-left:none">&nbsp;</td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">6 Adaptibility</td><td class="xl66" style="border-top:none;border-left:none">Mr Zaini Bin Zanal</td><td class="xl66" align="right" style="border-top:none;border-left:none">359</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:zaini_zanal@moe.edu.sg"><span style="color:black;text-decoration:
-  none">zaini_zanal@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">6 Adaptibilty</td><td class="xl66" style="border-top:none;border-left:none">Mdm Chitra d/o Selvaraju</td><td class="xl66" align="right" style="border-top:none;border-left:none">342</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:chitra_selvaraju@moe.edu.sg"><span style="color:black;
-  text-decoration:none">chitra_selvaraju@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">6 Compassion</td><td class="xl66" style="border-top:none;border-left:none">Mdm Junaida Bte Jasman (ST/MATH)</td><td class="xl66" align="right" style="border-top:none;border-left:none">306</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:junaida_jasman@moe.edu.sg"><span style="color:black;text-decoration:
-  none">junaida_jasman@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">6 Compassion</td><td class="xl66" style="border-top:none;border-left:none">Ms Indira d/o R Pillai (HOD/ EL)</td><td class="xl66" align="right" style="border-top:none;border-left:none">201</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:indira_raghavan_pillai@moe.edu.sg"><span style="color:black;
-  text-decoration:none">indira_raghavan_pillai@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">6 Graciousness</td><td class="xl66" style="border-top:none;border-left:none">Mrs Ong Kai Chun</td><td class="xl66" align="right" style="border-top:none;border-left:none">307</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:tay_kai_chun@moe.edu.sg"><span style="color:black;text-decoration:
-  none">tay_kai_chun@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">6 Graciousness</td><td class="xl66" style="border-top:none;border-left:none">Mdm Nur Namira Bte Mazlan</td><td class="xl66" align="right" style="border-top:none;border-left:none">366</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:nur_namira_mazlan@moe.edu.sg"><span style="color:black;
-  text-decoration:none">nur_namira_mazlan@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">6 Respect</td><td class="xl66" style="border-top:none;border-left:none">Mrs Karin Gan (HOD/ Math)</td><td class="xl66" align="right" style="border-top:none;border-left:none">206</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:yeo_lei_teng@moe.edu.sg"><span style="color:black;text-decoration:
-  none">yeo_lei_teng@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">6 Respect</td><td class="xl66" style="border-top:none;border-left:none">Mr Donald Tan Eit Peow (PE)</td><td class="xl66" align="right" style="border-top:none;border-left:none">346</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:tan_eit_peow@moe.edu.sg@moe.edu.sg"><span style="color:black;
-  text-decoration:none">tan_eit_peow@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">AED (LBS)</td><td class="xl66" style="border-top:none;border-left:none">Miss Tan Ah Bitt</td><td class="xl66" align="right" style="border-top:none;border-left:none">343</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:tan_ah_bitt@moe.edu.sg"><span style="color:black;text-decoration:
-  none">tan_ah_bitt@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">AED (LBS)</td><td class="xl66" style="border-top:none;border-left:none">Mdm Wong Chi Ki</td><td class="xl66" align="right" style="border-top:none;border-left:none">344</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:wong_chi_ki@moe.edu.sg"><span style="color:black;text-decoration:
-  none">wong_chi_ki@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">AED (T&amp;L)</td><td class="xl66" style="border-top:none;border-left:none">Mdm Elyana Bte Al-Ghazali</td><td class="xl66" align="right" style="border-top:none;border-left:none">369</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:elyana_al_ghazali@moe.edu.sg"><span style="color:black;
-  text-decoration:none">elyana_al_ghazali@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">FAJT</td><td class="xl66" style="border-top:none;border-left:none">Mdm Evelyn Nah Bee Har</td><td class="xl66" align="right" style="border-top:none;border-left:none">312</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:nah_bee_har@moe.edu.sg"><span style="color:black;text-decoration:
-  none">nah_bee_har@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">FAJT</td><td class="xl66" style="border-top:none;border-left:none">Ms Subah</td><td class="xl66" align="right" style="border-top:none;border-left:none">364</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:subahshini_jayaseelan@moe.edu.sg"><span style="color:black;
-  text-decoration:none">subahshini_jayaseelan@moe.edu.sg</span></a></td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl66" style="height:15.75pt;border-top:none">FAJT</td><td class="xl66" style="border-top:none;border-left:none">Ms Daphne Ng – (FAJT)</td><td class="xl66" align="right" style="border-top:none;border-left:none">310</td><td class="xl66" style="border-top:none;border-left:none"><a href="mailto:ng_sze_yee@moe.edu.sg"><span style="color:black;text-decoration:
-  none">ng_sze_yee@moe.edu.sg</span></a></td></tr></tbody></table>
+<html>
+<head>
+<meta charset="utf-8">
+<title>BTPS ORG CHART</title>
+</head>
+
+<body>
+<table cellspacing="0" cellpadding="0">
+  <col width="119">
+  <col width="300">
+  <col width="68">
+  <col width="301">
+  <tr>
+    <td colspan="4"><b>STAFF LIST 2023</b></td>
+  </tr>
+  <tr>
+    <td width="129">CLASS</td>
+    <td width="296">NAME</td>
+    <td width="100">EXTENSION </td>
+    <td width="312">EMAIL ADDRESS</td>
+  </tr>
+  <tr>
+    <td>1_Adaptability</td>
+    <td>Mrs Evelyn Lee</td>
+    <td align="right">326</td>
+    <td><a href="mailto:evelyn_ang_gek_shia@moe.edu.sg">evelyn_ang_gek_shia@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Adaptability</td>
+    <td>Mr Wang Hao</td>
+    <td align="right">355</td>
+    <td><a href="mailto:wang_hao@moe.edu.sg">wang_hao@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Compassion </td>
+    <td>Mrs Iman – Akidah</td>
+    <td align="right">324</td>
+    <td><a href="mailto:%20shahidatul_akidah_mohd_suaidi@moe.edu.sg">shahidatul_akidah_mohd_suaidi@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Compassion </td>
+    <td>Mdm Tan Hwee Hsia</td>
+    <td align="right">353</td>
+    <td><a href="mailto:tan_hwee_hsia@moe.edu.sg">tan_hwee_hsia@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Graciousness</td>
+    <td>Mrs Kimberly Tan </td>
+    <td align="right">335</td>
+    <td><a href="mailto:koh_ai_yong_kimberly@moe.edu.sg">koh_ai_yong_kimberly@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Graciousness</td>
+    <td>Miss Koh Beng Li  </td>
+    <td align="right">354</td>
+    <td><a href="mailto:koh_beng_li@moe.edu.sg">koh_beng_li@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Integrity</td>
+    <td>Mrs Shirlena Chan    (HOD/PE &amp; CCA)</td>
+    <td align="right">209</td>
+    <td><a href="mailto:yap_siew_cheng_shirlena@moe.edu.sg">yap_siew_cheng_shirlena@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Integrity</td>
+    <td>Mdm Wang Ling</td>
+    <td align="right">327</td>
+    <td><a href="mailto:wang_ling@moe.edu.sg">wang_ling@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Resilience</td>
+    <td>Mr Almir Shafur Bin    Mohamed </td>
+    <td align="right">348</td>
+    <td><a href="mailto:almir_shafur_mohamed@moe.edu.sg">almir_shafur_mohamed@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Resilience</td>
+    <td>Ms Pang Liew    Chin  </td>
+    <td align="right">334</td>
+    <td><a href="mailto:pang_liew_chin@moe.edu.sg">pang_liew_chin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Respect </td>
+    <td>Mrs Lynette Lim (SH/Aesthetics)</td>
+    <td align="right">336</td>
+    <td><a href="mailto:thia_hui_shan_lynette@moe.edu.sg">thia_hui_shan_lynette@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Respect </td>
+    <td>Miss Neo Kai Lin</td>
+    <td align="right">349</td>
+    <td><a href="mailto:neo_kai_lin@moe.edu.sg">neo_kai_lin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Adaptability</td>
+    <td>Mrs Goh – Chan Khai    Gin</td>
+    <td align="right">339</td>
+    <td><a href="mailto:chan_khai_gin@moe.edu.sg">chan_khai_gin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Adaptability</td>
+    <td>Mdm Wang Lu</td>
+    <td align="right">328</td>
+    <td><a href="mailto:wang_lu_a@moe.edu.sg">wang_lu_a@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Compassion</td>
+    <td>Mdm Noor Idayu Bte    Sunator (SH/SW)</td>
+    <td align="right">321</td>
+    <td><a href="mailto:noor_idayu_sunator@moe.edu.sg">noor_idayu_sunator@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Compassion</td>
+    <td>Ms Edna Phong Yang Yi</td>
+    <td align="right">330</td>
+    <td><a href="mailto:phong_yang_yi_edna@moe.edu.sg">phong_yang_yi_edna@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Graciousness</td>
+    <td>Mr Ernest Ong Wei    Ming</td>
+    <td align="right">331</td>
+    <td><a href="mailto:ong_wei_ming@moe.edu.sg">ong_wei_ming@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Graciousness</td>
+    <td>Miss Teresa Chai Siew    Lan (FAJT)</td>
+    <td align="right">325</td>
+    <td><a href="mailto:chai_siew_lan_teresa@moe.edu.sg">chai_siew_lan_teresa@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Harmony</td>
+    <td>Mrs Nicole Chan (HOD/CCE) </td>
+    <td align="right">202</td>
+    <td><a href="mailto:yap_xue_li_nicole@moe.edu.sg">yap_xue_li_nicole@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Harmony</td>
+    <td>Mdm Li Yiling</td>
+    <td align="right">352</td>
+    <td><a href="mailto:Li_yiling@moe.edu.sg">Li_yiling@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Integrity</td>
+    <td>Ms Celeste Wong Siow    Yen </td>
+    <td align="right">338</td>
+    <td><a href="mailto:wong_siow_yen@moe.edu.sg">wong_siow_yen@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Integrity</td>
+    <td>Mdm Du Ying</td>
+    <td align="right">350</td>
+    <td><a href="mailto:du_ying@moe.edu.sg">du_ying@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Resilience</td>
+    <td>Ms Nur Fidyyana Bte    Abdul Latiff (ART)</td>
+    <td align="right">356</td>
+    <td><a href="mailto:nur_fidyyana_ab_latiff@moe.edu.sg">nur_fidyyana_ab_latiff@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Resilience</td>
+    <td>Mdm Chng Ling Ling    (SH/CL)</td>
+    <td align="right">351</td>
+    <td><a href="mailto:chng_ling_ling@moe.edu.sg">chng_ling_ling@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Respect</td>
+    <td>Mrs Samantha Er</td>
+    <td align="right">322</td>
+    <td><a href="mailto:ong_yen_ting_samantha@moe.edu.sg">ong_yen_ting_samantha@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Respect</td>
+    <td>Mrs Yvonne Kwan    (FAJT)</td>
+    <td align="right">313</td>
+    <td><a href="mailto:yvonne_tan_bee_leng@moe.edu.sg">yvonne_tan_bee_leng@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>3_Adaptability</td>
+    <td>Ms Josephine Ho Hui Suan </td>
+    <td align="right">347</td>
+    <td><a href="mailto:ho_hui_suan_josephine@moe.edu.sg">ho_hui_suan_josephine@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>3_Adaptability</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>3_Compassion</td>
+    <td>Mrs Joanne Hu</td>
+    <td align="right">358</td>
+    <td><a href="mailto:lim_xue_mei_joanne@moe.edu.sg">lim_xue_mei_joanne@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>3_Compassion</td>
+    <td>Mr Ng Kim Chwee    (FAJT)</td>
+    <td align="right">375</td>
+    <td><a href="mailto:ng_kim_chwee@moe.edu.sg">ng_kim_chwee@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>3_Graciousness</td>
+    <td>Mrs Raj-Lorshenni D/O    Jaya Sanger</td>
+    <td align="right">318</td>
+    <td><a href="mailto:lorshenni_jaya_sanger_a@moe.edu.sg">lorshenni_jaya_sanger_a@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>3_Graciousness</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>3_Integrity</td>
+    <td>Mr Chua Peng Swee    </td>
+    <td align="right">345</td>
+    <td><a href="mailto:chua_peng_swee@moe.edu.sg">chua_peng_swee@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>3_Integrity</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>3_Resilience</td>
+    <td>Mr Solomon Tan Ding    Huang</td>
+    <td align="right">362</td>
+    <td><a href="mailto:solomon_tan_ding_huang@moe.edu.sg">solomon_tan_ding_huang@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>3_Resilience</td>
+    <td>Mrs Jeannette Yeo</td>
+    <td align="right">309</td>
+    <td><a href="mailto:lim_mui_ling_jeannette@moe.edu.sg">lim_mui_ling_jeannette@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>3_Respect</td>
+    <td>Mr Chua Khoon Sia    Raymond</td>
+    <td align="right">308</td>
+    <td><a href="mailto:chua_khoon_sia@moe.edu.sg">chua_khoon_sia@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>3_Respect</td>
+    <td>Miss Goh Xue Yi (HOD/Pupil Management)</td>
+    <td align="right">210</td>
+    <td><a href="mailto:goh_xue_yi@moe.edu.sg">goh_xue_yi@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Adaptability</td>
+    <td>Mrs Wong-Chong Yu Pei</td>
+    <td align="right">315</td>
+    <td><a href="mailto:chong_yu_pei@moe.edu.sg">chong_yu_pei@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Adaptability</td>
+    <td>Ms Peng Yuanzhen</td>
+    <td align="right">333</td>
+    <td><a href="mailto:peng_yuanzhen@moe.edu.sg">peng_yuanzhen@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Compassion</td>
+    <td>Mdm Suzanna Bte Mohd    Isnin (HOD/SSD)</td>
+    <td align="right">204</td>
+    <td><a href="mailto:suzanna_mohamed_isnin@moe.edu.sg">suzanna_mohamed_isnin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Compassion</td>
+    <td>Mr Idris Bin Mohd    Taha</td>
+    <td align="right">367</td>
+    <td><a href="mailto:idris_b_mohd_taha@moe.edu.sg">idris_b_mohd_taha@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Graciousness</td>
+    <td>Miss Annabelle Chua    Wen Xin</td>
+    <td align="right">319</td>
+    <td><a href="mailto:annabelle_chua_wen_xin@moe.edu.sg">annabelle_chua_wen_xin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Graciousness</td>
+    <td>Mr Ho Boon Huat (HOD/MTL)</td>
+    <td align="right">203</td>
+    <td><a href="mailto:ho_boon_huat@moe.edu.sg">ho_boon_huat@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Integrity</td>
+    <td>Mrs Serene Tear Poh    Keng</td>
+    <td align="right">314</td>
+    <td><a href="mailto:yap_poh_keng@moe.edu.sg">yap_poh_keng@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Integrity</td>
+    <td>Mr Jeremy Ho </td>
+    <td align="right">360</td>
+    <td><a href="mailto:ho_jian_xiong@moe.edu.sg">ho_jian_xiong@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Respect</td>
+    <td>Ms Sharmini d/o Jaya    Kumaran</td>
+    <td align="right">304</td>
+    <td><a href="mailto:sharmini_jaya_kumaran@moe.edu.sg">sharmini_jaya_kumaran@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Respect</td>
+    <td>Mdm Suzana Bte Mohd    Yaacob </td>
+    <td align="right">357</td>
+    <td><a href="mailto:suzana_mohd_yaacob@moe.edu.sg">suzana_mohd_yaacob@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Adaptability</td>
+    <td>Mdm Durgadevi d/o    Tamil Selvam (SH/ ICT)</td>
+    <td align="right">303</td>
+    <td><a href="mailto:durgadevi_tamil_selvam@moe.edu.sg">durgadevi_tamil_selvam@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Adaptability</td>
+    <td>Dr Mohammad Shah Bin    Razak</td>
+    <td>&nbsp;</td>
+    <td><a href="mailto:mohammad_shah_razak@moe.edu.sg">mohammad_shah_razak@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Compassion</td>
+    <td>Mrs Mellissa Khoo (LH/EL)</td>
+    <td align="right">317</td>
+    <td><a href="mailto:chan_yu_fang_mellissa@moe.edu.sg">chan_yu_fang_mellissa@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Compassion</td>
+    <td>Ms Tee Xinyi (CAJT)</td>
+    <td align="right">332</td>
+    <td><a href="mailto:tee_xinyi@moe.edu.sg">tee_xinyi@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Graciousness</td>
+    <td>Mdm Rozana Bte Hashim    (ST/EL)</td>
+    <td align="right">316</td>
+    <td><a href="mailto:rozana_hashim@moe.edu.sg">rozana_hashim@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Graciousness</td>
+    <td>Mr Jesudass Joseph    Patros  </td>
+    <td align="right">370</td>
+    <td><a href="mailto:jesudass_joseph_patros@moe.edu.sg">jesudass_joseph_patros@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Integrity</td>
+    <td>Miss Cheng May Ling </td>
+    <td align="right">302</td>
+    <td><a href="mailto:cheng_may_ling@moe.edu.sg">cheng_may_ling@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Integrity</td>
+    <td>Mdm Xu Aili (ST/CL)</td>
+    <td align="right">329</td>
+    <td><a href="mailto:xu_ai_li@moe.edu.sg">xu_ai_li@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Resilience</td>
+    <td>Mr Christopher Khoo    (HOD/Science)</td>
+    <td align="right">208</td>
+    <td><a href="mailto:khoo_kian_kiong_christopher@moe.edu.sg">khoo_kian_kiong_christopher@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Resilience</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>5_Respect</td>
+    <td>Mdm Suzanah Bte    Miswari      </td>
+    <td align="right">368</td>
+    <td><a href="mailto:suzanah_miswari@moe.edu.sg">suzanah_miswari@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Respect</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>6_Adaptibility</td>
+    <td>Mr Zaini Bin Zanal    </td>
+    <td align="right">359</td>
+    <td><a href="mailto:zaini_zanal@moe.edu.sg">zaini_zanal@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>6_Adaptibilty</td>
+    <td>Mdm Chitra d/o    Selvaraju</td>
+    <td align="right">342</td>
+    <td><a href="mailto:chitra_selvaraju@moe.edu.sg">chitra_selvaraju@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>6_Compassion</td>
+    <td>Mdm Junaida Bte    Jasman (ST/MA)</td>
+    <td align="right">306</td>
+    <td><a href="mailto:junaida_jasman@moe.edu.sg">junaida_jasman@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>6_Compassion</td>
+    <td>Ms Indira d/o R    Pillai (HOD/EL)</td>
+    <td align="right">201</td>
+    <td><a href="mailto:indira_raghavan_pillai@moe.edu.sg">indira_raghavan_pillai@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>6_Graciousness</td>
+    <td>Mrs Ong Kai Chun </td>
+    <td align="right">307</td>
+    <td><a href="mailto:tay_kai_chun@moe.edu.sg">tay_kai_chun@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>6_Graciousness</td>
+    <td>Mdm Nur Namira Bte    Mazlan</td>
+    <td align="right">366</td>
+    <td><a href="mailto:nur_namira_mazlan@moe.edu.sg">nur_namira_mazlan@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>6_Respect</td>
+    <td>Mrs Karin Gan (HOD/Math)</td>
+    <td align="right">206</td>
+    <td><a href="mailto:yeo_lei_teng@moe.edu.sg">yeo_lei_teng@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>6_Respect</td>
+    <td>Mr Donald Tan Eit    Peow </td>
+    <td align="right">346</td>
+    <td><a href="mailto:tan_eit_peow@moe.edu.sg@moe.edu.sg">tan_eit_peow@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>AED (LBS)</td>
+    <td>Miss Tan Ah Bitt</td>
+    <td align="right">343</td>
+    <td><a href="mailto:tan_ah_bitt@moe.edu.sg">tan_ah_bitt@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>AED (LBS)</td>
+    <td>Mdm Wong Chi Ki</td>
+    <td align="right">344</td>
+    <td><a href="mailto:wong_chi_ki@moe.edu.sg">wong_chi_ki@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>AED (T&amp;L)</td>
+    <td>Mdm Elyana Bte    Al-Ghazali</td>
+    <td align="right">369</td>
+    <td><a href="mailto:elyana_al_ghazali@moe.edu.sg">elyana_al_ghazali@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>FAJT</td>
+    <td>Mdm Evelyn Nah Bee    Har</td>
+    <td align="right">312</td>
+    <td><a href="mailto:nah_bee_har@moe.edu.sg">nah_bee_har@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>FAJT</td>
+    <td>Ms Subah</td>
+    <td align="right">364</td>
+    <td><a href="mailto:subahshini_jayaseelan@moe.edu.sg">subahshini_jayaseelan@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>FAJT</td>
+    <td>Ms Daphne Ng  (FAJT)</td>
+    <td align="right">310</td>
+    <td><a href="mailto:ng_sze_yee@moe.edu.sg">ng_sze_yee@moe.edu.sg</a></td>
+  </tr>
+</table>
+<br>
+</body>
+</html>
