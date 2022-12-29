@@ -25,8 +25,7 @@ description: ""
     </tr>
     <tr><td><a href="mailto:Kitha_ARUMUGAM@schools.gov.sg">Kitha_ARUMUGAM@schools.gov.sg</a></td>
     </tr>
-<tr><td></td></tr></table>
-<table width="800" border="0">
+<br><br><br>
   <tr>
       <td colspan="2"><b>YEAR HEAD </b></td></tr>
     <tr>
@@ -55,9 +54,6 @@ description: ""
 ">effandi_jasman@moe.edu.sg
 </a></td>
     </tr>
-<tr><td></td></tr>
-</table>
-<table width="800" border="0">
     <tr>
       <td colspan="2"><b>HEADS OF DEPARTMENT (HOD)</b></td></tr>
     <tr>
@@ -129,9 +125,6 @@ description: ""
       <td><a href="mailto:suzanna_mohamed_isnin@moe.edu.sg
 ">suzanna_mohamed_isnin@moe.edu.sg</a></td>
     </tr> 
-<tr><td></td></tr>
-</table>
-<table width="800" border="0">
 <tr>
       <td colspan="2"><b>LEVEL HEAD (LH) </b></td></tr>
     <tr>
@@ -142,9 +135,6 @@ description: ""
     <tr>
       <td><a href="mailto:chan_yu_fang_mellissa@moe.edu.sg">chan_yu_fang_mellissa@moe.edu.sg</a></td>
     </tr>
-<tr><td></td></tr></tr>
-</table>
-<table width="800" border="0">
 <tr>
       <td colspan="2"><b>SUBJECT HEAD (SH) </b></td></tr>
     <tr>
@@ -191,9 +181,7 @@ chng_ling_ling@moe.edu.sg</a></td>
 sharmini_jaya_kumaran@moe.edu.sg">
 sharmini_jaya_kumaran@moe.edu.sg</a></td>
     </tr>
- </tr><tr><td></td></tr>
-</table>
-<table width="800" border="0">
+ </tr>
 <tr>
       <td colspan="2"><b>SCHOOL ADMIN TEAM (SAT) </b></td></tr>
     <tr>
@@ -204,7 +192,6 @@ sharmini_jaya_kumaran@moe.edu.sg</a></td>
     <tr>
       <td><a href="mailto:abdul_halik_abdul_hamid@moe.edu.sg">abdul_halik_abdul_hamid@moe.edu.sg</a></td>
     </tr>
-<tr><td></td></tr>
 <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mr samales kuppusamy.jpeg" style="width:60px"></td>
       <td>Mr Samales Kuppusamy</td>
