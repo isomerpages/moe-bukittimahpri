@@ -199,3 +199,25 @@ sharmini_jaya_kumaran@moe.edu.sg</a></td>
     </tr>
  </tr><tr><td></td></tr>
 </table>
+<table width="800" border="0">
+<tr>
+      <td colspan="2"><b>School Admin Team (SAT) </b></td></tr>
+    <tr>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/AM.png" style="width:60px"></td>
+      <td>Mr Abdul Halik Bin Abdul Hamid</td>
+    </tr>
+<tr><td><b>Admin Manager</b></td></tr>
+    <tr>
+      <td><a href="mailto:abdul_halik_abdul_hamid@moe.edu.sg">abdul_halik_abdul_hamid@moe.edu.sg</a></td>
+    </tr>
+<tr><td></td></tr>
+<tr>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/OM.png" style="width:60px"></td>
+      <td>Mr Samales Kuppusamy</td>
+    </tr>
+<tr><td><b>Operations Manager</b></td></tr>
+    <tr>
+      <td><a href="mailto:kuppusamy_m_samales@moe.edu.sg">kuppusamy_m_samales@moe.edu.sg</a></td>
+    </tr>
+<tr><td></td></tr>
+</table>
