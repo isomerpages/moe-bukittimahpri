@@ -3,7 +3,7 @@ title: Organizational Chart
 permalink: /staff/organisational-chart/
 description: ""
 ---
-###  ORGANISATIONAL CHART M
+###  ORGANISATIONAL CHART N
 <table width="800" border="0">
    <tr><td colspan="2"><b>PRINCIPAL</b></td></tr>
     <tr><td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/01_P.png" style="width:60px" ></td>
@@ -17,7 +17,7 @@ description: ""
     </tr>
    <tr>
       <td><a href="mailto:WONG_Sung_Lai@schools.gov.sg">WONG_Sung_Lai@schools.gov.sg</a></td>
-    </tr><tr></tr>
+    </tr>
         <tr><td colspan="2"><b>VICE PRINCIPAL</b></td></tr>
     <tr><td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/03_VP_MDM KITHA.png" style="width:60px"></td>
       <td><b>Mdm Kitha Arumugam</b></td>
@@ -40,24 +40,20 @@ description: ""
     <tr>
       <td><a href="mailto:low_yin_choo@moe.edu.sg
 ">low_yin_choo@moe.edu.sg
-</a></td>
-    </tr>
+</a></td></tr><tr>
       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs angeline teo.jpeg" style="width:60px"></td>
-      <td>Mrs Angeline Teo</td>
-    </tr>
+      <td>Mrs Angeline Teo</td></tr>
 <tr><td><b>YH/Mid Primary (Pri 3 and Pri 4)</b></td></tr>
     <tr>
       <td><a href="mailto:low_swee_ling_angeline@moe.edu.sg">low_swee_ling_angeline@moe.edu.sg</a></td>
     </tr>
        <tr><td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mr effandi bin jasman.jpeg" style="width:60px"></td>
-      <td>Mr Effandi Jasman</td>
-    </tr>
-<tr><td><b>YH/Upper Primary (Pri 5 and Pri 6)</b></td>
+      <td>Mr Effandi Jasman</td></tr>
+<tr><td><b>YH/Upper Primary (Pri 5 and Pri 6)</b></td></tr>
     <tr>
       <td><a href="mailto:effandi_jasman@moe.edu.sg
 ">effandi_jasman@moe.edu.sg
-</a></td>
-    </tr>
+</a></td></tr>
 <tr>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -66,17 +62,14 @@ description: ""
   </tr>
     <tr>
       <td colspan="2"><b>HEADS OF DEPARTMENT (HOD)</b></td></tr>
-    <tr>
-       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/ms indira do raghavan pillai.jpeg" style="width:60px"></td>
-      <td>Ms Indira d/o R Pillai</td>
-    </tr>
+    <tr><td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/ms indira do raghavan pillai.jpeg" style="width:60px"></td>
+      <td>Ms Indira d/o R Pillai</td></tr>
 <tr><td><b>HOD/English Language (EL)</b></td></tr>
     <tr>
       <td><a href="mailto:indira_raghavan_pillai@moe.edu.sg">indira_raghavan_pillai@moe.edu.sg</a></td>
     </tr>
       <tr><td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs Karin gan.jpeg" style="width:60px"></td>
-      <td>Mrs Karin Gan</td>
-    </tr>
+      <td>Mrs Karin Gan</td></tr>
 <tr><td><b>HOD/Mathematics</b></td></tr>
     <tr>
       <td><a href="mailto:yeo_lei_teng@moe.edu.sg">yeo_lei_teng@moe.edu.sg</a></td>
