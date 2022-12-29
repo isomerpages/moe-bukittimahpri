@@ -3,15 +3,14 @@ title: Organizational Chart
 permalink: /staff/organisational-chart/
 description: ""
 ---
-###  ORGANISATIONAL CHART J
+###  ORGANISATIONAL CHART K
 <table width="800" border="0">
-   <tr><td colspan="2"><b>PRINCIPAL</b></td>
-<td></td></tr>
+   <tr><td colspan="2"><b>PRINCIPAL</b></td></tr>
     <tr><td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/01_P.png" style="width:60px" ></td>
       <td><b>Ms Lau Wan Sze</b></td>
     </tr>
     <tr><td><a href="mailto:lau_wan_sze@schools.gov.sg">lau_wan_sze@schools.gov.sg</a></td></tr>
-   <tr><td colspan="2"><b>VICE PRINCIPAL</b></td><td></td></tr>
+   <tr><td colspan="2"><b>VICE PRINCIPAL</b></td></tr>
     <tr>
       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/02_VP_WONGSL.png" style="width:60px"></td>
       <td><b>Mr Wong Sung Lai Edward</b></td>
@@ -19,13 +18,12 @@ description: ""
    <tr>
       <td><a href="mailto:WONG_Sung_Lai@schools.gov.sg">WONG_Sung_Lai@schools.gov.sg</a></td>
     </tr><tr></tr>
-        <tr><td colspan="2"><b>VICE PRINCIPAL</b></td><td></td></tr>
+        <tr><td colspan="2"><b>VICE PRINCIPAL</b></td></tr>
     <tr><td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/03_VP_MDM KITHA.png" style="width:60px"></td>
       <td><b>Mdm Kitha Arumugam</b></td>
     </tr>
     <tr><td><a href="mailto:Kitha_ARUMUGAM@schools.gov.sg">Kitha_ARUMUGAM@schools.gov.sg</a></td>
     </tr>
-<br><br><br>
   <tr>
       <td colspan="2"><b>YEAR HEAD </b></td></tr>
     <tr>
