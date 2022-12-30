@@ -193,7 +193,7 @@ chng_ling_ling@moe.edu.sg</a></td>
 	 <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:60px"></td>
       <td>Ms Sharmini d/o Jaya Kumaran</td></tr>
-<tr><td><b>Covering - SH/CCE</b></td></tr>
+<tr><td><b>SH/NESS (Covering)</b></td></tr>
     <tr>
       <td><a href="mailto:
 sharmini_jaya_kumaran@moe.edu.sg">
