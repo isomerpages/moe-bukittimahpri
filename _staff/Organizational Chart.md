@@ -140,6 +140,15 @@ description: ""
     <tr>
       <td><a href="mailto:chan_yu_fang_mellissa@moe.edu.sg">chan_yu_fang_mellissa@moe.edu.sg</a></td>
     </tr>
+ <tr>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:60px"></td>
+      <td>Mrs Wong-Chong Yu Pei</td></tr>
+<tr><td><b> LH/Mathematics (Covering)</b></td></tr>
+    <tr>
+      <td><a href="mailto:chong_yu_pei@moe.edu.sg
+">chong_yu_pei@moe.edu.sg
+</a></td>
+    </tr>
 <tr>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -197,6 +206,52 @@ sharmini_jaya_kumaran@moe.edu.sg</a></td>
     <td>&nbsp;</td>
   </tr>
 <tr>
+      <td colspan="2"><b>Senior Teacher (ST) </b></td></tr>
+    <tr>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:60px"></td>
+      <td>Mdm Rozana Bte Hashim</td></tr>
+<tr><td><b>ST/English Language</b></td></tr>
+    <tr>
+      <td><a href="mailto:rozana_hashim@moe.edu.sg
+">rozana_hashim@moe.edu.sg</a></td>
+    </tr>
+ <tr>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:60px"></td>
+      <td>Mdm Junaida Bte Jasman</td>
+    </tr>
+<tr><td><b>ST/Mathematics</b></td></tr>
+    <tr>
+      <td><a href="mailto:junaida_jasman@moe.edu.sg
+">junaida_jasman@moe.edu.sg
+</a></td>
+    </tr>
+ <tr>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/female.png" style="width:60px"></td>
+      <td>Mdm Xu Aili</td>
+    </tr>
+<tr><td><b>ST/Chinese Language</b></td></tr>
+    <tr>
+      <td><a href="mailto:xu_ai_li@moe.edu.sg
+">xu_ai_li@moe.edu.sg
+</a></td>
+    </tr>
+		 <tr>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/male.png" style="width:60px"></td>
+      <td>Dr Mohammad Shah Bin Razak</td>
+    </tr>
+<tr><td><b>ST/Physical Education</b></td></tr>
+    <tr>
+      <td><a href="mailto:
+mohammad_shah_razak@moe.edu.sg">
+mohammad_shah_razak@moe.edu.sg</a></td>
+    </tr>
+	<tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+<tr>
       <td colspan="2"><b>SCHOOL ADMIN TEAM (SAT) </b></td></tr>
     <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mr abdul halik bin abdul hamid.jpeg" style="width:60px"></td>
@@ -207,7 +262,7 @@ sharmini_jaya_kumaran@moe.edu.sg</a></td>
       <td><a href="mailto:abdul_halik_abdul_hamid@moe.edu.sg">abdul_halik_abdul_hamid@moe.edu.sg</a></td>
     </tr>
  <tr>
-       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mr abdul halik bin abdul hamid.jpeg" style="width:60px"></td>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm nurhayati bte rahmat.jpeg" style="width:60px"></td>
       <td>Mdm Nurhayati Bte Rahmat</td>
     </tr>
 <tr><td><b>Admin Manager</b></td></tr>
