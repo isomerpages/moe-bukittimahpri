@@ -13,7 +13,7 @@ description: ""
     <tr><td><a href="mailto:lau_wan_sze@schools.gov.sg">lau_wan_sze@schools.gov.sg</a></td></tr>
    <tr><td colspan="2"><b>VICE PRINCIPAL</b></td></tr>
     <tr>
-      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/02_VP_WONGSL.png" style="width:60px"></td>
+      <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/02_VP_WONGSL.png" style="width:60px"></td>
       <td><b>Mr Wong Sung Lai Edward</b></td>
     </tr>
    <tr>
