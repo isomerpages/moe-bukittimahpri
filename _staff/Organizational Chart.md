@@ -206,6 +206,16 @@ sharmini_jaya_kumaran@moe.edu.sg</a></td>
     <tr>
       <td><a href="mailto:abdul_halik_abdul_hamid@moe.edu.sg">abdul_halik_abdul_hamid@moe.edu.sg</a></td>
     </tr>
+ <tr>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mr abdul halik bin abdul hamid.jpeg" style="width:60px"></td>
+      <td>Mdm Nurhayati Bte Rahmat</td>
+    </tr>
+<tr><td><b>Admin Manager</b></td></tr>
+    <tr>
+      <td><a href="mailto:nurhayati_rahmat@moe.edu.sg
+">nurhayati_rahmat@moe.edu.sg
+</a></td>
+    </tr>
 <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mr samales kuppusamy.jpeg" style="width:60px"></td>
       <td>Mr Samales Kuppusamy</td>
