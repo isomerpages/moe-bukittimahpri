@@ -3,146 +3,540 @@ title: Staff List
 permalink: /staff/staff-list/
 description: ""
 ---
-# School Leaders
+<html>
+<head>
+<meta charset="utf-8">
+<title>BTPS ORG CHART</title>
+</head>
 
-
-| School Leaders | Name | Email Address | Extension Number |
-|---|---|---|---|
-| Principal | Mdm Teresa Kelly Len | Teresa_Kelly_LEN@schools.gov.sg | N/A |
-|  Vice Principal | Mr Wong Sung Lai  Edward | WONG_Sung_Lai@schools.gov.sg |  N/A |
-|   Vice Principal  |  Mdm Kitha Arumugam | Kitha_ARUMUGAM@schools.gov.sg  | NA  |
-| Admin Manager | Mr Abdul Halik Bin Abdul Hamid |  abdul_halik_abdul_hamid@schools.gov.sg | 107 |
-|  Admin Manager |  Mdm Nurhayati Bte Rahmat | nurhayati_rahmat@moe.edu.sg  |  103 |
-| Operation Manager | Mr Samales Kuppusamy | kuppusamy_m_samales@moe.edu.sg | 104 |
-| ICT Manager | Mr Philip Lee | lee_weng_philip_james@moe.edu.sg | 109 ||
-|  MSO | Mdm Marlina Bte Mohd Nor  | marlina_mohd_nor@moe.edu.sg  |  102 |
-|  MSO  |  Mdm Irene Lee | irene_lee_siew-hua@moe.edu.sg  |  802 |
-|  MSO | Mdm Nor Junedah Binte Salim  Ext:810  | nor_junedah_salim@moe.edu.sg  | 801  |
-
-
-# Primary 1 Teachers
-
-
-| Class | Teacher Name | Email Address | Extension Number |
-|---|---|---|---|
-| 1 Adaptability | Mrs Goh  - Chan Khai Gin | chan_khai_gin@moe.edu.sg | 339 |
-| 1 Adaptability | Wang Lu | wang_lu_a@moe.edu.sg | 328 |
-| 1 Compassion | Mdm Noor Idayu Bte Sunator   (SH/SW) |  noor_idayu_sunator@moe.edu.sg | 321 |
-| 1 Compassion | Ms Edna Phong Yang Yi  | phong_yang_yi_edna@moe.edu.sg  | 330 |
-| 1 Graciousness | Ms Karyn Ang | ang_bi_xia_karyn@moe.edu.sg | 323 |
-| 1 Graciousness | Mr Ernest Ong Wei Ming | ong_wei_ming@moe.edu.sg | 331 |
-| 1 Integrity | Ms Celeste Wong Siow Yen | wong_siow_yen@moe.edu.sg | 338 |
-| 1 Integrity | Mdm Du Ying | du_ying@moe.edu.sg | 350 |
-| 1 Resilience | Mdm Chng Ling Ling (SH/CL) | chng_ling_ling@moe.edu.sg | 351
-| 1 Resilience | Ms Nur Fidyyana Ab Latiff (ART)  | nur_fidyyana_ab_latiff@moe.edu.sg  | 356 | 
-| 1 Respect | Mrs Samantha Er | ong_yen_ting_samantha@moe.edu.sg | 322 |
-| 1 Respect | Ms Peng Yuanzhen | peng_yuanzhen@moe.edu.sg | 333 |
-| 1  Harmony | Mrs Nicole Chan | yap_xue_li_nicole@moe.edu.sg | 202 |
-| 1 Harmony | Mdm Li Yi Ling | li_yiling@moe.edu.sg | 352 |
-
-
-
-# Primary 2
-
-
-| Class | Teacher Name | Email Address | Extension Number |
-|---|---|---|---|
-| 2 Adaptablity |  Ms Tee Xinyi (CAJT) | tee_xinyi@moe.edu.sg | 332 |
-| 2 Adaptablity |Mrs Shirley Ong (Year Head P1/P2)  | low_yin_choo@moe.edu.sg   | 374 |
-| 2 Compassion | Mrs Iman - Akidah | shahidatul_akidah_mohd_suaidi@moe.edu.sg   | 324 |
-| 2 Compassion | Mdm Wang Ling  | wang_ling@moe.edu.sg | 327 |
-| 2 Graciousness |Ms Teresa Chai Siew Lan | chai_siew_lan_teresa@mor.edu.sg | 336 |
-| 2 Graciousness | Ms Pang Liew Chin | pang_liew_chin@moe.edu.sg  | 334 |
-| 2 Integrity | Mrs Shirlena Chan (HOD PE CCA) | yap_siew_cheng_shirlena@moe.edu.sg | 209 |
-| 2 Integrity | Ms Goh Xue Yi (HOD Pupil Management) | goh_xue_yi@moe.edu.sg | 210 |
-| 2 Resilience | Mrs Evelyn Lee | evelyn_ang_gek_shia@moe.edu.sg | 326 |
-| 2 Resilience | Mdm Xu Aili (ST/CL) | xu_ai_li@moe.edu.sg | 329 |
-| 2 Respect | Mrs Lynette Lim (SH Aesthetics) | thia_hui_shan_lynette@moe.edu.sg | 336 |
-|  2 Respect | Mr Wang Hao  | wang_hao@moe.edu.sg  | 355  |
-|  2 Respect | Mrs Shirley Ong (Year Head P1/P2)  | low_yin_choo@moe.edu.sg   | 374 |
-|  2 Harmony |  Mr Almir Shafur Bin Mohamed (ART) | almir_shafur_mohamed@moe.edu.sg  |  348 |
-|  2 Harmony |  Ms Tan Hwee Hsia | tan_hwee_hsia@moe.edu.sg  |  353 |
-
-
-# Primary 3
-
-
-| Class | Teacher Name | Email Address | Extension Number |
-|---|---|---|---|
-| 3 Adaptability | Mrs Wong-Chong Yu Pei | chong_yu_pei@moe.edu.sg | 315 |
-| 3 Adaptability | Mrs Joanne Hu (Music) |  lim_xue_mei_joanne@moe.edu.sg | 358 |
-| 3 Compassion | Mdm Chong Pei Li (HOD ICT) | chong_pei_li@moe.edu.sg | 205 |
-| 3 Compassion | Mr Idris Taha (PE) | idris_b_mohd_taha@moe.edu.sg | 367 |
-| 3 Gracioiusness | Miss Annabelle Chua Wen Xin | annabelle_chua_wen_xin@moe.edu.sg | 319 |
-| 3 Graciousness | Mr Ho Boon Huat (HOD MT) | ho_boon_huat@moe.edu.sg | 363 |
-| 3 Integrity | Mrs Serene Tear Poh Keng | yap_poh_keng@moe.edu.sg | 314 |
-| 3 Integrity | Mrs Angeline Teo (Year Head P3/P4) | low_swee_ling_angeline@moe.edu.sg  |  372 |
-| 3 Respect | Mdm Rosna Bte Hussein | rosna_hussien@moe.edu.sg  | 305 |
-| 3 Respect | Mdm Suzana Yaacob (ART) | suzana_mohd_yaacob@moe.edu.sg  | 357 |
-
-
-
-#  Primary 4
-
-
-| Class | Teacher Name | Email Address | Extension Number |
-|---|---|---|---|
-| 4 Adaptability | Mdm Durgadevi d/o Tamil Selvam (SH NE/SS) | durgadevi_tamil_selvam@moe.edu.sg | 303|
-| 4 Compassion | Mrs Raj-Lorshennik d/o Jaya Sanger | lorshenni_jaya_sanger_a@moe.edu.sg | 318 |
-| 4 Compassion | Mr Chua Peng Swee | chua_peng_swee@moe.edu.sg | 345 |
-| 4 Graciousness | Mr Christopher Khoo (HOD Science) | khoo_kian_kiong_christopher@moe.edu.sg | 208 |
-| 4 Graciousness | Mrs Yvonne Kwan | yvonne_tan_bee_leng@moe.edu.sg | 313 |
-| 4 Integrity |  Ms Sharmini D/O Jaya Kumaran | sharmini_jaya_kumaran@moe.edu.sg  | 304 |
-| 4 Integrity | Ms Josephine Ho Hui Suan (Music) | ho_hui_suan_josephine@moe.edu.sg | 347 |
-| 4 Respect | Mdm Zahida Mohd Abu Baker | zahida_mohamed_abu_baker@moe.edu.sg | 371 |
-| 4 Respect | Ms Koh Beng Li | koh_beng_li@moe.edu.sg | 354 |
-|  4 Resilience |  Mr Jeremy Ho (PE)) | ho_jian_xiong@moe.edu.sg  |  360 |
-|   4 Resilience |  Mr Soloman Tan Ding Huang | solomon_tan_ding_huang@moe.edu.sg  |  362 |
-
-
-
-# Primary 5
-
-
-| Class | Teacher Name | Email Address | Extension Number |
-|---|---|---|---|
-| 5 Adaptability | Mdm Chitra d/o Selvaraju |  chitra_selvaraju@moe.edu.sg | 377 |
-| 5 Adaptability | Mr Zaini Bin Zanal (PE) | zaini_zanal@moe.edu.sg | 359 |
-| 5 Compassion | Mdm Junaida Bte Jasman (ST/Math) | junaida_jasman@moe.edu.sg | 306 |
-| 5 Compassion | Ms Indira d/o R. Pillai (HOD EL) | indira_raghavan_pillai@moe.edu.sg | 201 |
-| 5 Graciousness | Mrs Ong Kai Chun | tay_kai_chun@moe.edu.sg | 307 |
-| 5 Graciousness | Mdm Suzanah Bte Miswari | suzanah_miswari@moe.edu.sg | 368 |
-| 5 Respect | Mrs Karin Gan (HOD Maths) | yeo_lei_teng@moe.edu.sg | 206 |
-| 5 Respect | Mr Effandi Bin Jasman | effandi_jasman@moe.edu.sg   | 373 |
-
-# Primary 6
-
-| Class | Teacher Name | Email Address | Extension Number |
-|---|---|---|---|
-| 6 Adaptability | Mdm Suzanna Mohd Isnin (SSD) | suzanna_mohamed_isnin@moe.edu.sg | 204 |
-| 6 Adaptability | Ms Daphne Ng (FAJT) | ng_sze_yee@moe.edu.sg | 310 |
-| 6 Compassion | Mrs Mellissa Khoo (LH EL) | chan_yu_fang_mellissa@moe.edu.sg | 317 |
-| 6 Compassion | Mr Jesudass Joseph Patros | jesudass_joseph_patros@moe.edu.sg | 370 |
-| 6 Graciousness | Mdm Rozana Bte Hashim | rozana_hashim@moe.edu.sg | 316 |
-| 6 Graciousness | Mr Donald Tan Eit Peow (PE) | tan_eit_peow@moe.edu.sg | 346 |
-| 6 Respect | Ms Cheng May Ling | cheng_may_ling@moe.edu.sg | 302 |
-|  6 Respect | Mdm Nur Namira Mazlan  | nur_namira_mazlan@moe.edu.sg  |  366 |
-
-
-# Other Teachers
-
-
-| Position | Teacher Name | Email Address | Extension Number |  |
-|---|---|---|---|---|
-| SSC | Mdm Mariam Bte Isnin | mariam_isnin@moe.edu.sg |301 |  |
-| AED (LBS) | Ms Ivy Tan Ah Bitt | tan_ah_bitt@moe.edu.sg | 343 |  |
-| AED (LBS) | Mdm Wong Chi Ki | wong_chi_ki@moe.edu.sg | 344 |  |
-|   AED (T&L) |  Elyana Binte Al-Ghazali | elyana_al_ghazali@moe.edu.sg  |  369 |
-|UT|Ms Sun XiaoJun|                   |344|
-NIE Trainee | Miss Neo Kai Lin |  |349|
-| FAJT | Mrs Jeannette Yeo | lim_mui_ling_jeannette@moe.edu.sg | 309 |
-| FAJT | Mdm Evelyn Nah Bee Har | nah_bee_har@moe.edu.sg | 312 |
-| FAJT | Ms Subah |subahshini_jayaseelan@moe.edu.sg  | 364 |
-|FAJT| Mr Ng Kim Chwee  |                | 375 |
-|FAJT| Ms Susan Sng Sim Neo |         |        |
-|FAJT | Ng Puay Choo |                        | 311 |
+<body>
+<table cellspacing="0" cellpadding="0">
+  <col width="119">
+  <col width="300">
+  <col width="68">
+  <col width="301">
+  <tr>
+    <td colspan="4"><b>TEACHING STAFFS</b></td>
+  </tr>
+  <tr>
+    <td width="129"><b>CLASS</b></td>
+    <td width="296"><b>NAME</b></td>
+    <td width="100"><b>EXTENSION </b></td>
+    <td width="312"><b>EMAIL ADDRESS</b></td>
+  </tr>
+  <tr>
+    <td>1_Adaptability</td>
+    <td>Mrs Evelyn Lee</td>
+    <td align="right">326</td>
+    <td><a href="mailto:evelyn_ang_gek_shia@moe.edu.sg">evelyn_ang_gek_shia@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Adaptability</td>
+    <td>Mr Wang Hao</td>
+    <td align="right">355</td>
+    <td><a href="mailto:wang_hao@moe.edu.sg">wang_hao@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Compassion </td>
+    <td>Mrs Iman–Akidah</td>
+    <td align="right">324</td>
+    <td><a href="mailto:%20shahidatul_akidah_mohd_suaidi@moe.edu.sg">shahidatul_akidah_mohd_suaidi@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Compassion </td>
+    <td>Mdm Tan Hwee Hsia</td>
+    <td align="right">353</td>
+    <td><a href="mailto:tan_hwee_hsia@moe.edu.sg">tan_hwee_hsia@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Graciousness</td>
+    <td>Mrs Kimberly Tan </td>
+    <td align="right">335</td>
+    <td><a href="mailto:koh_ai_yong_kimberly@moe.edu.sg">koh_ai_yong_kimberly@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Graciousness</td>
+    <td>Miss Koh Beng Li  </td>
+    <td align="right">354</td>
+    <td><a href="mailto:koh_beng_li@moe.edu.sg">koh_beng_li@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Integrity</td>
+    <td>Mrs Shirlena Chan<br>(HOD/PE &amp; CCA)</td>
+    <td align="right">209</td>
+    <td><a href="mailto:yap_siew_cheng_shirlena@moe.edu.sg">yap_siew_cheng_shirlena@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Integrity</td>
+    <td>Mdm Wang Ling</td>
+    <td align="right">327</td>
+    <td><a href="mailto:wang_ling@moe.edu.sg">wang_ling@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Resilience</td>
+    <td>Mr Almir Shafur Bin    Mohamed </td>
+    <td align="right">348</td>
+    <td><a href="mailto:almir_shafur_mohamed@moe.edu.sg">almir_shafur_mohamed@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Resilience</td>
+    <td>Ms Pang Liew Chin  </td>
+    <td align="right">334</td>
+    <td><a href="mailto:pang_liew_chin@moe.edu.sg">pang_liew_chin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Respect </td>
+    <td>Mrs Lynette Lim<br>(SH/Aesthetics)</td>
+    <td align="right">336</td>
+    <td><a href="mailto:thia_hui_shan_lynette@moe.edu.sg">thia_hui_shan_lynette@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>1_Respect </td>
+    <td>Miss Neo Kai Lin</td>
+    <td align="right">349</td>
+    <td><a href="mailto:neo_kai_lin@moe.edu.sg">neo_kai_lin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Adaptability</td>
+    <td>Mrs Goh-Chan Kha Gin</td>
+    <td align="right">339</td>
+    <td><a href="mailto:chan_khai_gin@moe.edu.sg">chan_khai_gin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Adaptability</td>
+    <td>Mdm Wang Lu</td>
+    <td align="right">328</td>
+    <td><a href="mailto:wang_lu_a@moe.edu.sg">wang_lu_a@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Compassion</td>
+    <td>Mdm Noor Idayu Bte Sunator<br>(SH/SW)</td>
+    <td align="right">321</td>
+    <td><a href="mailto:noor_idayu_sunator@moe.edu.sg">noor_idayu_sunator@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Compassion</td>
+    <td>Ms Edna Phong Yang Yi</td>
+    <td align="right">330</td>
+    <td><a href="mailto:phong_yang_yi_edna@moe.edu.sg">phong_yang_yi_edna@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Graciousness</td>
+    <td>Mr Ernest Ong Wei Ming</td>
+    <td align="right">331</td>
+    <td><a href="mailto:ong_wei_ming@moe.edu.sg">ong_wei_ming@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Graciousness</td>
+    <td>Miss Teresa Chai Siew Lan</td>
+    <td align="right">325</td>
+    <td><a href="mailto:chai_siew_lan_teresa@moe.edu.sg">chai_siew_lan_teresa@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Harmony</td>
+    <td>Mrs Nicole Chan<br>(HOD/CCE) </td>
+    <td align="right">202</td>
+    <td><a href="mailto:yap_xue_li_nicole@moe.edu.sg">yap_xue_li_nicole@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Harmony</td>
+    <td>Mdm Li Yiling</td>
+    <td align="right">352</td>
+    <td><a href="mailto:Li_yiling@moe.edu.sg">Li_yiling@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Integrity</td>
+    <td>Ms Celeste Wong Siow Yen </td>
+    <td align="right">338</td>
+    <td><a href="mailto:wong_siow_yen@moe.edu.sg">wong_siow_yen@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Integrity</td>
+    <td>Mdm Du Ying</td>
+    <td align="right">350</td>
+    <td><a href="mailto:du_ying@moe.edu.sg">du_ying@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Resilience</td>
+    <td>Ms Nur Fidyyana Bte Abdul Latiff </td>
+    <td align="right">356</td>
+    <td><a href="mailto:nur_fidyyana_ab_latiff@moe.edu.sg">nur_fidyyana_ab_latiff@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Resilience</td>
+    <td>Mdm Chng Ling Ling<br>(SH/CL)</td>
+    <td align="right">351</td>
+    <td><a href="mailto:chng_ling_ling@moe.edu.sg">chng_ling_ling@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Respect</td>
+    <td>Mrs Samantha Er</td>
+    <td align="right">322</td>
+    <td><a href="mailto:ong_yen_ting_samantha@moe.edu.sg">ong_yen_ting_samantha@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>2_Respect</td>
+    <td>Mrs Yvonne Kwan</td>
+    <td align="right">313</td>
+    <td><a href="mailto:yvonne_tan_bee_leng@moe.edu.sg">yvonne_tan_bee_leng@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>3_Adaptability</td>
+    <td>Ms Josephine Ho Hui Suan </td>
+    <td align="right">347</td>
+    <td><a href="mailto:ho_hui_suan_josephine@moe.edu.sg">ho_hui_suan_josephine@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>3_Adaptability</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>3_Compassion</td>
+    <td>Mrs Joanne Hu</td>
+    <td align="right">358</td>
+    <td><a href="mailto:lim_xue_mei_joanne@moe.edu.sg">lim_xue_mei_joanne@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>3_Compassion</td>
+    <td>Mr Ng Kim Chwee</td>
+    <td align="right">375</td>
+    <td><a href="mailto:ng_kim_chwee@moe.edu.sg">ng_kim_chwee@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>3_Graciousness</td>
+    <td>Mrs Raj-Lorshenni D/O Jaya Sanger</td>
+    <td align="right">318</td>
+    <td><a href="mailto:lorshenni_jaya_sanger_a@moe.edu.sg">lorshenni_jaya_sanger_a@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>3_Graciousness</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>3_Integrity</td>
+    <td>Mr Chua Peng Swee </td>
+    <td align="right">345</td>
+    <td><a href="mailto:chua_peng_swee@moe.edu.sg">chua_peng_swee@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>3_Integrity</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>3_Resilience</td>
+    <td>Mr Solomon Tan Ding Huang</td>
+    <td align="right">362</td>
+    <td><a href="mailto:solomon_tan_ding_huang@moe.edu.sg">solomon_tan_ding_huang@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>3_Resilience</td>
+    <td>Mrs Jeannette Yeo</td>
+    <td align="right">309</td>
+    <td><a href="mailto:lim_mui_ling_jeannette@moe.edu.sg">lim_mui_ling_jeannette@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>3_Respect</td>
+    <td>Mr Chua Khoon Sia Raymond</td>
+    <td align="right">308</td>
+    <td><a href="mailto:chua_khoon_sia@moe.edu.sg">chua_khoon_sia@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>3_Respect</td>
+    <td>Miss Goh Xue Yi <br>(HOD/Pupil Management)</td>
+    <td align="right">210</td>
+    <td><a href="mailto:goh_xue_yi@moe.edu.sg">goh_xue_yi@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Adaptability</td>
+    <td>Mrs Wong-Chong Yu Pei</td>
+    <td align="right">315</td>
+    <td><a href="mailto:chong_yu_pei@moe.edu.sg">chong_yu_pei@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Adaptability</td>
+    <td>Ms Peng Yuanzhen</td>
+    <td align="right">333</td>
+    <td><a href="mailto:peng_yuanzhen@moe.edu.sg">peng_yuanzhen@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Compassion</td>
+    <td>Mdm Suzanna Bte Mohd Isnin <br>(HOD/SSD)</td>
+    <td align="right">204</td>
+    <td><a href="mailto:suzanna_mohamed_isnin@moe.edu.sg">suzanna_mohamed_isnin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Compassion</td>
+    <td>Mr Idris Bin Mohd Taha</td>
+    <td align="right">367</td>
+    <td><a href="mailto:idris_b_mohd_taha@moe.edu.sg">idris_b_mohd_taha@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Graciousness</td>
+    <td>Miss Annabelle Chua Wen Xin</td>
+    <td align="right">319</td>
+    <td><a href="mailto:annabelle_chua_wen_xin@moe.edu.sg">annabelle_chua_wen_xin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Graciousness</td>
+    <td>Mr Ho Boon Huat<br>(HOD/MTL)</td>
+    <td align="right">203</td>
+    <td><a href="mailto:ho_boon_huat@moe.edu.sg">ho_boon_huat@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Integrity</td>
+    <td>Mrs Serene Tear Poh Keng</td>
+    <td align="right">314</td>
+    <td><a href="mailto:yap_poh_keng@moe.edu.sg">yap_poh_keng@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Integrity</td>
+    <td>Mr Jeremy Ho </td>
+    <td align="right">360</td>
+    <td><a href="mailto:ho_jian_xiong@moe.edu.sg">ho_jian_xiong@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Respect</td>
+    <td>Ms Sharmini d/o Jaya Kumaran</td>
+    <td align="right">304</td>
+    <td><a href="mailto:sharmini_jaya_kumaran@moe.edu.sg">sharmini_jaya_kumaran@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>4_Respect</td>
+    <td>Mdm Suzana Bte Mohd Yaacob </td>
+    <td align="right">357</td>
+    <td><a href="mailto:suzana_mohd_yaacob@moe.edu.sg">suzana_mohd_yaacob@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Adaptability</td>
+    <td>Mdm Durgadevi d/o Tamil Selvam <br>(SH/ ICT)</td>
+    <td align="right">303</td>
+    <td><a href="mailto:durgadevi_tamil_selvam@moe.edu.sg">durgadevi_tamil_selvam@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Adaptability</td>
+    <td>Dr Mohammad Shah Bin Razak</td>
+    <td>&nbsp;</td>
+    <td><a href="mailto:mohammad_shah_razak@moe.edu.sg">mohammad_shah_razak@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Compassion</td>
+    <td>Mrs Mellissa Khoo<br>(LH/EL)</td>
+    <td align="right">317</td>
+    <td><a href="mailto:chan_yu_fang_mellissa@moe.edu.sg">chan_yu_fang_mellissa@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Compassion</td>
+    <td>Ms Tee Xinyi</td>
+    <td align="right">332</td>
+    <td><a href="mailto:tee_xinyi@moe.edu.sg">tee_xinyi@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Graciousness</td>
+    <td>Mdm Rozana Bte Hashim<br>(ST/EL)</td>
+    <td align="right">316</td>
+    <td><a href="mailto:rozana_hashim@moe.edu.sg">rozana_hashim@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Graciousness</td>
+    <td>Mr Jesudass Josep Patros  </td>
+    <td align="right">370</td>
+    <td><a href="mailto:jesudass_joseph_patros@moe.edu.sg">jesudass_joseph_patros@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Integrity</td>
+    <td>Miss Cheng May Ling </td>
+    <td align="right">302</td>
+    <td><a href="mailto:cheng_may_ling@moe.edu.sg">cheng_may_ling@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Integrity</td>
+    <td>Mdm Xu Aili<br>(ST/CL)</td>
+    <td align="right">329</td>
+    <td><a href="mailto:xu_ai_li@moe.edu.sg">xu_ai_li@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Resilience</td>
+    <td>Mr Christopher Khoo<br>(HOD/Science)</td>
+    <td align="right">208</td>
+    <td><a href="mailto:khoo_kian_kiong_christopher@moe.edu.sg">khoo_kian_kiong_christopher@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Resilience</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>5_Respect</td>
+    <td>Mdm Suzanah Bte Miswari </td>
+    <td align="right">368</td>
+    <td><a href="mailto:suzanah_miswari@moe.edu.sg">suzanah_miswari@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>5_Respect</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>6_Adaptibility</td>
+    <td>Mr Zaini Bin Zanal  </td>
+    <td align="right">359</td>
+    <td><a href="mailto:zaini_zanal@moe.edu.sg">zaini_zanal@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>6_Adaptibilty</td>
+    <td>Mdm Chitra d/o    Selvaraju</td>
+    <td align="right">342</td>
+    <td><a href="mailto:chitra_selvaraju@moe.edu.sg">chitra_selvaraju@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>6_Compassion</td>
+    <td>Mdm Junaida Bte Jasman <br>(ST/MA)</td>
+    <td align="right">306</td>
+    <td><a href="mailto:junaida_jasman@moe.edu.sg">junaida_jasman@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>6_Compassion</td>
+    <td>Ms Indira d/o R Pillai<br> (HOD/EL)</td>
+    <td align="right">201</td>
+    <td><a href="mailto:indira_raghavan_pillai@moe.edu.sg">indira_raghavan_pillai@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>6_Graciousness</td>
+    <td>Mrs Ong Kai Chun </td>
+    <td align="right">307</td>
+    <td><a href="mailto:tay_kai_chun@moe.edu.sg">tay_kai_chun@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>6_Graciousness</td>
+    <td>Mdm Nur Namira Bte Mazlan</td>
+    <td align="right">366</td>
+    <td><a href="mailto:nur_namira_mazlan@moe.edu.sg">nur_namira_mazlan@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>6_Respect</td>
+    <td>Mrs Karin Gan<br>(HOD/Math)</td>
+    <td align="right">206</td>
+    <td><a href="mailto:yeo_lei_teng@moe.edu.sg">yeo_lei_teng@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>6_Respect</td>
+    <td>Mr Donald Tan Eit Peow </td>
+    <td align="right">346</td>
+    <td><a href="mailto:tan_eit_peow@moe.edu.sg@moe.edu.sg">tan_eit_peow@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>AED (LBS)</td>
+    <td>Miss Tan Ah Bitt</td>
+    <td align="right">343</td>
+    <td><a href="mailto:tan_ah_bitt@moe.edu.sg">tan_ah_bitt@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>AED (LBS)</td>
+    <td>Mdm Wong Chi Ki</td>
+    <td align="right">344</td>
+    <td><a href="mailto:wong_chi_ki@moe.edu.sg">wong_chi_ki@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>AED (T&amp;L)</td>
+    <td>Mdm Elyana Bte Al-Ghazali</td>
+    <td align="right">369</td>
+    <td><a href="mailto:elyana_al_ghazali@moe.edu.sg">elyana_al_ghazali@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>FAJT</td>
+    <td>Mdm Evelyn Nah Bee Har</td>
+    <td align="right">312</td>
+    <td><a href="mailto:nah_bee_har@moe.edu.sg">nah_bee_har@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>FAJT</td>
+    <td>Ms Subah</td>
+    <td align="right">364</td>
+    <td><a href="mailto:subahshini_jayaseelan@moe.edu.sg">subahshini_jayaseelan@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>FAJT</td>
+    <td>Ms Daphne Ng</td>
+    <td align="right">310</td>
+    <td><a href="mailto:ng_sze_yee@moe.edu.sg">ng_sze_yee@moe.edu.sg</a></td>
+  </tr>
+<tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+<tr>
+    <td colspan="4"><b>SCHOOL ADMIN TEAM</b></td>
+  </tr>
+  <tr>
+    <td width="129"><b>APPOINTMENT</b></td>
+    <td width="296"><b>NAME</b></td>
+    <td width="100"><b>EXTENSION </b></td>
+    <td width="312"><b>EMAIL ADDRESS</b></td>
+  </tr>
+  <tr>
+    <td>ADMIN MANAGER</td>
+    <td>Mr Abdul Halik Bin Abdul Hamid</td>
+    <td align="right">107</td>
+    <td><a href="mailto:abdul_halik_abdul_hamid@moe.edu.sg">abdul_halik_abdul_hamid@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>ADMIN MANAGER</td>
+    <td>Mdm Nurhayati Bte Rahmat</td>
+    <td align="right">103</td>
+    <td><a href="mailto:nurhayati_rahmat@moe.edu.sgg">nurhayati_rahmat@moe.edu.sg</a></td>
+  </tr>
+<tr>
+    <td>OPERATIONS MANAGER</td>
+    <td>Mr Samales Kuppusamy</td>
+    <td align="right">104</td>
+    <td><a href="mailto:kuppusamy_m_samales@moe.edu.sg
+">kuppusamy_m_samales@moe.edu.sg
+</a></td>
+  </tr>
+  <tr>
+    <td>ICT MANAGER</td>
+    <td>Mrs Lin Shu Rui</td>
+    <td align="right">109</td>
+    <td><a href="mailto:tan_shu_rui@moe.edu.sg">tan_shu_rui@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>MSO</td>
+    <td>Mdm Marlina Bte Mohd Nor</td>
+    <td align="right">102</td>
+    <td><a href="mailto:marlina_mohd_nor@moe.edu.sg
+">marlina_mohd_nor@moe.edu.sg</a></td>
+  </tr>
+<tr>
+    <td>MSO</td>
+    <td>Mdm Irene Lee</td>
+    <td align="right">802</td>
+    <td><a href="mailto:irene_lee_siew_hua@moe.edu.sg
+">irene_lee_siew_hua@moe.edu.sg</a></td>
+  </tr>
+<tr>
+    <td>MSO</td>
+    <td>Mdm Nor Junedah Binte Salim </td>
+    <td align="right">801</td>
+    <td><a href="mailto:nor_junedah_salim@moe.edu.sg
+">nor_junedah_salim@moe.edu.sg</a></td>
+  </tr>
+<tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<br>
+</body>
+</html>
