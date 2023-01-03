@@ -135,7 +135,7 @@ description: ""
       <td colspan="2"><b>LEVEL HEAD (LH) </b></td></tr>
     <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs mellissa khoo.jpeg" style="width:100px"></td>
-      <td>Mrs Melissa Khoo</td></tr>
+      <td>Mrs Mellissa Khoo</td></tr>
 <tr><td><b>LH/English Language (EL)</b></td></tr>
     <tr>
       <td><a href="mailto:chan_yu_fang_mellissa@moe.edu.sg">chan_yu_fang_mellissa@moe.edu.sg</a></td>
