@@ -199,13 +199,14 @@ chng_ling_ling@moe.edu.sg</a></td>
 sharmini_jaya_kumaran@moe.edu.sg">
 sharmini_jaya_kumaran@moe.edu.sg</a></td>
     </tr>
-</tr>
 	 <tr>
        <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm sangitah do jayaseelan.jpeg" style="width:100px"></td>
       <td>Mdm Sangitah d/o Jayaseelan</td></tr>
-<tr><td><b>SH/VIA & Leadership</b></td></tr>
+<tr><td><b>SH/VIA and Leadership</b></td></tr>
     <tr>
-      <td>&nbsp;</td>
+      <td><a href="mailto:
+sangitah_jayaseelan@moe.edu.sg">
+sangitah_jayaseelan@moe.edu.sg</a></td>
     </tr>
 <tr>
     <td>&nbsp;</td>
