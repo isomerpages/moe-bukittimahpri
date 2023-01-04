@@ -201,7 +201,7 @@ sharmini_jaya_kumaran@moe.edu.sg</a></td>
     </tr>
 </tr>
 	 <tr>
-       <td rowspan="3"><img src="/images/Staff%20Photos/MS SHARMINI DO JAYAKUMARAN.jpg" style="width:100px"></td>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm sangitah do jayaseelan.jpeg" style="width:100px"></td>
       <td>Mdm Sangitah d/o Jayaseelan</td></tr>
 <tr><td><b>SH/VIA & Leadership</b></td></tr>
     <tr>
@@ -288,7 +288,7 @@ mohammad_shah_razak@moe.edu.sg</a></td>
       <td><a href="mailto:kuppusamy_m_samales@moe.edu.sg">kuppusamy_m_samales@moe.edu.sg</a></td>
     </tr>
 <tr>
-       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/Mrs Lin Shu Rui.jpeg" style="width:100px"></td>
+       <td rowspan="3"><img src="/images/Staff%20Photos/ Organisation%20Photos/Mrs Lin Shu Rui.jpg" style="width:100px"></td>
       <td>Mrs Lin Shu Rui</td>
     </tr>
 <tr><td><b>ICT Manager</b></td></tr>
