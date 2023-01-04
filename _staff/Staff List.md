@@ -188,9 +188,9 @@ description: ""
   </tr>
   <tr>
     <td>3_Adaptability</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>Ms Tong Chee Wai Yvonne</td>
+    <td align="right">323</td>
+    <td>tong_chee_wai@moe.edu.sg</td>
   </tr>
   <tr>
     <td>3_Compassion</td>
@@ -212,8 +212,8 @@ description: ""
   </tr>
   <tr>
     <td>3_Graciousness</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>Ms Sandra Tan Cui Fen</td>
+    <td align="right">376</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
@@ -224,9 +224,9 @@ description: ""
   </tr>
   <tr>
     <td>3_Integrity</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>Mr Johnathan Ng</td>
+    <td align="right">363</td>
+    <td>ng_qi_hao_johnathan@moe.edu.sg</td>
   </tr>
   <tr>
     <td>3_Resilience</td>
@@ -368,8 +368,8 @@ description: ""
   </tr>
   <tr>
     <td>5_Resilience</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>Mr Alvin Woo</td>
+    <td align="right">377</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
@@ -380,8 +380,8 @@ description: ""
   </tr>
   <tr>
     <td>5_Respect</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>Mr Kenny Chin</td>
+    <td align="right">340</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
