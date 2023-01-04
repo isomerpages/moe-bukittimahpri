@@ -279,4 +279,12 @@ mohammad_shah_razak@moe.edu.sg</a></td>
     <tr>
       <td><a href="mailto:kuppusamy_m_samales@moe.edu.sg">kuppusamy_m_samales@moe.edu.sg</a></td>
     </tr>
+<tr>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/Mrs Lin Shu Rui.jpeg" style="width:100px"></td>
+      <td>Mrs Lin Shu Rui</td>
+    </tr>
+<tr><td><b>ICT Manager</b></td></tr>
+    <tr>
+      <td><a href="mailto:tan_shu_rui@moe.edu.sg">tan_shu_rui@moe.edu.sg</a></td>
+    </tr>
 </table>
