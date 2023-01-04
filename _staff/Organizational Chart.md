@@ -141,7 +141,7 @@ description: ""
       <td><a href="mailto:chan_yu_fang_mellissa@moe.edu.sg">chan_yu_fang_mellissa@moe.edu.sg</a></td>
     </tr>
  <tr>
-       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/MRS WONG-CHONG YU PEI.jpg" style="width:100px"></td>
+       <td rowspan="3"><img src="/images/Staff%20Photos/MRS WONG-CHONG YU PEI.jpg" style="width:100px"></td>
       <td>Mrs Wong-Chong Yu Pei</td></tr>
 <tr><td><b> LH/Mathematics (Covering)</b></td></tr>
     <tr>
@@ -181,7 +181,7 @@ description: ""
       <td><a href="mailto:noor_idayu_sunator@moe.edu.sg">noor_idayu_sunator@moe.edu.sg</a></td>
     </tr>
 		 <tr>
-       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/MDM CHNG LING LING.jpg" style="width:100px"></td>
+       <td rowspan="3"><img src="/images/Staff%20Photos/MDM CHNG LING LING.jpg" style="width:100px"></td>
       <td>Mdm Chng Ling Ling</td>
     </tr>
 <tr><td><b>SH/Chinese Language</b></td></tr>
@@ -191,7 +191,7 @@ chng_ling_ling@moe.edu.sg">
 chng_ling_ling@moe.edu.sg</a></td>
     </tr>
 	 <tr>
-       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/MS SHARMINI DO JAYAKUMARAN.jpg" style="width:100px"></td>
+       <td rowspan="3"><img src="/images/Staff%20Photos/MS SHARMINI DO JAYAKUMARAN.jpg" style="width:100px"></td>
       <td>Ms Sharmini d/o Jaya Kumaran</td></tr>
 <tr><td><b>SH/NESS (Covering)</b></td></tr>
     <tr>
@@ -216,7 +216,7 @@ sharmini_jaya_kumaran@moe.edu.sg</a></td>
 ">rozana_hashim@moe.edu.sg</a></td>
     </tr>
  <tr>
-       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/MDM JUNAIDA BTE JASMAN.jpg" style="width:100px"></td>
+       <td rowspan="3"><img src="/images/Staff%20Photos/MDM JUNAIDA BTE JASMAN.jpg" style="width:100px"></td>
       <td>Mdm Junaida Bte Jasman</td>
     </tr>
 <tr><td><b>ST/Mathematics</b></td></tr>
@@ -226,7 +226,7 @@ sharmini_jaya_kumaran@moe.edu.sg</a></td>
 </a></td>
     </tr>
  <tr>
-       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/MDM XU AILI.jpg" style="width:100px"></td>
+       <td rowspan="3"><img src="/images/Staff%20Photos/MDM XU AILI.jpg" style="width:100px"></td>
       <td>Mdm Xu Aili</td>
     </tr>
 <tr><td><b>ST/Chinese Language</b></td></tr>
