@@ -380,8 +380,8 @@ description: ""
   </tr>
   <tr>
     <td>5_Respect</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>Mr Kenny Chin</td>
+    <td align="right">340</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
