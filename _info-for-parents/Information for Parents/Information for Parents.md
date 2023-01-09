@@ -38,7 +38,7 @@ third_nav_title: Information for Parents
 **Vendors Information**
 1. [School Booklist](/files/2022/Vendors%20Information/2023%20Book%20List.pdf)
 2. [School Bus Services](/files/2022/Vendors%20Information/Info%20Sheet%20on%20School%20Bus%20Services_updated.pdf)
-2. [School Uniform](/files/2022/Vendors%20Information/2023%20School%20Uniform%20info.pdf)
+2. [School Uniform](/files/2022/Vendors%20Information/SCHOOL%20UNIFORM%20info%202023.pdf)
 
 4. [Student Care Services 2023](/files/2022/Student%20Care%20Services%202023.pdf)
 
