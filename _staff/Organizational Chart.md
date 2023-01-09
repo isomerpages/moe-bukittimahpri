@@ -3,8 +3,6 @@ title: Organizational Chart
 permalink: /staff/organisational-chart/
 description: ""
 ---
-###  ORGANIZATIONAL CHART
-
 <table width="800" border="0">
    <tr><td colspan="2"><b>PRINCIPAL</b></td></tr>
     <tr><td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/01_P.png" style="width:100px" ></td>
@@ -199,6 +197,15 @@ chng_ling_ling@moe.edu.sg</a></td>
 sharmini_jaya_kumaran@moe.edu.sg">
 sharmini_jaya_kumaran@moe.edu.sg</a></td>
     </tr>
+	 <tr>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mdm sangitah do jayaseelan.jpeg" style="width:100px"></td>
+      <td>Mdm Sangitah d/o Jayaseelan</td></tr>
+<tr><td><b>SH/VIA and Leadership</b></td></tr>
+    <tr>
+      <td><a href="mailto:
+sangitah_jayaseelan@moe.edu.sg">
+sangitah_jayaseelan@moe.edu.sg</a></td>
+    </tr>
 <tr>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -279,4 +286,18 @@ mohammad_shah_razak@moe.edu.sg</a></td>
     <tr>
       <td><a href="mailto:kuppusamy_m_samales@moe.edu.sg">kuppusamy_m_samales@moe.edu.sg</a></td>
     </tr>
+<tr>
+       <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs lin shu rui.jpg" style="width:100px"></td>
+      <td>Mrs Lin Shu Rui</td>
+    </tr>
+<tr><td><b>ICT Manager</b></td></tr>
+    <tr>
+      <td><a href="mailto:tan_shu_rui@moe.edu.sg">tan_shu_rui@moe.edu.sg</a></td>
+    </tr>
+<tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
 </table>

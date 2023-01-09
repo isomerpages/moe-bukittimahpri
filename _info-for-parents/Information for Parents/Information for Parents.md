@@ -6,7 +6,7 @@ third_nav_title: Information for Parents
 ---
 # INFORMATION FOR PARENTS
 
-**Commz @ BTPS**
+<u>**Commz @ BTPS**</u>
 
 [2022 Term1 CommzBTPS](/files/2022/Term%20Comms/Term%201%20CommzBTPS%202022.pdf)
 
@@ -23,28 +23,23 @@ third_nav_title: Information for Parents
 * [Parent Gateway Instructional Guide](/files/Annex%20B.pdf)
 * [Praise Your Child](/files/Scan1.pdf)
 
-**P1 Orientation Slides** 
+**<u>P1 Orientation Slides</u>** <br>
 [Principal's Slides for P1 E-Orientation 2023](/files/2022/Principal's%20Slides%20for%20P1%20E-Orientation%202023.pdf)
 
 [FT slides for P1 E-Orientation 2023](/files/2022/FTs'%20Slides%20for%20P1%20E-Orientation_2023.pdf)
 
 [YH slides P1 Orientation for Parents 2023](/files/2022/YH%20slides%20P1%20Orientation_Parents_2023.pdf)
 
-
-
-
-* [P1 Administrative Matter 2022](/files/2022/Briefing%20Documents/P1%20Administrative%20matters%202022.pdf)
-
-* [P3 & P4 Briefing Slides for P2 Parents](/files/Briefing%20Documents/BTPS%20P3%20and%20P4%20HMTLBriefing%20Slides%20for%20P2%20Parents.pdf)
 <br>
 
 * [Safe Management Measures ](/files/SMMs.pdf)
 
 
 **Vendors Information**
-1. [Booklist 2022](/files/2022/Vendors%20Information/2022%20Booklist.pdf)
+1. [School Booklist](/files/2022/Vendors%20Information/booklist.pdf)
 2. [School Bus Services](/files/2022/Vendors%20Information/Info%20Sheet%20on%20School%20Bus%20Services_updated.pdf)
-3. [School Uniforms](/files/2022/Vendors%20Information/School%20uniform.pdf)
+2. [School Uniform](/files/2022/Vendors%20Information/schooluniforminfo.pdf)
+
 4. [Student Care Services 2023](/files/2022/Student%20Care%20Services%202023.pdf)
 
 
