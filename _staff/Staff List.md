@@ -190,7 +190,7 @@ description: ""
     <td>3_Adaptability</td>
     <td>Ms Tong Chee Wai Yvonne</td>
     <td align="right">323</td>
-    <td>tong_chee_wai@moe.edu.sg</td>
+    <td><a href="mailto:tong_chee_wai@moe.edu.sg">tong_chee_wai@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>3_Compassion</td>
@@ -212,9 +212,9 @@ description: ""
   </tr>
   <tr>
     <td>3_Graciousness</td>
-    <td>Ms Sandra Tan Cui Fen</td>
+    <td>Ms Tan Cui Fen Sandra</td>
     <td align="right">376</td>
-    <td>&nbsp;</td>
+    <td><a href="mailto:Tan_Cui_Fen_Sandra@moe.edu.sg">Tan_Cui_Fen_Sandra@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>3_Integrity</td>
@@ -226,7 +226,7 @@ description: ""
     <td>3_Integrity</td>
     <td>Mr Johnathan Ng</td>
     <td align="right">363</td>
-    <td>ng_qi_hao_johnathan@moe.edu.sg</td>
+    <td><a href="mailto:ng_qi_hao_johnathan@moe.edu.sg">ng_qi_hao_johnathan@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>3_Resilience</td>
@@ -370,7 +370,7 @@ description: ""
     <td>5_Resilience</td>
     <td>Mr Alvin Woo</td>
     <td align="right">377</td>
-    <td>&nbsp;</td>
+    <td><a href="mailto:Woo_Tuck_Ming_Alvin@moe.edu.sg">Woo_Tuck_Ming_Alvin@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>5_Respect</td>
@@ -382,7 +382,7 @@ description: ""
     <td>5_Respect</td>
     <td>Mr Kenny Chin</td>
     <td align="right">340</td>
-    <td>&nbsp;</td>
+    <td><a href="Chin_Peng_Kiew@moe.edu.sg">Chin_Peng_Kiew@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>6_Adaptibility</td>
