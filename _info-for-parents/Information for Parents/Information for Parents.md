@@ -6,11 +6,14 @@ third_nav_title: Information for Parents
 ---
 # INFORMATION FOR PARENTS
 
-[2023 Term1 CommzBTPS](/files/2022/Term%20Comms/Commz@BTPS%202023%20(Sem 1).pdf)
+[2023 Term1 CommzBTPS]
+(/files/2022/Commz@BTPS%202023%20(Sem1).pdf)
+
 
 [2022 Term4 CommzBTPS](/files/2022/Term%20Comms/Term%204%20Commz@BTPS%20(Updated).pdf)
 
-[2023School Calendar](/files/2022/Term%20Comms/School%20Calendar%202023%20(Sem 1).pdf)
+[2023 School Calendar](/files/2022/School%20Calendar%202023%20(Sem%201).pdf)
+
 # OTHER INFORMATIONS FOR DOWNLOADS
 
 
