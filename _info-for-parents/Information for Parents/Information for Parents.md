@@ -8,6 +8,8 @@ third_nav_title: Information for Parents
 
 <u>**Commz @ BTPS**</u>
 
+[2022 Term1 CommzBTPS](/files/2022/Term%20Comms/Commz@BTPS%202023%20(Sem 1).pdf)
+
 [2022 Term1 CommzBTPS](/files/2022/Term%20Comms/Term%201%20CommzBTPS%202022.pdf)
 
 [2022 Term2 CommzBTPS](/files/2022/Term%20Comms/Term%202%20CommzBTPS%202022.pdf)
