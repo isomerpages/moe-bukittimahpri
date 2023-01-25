@@ -186,13 +186,7 @@ description: ""
     <td align="right">347</td>
     <td><a href="mailto:ho_hui_suan_josephine@moe.edu.sg">ho_hui_suan_josephine@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>3_Adaptability</td>
-    <td>Ms Tong Chee Wai Yvonne</td>
-    <td align="right">323</td>
-    <td><a href="mailto:tong_chee_wai@moe.edu.sg">tong_chee_wai@moe.edu.sg</a></td>
-  </tr>
-  <tr>
+   <tr>
     <td>3_Compassion</td>
     <td>Mrs Joanne Hu</td>
     <td align="right">358</td>
@@ -222,13 +216,7 @@ description: ""
     <td align="right">345</td>
     <td><a href="mailto:chua_peng_swee@moe.edu.sg">chua_peng_swee@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>3_Integrity</td>
-    <td>Mr Johnathan Ng</td>
-    <td align="right">363</td>
-    <td><a href="mailto:ng_qi_hao_johnathan@moe.edu.sg">ng_qi_hao_johnathan@moe.edu.sg</a></td>
-  </tr>
-  <tr>
+   <tr>
     <td>3_Resilience</td>
     <td>Mr Solomon Tan Ding Huang</td>
     <td align="right">362</td>
