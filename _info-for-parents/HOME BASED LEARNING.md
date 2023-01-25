@@ -3,7 +3,6 @@ title: HOME BASED LEARNING
 permalink: /info-for-parents/home-based-learning/
 description: ""
 ---
-
 # HOME-BASED LEARNING
 
 **Please refer to the live lessons guide for more information,**
@@ -46,7 +45,7 @@ If you have forgotten your password, you could:
 
 <p class="tab">b) Reset via answering security questions</p>
 
-<p class="tab">c) School-based Helpdesk at lee_weng_philip_james@schools.gov.sg or 64662863 <br>Mondays - Fridays: 8:00 am - 4:00 pm </p>
+<p class="tab">c) School-based Helpdesk at tan_shu_rui@moe.edu.sg or 64662863 <br>Mondays - Fridays: 8.00 a.m. - 4.00 p.m. </p>
 
 <strong><u>Non-School Operating Hours</u></strong>
 
@@ -54,8 +53,8 @@ Outside the school operating hours, students should contact the <strong><u>SLS H
 
 <strong>Call SLS Helpdesk at <u>6702 6513</u></strong>
 
-- Mondays - Fridays: 4:00 pm - 9:00 pm
-- Saturdays: 9:00 am - 3:00 pm
+- Mondays - Fridays: 4.00 p.m. - 9:00 p.m.
+- Saturdays: 9.00 a.m. - 3:00 p.m.
 - Closed on Sundays & Public Holidays
 
 **Email SLS Helpdesk at helpdesk@sls.ufinity.com**
