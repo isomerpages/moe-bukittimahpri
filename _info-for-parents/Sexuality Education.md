@@ -52,12 +52,13 @@ You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sex
 
 **At Bukit Timah Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
-Click  <a href="https://www.bukittimahpri.moe.edu.sg/files/2023/2023%20Info%20on%20SEd.pdf"> here  </a>to download the Sexuality Education lessons.
+Click  [[here](/files/2023/2023%20Info%20on%20SEd.pdf)] to download the Sexuality Education lessons.
+
 
 <strong>INFORMATION FOR PARENTS</strong>
 
 <p>8.  Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. </p>
 
-<p>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The <a href="https://www.bukittimahpri.moe.edu.sg/files/2023/2023SEdLetter.pdf">letter</a> and form will be distributed to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/63d22377a65b480011574097"> here </a>. The completed opt-out form is to be submitted by 10 February 2023. </p>
+<p>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The [letter](/files/2023/2023SEdLetter.pdf) and form will be distributed to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/63d22377a65b480011574097"> here </a>. The completed opt-out form is to be submitted by 10 February 2023. </p>
 
 <p>Parents can contact the school at 6466 2863 (ext. 202) for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
