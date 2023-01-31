@@ -52,7 +52,7 @@ You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sex
 
 **At Bukit Timah Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
-Click <a href="https://www.bukittimahpri.moe.edu.sg/files/2023/2023%20Info%20on%20SEd.pdf"><strong>**here**</strong> </a>to download the Sexuality Education lessons.
+Click  <a href="https://www.bukittimahpri.moe.edu.sg/files/2023/2023%20Info%20on%20SEd.pdf"> here  </a>to download the Sexuality Education lessons.
 
 <strong>INFORMATION FOR PARENTS</strong>
 
