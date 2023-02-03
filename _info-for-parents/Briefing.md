@@ -3,71 +3,62 @@ title: Briefing
 permalink: /info-for-parents/briefing/
 description: ""
 ---
-<h3>BRIEFING SLIDES FOR PARENTS YEAR 2022</h3>
+<h3>BRIEFING SLIDES FOR PARENTS YEAR 2023</h3>
 
-**Primary 2 Parent's Briefing Slides**
+<b>[ Cohort Briefing for Primary Two parents ]</b>
 
+[School Leader's Briefing for Primary Two parents](/files/2023/Info%20for%20parents/Cohort%20Briefing%20for%20P2%20Parents.pdf)
 
-[P2 - Principal's Address](/files/2022/Briefing%20Documents/P2%20Ps%20Address.pdf)
+[Pri 2 English Language](/files/2023/P2%20EL.pdf)
 
-[English](/files/2022/Briefing%20Documents/P2%20Subject%20Briefing%20-%20EL.pdf)
+[Pri 2 Mathematics](/files/2023/P2%20Math.pdf)
 
-[Mathematics](/files/2022/Briefing%20Documents/P6%20Subject%20Briefing%20-%20Math.pdf)
+[Pri 2 Mother Tongue Languages](/files/2023/P2%20MTL.pdf)
 
-[Mother Tongue](/files/2022/Briefing%20Documents/P2%20Subject%20Briefing%20-%20MT.pdf)
+<b> [ Cohort Briefing for Primary Three parents ]</b>  
 
+[School Leader's Briefing for Primary Three parents](/files/2023/Info%20for%20parents/Cohort%20Briefing%20for%20P3%20Parents.pdf)
 
+[Pri 3 English Language](/files/2023/P3%20EL.pdf)
 
-**Primary 3 Parent's Briefing Slides  **
+[Pri 3 Mathematics](/files/2023/P3%20Math.pdf)
 
-[P3 - Principal's Address](/files/2022/Briefing%20Documents/P3%20Ps%20Address.pdf)
+[Pri 3 Mother Tongue Languages](/files/2023/P3%20MTL.pdf)
 
-[English](/files/2022/Briefing%20Documents/P3%20Subject%20Briefing%20-%20EL.pdf)
+[Pri 3 Science](/files/2023/P3%20Science.pdf)
 
-[Mathematics](/files/2022/Briefing%20Documents/P3%20Subject%20Briefing%20-%20Math.pdf)
+<b>[ Cohort Briefing for Primary Four parents ]</b> 
 
-[Science](/files/2022/Briefing%20Documents/P3%20Subject%20Briefing%20-%20Science.pdf)
+[School Leader's Briefing for Primary Four parents](/files/2023/Info%20for%20parents/Cohort%20Briefing%20for%20P4%20Parents.pdf)
 
-[Mother Tongue](/files/2022/Briefing%20Documents/P3%20Subject%20Briefing%20-%20MT.pdf)
+[Pri 4 English Language](/files/2023/P4%20EL.pdf)
 
-  
+[Pri 4 Mathematics](/files/2023/P4%20Math.pdf)
 
-**Primary 4 Parent's Briefing Slides ** 
+[Pri 4 Mother Tongue Languages](/files/2023/P4%20MTL.pdf)
 
-[P4 - Principal's Address](/files/2022/Briefing%20Documents/P4%20Ps%20Address.pdf)
+[Pri 4 Science](/files/2023/P4%20Science.pdf)
 
-[English](/files/2022/Briefing%20Documents/P4%20Subject%20Briefing%20-%20EL.pdf)
+<b>[ Cohort Briefing for Primary Five parents] </b> 
 
-[Mathematics](/files/2022/Briefing%20Documents/P4%20Subject%20Briefing%20-%20Math.pdf)
+[School Leader's Briefing for Primary Five parents](/files/2023/Info%20for%20parents/Cohort%20Briefing%20for%20P5%20Parents.pdf)
 
-[Science](/files/2022/Briefing%20Documents/P5%20Subject%20Briefing%20-%20Science.pdf)
+[Pri 5 English Language](/files/2023/P5%20EL.pdf)
 
-[Mother Tongue](/files/2022/Briefing%20Documents/P4%20Subject%20Briefing%20-%20MT.pdf)
+[Pri 5 Mathematics](/files/2023/P5%20Math.pdf)
 
-  
+[Pri 5 Mother Tongue Languages](/files/2023/P5%20MTL.pdf)
 
-**Primary 5 Parent's Briefing Slides ** 
+[Pri 5 Science](/files/2023/P5%20Science.pdf)
 
-[P5 - Principal's Address](/files/2022/Briefing%20Documents/P5%20Ps%20Address.pdf)
+[Pri 5 SEd Programme](/files/2023/P5%20SED.pdf)
 
-[English](/files/2022/Briefing%20Documents/P5%20Subject%20Briefing%20-%20EL.pdf)
+<b>[ Cohort Briefing for Primary Six parents ]</b> 
 
-[Mathematics](/files/2022/Briefing%20Documents/P5%20Subject%20Briefing%20-%20Math.pdf)
+[School Leader's Briefing for Primary Six parents](/files/2023/Info%20for%20parents/Cohort%20Briefing%20for%20P6%20Parents.pdf)
 
-[Science](/files/P5%20Subject%20Briefing%20-%20Science.pdf)
+[Pri 6 English Language](/files/2023/P6%20EL.pdf)
 
-[Mother Tongue](/files/2022/Briefing%20Documents/P5%20Subject%20Briefing%20-%20MT.pdf)
+[Pri 6 Mathematics](/files/2023/P6%20Math.pdf)
 
-  
-
-**Primary 6 Parent's Briefing Slides**  
-
-[P6 - Principal's Address](/files/2022/Briefing%20Documents/P6%20Ps%20Address.pdf)
-
-[English](/files/2022/Briefing%20Documents/P6%20Subject%20Briefing%20-%20EL.pdf)
-
-[Mathematics](/files/P6%20Subject%20Briefing%20-%20Math.pdf)
-
-[Science](/files/2022/Briefing%20Documents/P6%20Subject%20Briefing%20-%20Science.pdf)
-
-[Mother Tongue](/files/2022/Briefing%20Documents/P6%20Subject%20Briefing%20-%20MT.pdf)
+[Pri 6 Mother Tongue Languages](/files/2023/P6%20MTL.pdf)
