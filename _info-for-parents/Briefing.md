@@ -7,8 +7,6 @@ description: ""
 
 <b>[ Cohort Briefing for Primary Two parents ]</b>
 
-[School Leader's Briefing for Primary Two parents](/files/2023/Info%20for%20parents/Cohort%20Briefing%20for%20P2%20Parents.pdf)
-
 [Pri 2 English Language](/files/2023/P2%20EL.pdf)
 
 [Pri 2 Mathematics](/files/2023/P2%20Math.pdf)
@@ -16,8 +14,6 @@ description: ""
 [Pri 2 Mother Tongue Languages](/files/2023/P2%20MTL.pdf)
 
 <b> [ Cohort Briefing for Primary Three parents ]</b>  
-
-[School Leader's Briefing for Primary Three parents](/files/2023/Info%20for%20parents/Cohort%20Briefing%20for%20P3%20Parents.pdf)
 
 [Pri 3 English Language](/files/2023/P3%20EL.pdf)
 
@@ -29,8 +25,6 @@ description: ""
 
 <b>[ Cohort Briefing for Primary Four parents ]</b> 
 
-[School Leader's Briefing for Primary Four parents](/files/2023/Info%20for%20parents/Cohort%20Briefing%20for%20P4%20Parents.pdf)
-
 [Pri 4 English Language](/files/2023/P4%20EL.pdf)
 
 [Pri 4 Mathematics](/files/2023/P4%20Math.pdf)
@@ -40,8 +34,6 @@ description: ""
 [Pri 4 Science](/files/2023/P4%20Science.pdf)
 
 <b>[ Cohort Briefing for Primary Five parents] </b> 
-
-[School Leader's Briefing for Primary Five parents](/files/2023/Info%20for%20parents/Cohort%20Briefing%20for%20P5%20Parents.pdf)
 
 [Pri 5 English Language](/files/2023/P5%20EL.pdf)
 
@@ -54,8 +46,6 @@ description: ""
 [Pri 5 SEd Programme](/files/2023/P5%20SED.pdf)
 
 <b>[ Cohort Briefing for Primary Six parents ]</b> 
-
-[School Leader's Briefing for Primary Six parents](/files/2023/Info%20for%20parents/Cohort%20Briefing%20for%20P6%20Parents.pdf)
 
 [Pri 6 English Language](/files/2023/P6%20EL.pdf)
 
