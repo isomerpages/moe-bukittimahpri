@@ -98,7 +98,7 @@ description: ""
   </tr>
   <tr>
     <td>2_Adaptability</td>
-    <td>Mrs Goh-Chan Kha Gin</td>
+    <td>Mrs Goh-Chan Khai Gin</td>
     <td align="right">339</td>
     <td><a href="mailto:chan_khai_gin@moe.edu.sg">chan_khai_gin@moe.edu.sg</a></td>
   </tr>
@@ -182,7 +182,7 @@ description: ""
   </tr>
   <tr>
     <td>3_Adaptability</td>
-    <td>Ms Josephine Ho Hui Suan </td>
+    <td>Mrs Josephine Kek </td>
     <td align="right">347</td>
     <td><a href="mailto:ho_hui_suan_josephine@moe.edu.sg">ho_hui_suan_josephine@moe.edu.sg</a></td>
   </tr>
