@@ -32,7 +32,7 @@ description: ""
   <tr>
       <td colspan="2"><b>YEAR HEAD </b></td></tr>
     <tr>
-      <td rowspan="3"><img style="border:2px solid #0A0B30;" src="/images/Staff%20Photos/Organisation%20Photos/03YHLP.jpg"></td>
+      <td rowspan="3"><img style="border:2px solid #0A0B30;" src="/images/Staff%20Photos/Organisation%20Photos/03yhlp.jpg"></td>
       <td>Mrs Shirley Ong</td>
     </tr>
 <tr><td><b>YH/Lower Primary (Pri 1 and Pri 2)</b></td>
@@ -45,7 +45,7 @@ description: ""
     <tr>
       <td><a href="mailto:low_swee_ling_angeline@moe.edu.sg">low_swee_ling_angeline@moe.edu.sg</a></td>
     </tr>
-       <tr><td rowspan="3"><img style="border:2px solid #0A0B30;" src="/images/Staff%20Photos/Organisation%20Photos/04YHUP.jpg"></td>
+       <tr><td rowspan="3"><img style="border:2px solid #0A0B30;" src="/images/Staff%20Photos/Organisation%20Photos/04yhup.jpg"></td>
       <td>Mr Effandi Jasman</td></tr>
 <tr><td><b>YH/Upper Primary (Pri 5 and Pri 6)</b></td></tr>
     <tr>
