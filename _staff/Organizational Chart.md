@@ -5,20 +5,20 @@ description: ""
 ---
 <table width="800" border="0">
    <tbody><tr><td colspan="2"><b>PRINCIPAL</b></td></tr>
-    <tr><td rowspan="2"><img style="border:2px solid #000099;" src="/images/Staff%20Photos/Organisation%20Photos/01principal.jpg"></td>
+    <tr><td rowspan="2"><img style="border:2px solid #0A0B30;" src="/images/Staff%20Photos/Organisation%20Photos/01principal.jpg"></td>
       <td><b>Ms Lau Wan Sze</b></td>
     </tr>
     <tr><td><a href="style=">lau_wan_sze@schools.gov.sg</a></td></tr>
    <tr><td colspan="2"><b>VICE PRINCIPAL</b></td></tr>
     <tr>
-      <td rowspan="2"><img style="border:2px solid #000099;" src="/images/Staff%20Photos/Organisation%20Photos/01vprincipal.jpg"></td>
+      <td rowspan="2"><img style="border:2px solid #0A0B30;" src="/images/Staff%20Photos/Organisation%20Photos/01vprincipal.jpg"></td>
       <td><b>Mr Wong Sung Lai Edward</b></td>
     </tr>
    <tr>
       <td><a href="mailto:WONG_Sung_Lai@schools.gov.sg">WONG_Sung_Lai@schools.gov.sg</a></td>
     </tr>
         <tr><td colspan="2"><b>VICE PRINCIPAL</b></td></tr>
-    <tr><td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/03_VP_MDM KITHA.png" style="width:100px"></td>
+    <tr><td rowspan="2"><img style="border:2px solid #0A0B30;" src="/images/Staff%20Photos/Organisation%20Photos/02vprincipal.jpg"></td>
       <td><b>Mdm Kitha Arumugam</b></td>
     </tr>
     <tr><td><a href="mailto:Kitha_ARUMUGAM@schools.gov.sg">Kitha_ARUMUGAM@schools.gov.sg</a></td>
@@ -32,7 +32,7 @@ description: ""
   <tr>
       <td colspan="2"><b>YEAR HEAD </b></td></tr>
     <tr>
-      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs shirley ong.jpeg" style="width:100px"></td>
+      <td rowspan="3"><img style="border:2px solid #0A0B30;" src="/images/Staff%20Photos/Organisation%20Photos/03YHLP.jpg"></td>
       <td>Mrs Shirley Ong</td>
     </tr>
 <tr><td><b>YH/Lower Primary (Pri 1 and Pri 2)</b></td>
@@ -45,7 +45,7 @@ description: ""
     <tr>
       <td><a href="mailto:low_swee_ling_angeline@moe.edu.sg">low_swee_ling_angeline@moe.edu.sg</a></td>
     </tr>
-       <tr><td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mr effandi bin jasman.jpeg" style="width:100px"></td>
+       <tr><td rowspan="3"><img style="border:2px solid #0A0B30;" src="/images/Staff%20Photos/Organisation%20Photos/04YHUP.jpg"></td>
       <td>Mr Effandi Jasman</td></tr>
 <tr><td><b>YH/Upper Primary (Pri 5 and Pri 6)</b></td></tr>
     <tr>
