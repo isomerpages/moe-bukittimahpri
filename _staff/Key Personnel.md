@@ -190,7 +190,7 @@ sharmini_jaya_kumaran@moe.edu.sg">
 sharmini_jaya_kumaran@moe.edu.sg</a></td>
     </tr>
 	 <tr>
-       <td rowspan="3"><img style="width:100px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm sangitah do jayaseelan.jpeg"></td>
+       <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm sangitah do jayaseelan.jpeg"></td>
       <td>Mdm Sangitah d/o Jayaseelan</td></tr>
 <tr><td><b>SH/VIA and Leadership</b></td></tr>
     <tr>
@@ -223,7 +223,7 @@ sangitah_jayaseelan@moe.edu.sg</a></td>
 </a></td>
     </tr>
  <tr>
-       <td rowspan="3"><img style="width:100px; border:2px solid #0A0B30" src="/images/Staff%20Photos/MDM XU AILI.jpg"></td>
+       <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/MDM XU AILI.jpg"></td>
       <td>Mdm Xu Aili</td>
     </tr>
 <tr><td><b>ST/Chinese Language</b></td></tr>
