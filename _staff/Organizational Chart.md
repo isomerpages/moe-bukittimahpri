@@ -89,7 +89,7 @@ description: ""
       <td><a href="mailto:ho_boon_huat@moe.edu.sg">ho_boon_huat@moe.edu.sg
 </a></td></tr>
 <tr>
-<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/09_HODPE.png" style="width:100px"></td>
+<td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/07hodpe.jpg" style="width:63px; border:2px solid #0A0B30"></td>
       <td>Mrs Shirlena Chan</td>
     </tr>
 <tr><td><b>HOD/ PE &amp; CCA</b></td></tr>
