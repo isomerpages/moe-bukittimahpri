@@ -249,14 +249,7 @@ mohammad_shah_razak@moe.edu.sg</a></td>
   </tr>
 <tr>
       <td colspan="2"><b>SCHOOL ADMIN TEAM (SAT) </b></td></tr>
-    <tr>
-       <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mr abdul halik bin abdul hamid.jpeg"></td>
-      <td>Mr Abdul Halik Bin Abdul Hamid</td>
-    </tr>
-<tr><td><b>Admin Manager</b></td></tr>
-    <tr>
-      <td><a href="mailto:abdul_halik_abdul_hamid@moe.edu.sg">abdul_halik_abdul_hamid@moe.edu.sg</a></td>
-    </tr>
+   
  <tr>
        <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm nurhayati bte rahmat.jpeg"></td>
       <td>Mdm Nurhayati Bte Rahmat</td>
@@ -275,7 +268,7 @@ mohammad_shah_razak@moe.edu.sg</a></td>
       <td><a href="mailto:kuppusamy_m_samales@moe.edu.sg">kuppusamy_m_samales@moe.edu.sg</a></td>
     </tr>
 <tr>
-       <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mrs lin shu rui.jpg"></td>
+       <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/ictmanager.jpg"></td>
       <td>Mrs Lin Shu Rui</td>
     </tr>
 <tr><td><b>ICT Manager</b></td></tr>
