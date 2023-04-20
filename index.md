@@ -2,7 +2,7 @@
 layout: homepage
 title: Bukit Timah Primary School
 description: An Isomer site of the Singapore Government
-image: /images/BTPS BANNER.jpg
+image: /images/BTPS_Logo.jpeg
 permalink: /
 notification: ""
 sections:
