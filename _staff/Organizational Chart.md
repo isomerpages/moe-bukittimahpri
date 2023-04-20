@@ -5,7 +5,7 @@ description: ""
 ---
 <table width="800" border="0">
    <tbody><tr><td colspan="2"><b>PRINCIPAL</b></td></tr>
-    <tr><td rowspan="2"><img style="border:2px solid #0A0B30;" src="/images/Staff%20Photos/Organisation%20Photos/01principal.jpg" width="40%"></td>
+    <tr><td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/01principal.jpg" style="width:93px; border:2px solid #0A0B30"></td>
       <td><b>Ms Lau Wan Sze</b></td>
     </tr>
     <tr><td><a href="style=">lau_wan_sze@schools.gov.sg</a></td></tr>
