@@ -72,7 +72,7 @@ description: ""
       <td><a href="mailto:yeo_lei_teng@moe.edu.sg">yeo_lei_teng@moe.edu.sg</a></td>
     </tr>
        <tr>
-      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mr christopher khoo.jpeg" style="width:100px"></td>
+      <td rowspan="3"><img style="border:2px solid #0A0B30;" src="/images/Staff%20Photos/Organisation%20Photos/06hodscience.jpg" height="157px" width="113px"></td>
       <td>Mr Christopher Khoo</td>
     </tr>
 <tr><td><b>HOD/ Science</b></td></tr>
