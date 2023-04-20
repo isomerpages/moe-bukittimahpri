@@ -5,20 +5,20 @@ description: ""
 ---
 <table width="800" border="0">
    <tbody><tr><td colspan="2"><b>PRINCIPAL</b></td></tr>
-    <tr><td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/01principal.jpg" style="width:93px; border:2px solid #0A0B30"></td>
+    <tr><td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/01principal.jpg" style="width:63px; border:2px solid #0A0B30"></td>
       <td><b>Ms Lau Wan Sze</b></td>
     </tr>
     <tr><td><a href="style=">lau_wan_sze@schools.gov.sg</a></td></tr>
    <tr><td colspan="2"><b>VICE PRINCIPAL</b></td></tr>
     <tr>
-      <td rowspan="2"><img style="border:2px solid #0A0B30;" src="/images/Staff%20Photos/Organisation%20Photos/01vprincipal.jpg" height="157px" width="113px"></td>
+      <td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/01vprincipal.jpg" style="width:63px; border:2px solid #0A0B30"></td>
       <td><b>Mr Wong Sung Lai Edward</b></td>
     </tr>
    <tr>
       <td><a href="mailto:WONG_Sung_Lai@schools.gov.sg">WONG_Sung_Lai@schools.gov.sg</a></td>
     </tr>
         <tr><td colspan="2"><b>VICE PRINCIPAL</b></td></tr>
-    <tr><td rowspan="2"><img style="border:2px solid #0A0B30;" src="/images/Staff%20Photos/Organisation%20Photos/02vprincipal.jpg" height="157px" width="113px"></td>
+    <tr><td rowspan="2"><img src="/images/Staff%20Photos/Organisation%20Photos/02vprincipal.jpg" style="width:63px; border:2px solid #0A0B30"></td>
       <td><b>Mdm Kitha Arumugam</b></td>
     </tr>
     <tr><td><a href="mailto:Kitha_ARUMUGAM@schools.gov.sg">Kitha_ARUMUGAM@schools.gov.sg</a></td>
@@ -32,20 +32,20 @@ description: ""
   <tr>
       <td colspan="2"><b>YEAR HEAD </b></td></tr>
     <tr>
-      <td rowspan="3"><img style="border:2px solid #0A0B30;" src="/images/Staff%20Photos/Organisation%20Photos/03yhlp.jpg" height="157px" width="113px"></td>
+      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/03yhlp.jpg" style="width:63px; border:2px solid #0A0B30"></td>
       <td>Mrs Shirley Ong</td>
     </tr>
 <tr><td><b>YH/Lower Primary (Pri 1 and Pri 2)</b></td>
     </tr><tr>
       <td><a href="mailto:low_yin_choo@moe.edu.sg">low_yin_choo@moe.edu.sg
 </a></td></tr><tr>
-      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs angeline teo.jpeg" style="width:100px"></td>
+      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/mrs angeline teo.jpeg" style="width:63px; border:2px solid #0A0B30"></td>
       <td>Mrs Angeline Teo</td></tr>
 <tr><td><b>YH/Mid Primary (Pri 3 and Pri 4)</b></td></tr>
     <tr>
       <td><a href="mailto:low_swee_ling_angeline@moe.edu.sg">low_swee_ling_angeline@moe.edu.sg</a></td>
     </tr>
-       <tr><td rowspan="3"><img style="border:2px solid #0A0B30;" src="/images/Staff%20Photos/Organisation%20Photos/04yhup.jpg" height="157px" width="113px"></td>
+       <tr><td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/04yhup.jpg" style="width:63px; border:2px solid #0A0B30"></td>
       <td>Mr Effandi Jasman</td></tr>
 <tr><td><b>YH/Upper Primary (Pri 5 and Pri 6)</b></td></tr>
     <tr>
@@ -59,20 +59,20 @@ description: ""
   </tr>
     <tr>
       <td colspan="2"><b>HEADS OF DEPARTMENT (HOD)</b></td></tr>
-    <tr><td rowspan="3"><img style="border:2px solid #0A0B30;" src="/images/Staff%20Photos/Organisation%20Photos/19hodel.jpg" height="157px" width="113px"></td>
+    <tr><td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/19hodel.jpg" style="width:63px; border:2px solid #0A0B30"></td>
       <td>Ms Indira d/o R Pillai</td></tr>
 <tr><td><b>HOD/English Language (EL)</b></td></tr>
     <tr>
       <td><a href="mailto:indira_raghavan_pillai@moe.edu.sg">indira_raghavan_pillai@moe.edu.sg</a></td>
     </tr>
-      <tr><td rowspan="3"><img style="border:2px solid #0A0B30;" src="/images/Staff%20Photos/Organisation%20Photos/05hodmath.jpg" height="157px" width="113px"></td>
+      <tr><td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/05hodmath.jpg" style="width:63px; border:2px solid #0A0B30"></td>
       <td>Mrs Karin Gan</td></tr>
 <tr><td><b>HOD/Mathematics</b></td></tr>
     <tr>
       <td><a href="mailto:yeo_lei_teng@moe.edu.sg">yeo_lei_teng@moe.edu.sg</a></td>
     </tr>
        <tr>
-      <td rowspan="3"><img style="border:2px solid #0A0B30;" src="/images/Staff%20Photos/Organisation%20Photos/06hodscience.jpg" height="157px" width="113px"></td>
+      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/06hodscience.jpg" style="width:63px; border:2px solid #0A0B30"></td>
       <td>Mr Christopher Khoo</td>
     </tr>
 <tr><td><b>HOD/ Science</b></td></tr>
@@ -81,7 +81,7 @@ description: ""
 </a></td>
     </tr>
    <tr>
-      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/09_HODMTL.png" style="width:100px"></td>
+      <td rowspan="3"><img src="/images/Staff%20Photos/Organisation%20Photos/22hodmtl.jpg" style="width:63px; border:2px solid #0A0B30"></td>
       <td>Mr Ho Boon Huat</td>
     </tr>
 <tr><td><b>HOD/ Mother Tongue Languages</b></td></tr>
