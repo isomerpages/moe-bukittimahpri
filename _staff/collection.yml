@@ -2,6 +2,6 @@ collections:
   staff:
     output: true
     order:
-      - Organizational Chart.md
+      - Key Personnel.md
       - Staff List.md
       - Staff in Action.md
