@@ -39,7 +39,7 @@ Outside the school operating hours, students should contact the <strong><u>SLS H
 
 - Mondays - Fridays: 4.00 p.m. - 9:00 p.m.
 - Saturdays: 9.00 a.m. - 3:00 p.m.
-- Closed on Sundays & Public Holidays
+- Closed on Sundays &amp; Public Holidays
 
 **Email SLS Helpdesk at helpdesk@sls.ufinity.com**
 
