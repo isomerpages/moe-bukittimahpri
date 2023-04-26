@@ -2,8 +2,8 @@ title: Bukit Timah Primary School
 url: https://www.open.gov.sg
 favicon: /images/BTPS_Logo.jpeg
 colors:
-  primary-color: "#b8860b"
-  secondary-color: "#663399"
+  primary-color: "#ffd700"
+  secondary-color: "#191970"
   media-colors:
     - title: media-color-one
       color: "#232247"
