@@ -186,7 +186,7 @@ description: ""
 <tr>
     <td>3_Adaptability</td>
     <td>Ms Yvonne Tong Chee Wai </td>
-    <td align="right">347</td>
+    <td align="right">313</td>
     <td><a href="mailto:tong_chee_wai@moe.edu.sg">tong_chee_wai@moe.edu.sg</a></td>
   </tr>
    <tr>
@@ -222,7 +222,7 @@ description: ""
 <tr>
     <td>3_Integrity</td>
     <td>Mr Ng Qi Hao Johnathan </td>
-    <td align="right">345</td>
+    <td align="right">363</td>
     <td><a href="mailto:ng_qi_hao_johnathan@moe.edu.sg">ng_qi_hao_johnathan@moe.edu.sg</a></td>
   </tr>
    <tr>
