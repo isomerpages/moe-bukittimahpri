@@ -315,12 +315,7 @@ description: ""
     <td align="right">303</td>
     <td><a href="mailto:durgadevi_tamil_selvam@moe.edu.sg">durgadevi_tamil_selvam@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>5_Adaptability</td>
-    <td>Dr Mohammad Shah Bin Razak</td>
-    <td>&nbsp;</td>
-    <td><a href="mailto:mohammad_shah_razak@moe.edu.sg">mohammad_shah_razak@moe.edu.sg</a></td>
-  </tr>
+  
   <tr>
     <td>5_Compassion</td>
     <td>Mrs Mellissa Khoo<br>(LH/EL)</td>
