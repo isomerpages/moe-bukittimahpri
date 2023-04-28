@@ -7,13 +7,13 @@ description: ""
 
 
 
-<table cellspacing="0" cellpadding="0" style="color:#000099;">
+<table cellspacing="0" cellpadding="0" style="color:#191970;">
   <colgroup><col width="119">
   <col width="300">
   <col width="68">
   <col width="301">
   </colgroup><tbody><tr>
-    <td colspan="4" style="color:#000099;"><b>TEACHING STAFFS</b></td>
+    <td colspan="4" style="color:#191970;"><b>TEACHING STAFFS</b></td>
   </tr>
   <tr>
     <td width="129"><b>CLASS</b></td>
@@ -315,12 +315,7 @@ description: ""
     <td align="right">303</td>
     <td><a href="mailto:durgadevi_tamil_selvam@moe.edu.sg">durgadevi_tamil_selvam@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>5_Adaptability</td>
-    <td>Dr Mohammad Shah Bin Razak</td>
-    <td>&nbsp;</td>
-    <td><a href="mailto:mohammad_shah_razak@moe.edu.sg">mohammad_shah_razak@moe.edu.sg</a></td>
-  </tr>
+  
   <tr>
     <td>5_Compassion</td>
     <td>Mrs Mellissa Khoo<br>(LH/EL)</td>

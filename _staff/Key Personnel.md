@@ -231,17 +231,7 @@ sangitah_jayaseelan@moe.edu.sg</a></td>
       <td><a href="mailto:xu_ai_li@moe.edu.sg">xu_ai_li@moe.edu.sg
 </a></td>
     </tr>
-		 <tr>
-       <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/18stpe.jpg">
-      </td><td>Dr Mohammad Shah Bin Razak</td>
-    </tr>
-<tr><td><b>ST/Physical Education</b></td></tr>
-    <tr>
-      <td><a href="mailto:
-mohammad_shah_razak@moe.edu.sg">
-mohammad_shah_razak@moe.edu.sg</a></td>
-    </tr>
-	<tr>
+		<tr>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
