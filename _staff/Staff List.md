@@ -13,7 +13,7 @@ description: ""
   <col width="68">
   <col width="301">
   </colgroup><tbody><tr>
-    <td colspan="4" style="color:#000099;"><b>TEACHING STAFFS</b></td>
+    <td colspan="4" style="color:#191970;"><b>TEACHING STAFFS</b></td>
   </tr>
   <tr>
     <td width="129"><b>CLASS</b></td>
