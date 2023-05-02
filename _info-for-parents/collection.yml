@@ -2,7 +2,6 @@ collections:
   info-for-parents:
     output: true
     order:
-      - School Canteen Information.md
       - Information for Parents/.keep
       - Information for Parents/Information for Parents.md
       - Information for Parents/2022 WE STORIES.md
@@ -12,5 +11,6 @@ collections:
       - Dental Information.md
       - Sexuality Education.md
       - School Bus Services.md
+      - School Canteen Information.md
       - Others/.keep
       - Others/Choosing a Secondary School.md
