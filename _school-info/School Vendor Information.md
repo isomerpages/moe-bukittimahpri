@@ -24,7 +24,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a6s9"><a href="https://bukittimahpri-moe-edu-sg-admin.cwp.sg/qql/slot/u750/Information%20&%20Download/Vendors%20Information/Bus%20Company%20-%20Peng%20Yang.pdf" target="_blank" rel="noopener noreferrer">Peng Yang Transport PteLtd</a> <br> (File too large)</td>
+    <td class="tg-a6s9"><a href="https://bukittimahpri-moe-edu-sg-admin.cwp.sg/qql/slot/u750/Information%20&amp;%20Download/Vendors%20Information/Bus%20Company%20-%20Peng%20Yang.pdf" target="_blank" rel="noopener noreferrer">Peng Yang Transport PteLtd</a> <br> (File too large)</td>
     <td class="tg-22y8">Sch Bus Services</td>
     <td class="tg-22y8">Mr Tang</td>
     <td class="tg-22y8">91998844</td>
@@ -63,7 +63,3 @@ description: ""
 </table>
 
 <br>
-
-- [2022 Booklist.pdf](/files/2022%20Booklist.pdf)
-- [Info Sheet on School Bus Services_updated.pdf](/files/Info%20Sheet%20on%20School%20Bus%20Services_updated.pdf)
-- [School uniform.pdf](/files/School%20uniform.pdf)
