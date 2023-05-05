@@ -5,7 +5,7 @@ description: ""
 ---
 # UNIFORMED GROUPS
 
-| Uniformed Group |                           Teacher-in-charge                           |   Day    |     Time     | Level / Group |   Venue   | Recruiting which level for 2022? |
+| Uniformed Group |                           Teacher-in-charge                           |   Day    |     Time     | Level / Group |   Venue   | Recruiting which level for 2023 |
 | :-------------: | :-------------------------------------------------------------------: | :------: | :----------: | :-----------: | :-------: | :------------------------------: |
 |  Boys’ Brigade  | Ms Peng Yuanzhen <br>Mdm Yap Poh Keng Serene <br>BB Volunteer Adult Leaders | Thursday | 2 pm to 4 pm |      P2       | Classroom |          P2 (boys only)          |
 
