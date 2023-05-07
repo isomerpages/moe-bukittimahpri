@@ -112,7 +112,7 @@ description: ""
       <td><a href="mailto:goh_xue_yi@moe.edu.sg">goh_xue_yi@moe.edu.sg</a></td></tr>
 <tr><td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/21hodssd.jpg"></td>
       <td>Mdm Suzanna Bte Mohd Isnin</td></tr>
-<tr><td><b>HOD/ Schoo Staff Developer (SSD)</b></td></tr>
+<tr><td><b>HOD/ School Staff Developer (SSD)</b></td></tr>
     <tr>
       <td><a href="mailto:suzanna_mohamed_isnin@moe.edu.sg">suzanna_mohamed_isnin@moe.edu.sg</a></td>
     </tr> 
