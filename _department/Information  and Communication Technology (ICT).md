@@ -10,7 +10,7 @@ description: ""
 
 
 
-<img src="/images/ICT framework.jpeg" style="width:85%">
+<img src="/images/ICT-framework.png" style="width:85%">
 
 
 Our ICT programmes across P1 to P6 aims to equip every student with the fundamental ICT skills and literacy to be a future-ready individual and be competent in New Media Literacies to navigate the cyber world safely and effectively. Through the introduction of computational thinking and the infusion of new media literacies into different disciplines, we hope to achieve the following objectives- 
