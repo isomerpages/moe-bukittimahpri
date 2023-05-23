@@ -21,7 +21,6 @@ Our ICT programmes across P1 to P6 aims to equip every student with the fundamen
 2. Demonstrate 21st CC through self-directed and collaborative learning!
 3. Develop computational thinking and problem-solving skills
 <img src="/images/ict-baseline-skills.png">
-
 <u><strong>Info-comm CCA</strong></u><br>
 The Info-Comm Club offers its members an exciting journey into Digital Making and Immersive Media. Under the guidance of its trainers, pupils will gain an understanding on Microsoft Makecode, Microbit, and learn the fundamentals of mobile photography, videography creating podcasts and Augmented Reality (AR) video content.
 
