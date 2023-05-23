@@ -3,7 +3,7 @@ title: Information  and Communication Technology | ICT
 permalink: /department/information-and-communication-technology-ict/
 description: ""
 ---
-# INFORMATION AND COMMUNICATION TECHNOLOGY| ICT
+# INFORMATION AND COMMUNICATION TECHNOLOGY / ICT
 
 
 Our school’s ICT literacy programme is built on MOE’s standards of new media literacy and includes the skills, knowledge, attitudes and values (SKAV) that students should apply and demonstrate when harnessing ICT for learning and interacting. The new ICT baseline standards are: curating digital content; connecting and communicating digitally; and creating digital multimodal products. 
