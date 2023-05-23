@@ -17,7 +17,6 @@ Our ICT programmes across P1 to P6 aims to equip every student with the fundamen
 
 
  <strong>Students will be able to:</strong>
-
 1. Acquire and apply technical skills to create digital content
 2. Demonstrate 21st CC through self-directed and collaborative learning!
 3. Develop computational thinking and problem-solving skills
@@ -30,4 +29,3 @@ The Info-Comm Club offers its members an exciting journey into Digital Making an
 Through the application of computational thinking and design thinking constructs, a team of  pupils learn how to problem solve and use upcycled materials such as cardboard, infused with technology, to create useful artefacts. They participate in the Pei Hwa Hackathon 2023 on the 27 May 2023. They came up with a project on automated plant watering system for people who travel frequently or the elderly with dementia and might forget to water their plants.
 
 Another team of pupils participated in the IDE Code Builder 2023 on 9 May 2023 where they applied their Scratch 3.0 coding skills based on a series of computing-based questions.
-
