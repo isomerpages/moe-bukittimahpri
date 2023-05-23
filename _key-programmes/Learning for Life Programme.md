@@ -4,27 +4,15 @@ permalink: /key-programmes/learning-for-life-programme/
 description: ""
 ---
 # BUILDING EMPATHY AND RESILIENCE
+<font face="Dreaming OutLoud" color="#660033">
+<b>“Music for Everyone – Building Empathy and Resilience”</b></font>
 
-Bukit Timah Primary School strongly believes that music, being a universal language, will fuel the hearts and minds of its pupils so as to prepare them to be world-ready citizens. To create a strong and vibrant school culture, the school has a diverse music programme that not only engages the students but empowers them with basic theoretical knowledge as well as exposure to individual and ensemble performances.
+![](/images/music-for-everyone.png)
+<p align="justify">
+<font face="Arial">
+At Bukit Timah Primary School, we believe that music is a universal language that fuels the hearts and minds of our students, preparing them to be world ready citizens.  To maintain a vibrant musical culture in the school, we have a diverse programme that engages the students and empowers them with basic musical theoretical knowledge. The school aims to develop empathetic learners and resilient individuals through engaging music lessons which allows students to exercise their creativity and thinking skills. Students get to improvise with their voice and instruments, and become critical thinkers as they perform, create, and analyse music.</font><br><br>
 
-The school aims to inculcate creativity and thinking skills that inspire and nurture independent life-long learning. Through ‘Music for Everyone!’, we envision that every student will be able to express himself/herself confidently through at least one of the instruments introduced over the six years.
+<font face="Arial">
+School-wide programmes and experiences immerse students in an enhanced musical environment, which in turn provides various opportunities and platforms for students to explore, identify and showcase their talents. In their six years with BTPS, students will determine their own interests and hopefully decide on an area they would be pursuing as a life-long interest. </font></p>
 
-<style type="text/css">
-<!--
- .tab { margin-left: 40px; }
--->
-</style>
-
-<p class="tab"><em>Through creating music, singing and playing instruments, students learn to express themselves creatively in different modes. Listening and appreciation skills enable them to respond and engage with new music throughout their lives. Music is an integral part of society. Hence learning music helps to enrich students’ social, cultural and historical awareness.</em></p>
-
-<p class="tab"><em>Music Syllabus 2008</em></p>
-
-Therefore, our mission is to develop our students in the five domains: Moral, Intellectual, Physical, Social &amp; Moral as well as Aesthetics through music. The school adopts the following school-wide ACE approach when designing the programme.
-
-**A**ppreciation – Appreciation of the environment, nature and the world through active learning process.
-
-**C**reation – Creation of own learning
-
-**E**xpression – Expressing of ones’ appreciation and creation.
-
-The school also aims to immerse the students in an enhanced music environment. As students are young, many would like to explore and understand their own needs and talent. In addition to the exposure to the various musical instruments, students will be engaging in songs which they sing or hear during recesses and before pledge-taking. In their 6 years with Bukit Timah Primary School, they will establish their own interest and decide which area they would be pursuing as their life-long interest and be given opportunities to appreciate, create and express them.
+![](/images/music-for-everyone2.jpg)
