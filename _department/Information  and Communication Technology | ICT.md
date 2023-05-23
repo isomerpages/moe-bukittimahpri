@@ -13,11 +13,11 @@ Our school’s ICT literacy programme is built on MOE’s standards of new media
 <p align="justify">
 Our ICT programmes across P1 to P6 aims to equip every student with the fundamental ICT skills and literacy to be a future-ready individual and be competent in New Media Literacies to navigate the cyber world safely and effectively. Through the introduction of computational thinking and the infusion of new media literacies into different disciplines, we hope to achieve the following objectives- </p>
 
-<p align="justify">
+
  <strong>Students will be able to:</strong><br>
 1. Acquire and apply technical skills to create digital content<br>
 2. Demonstrate 21st CC through self-directed and collaborative learning!<br>
-3. Develop computational thinking and problem-solving skills</p>
+3. Develop computational thinking and problem-solving skills
 <img src="/images/ict-baseline-skills.png">
 
 <p align="justify">
