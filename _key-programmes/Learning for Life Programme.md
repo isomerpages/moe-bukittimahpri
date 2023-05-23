@@ -3,7 +3,7 @@ title: Learning for Life Programme
 permalink: /key-programmes/learning-for-life-programme/
 description: ""
 ---
-# BUILDING EMPATHY AND RESILIENCE
+# LEARNING FOR LIFE PROGRAMME (LLP)
 <font face="Dreaming OutLoud" color="#660033">
 <b>“Music for Everyone – Building Empathy and Resilience”</b></font>
 
