@@ -4,8 +4,8 @@ permalink: /key-programmes/learning-for-life-programme/
 description: ""
 ---
 # LEARNING FOR LIFE PROGRAMME (LLP)
-<font face="Dreaming OutLoud" color="#660033">
-<b>“Music for Everyone – Building Empathy and Resilience”</b></font>
+<p align="center"><font face="Dreaming OutLoud" color="#660033">
+<b>“Music for Everyone – Building Empathy and Resilience”</b></font></p>
 
 ![](/images/music-for-everyone.png)
 <p align="justify">
