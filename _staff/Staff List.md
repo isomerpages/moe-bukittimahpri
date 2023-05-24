@@ -336,7 +336,7 @@ description: ""
   </tr>
   <tr>
     <td>5_Graciousness</td>
-    <td>Mr Jesudass Josep Patros&nbsp;&nbsp;</td>
+    <td>Mr Jesudass Joseph Patros</td>
     <td align="right">370</td>
     <td><a href="mailto:jesudass_joseph_patros@moe.edu.sg">jesudass_joseph_patros@moe.edu.sg</a></td>
   </tr>
