@@ -43,3 +43,28 @@ Students are given opportunity to experience application of Mathematics concepts
 <td>Learning Support for Mathematics (LSM) </td><td style="border:2px solid #0A0B30">Pull-out Lessons
 <br>After-School Classes
  </td></tr></tbody></table>
+<strong>Enrichment Programmes</strong><br>
+
+<p align="justify">
+<b>1. Excellence 2000 (E2K) Programme (Primary 4 to 6)</b>
+E2K is a 3-year enrichment programme which aims to engage students in investigations involving advanced Mathematics concepts. The programme is conducted during curriculum hours for selected classes. The selection is based on students’ achievement in Mathematics.</p>
+<b>2. Mathematics Olympiad Training Programme (Primary 4 to 6)</b>
+<p align="justify">
+Every year, BTPS organises the Math Olympiad Training Programme to stretch students who have a passion for Mathematics. The programme provides a platform for students to develop problem solving abilities like analytical and creative thinking as they explore beyond the primary curriculum. This programme targeted at Primary 4 to 6 students who are in the top 15%-20% of their cohort.</p>
+<img style="border:2px solid #0A0B30" src="/images/btpsmath8.jpeg"><br>
+<table style="border:2px solid #0A0B30">
+<tbody><tr>
+<td style="border:2px solid #0A0B30">Competition </td><td style="border:2px solid #0A0B30">Organising school </td><td style="border:2px solid #0A0B30">Level/s involved </td></tr><tr>
+<td style="border:2px solid #0A0B30">Singapore Mathematical Olympiad for Primary Schools (SMOPS) </td><td style="border:2px solid #0A0B30">Hwa Chong Institution
+ </td><td style="border:2px solid #0A0B30" rowspan="3">Primary 6
+ </td></tr><tr>
+<td style="border:2px solid #0A0B30">River Valley High Mathematics Challenge </td><td style="border:2px solid #0A0B30">River Valley High
+ </td></tr><tr>
+<td style="border:2px solid #0A0B30">Raffles Institution Primary Mathematics World Contest (RIPMWC)</td><td style="border:2px solid #0A0B30">Raffles Institution
+ </td></tr><tr>
+<td style="border:2px solid #0A0B30">National Mathematical Olympiad of Singapore (NMOS)</td><td style="border:2px solid #0A0B30">NUS High
+ </td><td style="border:2px solid #0A0B30">Primary 5 and 6
+ </td></tr><tr>
+<td style="border:2px solid #0A0B30">Mathlympics </td><td style="border:2px solid #0A0B30">ACSI
+ </td><td style="border:2px solid #0A0B30">Primary 4 and 5
+ </td></tr></tbody></table>
