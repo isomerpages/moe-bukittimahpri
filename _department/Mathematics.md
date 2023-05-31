@@ -32,3 +32,14 @@ TOM is a learning log for students to record their mathematics thinking and lear
 <p align="justify">
 Heuristics and methods of problem solving are taught to students to sharpen their mathematics skills. With a systematic spiral approach, students acquire different methods of problem solving every year and become more confident in problem solving.</p>
 <img style="border:2px solid #0A0B30" src="/images/btpsmath6.jpg">
+<b>3. Mathematics Learning Day</b>
+<p align="justify">
+Students are given opportunity to experience application of Mathematics concepts and skills through experiential and realistic learning at Mathematics stations around the school. Through this programme, students can better relate mathematics to real life and work collaboratively to solve problems together.</p>
+<img style="border:2px solid #0A0B30" src="/images/btpsmath7.jpeg">
+<br>
+<table style="border:2px solid #0A0B30">
+<tbody><tr>
+<td style="border:2px solid #0A0B30">Lower Primary </td><td style="border:2px solid #0A0B30">Upper Primary </td></tr><tr>
+<td>Learning Support for Mathematics (LSM) </td><td style="border:2px solid #0A0B30">Pull-out Lessons
+<br>After-School Classes
+ </td></tr></tbody></table>
