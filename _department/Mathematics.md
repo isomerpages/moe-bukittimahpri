@@ -8,14 +8,14 @@ description: ""
 <p align="justify">Our Vision: Every BTPS student, a creative problem-solver with a passion for Mathematics. 
 Guided by the principles of “Love, Enjoy, and Think Mathematics”, our students are engaged through holistic mathematics programmes which nurture, promote, and sharpen conceptual understanding, skill proficiencies and thinking skills across a meaningful and enriching 6-year learning journey.</p>
 
-
+<p align="justify">
 <strong><u>Develop the Love for Mathematics</u></strong> 
-<img style="border:2px solid #0A0B30" src="/images/btpsmath2.jpeg"><p align="justify">Math lessons for the lower primary students are designed to be fun, practical, and interactive. There are many hands-on activities to help students acquire basic concepts of Mathematics. Engaging mathematics interactive games are also introduced to reinforce their learning. </p>
+<img style="border:2px solid #0A0B30" src="/images/btpsmath2.jpeg">Math lessons for the lower primary students are designed to be fun, practical, and interactive. There are many hands-on activities to help students acquire basic concepts of Mathematics. Engaging mathematics interactive games are also introduced to reinforce their learning. </p>
 <p align="justify">
 As the lower primary students are in the early stages of learning mathematics, the lessons are infused with many hands-on activities to keep learning of mathematics fun and practical and at the same time, ensure acquisition of basic concepts. Students are also exposed to mathematics interactive games to reinforce their learning in an engaging manner.</p>
-
+<p align="justify">
 <strong><u>Enjoy and Understand Mathematics Logically</u></strong> 
-<img style="border:2px solid #0A0B30" src="/images/btpsmath3.jpeg"><p align="justify">In middle primary, the focus is on deepening the students’ conceptual knowledge and applying them in their daily lives. This is achieved through presenting students with both standard curriculum topics and challenging real-world math problems to encourage higher-order thinking skills. </p>
+<img style="border:2px solid #0A0B30" src="/images/btpsmath3.jpeg">In middle primary, the focus is on deepening the students’ conceptual knowledge and applying them in their daily lives. This is achieved through presenting students with both standard curriculum topics and challenging real-world math problems to encourage higher-order thinking skills. </p>
 <p align="justify">
 As the lower primary students are in the early stages of learning mathematics, the lessons are infused with many hands-on activities to keep learning of mathematics fun and practical and at the same time, ensure acquisition of basic concepts. Students are also exposed to mathematics interactive games to reinforce their learning in an engaging manner.</p>
 <strong><u>Think and Master Mathematics</u> </strong>
