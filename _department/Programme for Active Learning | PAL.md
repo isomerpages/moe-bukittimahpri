@@ -30,10 +30,10 @@ description: ""
 </tr>
 <tr>
 <td style="border:2px solid #0A0B30">Term 3</td>
-<td align="center" style="border:2px solid #0A0B30" colspan="2">Visual Arts</td></tr>
+<td style="border:2px solid #0A0B30; text-align: center" colspan="2">Visual Arts</td></tr>
 <tr>
 <td style="border:2px solid #0A0B30">Term 4</td>
-<td align="center" style="border:2px solid #0A0B30" colspan="2">Games and Sports</td></tr>
+<td style="border:2px solid #0A0B30; text-align: center" colspan="2">Games and Sports</td></tr>
 </tbody></table>
 <img style="border:3px solid #0A0B30" src="/images/picture 4_pa.jpg">
 <p align="justify">
