@@ -53,7 +53,7 @@ Every year, BTPS organises the Math Olympiad Training Programme to stretch stude
 <img style="border:2px solid #0A0B30" src="/images/btpsmath8.jpeg"><br>
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
-<td style="border:2px solid #0A0B30">Competition </td><td style="border:2px solid #0A0B30">Organising school </td><td style="border:2px solid #0A0B30">Level/s involved </td></tr><tr>
+<td style="border:2px solid #0A0B30"><b>Competition</b> </td><td style="border:2px solid #0A0B30"><b>Organising school</b> </td><td style="border:2px solid #0A0B30"><b>Level/s involved</b> </td></tr><tr>
 <td style="border:2px solid #0A0B30">Singapore Mathematical Olympiad for Primary Schools (SMOPS) </td><td style="border:2px solid #0A0B30">Hwa Chong Institution
  </td><td style="border:2px solid #0A0B30" rowspan="3">Primary 6
  </td></tr><tr>
