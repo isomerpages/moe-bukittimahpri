@@ -10,12 +10,12 @@ Our Vision: Every BTPS student, a creative problem-solver with a passion for Mat
 Guided by the principles of “Love, Enjoy, and Think Mathematics”, our students are engaged through holistic mathematics programmes which nurture, promote, and sharpen conceptual understanding, skill proficiencies and thinking skills across a meaningful and enriching 6-year learning journey.</p>
 
 
-<strong><u>**Develop the Love for Mathematics**</u> </strong>
+<u>**Develop the Love for Mathematics**</u> 
 <img style="border:2px solid #0A0B30" src="/images/btpsmath2.jpeg"><p align="justify">Math lessons for the lower primary students are designed to be fun, practical, and interactive. There are many hands-on activities to help students acquire basic concepts of Mathematics. Engaging mathematics interactive games are also introduced to reinforce their learning. </p>
 <p align="justify">
 As the lower primary students are in the early stages of learning mathematics, the lessons are infused with many hands-on activities to keep learning of mathematics fun and practical and at the same time, ensure acquisition of basic concepts. Students are also exposed to mathematics interactive games to reinforce their learning in an engaging manner.</p>
 
-<strong><u>**Enjoy and Understand Mathematics Logically**</u> </strong>
+<u>Enjoy and Understand Mathematics Logically</u> 
 <img style="border:2px solid #0A0B30" src="/images/btpsmath3.jpeg"><p align="justify">In middle primary, the focus is on deepening the students’ conceptual knowledge and applying them in their daily lives. This is achieved through presenting students with both standard curriculum topics and challenging real-world math problems to encourage higher-order thinking skills. </p>
 <p align="justify">
 As the lower primary students are in the early stages of learning mathematics, the lessons are infused with many hands-on activities to keep learning of mathematics fun and practical and at the same time, ensure acquisition of basic concepts. Students are also exposed to mathematics interactive games to reinforce their learning in an engaging manner.</p>
@@ -47,8 +47,8 @@ Students are given opportunity to experience application of Mathematics concepts
 <p align="justify">
 <b>1. Excellence 2000 (E2K) Programme (Primary 4 to 6)</b>
 E2K is a 3-year enrichment programme which aims to engage students in investigations involving advanced Mathematics concepts. The programme is conducted during curriculum hours for selected classes. The selection is based on students’ achievement in Mathematics.</p>
-<b>2. Mathematics Olympiad Training Programme (Primary 4 to 6)</b>
 <p align="justify">
+<b>2. Mathematics Olympiad Training Programme (Primary 4 to 6)</b>
 Every year, BTPS organises the Math Olympiad Training Programme to stretch students who have a passion for Mathematics. The programme provides a platform for students to develop problem solving abilities like analytical and creative thinking as they explore beyond the primary curriculum. This programme targeted at Primary 4 to 6 students who are in the top 15%-20% of their cohort.</p>
 <img style="border:2px solid #0A0B30" src="/images/btpsmath8.jpeg"><br>
 <table style="border:2px solid #0A0B30">
