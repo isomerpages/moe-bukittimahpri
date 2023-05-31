@@ -3,39 +3,33 @@ title: Mathematics
 permalink: /department/mathematics/
 description: ""
 ---
-
 # MATHEMATICS
 
-**OUR PROGRAMMES**
+**OUR VISION**
 
+<img style="border: 2px solid #00000; padding:3px; margin:5px" src="images/btpsmath1.jpeg">
 With a vision of **‘Love Mathematics, Enjoy Mathematics, Think Mathematics’**, the Mathematics Department seeks to nurture every BTPS student to be a creative problem-solver with a passion for Mathematics. We aim to provide holistic mathematics programmes that emphasize on conceptual understanding, skill proficiencies and thinking skills. The department takes a systematic approach to engage our students through a meaningful and enriching 6-year learning journey.
 
 <strong><u>Develop the Love for Mathematics through engaging leaners in the acquisition of the Basics with Fun</u></strong>
 
 As the lower primary students are in the early stages of learning mathematics, the lessons are infused with many hands-on activities to keep learning of mathematics fun and practical and at the same time, ensure acquisition of basic concepts. Students are also exposed to mathematics interactive games to reinforce their learning in an engaging manner.
 
-<img src="/images/math1.png" 
-     style="width:65%">
-<img src="/images/math%202.png" 
-     style="width:65%">
+<img src="/images/math1.png" style="width:65%">
+<img src="/images/math%202.png" style="width:65%">
 
 <strong><u>Mathematics logically – Understanding the Mathematics in authentic experiences</u></strong>
 
 In middle primary, students are given more opportunities to explore real-life and novel mathematics problems. The lessons are balanced with teaching of standard curriculum topics as well as challenging tasks for students to apply higher order thinking skills in a dynamic learning environment. Journals in TOM will focus on deepening conceptual knowledge and making sense of the application of Mathematics in authentic experiences through reasoning inductively and deductively.
 
-<img src="/images/m5%20and%204.png" 
-     style="width:65%">
-<img src="/images/M6.jpeg" 
-     style="width:45%">
+<img src="/images/m5%20and%204.png" style="width:65%">
+<img src="/images/M6.jpeg" style="width:45%">
 
 <u>Extend <strong>Mathematical Thinking</strong> with <strong>Mastery</strong> in Mathematics</u>
 
 For upper primary students, we aim to consolidate and reinforce their learning in Math through complex tasks that require them to investigate, clarify, connect and apply mathematical concepts learnt effectively to solve more challenging problems in real life scenarios. The focus of TOM will then shift to providing opportunities for students to reflect on their learning and make connections to deepen their understanding of various mathematics ideas.
 
-<img src="/images/m%207%20and%208.png" 
-     style="width:75%">
-<img src="/images/m10n9.png" 
-     style="width:75%">
+<img src="/images/m%207%20and%208.png" style="width:75%">
+<img src="/images/m10n9.png" style="width:75%">
 
 **Key Programmes**
 
