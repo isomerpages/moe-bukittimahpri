@@ -18,8 +18,9 @@ As the lower primary students are in the early stages of learning mathematics, t
 <img style="border:2px solid #0A0B30" src="/images/btpsmath3.jpeg">In middle primary, the focus is on deepening the students’ conceptual knowledge and applying them in their daily lives. This is achieved through presenting students with both standard curriculum topics and challenging real-world math problems to encourage higher-order thinking skills. </p>
 <p align="justify">
 As the lower primary students are in the early stages of learning mathematics, the lessons are infused with many hands-on activities to keep learning of mathematics fun and practical and at the same time, ensure acquisition of basic concepts. Students are also exposed to mathematics interactive games to reinforce their learning in an engaging manner.</p>
+<p align="justify">
 <strong><u>Think and Master Mathematics</u> </strong>
-<img style="border:2px solid #0A0B30" src="/images/btpsmath4.jpeg"><p align="justify">In upper primary, we consolidate and reinforce Students’ learning through complex tasks that require them to investigate, connect, and apply mathematical concepts learnt to solve complicated real-life problems. Opportunities would be provided for students to reflect on their learning and make connections to deepen their understanding of various mathematics ideas. </p>
+<img style="border:2px solid #0A0B30" src="/images/btpsmath4.jpeg">In upper primary, we consolidate and reinforce Students’ learning through complex tasks that require them to investigate, connect, and apply mathematical concepts learnt to solve complicated real-life problems. Opportunities would be provided for students to reflect on their learning and make connections to deepen their understanding of various mathematics ideas. </p>
     
 <strong>**Key Programmes**</strong><br>
 <b>1. Mathematics Journaling – Thinking of Mathematics (TOM)</b>
