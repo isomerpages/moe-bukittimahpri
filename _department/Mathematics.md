@@ -7,7 +7,8 @@ description: ""
 
 **OUR VISION**
 
-<img style="border: 2px solid #00000; padding:3px; margin:5px" src="images/btpsmath1.jpeg">
+<img src="images/btpsmath1.jpg">
+
 With a vision of **‘Love Mathematics, Enjoy Mathematics, Think Mathematics’**, the Mathematics Department seeks to nurture every BTPS student to be a creative problem-solver with a passion for Mathematics. We aim to provide holistic mathematics programmes that emphasize on conceptual understanding, skill proficiencies and thinking skills. The department takes a systematic approach to engage our students through a meaningful and enriching 6-year learning journey.
 
 <strong><u>Develop the Love for Mathematics through engaging leaners in the acquisition of the Basics with Fun</u></strong>
