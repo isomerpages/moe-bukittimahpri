@@ -6,7 +6,7 @@ description: ""
 # **OUR VISION**
 <img style="border:2px solid #0A0B30" src="/images/btpsmath1.jpeg">
 <p align="justify">Our Vision: Every BTPS student, a creative problem-solver with a passion for Mathematics. 
-Guided by the principles of “Love, Enjoy, and Think Mathematics”, our students are engaged through holistic mathematics programmes which nurture, promote, and sharpen conceptual understanding, skill proficiencies and thinking skills across a meaningful and enriching 6-year learning journey.</p>
+Guided by the principles of <strong><i>“Love, Enjoy, and Think Mathematics”</i></strong>, our students are engaged through holistic mathematics programmes which nurture, promote, and sharpen conceptual understanding, skill proficiencies and thinking skills across a meaningful and enriching 6-year learning journey.</p>
 
 <p align="justify">
 <strong><u>Develop the Love for Mathematics</u></strong> 
