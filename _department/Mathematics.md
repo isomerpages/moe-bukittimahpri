@@ -3,8 +3,6 @@ title: Mathematics
 permalink: /department/mathematics/
 description: ""
 ---
-
-
 # **OUR VISION**
 <img style="border:2px solid #0A0B30" src="/images/btpsmath1.jpeg">
 <p align="justify">
