@@ -14,9 +14,8 @@ At Bukit Timah Primary School, we believe that music is a universal language tha
 
 <font face="Arial">
 School-wide programmes and experiences immerse students in an enhanced musical environment, which in turn provides various opportunities and platforms for students to explore, identify and showcase their talents. In their six years with BTPS, students will determine their own interests and hopefully decide on an area they would be pursuing as a life-long interest. </font></p>
-
-![](/images/music-for-everyone2.jpg)
-
-<img style="border:2px solid #0A0B30" src="/images/llppg2.png">
+<img style="border:2px solid #0A0B30" src="/images/music-for-everyone2.jpg">
+<br>
+<img src="/images/llppg2.png">
 <br>
 <img style="border:2px solid #0A0B30" src="/images/llppg3.png">
