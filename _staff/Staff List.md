@@ -195,12 +195,7 @@ description: ""
     <td align="right">358</td>
     <td><a href="mailto:lim_xue_mei_joanne@moe.edu.sg">lim_xue_mei_joanne@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>3_Compassion</td>
-    <td>Mr Ng Kim Chwee</td>
-    <td align="right">375</td>
-    <td><a href="mailto:ng_kim_chwee@moe.edu.sg">ng_kim_chwee@moe.edu.sg</a></td>
-  </tr>
+
   <tr>
     <td>3_Graciousness</td>
     <td>Mrs Raj-Lorshenni D/O Jaya Sanger</td>
@@ -336,7 +331,7 @@ description: ""
   </tr>
   <tr>
     <td>5_Graciousness</td>
-    <td>Mr Jesudass Josep Patros&nbsp;&nbsp;</td>
+    <td>Mr Jesudass Joseph Patros</td>
     <td align="right">370</td>
     <td><a href="mailto:jesudass_joseph_patros@moe.edu.sg">jesudass_joseph_patros@moe.edu.sg</a></td>
   </tr>
@@ -358,12 +353,7 @@ description: ""
     <td align="right">208</td>
     <td><a href="mailto:khoo_kian_kiong_christopher@moe.edu.sg">khoo_kian_kiong_christopher@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>5_Resilience</td>
-    <td>Mr Alvin Woo</td>
-    <td align="right">377</td>
-    <td><a href="mailto:Woo_Tuck_Ming_Alvin@moe.edu.sg">Woo_Tuck_Ming_Alvin@moe.edu.sg</a></td>
-  </tr>
+
   <tr>
     <td>5_Respect</td>
     <td>Mdm Suzanah Bte Miswari </td>
