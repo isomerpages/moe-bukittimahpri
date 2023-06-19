@@ -451,7 +451,7 @@ description: ""
     <td>&nbsp;</td>
   </tr>
 <tr>
-    <td colspan="4"><b>SCHOOL ADMIN TEAM</b></td>
+    <td colspan="4"><b>EAS STAFF</b></td>
   </tr>
   <tr>
     <td width="129"><b>APPOINTMENT</b></td>
@@ -490,6 +490,30 @@ description: ""
     <td>Mdm Nor Junedah Binte Salim </td>
     <td align="right">801</td>
     <td><a href="mailto:nor_junedah_salim@moe.edu.sg">nor_junedah_salim@moe.edu.sg</a></td>
+  </tr>
+ <tr>
+    <td>OSO</td>
+    <td>Mdm Chor Yoon Moy</td>
+    <td align="right"></td>
+    <td></td>
+  </tr>
+<tr>
+    <td>OSO</td>
+    <td>Mdm Halela Bte Mawardi </td>
+    <td align="right"></td>
+    <td></td>
+  </tr>
+ <tr>
+    <td>NCS/ Desktop Engineer</td>
+    <td>Mr Saufiq </td>
+    <td align="right"></td>
+    <td></td>
+  </tr>
+<tr>
+    <td>NCS/ Desktop Engineer</td>
+    <td>Mdm Sadhiya </td>
+    <td align="right"></td>
+    <td></td>
   </tr>
 <tr>
     <td>&nbsp;</td>
