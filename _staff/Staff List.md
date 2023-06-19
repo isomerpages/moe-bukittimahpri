@@ -460,18 +460,19 @@ description: ""
 <tr><td colspan="4"><b>ADMIN MANAGER</b></td></tr>
     <tr><td colspan="4">Extension: 103 </td></tr>
 <tr><td colspan="4"><a href="mailto:nurhayati_rahmat@moe.edu.sgg">nurhayati_rahmat@moe.edu.sg</a></td></tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td align="right">103</td>
-    <td></td>
-  </tr>
+   <tr>
+      <td rowspan="4"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm nurhayati bte rahmat.jpeg"></td>
+      <td colspan="4">Mr Samales Kuppusamy</td>
+    </tr>
+<tr><td colspan="4"><b>OPERATIONS MANAGER</b></td></tr>
+    <tr><td colspan="4">Extension: 104 </td></tr>
+<tr><td colspan="4"><a href="mailto:kuppusamy_m_samales@moe.edu.sg">kuppusamy_m_samales@moe.edu.sg
+</a></td></tr>
 <tr>
-    <td>OPERATIONS MANAGER</td>
-    <td>Mr Samales Kuppusamy</td>
+    <td></td>
+    <td></td>
     <td align="right">104</td>
-    <td><a href="mailto:kuppusamy_m_samales@moe.edu.sg">kuppusamy_m_samales@moe.edu.sg
-</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>ICT MANAGER</td>
