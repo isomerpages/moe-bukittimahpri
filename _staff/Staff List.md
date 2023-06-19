@@ -451,20 +451,20 @@ description: ""
     <td>&nbsp;</td>
   </tr>
 <tr>
-    <td colspan="4"><b>EAS STAFF</b></td>
+    <td><b>EAS STAFF</b></td>
   </tr>
+    <tr>
+      <td rowspan="4"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/06hodscience.jpg"></td>
+      <td>Mdm Nurhayati Bte Rahmat</td>
+    </tr>
+<tr><td><b>ADMIN MANAGER</b></td></tr>
+    <tr><td>Extension: 103 </td></tr>
+<tr><td><a href="mailto:nurhayati_rahmat@moe.edu.sgg">nurhayati_rahmat@moe.edu.sg</a></td></tr>
   <tr>
-    <td width="129"><b>APPOINTMENT</b></td>
-    <td width="296"><b>NAME</b></td>
-    <td width="100"><b>EXTENSION </b></td>
-    <td width="312"><b>EMAIL ADDRESS</b></td>
-  </tr>
-
-  <tr>
-    <td>ADMIN MANAGER</td>
-    <td>Mdm Nurhayati Bte Rahmat</td>
+    <td></td>
+    <td></td>
     <td align="right">103</td>
-    <td><a href="mailto:nurhayati_rahmat@moe.edu.sgg">nurhayati_rahmat@moe.edu.sg</a></td>
+    <td></td>
   </tr>
 <tr>
     <td>OPERATIONS MANAGER</td>
