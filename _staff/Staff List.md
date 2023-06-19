@@ -469,7 +469,7 @@ description: ""
 <tr><td colspan="4"><a href="mailto:kuppusamy_m_samales@moe.edu.sg">kuppusamy_m_samales@moe.edu.sg
 </a></td></tr>
    <tr>
-      <td rowspan="4"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mr samales kuppusamy.jpeg"></td>
+      <td rowspan="4"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/ictmanager.jpg"></td>
       <td colspan="4">Mrs Lin Shu Rui</td>
     </tr>
 <tr><td colspan="4"><b>ICT MANAGER</b></td></tr>
