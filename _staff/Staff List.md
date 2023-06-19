@@ -476,48 +476,45 @@ description: ""
     <tr><td colspan="4">Extension: 109 </td></tr>
 <tr><td colspan="4"><a href="mailto:tan_shu_rui@moe.edu.sg">tan_shu_rui@moe.edu.sg</a></td></tr>
  <tr>
-      <td rowspan="4"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/ictmanager.jpg"></td>
+      <td rowspan="4"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm marlina mohd nor.jpg"></td>
       <td colspan="4">Mdm Marlina Bte Mohd Nor</td>
     </tr>
 <tr><td colspan="4"><b>Management Support Officer</b></td></tr>
     <tr><td colspan="4">Extension: 102 </td></tr>
 <tr><td colspan="4"><a href="mailto:marlina_mohd_nor@moe.edu.sg">marlina_mohd_nor@moe.edu.sg</a></td></tr>
-   <tr>
-    <td>MSO</td>
-    <td></td>
-    <td align="right">102</td>
-    <td></td>
-  </tr>
-<tr>
-    <td>MSO</td>
-    <td>Mdm Nor Junedah Binte Salim </td>
-    <td align="right">801</td>
-    <td><a href="mailto:nor_junedah_salim@moe.edu.sg">nor_junedah_salim@moe.edu.sg</a></td>
-  </tr>
  <tr>
-    <td>OSO</td>
-    <td>Mdm Chor Yoon Moy</td>
-    <td align="right"></td>
-    <td></td>
-  </tr>
+</tr><tr>
+      <td rowspan="4"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm nor junedah binte salim.jpg"></td>
+      <td colspan="4">Mdm Nor Junedah Binte Salim</td>
+    </tr>
+<tr><td colspan="4"><b>Management Support Officer</b></td></tr>
+    <tr><td colspan="4">Extension: 801 </td></tr>
+<tr><td colspan="4"><a href="mailto:nor_junedah_salim@moe.edu.sg">nor_junedah_salim@moe.edu.sg</a></td></tr>
 <tr>
-    <td>OSO</td>
-    <td>Mdm Halela Bte Mawardi </td>
-    <td align="right"></td>
-    <td></td>
-  </tr>
+      <td rowspan="2"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm chor yoon moy.jpg"></td>
+      <td colspan="4">Mdm Chor Yoon Moy</td>
+    </tr>
+<tr><td colspan="4"><b>Operation Support Officer</b></td></tr>
  <tr>
-    <td>NCS/ Desktop Engineer</td>
-    <td>Mr Saufiq </td>
-    <td align="right"></td>
-    <td></td>
-  </tr>
+      <td rowspan="2"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm halela bte mawardi.jpg"></td>
+      <td colspan="4">Mdm Halela Bte Mawardi </td>
+    </tr>
+<tr><td colspan="4"><b>Operation Support Officer</b></td></tr>
+ <tr>
+      <td rowspan="2"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mr saufiq.jpg"></td>
+      <td colspan="4">Mr Saufiq  </td>
+    </tr>
+
+<tr><td colspan="4"><b>NCS/ Desktop Engineer</b></td></tr>
+ <tr>
+      <td rowspan="2"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm sadhiya.jpg"></td>
+      <td colspan="4">Mdm Sadhiya  </td>
+    </tr><tr><td colspan="4"><b>NCS/ Desktop Engineer</b></td></tr>
 <tr>
-    <td>NCS/ Desktop Engineer</td>
-    <td>Mdm Sadhiya </td>
-    <td align="right"></td>
-    <td></td>
-  </tr>
+      <td rowspan="2"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm irene chionh.jpg"></td>
+      <td colspan="4">Mdm Irene Chionh  </td>
+    </tr><tr><td colspan="4"><b>Librarian</b></td></tr>
+
 <tr>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
