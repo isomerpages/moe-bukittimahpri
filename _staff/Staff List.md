@@ -451,46 +451,70 @@ description: ""
     <td>&nbsp;</td>
   </tr>
 <tr>
-    <td colspan="4"><b>SCHOOL ADMIN TEAM</b></td>
+    <td colspan="4"><b>EAS STAFF</b></td>
   </tr>
-  <tr>
-    <td width="129"><b>APPOINTMENT</b></td>
-    <td width="296"><b>NAME</b></td>
-    <td width="100"><b>EXTENSION </b></td>
-    <td width="312"><b>EMAIL ADDRESS</b></td>
-  </tr>
+    <tr>
+      <td rowspan="4"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm nurhayati bte rahmat.jpeg"></td>
+      <td colspan="4">Mdm Nurhayati Bte Rahmat</td>
+    </tr>
+<tr><td colspan="4"><b>ADMIN MANAGER</b></td></tr>
+    <tr><td colspan="4">Extension: 103 </td></tr>
+<tr><td colspan="4"><a href="mailto:nurhayati_rahmat@moe.edu.sgg">nurhayati_rahmat@moe.edu.sg</a></td></tr>
+   <tr>
+      <td rowspan="4"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mr samales kuppusamy.jpeg"></td>
+      <td colspan="4">Mr Samales Kuppusamy</td>
+    </tr>
+<tr><td colspan="4"><b>OPERATIONS MANAGER</b></td></tr>
+    <tr><td colspan="4">Extension: 104 </td></tr>
+<tr><td colspan="4"><a href="mailto:kuppusamy_m_samales@moe.edu.sg">kuppusamy_m_samales@moe.edu.sg
+</a></td></tr>
+   <tr>
+      <td rowspan="4"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/ictmanager.jpg"></td>
+      <td colspan="4">Mrs Lin Shu Rui</td>
+    </tr>
+<tr><td colspan="4"><b>ICT MANAGER</b></td></tr>
+    <tr><td colspan="4">Extension: 109 </td></tr>
+<tr><td colspan="4"><a href="mailto:tan_shu_rui@moe.edu.sg">tan_shu_rui@moe.edu.sg</a></td></tr>
+ <tr>
+      <td rowspan="4"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm marlina mohd nor.jpg"></td>
+      <td colspan="4">Mdm Marlina Bte Mohd Nor</td>
+    </tr>
+<tr><td colspan="4"><b>Management Support Officer</b></td></tr>
+    <tr><td colspan="4">Extension: 102 </td></tr>
+<tr><td colspan="4"><a href="mailto:marlina_mohd_nor@moe.edu.sg">marlina_mohd_nor@moe.edu.sg</a></td></tr>
+ <tr>
+</tr><tr>
+      <td rowspan="4"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm nor junedah binte salim.jpg"></td>
+      <td colspan="4">Mdm Nor Junedah Binte Salim</td>
+    </tr>
+<tr><td colspan="4"><b>Management Support Officer</b></td></tr>
+    <tr><td colspan="4">Extension: 801 </td></tr>
+<tr><td colspan="4"><a href="mailto:nor_junedah_salim@moe.edu.sg">nor_junedah_salim@moe.edu.sg</a></td></tr>
+<tr>
+      <td rowspan="2"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm chor yoon moy.jpg"></td>
+      <td colspan="4">Mdm Chor Yoon Moy</td>
+    </tr>
+<tr><td colspan="4"><b>Operation Support Officer</b></td></tr>
+ <tr>
+      <td rowspan="2"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm halela bte mawardi.jpg"></td>
+      <td colspan="4">Mdm Halela Bte Mawardi </td>
+    </tr>
+<tr><td colspan="4"><b>Operation Support Officer</b></td></tr>
+ <tr>
+      <td rowspan="2"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mr saufiq.jpg"></td>
+      <td colspan="4">Mr Saufiq  </td>
+    </tr>
 
-  <tr>
-    <td>ADMIN MANAGER</td>
-    <td>Mdm Nurhayati Bte Rahmat</td>
-    <td align="right">103</td>
-    <td><a href="mailto:nurhayati_rahmat@moe.edu.sgg">nurhayati_rahmat@moe.edu.sg</a></td>
-  </tr>
+<tr><td colspan="4"><b>NCS/ Desktop Engineer</b></td></tr>
+ <tr>
+      <td rowspan="2"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm sadhiya.jpg"></td>
+      <td colspan="4">Mdm Sadhiya  </td>
+    </tr><tr><td colspan="4"><b>NCS/ Desktop Engineer</b></td></tr>
 <tr>
-    <td>OPERATIONS MANAGER</td>
-    <td>Mr Samales Kuppusamy</td>
-    <td align="right">104</td>
-    <td><a href="mailto:kuppusamy_m_samales@moe.edu.sg">kuppusamy_m_samales@moe.edu.sg
-</a></td>
-  </tr>
-  <tr>
-    <td>ICT MANAGER</td>
-    <td>Mrs Lin Shu Rui</td>
-    <td align="right">109</td>
-    <td><a href="mailto:tan_shu_rui@moe.edu.sg">tan_shu_rui@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>MSO</td>
-    <td>Mdm Marlina Bte Mohd Nor</td>
-    <td align="right">102</td>
-    <td><a href="mailto:marlina_mohd_nor@moe.edu.sg">marlina_mohd_nor@moe.edu.sg</a></td>
-  </tr>
-<tr>
-    <td>MSO</td>
-    <td>Mdm Nor Junedah Binte Salim </td>
-    <td align="right">801</td>
-    <td><a href="mailto:nor_junedah_salim@moe.edu.sg">nor_junedah_salim@moe.edu.sg</a></td>
-  </tr>
+      <td rowspan="2"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm irene chionh.jpg"></td>
+      <td colspan="4">Mdm Irene Chionh  </td>
+    </tr><tr><td colspan="4"><b>Librarian</b></td></tr>
+
 <tr>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
