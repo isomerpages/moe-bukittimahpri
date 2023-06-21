@@ -4,10 +4,9 @@ permalink: /department/CCE/student-leadership-at-btps/
 description: ""
 third_nav_title: CCE
 ---
-
 # STUDENT LEADERSHIP AT BTPS
 
-<center> <Strong> Vision </strong>
+<center> <strong> Vision </strong>
 <br>Future-ready Leaders with sound values
 <br>
 <br>
@@ -18,8 +17,7 @@ third_nav_title: CCE
 <strong> Motto</strong>
 <br>Be a Leader of Character </center>
 
-<img src="/images/CCE1.png" 
-     style="width:65%">
+<img src="/images/CCE1.png" style="width:65%">
 
 <strong>Bukit Timah Primary School (BTPS) aims to develop every student to be a leader of character, who has the will to act and serve his/her school and community.</strong>
 
@@ -31,41 +29,35 @@ third_nav_title: CCE
 
 # Our Values-based Approach
 
-<img src="/images/CCE2.png" 
-     style="width:65%">
+<img src="/images/CCE2.png" style="width:65%">
 
 <strong><center>The school believes that a leader must be guided by a strong moral compass and one must also possess good relationship management skills. Hence, the school adopts The Student Leadership Challenge model and introduces the five practices as part of our school student leadership development.</center></strong>
 
-<img src="/images/CCE4.jpeg" 
-     style="width:65%">
 
-<strong><center>Peer Support Relationship (PSR)</center></strong>
+# Peer Support Relationship | PSR
+<table style="100%">
+<tbody><tr><td><img src="/images/CCE4.jpeg" style="width:100%"></td><td style="width:60%" align="justify">A strong Peer Support culture enables our students develop resilience as they give or seek support from peers or trusted adults in school. Our school adopts a two-tiered approach <strong>(Tier 1: Everyone is a Peer Supporter and Tier 2: Peer Support Ambassadors)</strong>, to strengthen the peer support relationships (PSR) among peers, as well as to foster a culture of care and inclusiveness within the school.</td></tr>
 
-A strong Peer Support culture enables our students develop resilience as they give or seek support from peers or trusted adults in school. Our school adopts a two-tiered approach <strong>(Tier 1: Everyone is a Peer Supporter and Tier 2: Peer Support Ambassadors)</strong>, to strengthen the peer support relationships (PSR) among peers, as well as to foster a culture of care and inclusiveness within the school.
+<tr><td style="width: 60%" align="justify"><strong>Tier 1: Everyone is a peer supporter</strong><br>
 
-<strong><center>Level 1: Everyone is a peer supporter</center></strong>
+To allow everyone to be a peer supporter, the “CHEER” model adapted from Guidance Branch is introduced as part of the Peer Support Curriculum. BTPS students use the CHEER Model to help classmates who need social and emotional support. They also undergo experiential activities to understand and appreciate the importance of Peer Support during the Back-to-School programme.
+</td><td><img src="/images/CCE5.jpeg" style="width:100%"></td></tr>
+<tr><td><img src="/images/CCE6.jpeg" style="width:100%"><br><img src="/images/CCE7.jpeg" style="width:100%"></td><td style="width: 60%" align="justify"><u><strong>Tier 2: Peer Support Ambassadors (PSAs)</strong></u><br>
+Peer Support Ambassadors (PSAs) were appointed to support peers socially and emotionally, therefore promoting overall student well-being and strengthening the positive network of peers in the school. This contributes to a caring and positive learning environment.
+To develop an effective Peer Support culture within the school, PSAs@BTPS were selected for their sense of empathy and moral courage and are trained in interpersonal skills to positively influence and support their peers. They are also taught to recognise signs of distress and offer practical help or seek support for their peers.
+</td></tr></tbody></table>
+<table>
+<tbody><tr>
+<td><img src="/images/CCE8.jpeg" style="width:100%"></td>
+<td><img src="/images/CCE9.jpeg" style="width:100%"></td>
+<td><img src="/images/CCE10.jpeg" style="width:100%"></td></tr>
+<tr>
+<td align="center"><strong>PSAs training</strong></td>
+<td align="center"><strong>PSAs in a discussion</strong></td>
+<td align="center"><strong>Team Building among the PSAs</strong></td></tr>
+</tbody></table>
 
-To allow everyone to be a peer supporter, the “CHEER” model adapted from Guidance Branch is introduced as part of the Peer Support Curriculum. BTPS students used the CHEER Model to help classmates who are in need of social and emotional support. They also undergo experiential activities to understand and appreciate the importance of Peer Support during the Back-to-school programme.
 
-<img src="/images/CCE5.jpeg" 
-     style="width:65%">
 
-<strong><center>Level 2: Peer Support Ambassadors</center></strong>
-<strong><center>VISION:</center></strong>
 
-<strong><center>There are compassionate leaders in every class who care and inspire others to make a positive difference</center></strong>
 
-<strong><center>MISSION:</center></strong>
-<strong><center>To provide an inclusive and caring school environment by developing Peer Support Ambassadors who Model the Way and Encourage the Hearts of others</center></strong>
-
-<strong><center>TEACHERS-IN-CHARGE:</center></strong>
-
-<center><strong>OIC:</strong> Mdm Idayu</center>
-<center><strong>Other Teacher I/Cs:</strong> Ms Wong Siow Yen</center>
-
-Peer Support Ambassadors (PSAs) were appointed to support peers socially and emotionally, therefore promoting overall student well-being and strengthen the positive network of peers in the school, therefore contributing to a caring and positive learning environment.
-
-To develop an effective Peer Support culture within the school, PSAs@BTPS were selected for their sense of empathy and moral courage, and are trained in interpersonalskills to positively influence and support their peers. They are also taught to recognise signs of distress, and offer practical help or seek support for their peers.
-
-<img src="/images/student%20leadership.png" 
-     style="width:85%">
