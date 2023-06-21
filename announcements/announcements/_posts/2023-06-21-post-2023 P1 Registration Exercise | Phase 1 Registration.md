@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 Dear Parents / Guardians
 
 Phase 1 registration is for a Singapore Citizen (SC) or Permanent Resident (PR) child born between 2 January 2017 and 1 January 2018 (both dates inclusive) and has a sibling currently studying in our school. 
@@ -18,4 +17,4 @@ You may refer to [MOE P1 website for information on the 2023 P1 Ex](https://www.
 Thank you.
 
 Yours faithfully<br>
-Bukit Timah Primary School  
+Bukit Timah Primary School
