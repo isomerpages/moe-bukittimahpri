@@ -56,8 +56,3 @@ To develop an effective Peer Support culture within the school, PSAs@BTPS were s
 <td align="center"><strong>PSAs in a discussion</strong></td>
 <td align="center"><strong>Team Building among the PSAs</strong></td></tr>
 </tbody></table>
-
-
-
-
-
