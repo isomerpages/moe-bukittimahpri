@@ -35,7 +35,7 @@ third_nav_title: CCE
 
 
 # Peer Support Relationship | PSR
-<table style="text-align: justify">
+<table style="text-align:justify">
 <tbody><tr><td><img src="/images/CCE4.jpeg" style="border:2px solid #0A0B30"> </td><td style="width:60%" align="justify">A strong Peer Support culture enables our students develop resilience as they give or seek support from peers or trusted adults in school. Our school adopts a two-tiered approach <strong>(Tier 1: Everyone is a Peer Supporter and Tier 2: Peer Support Ambassadors)</strong>, to strengthen the peer support relationships (PSR) among peers, as well as to foster a culture of care and inclusiveness within the school.</td></tr>
 
 <tr><td style="width:45%" align="justify"><strong><u>Tier 1: Everyone is a peer supporter</u></strong><br>
