@@ -310,7 +310,12 @@ description: ""
     <td align="right">303</td>
     <td><a href="mailto:durgadevi_tamil_selvam@moe.edu.sg">durgadevi_tamil_selvam@moe.edu.sg</a></td>
   </tr>
-  
+    <tr>
+    <td>5_Adaptability</td>
+    <td>Miss Lee Yan Ying</td>
+    <td align="right">371</td>
+    <td><a href="mailto:lee_yan_ying_c@moe.edu.sg">lee_yan_ying_c@moe.edu.sg</a></td>
+  </tr>
   <tr>
     <td>5_Compassion</td>
     <td>Mrs Mellissa Khoo<br>(LH/EL)</td>
