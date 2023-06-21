@@ -36,23 +36,23 @@ third_nav_title: CCE
 
 # Peer Support Relationship | PSR
 <table style="100%">
-<tbody><tr><td><img src="/images/CCE4.jpeg"></td><td style="width:60%" align="justify">A strong Peer Support culture enables our students develop resilience as they give or seek support from peers or trusted adults in school. Our school adopts a two-tiered approach <strong>(Tier 1: Everyone is a Peer Supporter and Tier 2: Peer Support Ambassadors)</strong>, to strengthen the peer support relationships (PSR) among peers, as well as to foster a culture of care and inclusiveness within the school.</td></tr>
+<tbody><tr><td><img src="/images/CCE4.jpeg" style="border:2px solid #0A0B30"> </td><td style="width:60%" align="justify">A strong Peer Support culture enables our students develop resilience as they give or seek support from peers or trusted adults in school. Our school adopts a two-tiered approach <strong>(Tier 1: Everyone is a Peer Supporter and Tier 2: Peer Support Ambassadors)</strong>, to strengthen the peer support relationships (PSR) among peers, as well as to foster a culture of care and inclusiveness within the school.</td></tr>
 
 <tr><td style="width:45%" align="justify"><strong><u>Tier 1: Everyone is a peer supporter</u></strong><br>
 
 To allow everyone to be a peer supporter, the “CHEER” model adapted from Guidance Branch is introduced as part of the Peer Support Curriculum. 
-</td><td><img src="/images/cce005.jpg" style="width:100%"></td></tr><tr><td colspan="2" align="justify">BTPS students use the CHEER Model to help classmates who need social and emotional support. They also undergo experiential activities to understand and appreciate the importance of Peer Support during the Back-to-School programme.
+</td><td><img src="/images/cce005.jpg" style="border:2px solid #0A0B30"></td></tr><tr><td colspan="2" align="justify">BTPS students use the CHEER Model to help classmates who need social and emotional support. They also undergo experiential activities to understand and appreciate the importance of Peer Support during the Back-to-School programme.
 </td></tr>
 
-<tr><td><img src="/images/cce006.jpg" style="width:100%"><br><img src="/images/cce007.jpg" style="width:100%"></td><td style="width: 60%" align="justify"><u><strong>Tier 2: Peer Support Ambassadors (PSAs)</strong></u><br><br>
+<tr><td><img src="/images/cce006.jpg" style="border:2px solid #0A0B30"><br><img src="/images/cce007.jpg" style="border:2px solid #0A0B30"></td><td style="width: 60%" align="justify"><u><strong>Tier 2: Peer Support Ambassadors (PSAs)</strong></u><br><br>
 Peer Support Ambassadors (PSAs) were appointed to support peers socially and emotionally, therefore promoting overall student well-being and strengthening the positive network of peers in the school. This contributes to a caring and positive learning environment.
 To develop an effective Peer Support culture within the school, PSAs@BTPS were selected for their sense of empathy and moral courage and are trained in interpersonal skills to positively influence and support their peers. They are also taught to recognise signs of distress and offer practical help or seek support for their peers.
 </td></tr></tbody></table>
 <table>
 <tbody><tr>
-<td style="width:35%"><img src="/images/cce008.jpg"></td>
-<td><img src="/images/cce009.jpg"></td>
-<td><img src="/images/cce010.jpg"></td></tr>
+<td style="width:35%"><img src="/images/cce008.jpg" style="border:2px solid #0A0B30"></td>
+<td><img src="/images/cce009.jpg" style="border:2px solid #0A0B30"></td>
+<td><img src="/images/cce010.jpg" style="border:2px solid #0A0B30"></td></tr>
 <tr>
 <td align="center"><strong>PSAs training</strong></td>
 <td align="center"><strong>PSAs in a discussion</strong></td>
