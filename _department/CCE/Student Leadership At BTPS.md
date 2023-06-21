@@ -48,9 +48,9 @@ To develop an effective Peer Support culture within the school, PSAs@BTPS were s
 </td></tr></tbody></table>
 <table>
 <tbody><tr>
-<td><img src="/images/cce008.jpg" style="width:100%"></td>
-<td><img src="/images/cce009.jpg" style="width:100%"></td>
-<td><img src="/images/cce010.jpg" style="width:100%"></td></tr>
+<td style="width:35%"><img src="/images/cce008.jpg"></td>
+<td><img src="/images/cce009.jpg"></td>
+<td><img src="/images/cce010.jpg"></td></tr>
 <tr>
 <td align="center"><strong>PSAs training</strong></td>
 <td align="center"><strong>PSAs in a discussion</strong></td>
