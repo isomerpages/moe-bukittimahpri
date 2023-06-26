@@ -198,12 +198,6 @@ description: ""
 
   <tr>
     <td>3_Graciousness</td>
-    <td>Mrs Raj-Lorshenni D/O Jaya Sanger</td>
-    <td align="right">318</td>
-    <td><a href="mailto:lorshenni_jaya_sanger_a@moe.edu.sg">lorshenni_jaya_sanger_a@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>3_Graciousness</td>
     <td>Ms Tan Cui Fen Sandra</td>
     <td align="right">376</td>
     <td><a href="mailto:Tan_Cui_Fen_Sandra@moe.edu.sg">Tan_Cui_Fen_Sandra@moe.edu.sg</a></td>
@@ -250,13 +244,7 @@ description: ""
     <td align="right">315</td>
     <td><a href="mailto:chong_yu_pei@moe.edu.sg">chong_yu_pei@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>4_Adaptability</td>
-    <td>Ms Peng Yuanzhen</td>
-    <td align="right">333</td>
-    <td><a href="mailto:peng_yuanzhen@moe.edu.sg">peng_yuanzhen@moe.edu.sg</a></td>
-  </tr>
-  <tr>
+   <tr>
     <td>4_Compassion</td>
     <td>Mdm Suzanna Bte Mohd Isnin <br>(HOD/SSD)</td>
     <td align="right">204</td>
@@ -306,9 +294,9 @@ description: ""
   </tr>
   <tr>
     <td>5_Adaptability</td>
-    <td>Mdm Durgadevi d/o Tamil Selvam <br>(SH/ ICT)</td>
-    <td align="right">303</td>
-    <td><a href="mailto:durgadevi_tamil_selvam@moe.edu.sg">durgadevi_tamil_selvam@moe.edu.sg</a></td>
+    <td>Mdm Mazlinah Juhari</td>
+    <td align="right">327</td>
+    <td><a href="mailto:Mazlinah_Juhari_A@moe.edu.sg">Mazlinah_Juhari_A@moe.edu.sg</a></td>
   </tr>
     <tr>
     <td>5_Adaptability</td>
