@@ -177,6 +177,12 @@ description: ""
     <td align="right">313</td>
     <td><a href="mailto:yvonne_tan_bee_leng@moe.edu.sg">yvonne_tan_bee_leng@moe.edu.sg</a></td>
   </tr>
+ <tr>
+    <td>2_Respect</td>
+    <td>Mrs Sangitah</td>
+    <td align="right">365</td>
+    <td><a href="mailto:Sangitah_K_Jayaseelan@moe.edu.sg">Sangitah_K_Jayaseelan@moe.edu.sg</a></td>
+  </tr>
   <tr>
     <td>3_Adaptability</td>
     <td>Mrs Josephine Kek </td>
@@ -195,7 +201,12 @@ description: ""
     <td align="right">358</td>
     <td><a href="mailto:lim_xue_mei_joanne@moe.edu.sg">lim_xue_mei_joanne@moe.edu.sg</a></td>
   </tr>
-
+<tr>
+    <td>3_Graciousness</td>
+    <td>Mdm Rosna</td>
+    <td align="right">305</td>
+    <td><a href="mailto:rosna_bte_hussein@moe.edu.sg">rosna_bte_hussein@moe.edu.sg</a></td>
+  </tr>
   <tr>
     <td>3_Graciousness</td>
     <td>Ms Tan Cui Fen Sandra</td>
@@ -295,7 +306,7 @@ description: ""
   <tr>
     <td>5_Adaptability</td>
     <td>Mdm Mazlinah Juhari</td>
-    <td align="right">327</td>
+    <td align="right">337</td>
     <td><a href="mailto:Mazlinah_Juhari_A@moe.edu.sg">Mazlinah_Juhari_A@moe.edu.sg</a></td>
   </tr>
     <tr>
