@@ -167,12 +167,6 @@ description: ""
   </tr>
   <tr>
     <td>2_Respect</td>
-    <td>Mrs Samantha Er</td>
-    <td align="right">322</td>
-    <td><a href="mailto:ong_yen_ting_samantha@moe.edu.sg">ong_yen_ting_samantha@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>2_Respect</td>
     <td>Mrs Yvonne Kwan</td>
     <td align="right">313</td>
     <td><a href="mailto:yvonne_tan_bee_leng@moe.edu.sg">yvonne_tan_bee_leng@moe.edu.sg</a></td>
@@ -447,6 +441,24 @@ description: ""
     <td>Ms Daphne Ng</td>
     <td align="right">310</td>
     <td><a href="mailto:ng_sze_yee@moe.edu.sg">ng_sze_yee@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>FAJT</td>
+    <td>Mdm Sim Chor Kiang</td>
+    <td align="right">377</td>
+    <td></td>
+  </tr>
+ <tr>
+    <td>FAJT</td>
+    <td>Mdm Chong Jessie</td>
+    <td align="right">318</td>
+    <td></td>
+  </tr>
+<tr>
+    <td>FAJT</td>
+    <td>Mr Koh James</td>
+    <td align="right">333</td>
+    <td></td>
   </tr>
 <tr>
     <td>&nbsp;</td>
