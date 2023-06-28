@@ -124,13 +124,7 @@ description: ""
   </tr>
 <tr>
       <td colspan="2"><b>LEVEL HEAD (LH) </b></td></tr>
-    <tr>
-       <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/10lhel.jpg"></td>
-      <td>Mrs Mellissa Khoo</td></tr>
-<tr><td><b>LH/English Language (EL)</b></td></tr>
-    <tr>
-      <td><a href="mailto:chan_yu_fang_mellissa@moe.edu.sg">chan_yu_fang_mellissa@moe.edu.sg</a></td>
-    </tr>
+  
  <tr>
        <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/11lhmath.jpg"></td>
       <td>Mrs Wong-Chong Yu Pei</td></tr>
