@@ -177,6 +177,12 @@ description: ""
     <td align="right">313</td>
     <td><a href="mailto:yvonne_tan_bee_leng@moe.edu.sg">yvonne_tan_bee_leng@moe.edu.sg</a></td>
   </tr>
+ <tr>
+    <td>2_Respect</td>
+    <td>Mrs Sangitah</td>
+    <td align="right">365</td>
+    <td><a href="mailto:Sangitah_K_Jayaseelan@moe.edu.sg">Sangitah_K_Jayaseelan@moe.edu.sg</a></td>
+  </tr>
   <tr>
     <td>3_Adaptability</td>
     <td>Mrs Josephine Kek </td>
