@@ -19,3 +19,6 @@ Using the <i>Thinking Routines</i> is one of the approaches used to enhance stud
 
 <font color="#191970">**Artist In School Scheme (Sculpture Making - Cast In Stone)**</font>
 <img style="border:2px solid #0A0B30" src="/images/art004.jpg">
+
+# Music
+Click [here] to view music content
