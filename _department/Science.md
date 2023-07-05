@@ -3,43 +3,37 @@ title: Science
 permalink: /department/science/
 description: ""
 ---
+# Science
 
-# SCIENCE
+<p align="justify">At BTPS, we treat every pupil as an inquirer of Science. Our vision is ‘Curious Minds, Engaged Science Learners’. We believe that all pupils are curious about the world around us. We want to tap into this curiosity and engage them in the meaningful learning of Science. 
+Through our lessons and programmes, we aim to develop our pupils into curious learners with the knowledge and skills to explore and understand the world around them. </p>
 
-In BTPS, we treat that Every Child as an Inquirer of Science around us. Lessons are designed to allow pupils to construct their own understanding on various topics through inquiry and exploration. Hands-on experiments help them to connect concepts to life. Our Scheme of Work also caters for explicit teaching of skills such as Observation, Comparison, Classification, Graphing and Investigation.
 
-**SAM (SCIENCE AROUND ME) JOURNAL**
+<b><u>Through our Science programme, BTPS pupils will: </u></b><p style="justify">
+•	 Construct their own understanding about Science topics.<br>
+•	 Connect scientific concepts to daily living and decision making.<br>
+• 	Demonstrate “Ways of Thinking and Doing in Science” through Investigating, Evaluating, Reasoning and Developing and Evaluating Solutions. <br>
+•	 Develop the character strength of Resilience.</p>
 
-SAM is a personalised journal that allows pupils to make their thinking visible and express themselves in their favourite style. Its main purpose is to actively support each child to take charge of his own learning. Creativity and curiosity are encouraged in the tasks set in SAM. Teachers use the journal to look out for pupils’ understanding and misconceptions.
+<p align="justify">
+Through the SAM journal, our pupils form a deeper understanding of what they learn and develop skills of critical thinking. It is essential that pupils do not become proficient ‘regurgitators’ of information but rather individuals capable of applying, innovating and constructing new knowledge from what they have learnt.</p>
 
-Through the journal, pupils get to:
+<u>**Our Key Programmes**</u>
+<p align="justify">
+SAM JOURNAL (CREATIVE EXPRESSIONS OF LEARNING)
+Journaling allows pupils to make their thinking visible and express themselves in their preferred styles. Through the SAM (Science Around Me) journal, we actively support each child to take charge of their own learning. Journaling tasks can take on different forms, including poster design, investigative experiment, observation record, mind map generation and the application of Thinking Routines (TR).  </p>
 
-- Pose questions
-- Actively look for answers
-- Explain their thinking
-- Reflect on their learning
-- Link what they have learnt to things around them
+<u>**The use of Thinking Routines challenges our pupils to:**</u>
 
-Thinking Routines are also used in the journal to help pupils to help the pupils form a deeper understanding of what they are learning and document their thinking the journal.
+• 	Reflect and pose questions about their learning. <br>
+• 	Actively look for answers in their observations. <br>
+• 	Explain and rationalise their thinking.<br>
+• 	Link their learning to the world around them. <br>
 
-**SCIENCE IN THE LEARNING GARDEN @ BTPS**
+<p align="justify">
+Through the SAM journal, our pupils <b>form a deeper understanding of what they learn and develop skills of critical thinking</b>. It is essential that pupils do not become proficient ‘regurgitators’ of information but rather <b>individuals capable of applying, innovating and constructing new knowledge</b> from what they have learnt.</p>
 
-Pupils observe a large variety of organisms to understand concepts in their life Science lessons – diversity, cycles, reproduction of plants and animals at the Learning Garden @ BTPS. Real-life data is collected for investigations making learning meaningful.
-
-**INTERNET OF THINGS (IOT@BTPS)**
-
-IOT@BTPS aims to bring about authentic, inquiry-based learning with sensors. It involves connecting various sensors and having the data constantly being uploaded onto an online platform for data exchange and sharing. At BTPS, we make use of the authentic data collected from our own sensors as well as those from other schools in Singapore and UK to make our pupils more aware of the environment around them. Through the use of sensors, pupils also get to compare data over a longer period of time and link their learning to life.
-
-**OTHER ACTIVITIES:**
-
-Learning Journey to Science Centre (P3-P6)
-
-**COMPETITIONS**
-
-Raffles Science Olympiad
-
-Singapore Primary Science Olympiad
-
-W1 Young Investigator Challenge
-
-West Zone Junior Science Whiz Challenge
+<table>
+<tbody><tr><td>science 1</td></tr>
+<tr><td>science 2</td></tr>
+</tbody></table>
