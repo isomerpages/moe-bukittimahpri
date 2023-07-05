@@ -14,10 +14,10 @@ Using the <i>Thinking Routines</i> is one of the approaches used to enhance stud
 <font color="#191970"><b>Art<i>Voice</i></b></font>
 <img style="border:2px solid #0A0B30" src="/images/art002.jpg">
 
-<font color="#191970">**Singapore Youth Festival 2023 Art Exhibition**</font>
+<font color="#191970"><b>Singapore Youth Festival 2023 Art Exhibition</b></font>
 <img style="border:2px solid #0A0B30" src="/images/art003.jpg">​
 
-<font color="#191970">**Artist In School Scheme (Sculpture Making - Cast In Stone)**</font>
+<font color="#191970"><b>Artist In School Scheme (Sculpture Making - Cast In Stone)</b></font>
 <img style="border:2px solid #0A0B30" src="/images/art004.jpg">
 
 # Music
