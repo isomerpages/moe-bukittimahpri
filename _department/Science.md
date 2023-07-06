@@ -33,7 +33,8 @@ Journaling allows pupils to make their thinking visible and express themselves i
 <p align="justify">
 Through the SAM journal, our pupils <b>form a deeper understanding of what they learn and develop skills of critical thinking</b>. It is essential that pupils do not become proficient ‘regurgitators’ of information but rather <b>individuals capable of applying, innovating and constructing new knowledge</b> from what they have learnt.</p>
 
-<table>
-<tbody><tr><td>science 1</td></tr>
-<tr><td>science 2</td></tr>
+<table style="width:100%">
+<tbody><tr><td><img style="border:2px solid; #0A0B30; width:200px;" src="/images/sci001.jpeg"></td><td><img style="border:2px solid; #0A0B30; width:200px;" src="/images/sci002.jpg"></td></tr>
+
+<tr><td><img style="border:2px solid; #0A0B30; width:200px;" src="/images/sci003.jpeg"></td><td><img style="border:2px solid; #0A0B30; width:200px;" src="/images/sci004.jpg"></td></tr>
 </tbody></table>
