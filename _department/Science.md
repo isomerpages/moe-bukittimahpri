@@ -9,7 +9,8 @@ description: ""
 Through our lessons and programmes, we aim to develop our pupils into curious learners with the knowledge and skills to explore and understand the world around them. </p>
 
 
-<b><u>Through our Science programme, BTPS pupils will: </u></b><p style="justify">
+<b><u>Through our Science programme, BTPS pupils will: </u></b><br>
+<p align="justify">
 •	 Construct their own understanding about Science topics.<br>
 •	 Connect scientific concepts to daily living and decision making.<br>
 • 	Demonstrate “Ways of Thinking and Doing in Science” through Investigating, Evaluating, Reasoning and Developing and Evaluating Solutions. <br>
