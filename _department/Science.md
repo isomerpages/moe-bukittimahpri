@@ -19,12 +19,12 @@ Through our lessons and programmes, we aim to develop our pupils into curious le
 <p align="justify">
 Through the SAM journal, our pupils form a deeper understanding of what they learn and develop skills of critical thinking. It is essential that pupils do not become proficient ‘regurgitators’ of information but rather individuals capable of applying, innovating and constructing new knowledge from what they have learnt.</p>
 
-<u>**Our Key Programmes**</u>
+<u><b>Our Key Programmes</b></u>
 <p align="justify">
 SAM JOURNAL (CREATIVE EXPRESSIONS OF LEARNING)
 Journaling allows pupils to make their thinking visible and express themselves in their preferred styles. Through the SAM (Science Around Me) journal, we actively support each child to take charge of their own learning. Journaling tasks can take on different forms, including poster design, investigative experiment, observation record, mind map generation and the application of Thinking Routines (TR).  </p>
 
-<u>**The use of Thinking Routines challenges our pupils to:**</u>
+<u><b>The use of Thinking Routines challenges our pupils to:</b></u>
 
 • 	Reflect and pose questions about their learning. <br>
 • 	Actively look for answers in their observations. <br>
