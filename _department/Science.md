@@ -3,43 +3,74 @@ title: Science
 permalink: /department/science/
 description: ""
 ---
+# Science
 
-# SCIENCE
+<p align="justify">At BTPS, we treat every pupil as an inquirer of Science. Our vision is ‘Curious Minds, Engaged Science Learners’. We believe that all pupils are curious about the world around us. We want to tap into this curiosity and engage them in the meaningful learning of Science. 
+Through our lessons and programmes, we aim to develop our pupils into curious learners with the knowledge and skills to explore and understand the world around them. </p>
 
-In BTPS, we treat that Every Child as an Inquirer of Science around us. Lessons are designed to allow pupils to construct their own understanding on various topics through inquiry and exploration. Hands-on experiments help them to connect concepts to life. Our Scheme of Work also caters for explicit teaching of skills such as Observation, Comparison, Classification, Graphing and Investigation.
 
-**SAM (SCIENCE AROUND ME) JOURNAL**
+<b><u>Through our Science programme, BTPS pupils will: </u></b><p style="justify">
+•	 Construct their own understanding about Science topics.<br>
+•	 Connect scientific concepts to daily living and decision making.<br>
+• 	Demonstrate “Ways of Thinking and Doing in Science” through Investigating, Evaluating, Reasoning and Developing and Evaluating Solutions. <br>
+•	 Develop the character strength of Resilience.</p>
 
-SAM is a personalised journal that allows pupils to make their thinking visible and express themselves in their favourite style. Its main purpose is to actively support each child to take charge of his own learning. Creativity and curiosity are encouraged in the tasks set in SAM. Teachers use the journal to look out for pupils’ understanding and misconceptions.
+<p align="justify">
+Through the SAM journal, our pupils form a deeper understanding of what they learn and develop skills of critical thinking. It is essential that pupils do not become proficient ‘regurgitators’ of information but rather individuals capable of applying, innovating and constructing new knowledge from what they have learnt.</p>
 
-Through the journal, pupils get to:
+<u>**Our Key Programmes**</u>
+<p align="justify">
+SAM JOURNAL (CREATIVE EXPRESSIONS OF LEARNING)
+Journaling allows pupils to make their thinking visible and express themselves in their preferred styles. Through the SAM (Science Around Me) journal, we actively support each child to take charge of their own learning. Journaling tasks can take on different forms, including poster design, investigative experiment, observation record, mind map generation and the application of Thinking Routines (TR).  </p>
 
-- Pose questions
-- Actively look for answers
-- Explain their thinking
-- Reflect on their learning
-- Link what they have learnt to things around them
+<u>**The use of Thinking Routines challenges our pupils to:**</u>
 
-Thinking Routines are also used in the journal to help pupils to help the pupils form a deeper understanding of what they are learning and document their thinking the journal.
+• 	Reflect and pose questions about their learning. <br>
+• 	Actively look for answers in their observations. <br>
+• 	Explain and rationalise their thinking.<br>
+• 	Link their learning to the world around them. <br>
 
-**SCIENCE IN THE LEARNING GARDEN @ BTPS**
+<p align="justify">
+Through the SAM journal, our pupils <b>form a deeper understanding of what they learn and develop skills of critical thinking</b>. It is essential that pupils do not become proficient ‘regurgitators’ of information but rather <b>individuals capable of applying, innovating and constructing new knowledge</b> from what they have learnt.</p>
 
-Pupils observe a large variety of organisms to understand concepts in their life Science lessons – diversity, cycles, reproduction of plants and animals at the Learning Garden @ BTPS. Real-life data is collected for investigations making learning meaningful.
+<table>
+<tbody><tr><td><img style="border:2px solid; #0A0B30; width:200px;" src="/images/sci001.png"></td><td><img style="border:2px solid; #0A0B30; width:200px;" src="/images/sci002.png"></td></tr>
 
-**INTERNET OF THINGS (IOT@BTPS)**
+<tr><td><img style="border:2px solid; #0A0B30; width:200px;" src="/images/sci003.png"></td><td><img style="border:2px solid; #0A0B30; width:200px;" src="/images/sci004.png"></td></tr>
+</tbody></table>
+<b>SCIENCE EXPLORATION DAY (ENCOURAGING CURIOSITY AND LOVE OF LEARNING)</b>
 
-IOT@BTPS aims to bring about authentic, inquiry-based learning with sensors. It involves connecting various sensors and having the data constantly being uploaded onto an online platform for data exchange and sharing. At BTPS, we make use of the authentic data collected from our own sensors as well as those from other schools in Singapore and UK to make our pupils more aware of the environment around them. Through the use of sensors, pupils also get to compare data over a longer period of time and link their learning to life.
+<p style="justify">
+Science Exploration Day lets pupils showcase their Science projects or research results. Pupils have the opportunity to apply and explore their understanding of Science. 
+Science teachers guide pupils to align their projects to the practices of good scientific research. Pupils then present their work, strengthening their communication and public speaking skills. This builds up their confidence and develops them as confident practitioners of Science. 
+</p>
+<table>
+<tbody><tr><td><img style="border:2px solid; #0A0B30; width:200px;" src="/images/sci005.jpg"></td><td><img style="border:2px solid; #0A0B30; width:200px;" src="/images/sci006.jpg"></td></tr></tbody></table>
 
-**OTHER ACTIVITIES:**
 
-Learning Journey to Science Centre (P3-P6)
+<b>LEARNING GARDEN @ BTPS (SCIENCE AROUND US)</b>
+<p align="justify">
+The Learning Garden is where pupils can observe a large variety of organisms. Sharp-eyed pupils may be quick to spot butterflies, dragonflies and even the occasional Oriental Garden Lizard on a lucky day. </p>
+<p align="justify">
+The experience of collecting and observing real-life data excites pupils. Teachers make use of the garden to support the understanding of concepts in Life Science lessons – Diversity, Cycles, Reproduction of plants and animals. Observation tasks in the garden makes learning meaningful as students are encouraged to draw connections between knowledge learnt in class and what they experience personally.  </p>
 
-**COMPETITIONS**
+<table>
+<tbody><tr><td><img style="border:2px solid; #0A0B30; width:200px;" src="/images/sci007.jpg"></td><td><img style="border:2px solid; #0A0B30; width:200px;" src="/images/sci008.jpg"></td></tr>
 
-Raffles Science Olympiad
+<tr><td><img style="border:2px solid; #0A0B30; width:200px;" src="/images/sci009.jpg"></td><td><img style="border:2px solid; #0A0B30; width:200px;" src="/images/sci010.jpg"></td></tr>
+</tbody></table>
 
-Singapore Primary Science Olympiad
+<u><b>SUPPORT PROGRAMMES (BUILDING CONFIDENCE)</b></u>
 
-W1 Young Investigator Challenge
+<p align="justify">
+These programmes are customised for pupils who need additional support in the learning of Science. This supports pupils in developing strong conceptual understanding of the various topics, clarifies learning misconceptions and lets them experience success in learning. 
+Activities are scaffolded to aid pupils in the understanding and application of scientific concepts. This is usually carried out in the form of After-School Classes (P4 to 6) or Pull-out lessons.</p>
 
-West Zone Junior Science Whiz Challenge
+COMPETITIONS (STRETCHING POTENTIAL) <br>
+• 	Raffles Science Olympiad <br>
+• 	Singapore Primary Science Olympiad<br>
+• 	West Zone Junior Science Whiz Challenge
+
+<p align="justify">CURIOUS MIND<br>
+ENGAGED SCIENCE LEARNERS <br>
+OUR VISION</p>
