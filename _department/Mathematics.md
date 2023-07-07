@@ -29,9 +29,11 @@ As the lower primary students are in the early stages of learning mathematics, t
  </p>
     
 <strong>**Key Programmes**</strong><br>
-<b>1. Mathematics Journaling – Thinking of Mathematics (TOM)</b><table><tbody><tr><td><img style="border:2px  solid #0A0B30" src="/images/btpsmath5.jpg" width="200"></td><td align="justify">TOM is a learning log for students to record their mathematics thinking and learning. It tracks the development of their thinking process and allows them space to reflect on their learning. It is also a platform for students to develop creative and critical thinking in problem solving, as well as reasoning and communication skills.</td></tr></tbody></table>
+<b>1. Mathematics Journaling – Thinking of Mathematics (TOM)</b>
 <p align="justify">
-</p>
+<table><tbody><tr><td width="150"><img style="border:2px solid #0A0B30" src="/images/btpsmath5.jpg"></td><td align="justify">TOM is a learning log for students to record their mathematics thinking and learning. It tracks the development of their thinking process and allows them space to reflect on their learning. It is also a platform for students to develop creative and critical thinking in problem solving, as well as reasoning and communication skills.</td></tr></tbody></table>
+ </p>
+<p></p>
 <br>
 <b>2. Problem Solving and Heuristics</b>
 <p align="justify">
