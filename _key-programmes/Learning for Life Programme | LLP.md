@@ -28,4 +28,5 @@ School-wide programmes and experiences immerse students in an enhanced musical e
 <table>
 <tbody><tr><td width="300px"><img style="border:2px solid #0A0B30" src="/images/llp001.jpg"></td><td width="300px"><img style="border:2px solid #0A0B30" src="/images/llp002.JPG"></td></tr>
 <tr><td width="300px"><img style="border:2px solid #0A0B30" src="/images/llp003.JPG"></td><td width="300px"><img style="border:2px solid #0A0B30" src="/images/llp004.JPG"></td></tr></tbody></table>
+
 <img src="/images/llppg3.png"></font>
