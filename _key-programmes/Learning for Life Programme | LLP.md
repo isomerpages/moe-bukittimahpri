@@ -27,7 +27,7 @@ With this platform, students and staff perform in the comfort of their own home 
 <b>By-Invitation</b> 
 <p align="justify">The “By-invitation” programme provides opportunities for students to deepen their learning of selected instruments upon invitation by teachers. Ukulele, classical guitar, angklung and Samba percussion are examples of instrumental modules included in this programme. At the end of the programme, students will get to showcase their ensemble musicianship in school concerts. To enhance their interests and develop their passion in the performing arts, students get to go for learning journeys such as the “Day Out @ Esplanade” and “Tour in the Dark”, a programme organised by Ngee Ann Polytechnic. </p>
 <table>
-<tbody><tr><td width="300px"><img src="/images/llp001.jpg"></td><td width="300px"><img height="600" src="/images/llp002.JPG"></td></tr>
+<tbody><tr><td width="300px"><img src="/images/llp001.jpg"></td><td width="300px"><img src="/images/llp002.JPG"></td></tr>
 <tr><td width="300px"><img src="/images/llp003.JPG"></td><td width="300px"><img src="/images/llp004.JPG"></td></tr></tbody></table>
 
 <br><img src="/images/llppg3.png">
