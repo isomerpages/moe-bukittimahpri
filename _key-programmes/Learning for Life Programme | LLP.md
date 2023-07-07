@@ -20,10 +20,10 @@ School-wide programmes and experiences immerse students in an enhanced musical e
 </p>
 <table>
 <tbody><tr><td width="200px"><img src="/images/pamtv1.png"></td><td>
-</td><td align="justify">P.A.M TV provides an authentic platform for students and staff to promote a healthy lifestyle in Physical and Health Education <i><b>(P)</b></i> and showcase their talents in the Aesthetics <i><b>(Art and Music)</b></i>. It also encourages students who are generally quieter and more reserved to come forward to display their talents. In addition, students who are more articulate could support others by being hosts.
-With this platform, students and staff perform in the comfort of their own home or familiar environments. Videos received include artworks, instrumental playing, sports skills and even cooking skills that are beyond the classroom experiences. Parent participation is also encouraged. 
-</td></tr><tr>
-</tr></tbody></table><p></p>
+</td><td align="justify">P.A.M TV provides an authentic platform for students and staff to promote a healthy lifestyle in Physical and Health Education <i><b>(P)</b></i> and showcase their talents in the Aesthetics <i><b>(Art and Music)</b></i>. It also encourages students who are generally quieter and more reserved to come forward to display their talents. In addition, students who are more articulate could support others by being hosts.With this platform, students and staff perform in the comfort of their own home or familiar environments. </td></tr></tbody></table>
+<p align="justify">Videos received include artworks, instrumental playing, sports skills and even cooking skills that are beyond the classroom experiences. Parent participation is also encouraged.</p>
+
+
 <b>By-Invitation</b> 
 <p align="justify">The “By-invitation” programme provides opportunities for students to deepen their learning of selected instruments upon invitation by teachers. Ukulele, classical guitar, angklung and Samba percussion are examples of instrumental modules included in this programme. At the end of the programme, students will get to showcase their ensemble musicianship in school concerts. To enhance their interests and develop their passion in the performing arts, students get to go for learning journeys such as the “Day Out @ Esplanade” and “Tour in the Dark”, a programme organised by Ngee Ann Polytechnic. </p>
 <table>
