@@ -14,17 +14,20 @@ At Bukit Timah Primary School, we believe that music is a universal language tha
 
 <font face="Arial">
 School-wide programmes and experiences immerse students in an enhanced musical environment, which in turn provides various opportunities and platforms for students to explore, identify and showcase their talents. In their six years with BTPS, students will determine their own interests and hopefully decide on an area they would be pursuing as a life-long interest. </font></p>
+<p></p><img style="border:2px solid #0A0B30" src="/images/music-for-everyone2.jpg"><br>
+
 <p align="Justify"><u><b>Key Programmes and Events</b></u>
-<p></p><img style="border:2px solid #0A0B30" src="/images/music-for-everyone2.jpg"><br><br><img src="/images/llppg3.png"><table>
-<tbody><tr><td><img width="50" src="/images/pamtv.png"></td><td>
-</td><td>P.A.M TV provides an authentic platform for students and staff to promote a healthy lifestyle in Physical and Health Education (P) and showcase their talents in the Aesthetics (Art and Music). It also encourages students who are generally quieter and more reserved to come forward to display their talents. In addition, students who are more articulate could support others by being hosts.
+</p>
+<table>
+<tbody><tr><td width="200px"><img src="/images/pamtv1.png"></td><td>
+</td><td align="justify">P.A.M TV provides an authentic platform for students and staff to promote a healthy lifestyle in Physical and Health Education <i><b>(P)</b></i> and showcase their talents in the Aesthetics <i><b>(Art and Music)</b></i>. It also encourages students who are generally quieter and more reserved to come forward to display their talents. In addition, students who are more articulate could support others by being hosts.
 With this platform, students and staff perform in the comfort of their own home or familiar environments. Videos received include artworks, instrumental playing, sports skills and even cooking skills that are beyond the classroom experiences. Parent participation is also encouraged. 
 </td></tr><tr>
+</tr></tbody></table><p></p>
+<b>By-Invitation</b> 
+<p align="justify">The “By-invitation” programme provides opportunities for students to deepen their learning of selected instruments upon invitation by teachers. Ukulele, classical guitar, angklung and Samba percussion are examples of instrumental modules included in this programme. At the end of the programme, students will get to showcase their ensemble musicianship in school concerts. To enhance their interests and develop their passion in the performing arts, students get to go for learning journeys such as the “Day Out @ Esplanade” and “Tour in the Dark”, a programme organised by Ngee Ann Polytechnic. </p>
+<table>
+<tbody><tr><td width="300px"><img src="/images/llp001.jpg"></td><td width="300px"><img src="/images/llp002.jpg"></td></tr>
+<tr><td width="300px"><img src="/images/llp003.jpg"></td><td width="300px"><img src="/images/llp004.jpg"></td></tr></tbody></table>
 
-
-
-
-
-
-
-</tr></tbody></table></p>
+<br><img src="/images/llppg3.png">
