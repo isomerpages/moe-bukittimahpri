@@ -10,7 +10,7 @@ Guided by the principles of <strong><i>“Love, Enjoy, and Think Mathematics”<
 
 <strong><u>Develop the Love for Mathematics</u></strong>
 <table><tbody><tr><td> 
-<img style="border:2px solid #0A0B30" src="/images/btpsmath2.jpeg" width="200"></td><td align="justify">Math lessons for the lower primary students are designed to be fun, practical, and interactive. There are many hands-on activities to help students acquire basic concepts of Mathematics. Engaging mathematics interactive games are also introduced to reinforce their learning.</td></tr></tbody></table>
+<img style="border:2px solid #0A0B30" src="/images/btpsmath2.jpeg" width="200"></td><td>Math lessons for the lower primary students are designed to be fun, practical, and interactive. There are many hands-on activities to help students acquire basic concepts of Mathematics. Engaging mathematics interactive games are also introduced to reinforce their learning.</td></tr></tbody></table>
 
 <p align="justify">
 As the lower primary students are in the early stages of learning mathematics, the lessons are infused with many hands-on activities to keep learning of mathematics fun and practical and at the same time, ensure acquisition of basic concepts. Students are also exposed to mathematics interactive games to reinforce their learning in an engaging manner.</p>
@@ -25,13 +25,13 @@ As the lower primary students are in the early stages of learning mathematics, t
 <p></p>
 <p align="justify">
 <strong><u>Think and Master Mathematics</u> </strong>
-<table><tbody><tr><td><img style="border:2px solid #0A0B30" src="/images/btpsmath4.jpeg"></td><td align="justify">In upper primary, we consolidate and reinforce Students’ learning through complex tasks that require them to investigate, connect, and apply mathematical concepts learnt to solve complicated real-life problems. Opportunities would be provided for students to reflect on their learning and make connections to deepen their understanding of various mathematics ideas.</td></tr></tbody></table>
+<table><tbody><tr><td><img style="border:2px solid #0A0B30" src="/images/btpsmath4.jpeg"></td><td>In upper primary, we consolidate and reinforce Students’ learning through complex tasks that require them to investigate, connect, and apply mathematical concepts learnt to solve complicated real-life problems. Opportunities would be provided for students to reflect on their learning and make connections to deepen their understanding of various mathematics ideas.</td></tr></tbody></table>
  </p>
     
 <strong>**Key Programmes**</strong><br>
 <b>1. Mathematics Journaling – Thinking of Mathematics (TOM)</b>
 <p align="justify">
-<table><tbody><tr><td width="250"><img style="border:2px solid #0A0B30" src="/images/btpsmath5.jpg"></td><td align="justify">TOM is a learning log for students to record their mathematics thinking and learning. It tracks the development of their thinking process and allows them space to reflect on their learning. It is also a platform for students to develop creative and critical thinking in problem solving, as well as reasoning and communication skills.</td></tr></tbody></table>
+<table><tbody><tr><td width="250"><img style="border:2px solid #0A0B30" src="/images/btpsmath5.jpg"></td><td><p align="justify">TOM is a learning log for students to record their mathematics thinking and learning. It tracks the development of their thinking process and allows them space to reflect on their learning. It is also a platform for students to develop creative and critical thinking in problem solving, as well as reasoning and communication skills.</p></td></tr></tbody></table>
  </p>
 <p></p>
 <br>
