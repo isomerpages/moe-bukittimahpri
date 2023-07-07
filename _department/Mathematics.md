@@ -10,7 +10,7 @@ Guided by the principles of <strong><i>“Love, Enjoy, and Think Mathematics”<
 
 <strong><u>Develop the Love for Mathematics</u></strong>
 <table><tbody><tr><td> 
-<img style="border:2px solid #0A0B30" src="/images/btpsmath2.jpeg"></td><td align="justify">Math lessons for the lower primary students are designed to be fun, practical, and interactive. There are many hands-on activities to help students acquire basic concepts of Mathematics. Engaging mathematics interactive games are also introduced to reinforce their learning.</td></tr></tbody></table>
+<img style="border:2px solid #0A0B30" src="/images/btpsmath2.jpeg" width="200"></td><td align="justify">Math lessons for the lower primary students are designed to be fun, practical, and interactive. There are many hands-on activities to help students acquire basic concepts of Mathematics. Engaging mathematics interactive games are also introduced to reinforce their learning.</td></tr></tbody></table>
 
 <p align="justify">
 As the lower primary students are in the early stages of learning mathematics, the lessons are infused with many hands-on activities to keep learning of mathematics fun and practical and at the same time, ensure acquisition of basic concepts. Students are also exposed to mathematics interactive games to reinforce their learning in an engaging manner.</p>
