@@ -18,9 +18,9 @@ School-wide programmes and experiences immerse students in an enhanced musical e
 
 <p align="Justify"><u><b>Key Programmes and Events</b></u>
 </p>
-<table>
-<tbody><tr><td width="200px"><img src="/images/pamtv1.png"></td><td>
-</td><td align="justify"><font face="Arial">P.A.M TV provides an authentic platform for students and staff to promote a healthy lifestyle in Physical and Health Education <i><b>(P)</b></i> and showcase their talents in the Aesthetics <i><b>(Art and Music)</b></i>. It also encourages students who are generally quieter and more reserved to come forward to display their talents. In addition, students who are more articulate could support others by being hosts.With this platform, students and staff perform in the comfort of their own home or familiar environments. </font></td></tr></tbody></table>
+<font face="Arial">
+</font><table><tbody><tr><td width="200px"><img src="/images/pamtv1.png"></td><td>
+</td><td align="justify">P.A.M TV provides an authentic platform for students and staff to promote a healthy lifestyle in Physical and Health Education <i><b>(P)</b></i> and showcase their talents in the Aesthetics <i><b>(Art and Music)</b></i>. It also encourages students who are generally quieter and more reserved to come forward to display their talents. In addition, students who are more articulate could support others by being hosts.With this platform, students and staff perform in the comfort of their own home or familiar environments. </td></tr></tbody></table><font face="Arial">
 <p align="justify"><font face="Arial">Videos received include artworks, instrumental playing, sports skills and even cooking skills that are beyond the classroom experiences. Parent participation is also encouraged.</font></p>
 
 <b>By-Invitation</b> 
@@ -28,4 +28,4 @@ School-wide programmes and experiences immerse students in an enhanced musical e
 <table>
 <tbody><tr><td width="300px"><img style="border:2px solid #0A0B30" src="/images/llp001.jpg"></td><td width="300px"><img style="border:2px solid #0A0B30" src="/images/llp002.JPG"></td></tr>
 <tr><td width="300px"><img style="border:2px solid #0A0B30" src="/images/llp003.JPG"></td><td width="300px"><img style="border:2px solid #0A0B30" src="/images/llp004.JPG"></td></tr></tbody></table>
-<img src="/images/llppg3.png">
+<img src="/images/llppg3.png"></font>
