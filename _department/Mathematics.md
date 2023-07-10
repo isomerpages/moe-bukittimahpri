@@ -53,7 +53,7 @@ Students are given opportunity to experience application of Mathematics concepts
 E2K is a 3-year enrichment programme which aims to engage students in investigations involving advanced Mathematics concepts. The programme is conducted during curriculum hours for selected classes. The selection is based on students’ achievement in Mathematics.</p>
 
 <b>2. Mathematics Olympiad Training Programme (Primary 4 to 6)</b>
-<table><tbody><tr><td width="250"><p align="justify">
+<table><tbody><tr><td width="300"><p align="justify">
 Every year, BTPS organises the Math Olympiad Training Programme to stretch students who have a passion for Mathematics. The programme provides a platform for students to develop problem solving abilities like analytical and creative thinking as they explore beyond the primary curriculum. This programme targeted at Primary 4 to 6 students who are in the top 15%-20% of their cohort.</p></td>
 <td><img style="border:2px solid #0A0B30" src="/images/btpsmath8.jpeg"></td></tr></tbody></table>
 
