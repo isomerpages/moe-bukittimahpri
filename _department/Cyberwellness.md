@@ -3,6 +3,9 @@ title: Cyberwellness
 permalink: /department/cyberwellness/
 description: ""
 ---
-<img width="100%" src="/images/cyberwellness_page_1.png"><br>
-<img width="100%" src="/images/cyberwellness_page_2.png"><br>
-<img width="100%" src="/images/cyberwellness_page_3.png"><br>
+# Cyberwellness
+
+<table><tbody><tr><td></td><td>Our school is guided by the Cyber Wellness Framework to plan and implement a holistic education which is customized to our students’ profile and school environment.
+The three Cyber Wellness Principles anchor a student’s well-being in cyberspace.
+Through Cyber Wellness education in CCE, students learn to be respectful, safe, and responsible users of technology and be a positive peer influence, advocating for the good of the community online.
+</td></tr></tbody></table>
