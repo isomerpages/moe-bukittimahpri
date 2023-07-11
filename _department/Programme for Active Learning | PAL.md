@@ -35,12 +35,14 @@ description: ""
 <td style="border:2px solid #0A0B30">Term 4</td>
 <td style="border:2px solid #0A0B30; text-align: center" colspan="2">Games and Sports</td></tr>
 </tbody></table>
-<img style="border:3px solid #0A0B30" src="/images/picture 4_pa.jpg">
-<p align="justify">
-<strong> <u>Performing Arts – Music and Movement</u></strong> <br>
-Performing Arts in PAL aims to promote the all-rounded development of pupils in Aesthetics. It provides a platform for pupils to learn about World Music Cultures and improvise dance moves they observe from each cultural dance, eventually contributing ideas towards a class performance at the end of the programme. The performance celebrates the pupils’ success in the domain as they contribute to the choreography of the performance. 
-</p>
-<img style="border:3px solid #0A0B30" src="/images/picture 7_pa.jpg">
+<strong> <u>Performing Arts – Music and Movement</u></strong>
+<table><tbody><tr><td width="200"><br><img style="border:3px solid #0A0B30" src="/images/picture 4_pa.jpg"></td><td><p align="justify">
+Performing Arts in PAL aims to promote the all-rounded development of pupils in Aesthetics. It provides a platform for pupils to learn about World Music Cultures and improvise dance moves they observe from each cultural dance, eventually contributing ideas towards a class performance at the end of the programme. 
+</p></td></tr></tbody></table>
+<table><tbody><tr><td><p align="justify">The performance celebrates the pupils’ success in the domain as they contribute to the choreography of the performance.</p> </td><td><img style="border:3px solid #0A0B30" src="/images/picture 7_pa.jpg"></td></tr></tbody></table>
+
+
+
 
 <p align="justify">
 <strong><u>Outdoor Education</u></strong><br>

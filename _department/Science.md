@@ -42,7 +42,7 @@ Through the SAM journal, our pupils <b>form a deeper understanding of what they 
 <b>SCIENCE EXPLORATION DAY (ENCOURAGING CURIOSITY AND LOVE OF LEARNING)</b>
 <table><tbody><tr><td><p align="justify">
 Science Exploration Day lets pupils showcase their Science projects or research results. Pupils have the opportunity to apply and explore their understanding of Science. 
-Science teachers guide pupils to align their projects to the practices of good scientific research.</p></td><td width="200"><img style="border:2px solid; #0A0B30; width:300px;" src="/images/sci006.jpg"></td></tr><tr><td><img style="border:2px solid; #0A0B30; width:300px;" src="/images/sci005.jpg"></td><td><p align="justify">Pupils then present their work, strengthening their communication and public speaking skills. This builds up their confidence and develops them as confident practitioners of Science. </p></td><td></td></tr></tbody></table>
+Science teachers guide pupils to align their projects to the practices of good scientific research.</p></td><td width="200"><img style="border:2px solid; #0A0B30; width:300px;" src="/images/sci006.jpg"></td></tr></tbody></table><table><tbody><tr><td width="250"><img style="border:2px solid; #0A0B30; width:300px;" src="/images/sci005.jpg"></td><td><p align="justify">Pupils then present their work, strengthening their communication and public speaking skills. This builds up their confidence and develops them as confident practitioners of Science. </p></td><td></td></tr></tbody></table>
 
 <b>LEARNING GARDEN @ BTPS (SCIENCE AROUND US)</b>
 <p align="justify">
