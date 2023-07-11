@@ -28,5 +28,7 @@ School-wide programmes and experiences immerse students in an enhanced musical e
 <table>
 <tbody><tr><td width="300px"><img style="border:2px solid #0A0B30" src="/images/llp001.jpg"></td><td width="300px"><img style="border:2px solid #0A0B30" src="/images/llp002.JPG"></td></tr>
 <tr><td width="300px"><img style="border:2px solid #0A0B30" src="/images/llp003.JPG"></td><td width="300px"><img style="border:2px solid #0A0B30" src="/images/llp004.JPG"></td></tr></tbody></table>
+<b>ChaRmz</b>
+<table><tbody><tr><td width="200px"><img style="border:2px solid #0A0B30" src="/images/picture1.jpg"></td><td><p align="justify">An in-house school concert that happens once in every two years, ChaRmz celebrates the young talents in the school’s music programmes and the Visual and Performing Arts CCA groups which include BTPS Brass Symphonia, Choir, Dance-Versity, Drama Club and Art Club. </p></td></tr></tbody></table><table><tbody><tr><td><p align="justify">ChaRmz, provides the performers a platform to express themselves confidently and gives others the opportunity to appreciate the aesthetic beauty of the diverse forms of music and visual arts. It also encourages students to interact and forge friendships with peers through music, dance and art, thus fostering social cohesion. </p></td><td width="300px"><img style="border:2px solid #0A0B30" src="/images/picture2.jpg"></td></tr></tbody></table>
 
 <img src="/images/llppg3.png"></font>
