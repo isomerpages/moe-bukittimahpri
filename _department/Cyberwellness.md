@@ -19,7 +19,7 @@ Through Cyber Wellness education in CCE, students learn to be respectful, safe, 
 <p align="justify">
 Cyber Wellness week is organised annually to heighten awareness and spread Cyber Wellness messages. These messages are promoted through posters, quizzes and hands-on activities.</p></td><td width="300"><img style="border:2px solid #0A0B30" src="/images/cyberwellness002.png"></td></tr></tbody></table>
 <b><u>Assembly Talk</u></b> on Netiquette by TOUCH community and students’ voice on the importance of Cyber Wellness.<br>
-<table><tbody><tr><td width="300"><img src="/images/assemblytalk001.jpg"></td><td><img src="/images/assemblytalk002.png"></td></tr></tbody></table>
+<table><tbody><tr><td width="300"><img style="border:2px solid #0A0B30" src="/images/assemblytalk001.jpg"></td><td><img style="border:2px solid #0A0B30" src="/images/assemblytalk002.png"></td></tr></tbody></table>
 <b><u>Cyber Wellness Workshop</u></b><br>
 <p align="justify">
 Our Cyber Wellness efforts also aim to develop the Exco Peer Support Ambassadors to advocate Cyber Wellness in our school. 
