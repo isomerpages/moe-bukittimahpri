@@ -9,3 +9,8 @@ description: ""
 The three Cyber Wellness Principles anchor a student’s well-being in cyberspace.
 Through Cyber Wellness education in CCE, students learn to be respectful, safe, and responsible users of technology and be a positive peer influence, advocating for the good of the community online.</p>
 </td></tr></tbody></table>
+<table><tbody><tr><td><p align="justify"><u><b>3 Cyber Wellness Key Messages</b></u><br>
+✔ Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities.<br>
+✔ Be a safe and responsible user of technology and maintain a positive online presence.<br>
+✔ Be responsible for personal well-being in the cyberspace.</p>
+</td></tr></tbody></table>
