@@ -3,7 +3,7 @@ title: Programme for Active Learning | PAL
 permalink: /department/programme-for-active-learning/
 description: ""
 ---
-# PROGRAMME FOR ACTIVE LEARNING (PAL)
+# PROGRAMME FOR ACTIVE LEARNING |PAL
 <p align="justify">
 <strong>Programme for Active Learning (PAL)</strong> is one of Primary Education Review and Implementation’s (PERI) recommendations to focus on holistic education and development of life skills. It provides a smooth transition for children from pre-school to primary school. </p>
 
