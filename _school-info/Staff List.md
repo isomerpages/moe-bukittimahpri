@@ -446,19 +446,19 @@ description: ""
     <td>FAJT</td>
     <td>Mdm Sim Chor Kiang</td>
     <td align="right">377</td>
-    <td></td>
+   <td><a href="mailto:sim_chor_kiang_a@moe.edu.sg">sim_chor_kiang_a@moe.edu.sg</a></td>
   </tr>
  <tr>
     <td>FAJT</td>
     <td>Mdm Chong Jessie</td>
     <td align="right">318</td>
-    <td></td>
+    <td><a href="mailto:chong_chew_yoon_jessie@moe.edu.sg">chong_chew_yoon_jessie@moe.edu.sg</a></td>
   </tr>
 <tr>
     <td>FAJT</td>
     <td>Mr Koh James</td>
     <td align="right">333</td>
-    <td></td>
+     <td><a href="mailto:koh_thiam_ming@moe.edu.sg">koh_thiam_ming@moe.edu.sg</a></td>
   </tr>
 <tr>
     <td>&nbsp;</td>
