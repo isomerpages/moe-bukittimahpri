@@ -2,7 +2,6 @@ collections:
   info-for-parents:
     output: true
     order:
-      - Parent Support Group | PSG.md
       - Information for Parents/.keep
       - Information for Parents/Information for Parents.md
       - Information for Parents/2022 WE STORIES.md
@@ -10,6 +9,7 @@ collections:
       - Blended Learning.md
       - Briefing.md
       - Dental Information.md
+      - Parent Support Group | PSG.md
       - Sexuality Education.md
       - School Bus Service.md
       - Others/.keep
