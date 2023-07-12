@@ -11,5 +11,8 @@ Pupils are then given the platform to showcase their works or performances to th
 
 * [BTPS Inspire](https://sites.google.com/moe.edu.sg/btpsinspire2020/btps-inspire-our-journey)
 
+<iframe src="https://www.youtube.com/embed/mTCpIhohUvA" height="315" width="420">
+</iframe>
+
 Click the link below to watch our video!
 * [ BTPS Inspire - One Stronger Singapore](https://youtu.be/mTCpIhohUvA)
