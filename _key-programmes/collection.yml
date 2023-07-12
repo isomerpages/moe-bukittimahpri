@@ -2,10 +2,10 @@ collections:
   key-programmes:
     output: true
     order:
-      - Mother Tongue Language Fortnight | MTLF.md
       - BTPS Inspire.md
       - Eco Charity Day.md
       - IBL TR.md
       - I&E Day.md
       - Learning for Life Programme | LLP.md
+      - Mother Tongue Language Fortnight | MTLF.md
       - Work like a Scientist.md
