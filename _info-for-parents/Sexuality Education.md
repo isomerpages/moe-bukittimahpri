@@ -54,13 +54,15 @@ b.       Character and Citizenship Education (CCE)
 
 **At Bukit Timah Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
-Click [here](/files/2023%20Info%20on%20SEd.pdf) to download the Sexuality Education lessons.
+<img src="/images/btpssed_page_1.jpg">
+<img src="/images/btpssed_page_2.jpg">
+<img src="/images/btpssed_page_3.jpg">
+
 
 
 <strong>INFORMATION FOR PARENTS</strong>
+<p align="justify">8.  Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. </p>
 
-<p>8.  Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. </p>
+<p align="justify">Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The letter and form will be distributed to parents at the start of the year and is also downloadable [here](/files/2023%20SEd%20Letter.pdf). The completed opt-out <a href="https://form.gov.sg/63d22377a65b480011574097">form</a>  is to be submitted by 10 February 2023. </p>
 
-Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The letter and form will be distributed to parents at the start of the year and is also downloadable [here](/files/2023%20SEd%20Letter.pdf). The completed opt-out <a href="https://form.gov.sg/63d22377a65b480011574097">form</a>  is to be submitted by 10 February 2023. 
-
-<p>Parents can contact the school at 6466 2863 (ext. 202) for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
+<p align="justify">Parents can contact the school at 6466 2863 (ext. 202) for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
