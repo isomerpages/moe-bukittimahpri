@@ -1,7 +1,0 @@
-collections:
-  staff:
-    output: true
-    order:
-      - Key Personnel.md
-      - Staff List.md
-      - Staff in Action.md

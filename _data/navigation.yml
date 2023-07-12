@@ -1,7 +1,5 @@
 logo: /images/bukittimahps.png
 links:
-  - title: Staff
-    collection: staff
   - title: School Info
     collection: school-info
   - title: Key Programmes
@@ -10,7 +8,5 @@ links:
     collection: department
   - title: CCA
     collection: cca
-  - title: Partners
-    collection: partners
   - title: Info For Parents
     collection: info-for-parents

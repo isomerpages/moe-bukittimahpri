@@ -1,16 +1,13 @@
 ---
-title: Parent Support Group
-permalink: /partners/parent-support-group/
+title: Parent Support Group | PSG
+permalink: /info-for-parents/permalink/
 description: ""
 ---
-
 # PARENT SUPPORT GROUP
 
-<img src="/images/PSG%201.jpeg" 
-     style="width:65%">
+<img src="/images/PSG%201.jpeg" style="width:65%">
 
-<img src="/images/PSG%202.jpeg" 
-     style="width:65%">
+<img src="/images/PSG%202.jpeg" style="width:65%">
 
 BTPS Parent Support Group is a community of parents who seek to partner the school staff in enriching the school life of BTPS students. We are a group of 240 plus parent volunteers who are actively involved with many projects in the school. Our main objective is to enrich the life of our children by working along with the school and infusing the school’s core ethos into our programs. While actively engaging in many school projects, our vibrant parent volunteers have infused their knowledge and skills and thinking into some of these projects to make them more engaging and stimulating for the children.
 
@@ -67,7 +64,7 @@ Keep up with all the event happenings:
 
 **Join Us!**
 
-There are many opportunities for you to get involved and your participation at any level is immensely appreciated. We are waiting to hear from you. So please drop us a line at  [btps.psg@gmail.com](mailto:btps.psg@gmail.com).
+There are many opportunities for you to get involved and your participation at any level is immensely appreciated. We are waiting to hear from you. So please drop us a line at &nbsp;[btps.psg@gmail.com](mailto:btps.psg@gmail.com).
 
 # FAQ
 
@@ -81,4 +78,4 @@ There are many opportunities for you to get involved and your participation at a
 
 **Q: How do I volunteer? What if I am still not sure of what I can do as volunteer at school?**
 
-**A:** We are just a click away. Email us at  [btps.psg@gmail.com](mailto:btps.psg@gmail.com) now!
+**A:** We are just a click away. Email us at &nbsp;[btps.psg@gmail.com](mailto:btps.psg@gmail.com) now!
