@@ -2,5 +2,4 @@ collections:
   staff:
     output: true
     order:
-      - Staff List.md
       - Staff in Action.md
