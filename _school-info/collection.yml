@@ -2,6 +2,7 @@ collections:
   school-info:
     output: true
     order:
+      - Staff List.md
       - Key Personnel.md
       - Our Vision, Mission and Motto.md
       - Our School Song.md
