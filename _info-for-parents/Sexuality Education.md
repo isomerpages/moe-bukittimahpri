@@ -78,7 +78,37 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </td><td>Term 3 Week 8</td></tr>
 
 </tbody></table>
+<table style="border:2px solid #0A0B30">
+<tbody><tr>
+<td style="border:2px solid #0A0B30" colspan="4"><b><center>2023 SEXUALITY EDUCATION LESSONS<br>PRIMARY 6</center>
+</b> </td></tr>
+<tr>
+<td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>CCE(FTGP) THEME</strong> </td><td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>LESSON TITLE / DURATION</strong>
+</td><td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>LESSON OVERVIEW</strong>
+ </td><td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>TIME PERIOD 
+(e.g. Term 1 Week 2)
+</strong>
+ </td></tr>
+<tr>
+<td style="border:2px solid #0A0B30" rowspan="3">Growing Years
+</td>
+<td style="border:2px solid #0A0B30">Are We More than Friends?
+Lesson 1
+(60 min)
 
+</td>
+<td style="border:2px solid #0A0B30;"><p align="justify">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</p></td><td>Term 3 Week 3</td>
+</tr>
+<tr>
+<td style="border:2px solid #0A0B30;"> Are We More than Friends?
+Lesson 2
+(60 min)
+
+</td>
+<td style="border:2px solid #0A0B30;"><p align="justify">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.
+</p></td>
+<td style="border:2px solid #0A0B30;">Term 3 Week 5</td>
+</tr></tbody></table>
 <img src="/images/btpssed_page_3.jpg">
 
 
