@@ -42,7 +42,7 @@ b.       Character and Citizenship Education (CCE)
 **At Bukit Timah Primary School, the following Sexuality Education lessons will be taught in 2023:**
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
-<td style="border:2px solid #0A0B30" colspan="4"><b><center>2023 SEXUALITY EDUCATION LESSONS<br>PRIMARY 5</center>
+<td style="border:2px solid #0A0B30; text-align: center;" colspan="4"><b>2023 SEXUALITY EDUCATION LESSONS<br>PRIMARY 5
 </b> </td></tr>
 <tr>
 <td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>CCE(FTGP) THEME</strong> </td><td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>LESSON TITLE / DURATION</strong>
@@ -52,35 +52,35 @@ b.       Character and Citizenship Education (CCE)
 </strong>
  </td></tr>
 <tr>
-<td style="border:2px solid #0A0B30" rowspan="3">Growing Years
+<td style="border:2px solid #0A0B30; vertical-align: middle" rowspan="3">Growing Years
 </td>
-<td style="border:2px solid #0A0B30">The Changes in Me
+<td style="border:2px solid #0A0B30; vertical-align: middle">The Changes in Me
 (60 min)
 </td>
 <td style="border:2px solid #0A0B30"><p align="justify">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. 
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p></td><td>Term 3 Week 5</td>
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p></td><td style="border:2px solid #0A0B30; vertical-align: middle">Term 3 Week 5</td>
 </tr>
 <tr>
-<td style="border:2px solid #0A0B30"> Did You Know? 
+<td style="border:2px solid #0A0B30; vertical-align: middle"> Did You Know? 
 (60 min)
 </td>
 <td style="border:2px solid #0A0B30"><p align="justify">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. 
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 </p></td>
-<td style="border:2px solid #0A0B30">Term 3 Week 6</td>
+<td style="border:2px solid #0A0B30; vertical-align: middle">Term 3 Week 6</td>
 </tr>
 <tr>
-<td style="border:2px solid #0A0B30">Keeping Myself Safe
+<td style="border:2px solid #0A0B30; vertical-align: middle">Keeping Myself Safe
 (60 min)
 </td>
 <td style="border:2px solid #0A0B30;"><p align="justify">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
-</td><td>Term 3 Week 8</td></tr>
+</td><td style="border:2px solid #0A0B30; vertical-align: middle">Term 3 Week 8</td></tr>
 
 </tbody></table>
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
-<td style="border:2px solid #0A0B30" colspan="4"><b><center>2023 SEXUALITY EDUCATION LESSONS<br>PRIMARY 6</center>
+<td style="border:2px solid #0A0B30; text-align: center;" colspan="4"><b>2023 SEXUALITY EDUCATION LESSONS<br>PRIMARY 6
 </b> </td></tr>
 <tr>
 <td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>CCE(FTGP) THEME</strong> </td><td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>LESSON TITLE / DURATION</strong>
@@ -90,24 +90,23 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </strong>
  </td></tr>
 <tr>
-<td style="border:2px solid #0A0B30" rowspan="3">Growing Years
+<td style="border:2px solid #0A0B30; vertical-align: middle" rowspan="3">Growing Years
 </td>
-<td style="border:2px solid #0A0B30">Are We More than Friends?
+<td style="border:2px solid #0A0B30; vertical-align: middle">Are We More than Friends?
 Lesson 1
 (60 min)
 
 </td>
-<td style="border:2px solid #0A0B30;"><p align="justify">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</p></td><td>Term 3 Week 3</td>
+<td style="border:2px solid #0A0B30;"><p align="justify">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</p></td><td style="border:2px solid #0A0B30; vertical-align: middle">Term 3 Week 3</td>
 </tr>
 <tr>
-<td style="border:2px solid #0A0B30;"> Are We More than Friends?
+<td style="border:2px solid #0A0B30; vertical-align: middle"> Are We More than Friends?
 Lesson 2
 (60 min)
-
 </td>
 <td style="border:2px solid #0A0B30;"><p align="justify">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.
 </p></td>
-<td style="border:2px solid #0A0B30;">Term 3 Week 5</td>
+<td style="border:2px solid #0A0B30; vertical-align: middle">Term 3 Week 5</td>
 </tr></tbody></table>
 
 <strong>INFORMATION FOR PARENTS</strong>
