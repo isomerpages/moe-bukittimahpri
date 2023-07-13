@@ -45,9 +45,9 @@ b.       Character and Citizenship Education (CCE)
 <td align="center" style="border:2px solid #0A0B30" colspan="4"><b>2023 SEXUALITY EDUCATION LESSONS<br>PRIMARY 5
 </b> </td></tr>
 <tr>
-<td style="border:2px solid #0A0B30"><strong>CCE(FTGP) THEME</strong> </td><td style="border:2px solid #0A0B30"><strong>LESSON TITLE / DURATION</strong>
-</td><td style="border:2px solid #0A0B30"><strong>LESSON OVERVIEW</strong>
- </td><td style="border:2px solid #0A0B30"><strong>TIME PERIOD 
+<td style="border:2px solid #0A0B30; background-color:#ffD700"><strong>CCE(FTGP) THEME</strong> </td><td style="border:2px solid #0A0B30; background-color:#ffD700"><strong>LESSON TITLE / DURATION</strong>
+</td><td style="border:2px solid #0A0B30; background-color:#ffD700"><strong>LESSON OVERVIEW</strong>
+ </td><td style="border:2px solid #0A0B30; background-color:#ffD700"><strong>TIME PERIOD 
 (e.g. Term 1 Week 2)
 </strong>
  </td></tr>
@@ -79,8 +79,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </td><td>Term 3 Week 8</td></tr>
 
 </tbody></table>
-<img src="/images/btpssed_page_1.jpg">
-<img src="/images/btpssed_page_2.jpg">
+
 <img src="/images/btpssed_page_3.jpg">
 
 
