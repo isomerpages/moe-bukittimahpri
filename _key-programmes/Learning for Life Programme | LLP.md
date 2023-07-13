@@ -19,7 +19,7 @@ School-wide programmes and experiences immerse students in an enhanced musical e
 <p align="Justify"><u><b>Key Programmes and Events</b></u>
 </p>
 <font face="Arial">
-</font><table><tbody><tr><td width="300px"><img style="border:2px solid #0A0B30 width:300px;height:360px;" src="/images/pamtv1.png"></td><td>
+</font><table><tbody><tr><td width="300px"><br><br><img style="border:2px solid #0A0B30 width:300px;height:360px;" src="/images/pamtv1.png"></td><td>
 </td><td><p align="justify">P.A.M TV provides an authentic platform for students and staff to promote a healthy lifestyle in Physical and Health Education <i><b>(P)</b></i> and showcase their talents in the Aesthetics <i><b>(Art and Music)</b></i>. It also encourages students who are generally quieter and more reserved to come forward to display their talents. In addition, students who are more articulate could support others by being hosts.With this platform, students and staff perform in the comfort of their own home or familiar environments. Videos received include artworks, instrumental playing, sports skills and even cooking skills that are beyond the classroom experiences. Parent participation is also encouraged.</p></td></tr></tbody></table>
 
 <b>By-Invitation</b> 
@@ -32,5 +32,5 @@ School-wide programmes and experiences immerse students in an enhanced musical e
 <table><tbody><tr><td width="300"><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/picture3.jpg"></td><td width="300"><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/picture4.jpg"></td></tr></tbody></table>
 
 
-<table><tbody><tr><td><p align="justify"><b>Exposure to the Arts </b><br>Students get to experience different art forms at school-wide assembly programmes and through concerts at major school events.</p></td><td width="300"><br><br><img style="border:2px solid #0A0B30;width:300px;height:200px;" src="/images/llparts1.jpeg"></td></tr></tbody></table>
+<table><tbody><tr><td><p align="justify"><b>Exposure to the Arts </b><br>Students get to experience different art forms at school-wide assembly programmes and through concerts at major school events.</p></td><td width="300"><br><br><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/llparts1.jpeg"></td></tr></tbody></table>
 <table><tbody><tr><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/llparts2.jpg"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/llparts3.jpg"></td></tr></tbody></table><table><tbody><tr><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/llparts4.jpeg"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/llparts5.jpg"></td></tr></tbody></table><table><tbody><tr><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/llparts6.jpg"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/llparts7.jpg"></td></tr></tbody></table>
