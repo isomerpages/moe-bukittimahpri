@@ -45,9 +45,9 @@ b.       Character and Citizenship Education (CCE)
 <td align="center" style="border:2px solid #0A0B30" colspan="4"><b>2023 SEXUALITY EDUCATION LESSONS<br>PRIMARY 5
 </b> </td></tr>
 <tr>
-<td style="border:2px solid #0A0B30; background-color:#ffD700"><strong>CCE(FTGP) THEME</strong> </td><td style="border:2px solid #0A0B30; background-color:#ffD700"><strong>LESSON TITLE / DURATION</strong>
-</td><td style="border:2px solid #0A0B30; background-color:#ffD700"><strong>LESSON OVERVIEW</strong>
- </td><td style="border:2px solid #0A0B30; background-color:#ffD700"><strong>TIME PERIOD 
+<td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>CCE(FTGP) THEME</strong> </td><td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>LESSON TITLE / DURATION</strong>
+</td><td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>LESSON OVERVIEW</strong>
+ </td><td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>TIME PERIOD 
 (e.g. Term 1 Week 2)
 </strong>
  </td></tr>
