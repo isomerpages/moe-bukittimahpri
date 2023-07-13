@@ -109,9 +109,6 @@ Lesson 2
 </p></td>
 <td style="border:2px solid #0A0B30;">Term 3 Week 5</td>
 </tr></tbody></table>
-<img src="/images/btpssed_page_3.jpg">
-
-
 
 <strong>INFORMATION FOR PARENTS</strong>
 <p align="justify">8.  Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. </p>
