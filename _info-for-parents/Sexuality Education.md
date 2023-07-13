@@ -77,7 +77,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
 </td><td style="border:2px solid #0A0B30; vertical-align: middle">Term 3 Week 8</td></tr>
 
-</tbody></table>
+</tbody></table><br>
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
 <td style="border:2px solid #0A0B30; text-align: center;" colspan="4"><b>2023 SEXUALITY EDUCATION LESSONS<br>PRIMARY 6
