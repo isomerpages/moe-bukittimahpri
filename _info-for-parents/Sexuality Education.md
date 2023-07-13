@@ -40,7 +40,45 @@ b.       Character and Citizenship Education (CCE)
 <p align="justify">7. 	Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. </p>
 
 **At Bukit Timah Primary School, the following Sexuality Education lessons will be taught in 2023:**
+<table style="border:2px solid #0A0B30">
+<tbody><tr>
+<td align="center" style="border:2px solid #0A0B30" colspan="4"><b>2023 SEXUALITY EDUCATION LESSONS<br>PRIMARY 5
+</b> </td></tr>
+<tr>
+<td style="border:2px solid #0A0B30"><strong>CCE(FTGP) THEME</strong> </td><td style="border:2px solid #0A0B30"><strong>LESSON TITLE / DURATION</strong>
+</td><td style="border:2px solid #0A0B30"><strong>LESSON OVERVIEW</strong>
+ </td><td style="border:2px solid #0A0B30"><strong>TIME PERIOD 
+(e.g. Term 1 Week 2)
+</strong>
+ </td></tr>
+<tr>
+<td style="border:2px solid #0A0B30" rowspan="3">Growing Years
+</td>
+<td style="border:2px solid #0A0B30">The Changes in Me
+(60 min)
+</td>
+<td style="border:2px solid #0A0B30"><p align="justify">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. 
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p></td><td>Term 3 Week 5</td>
+</tr>
+<tr>
+<td style="border:2px solid #0A0B30"> Did You Know? 
+(60 min)
+</td>
+<td style="border:2px solid #0A0B30"><p align="justify">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. 
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+</p>
+</td>
+<td style="border:2px solid #0A0B30">Term 3 Week 6</td>
+</tr>
+<tr>
+<td style="border:2px solid #0A0B30">Keeping Myself Safe
+(60 min)
+</td>
+<td style="border:2px solid #0A0B30;"><p align="justify">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+</td><td>Term 3 Week 8</td></tr>
 
+</tbody></table>
 <img src="/images/btpssed_page_1.jpg">
 <img src="/images/btpssed_page_2.jpg">
 <img src="/images/btpssed_page_3.jpg">
