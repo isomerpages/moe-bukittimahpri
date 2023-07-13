@@ -66,8 +66,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </td>
 <td style="border:2px solid #0A0B30"><p align="justify">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. 
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
-</p>
-</td>
+</p></td>
 <td style="border:2px solid #0A0B30">Term 3 Week 6</td>
 </tr>
 <tr>
