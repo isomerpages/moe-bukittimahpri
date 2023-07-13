@@ -45,9 +45,9 @@ b.       Character and Citizenship Education (CCE)
 <td style="border:2px solid #0A0B30; text-align: center;" colspan="4"><b>2023 SEXUALITY EDUCATION LESSONS<br>PRIMARY 5
 </b> </td></tr>
 <tr>
-<td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>CCE(FTGP) THEME</strong> </td><td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>LESSON TITLE / DURATION</strong>
-</td><td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>LESSON OVERVIEW</strong>
- </td><td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>TIME PERIOD 
+<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center;"><strong>CCE(FTGP) THEME</strong> </td><td style="border:2px solid #0A0B30; background-color:#f3f3f3;text-align: center;"><strong>LESSON TITLE / DURATION</strong>
+</td><td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center;"><strong>LESSON OVERVIEW</strong>
+ </td><td style="border:2px solid #0A0B30; background-color:#f3f3f3;text-align: center;"><strong>TIME PERIOD 
 (e.g. Term 1 Week 2)
 </strong>
  </td></tr>
@@ -83,9 +83,9 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <td style="border:2px solid #0A0B30; text-align: center;" colspan="4"><b>2023 SEXUALITY EDUCATION LESSONS<br>PRIMARY 6
 </b> </td></tr>
 <tr>
-<td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>CCE(FTGP) THEME</strong> </td><td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>LESSON TITLE / DURATION</strong>
-</td><td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>LESSON OVERVIEW</strong>
- </td><td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>TIME PERIOD 
+<td style="border:2px solid #0A0B30; background-color:#f3f3f3;text-align: center;"><strong>CCE(FTGP) THEME</strong> </td><td style="border:2px solid #0A0B30; background-color:#f3f3f3;text-align: center;"><strong>LESSON TITLE / DURATION</strong>
+</td><td style="border:2px solid #0A0B30; background-color:#f3f3f3;text-align: center;"><strong>LESSON OVERVIEW</strong>
+ </td><td style="border:2px solid #0A0B30; background-color:#f3f3f3;text-align: center;"><strong>TIME PERIOD 
 (e.g. Term 1 Week 2)
 </strong>
  </td></tr>
