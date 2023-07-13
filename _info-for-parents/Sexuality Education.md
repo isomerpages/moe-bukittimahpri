@@ -42,7 +42,7 @@ b.       Character and Citizenship Education (CCE)
 **At Bukit Timah Primary School, the following Sexuality Education lessons will be taught in 2023:**
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
-<td align="center" style="border:2px solid #0A0B30" colspan="4"><b>2023 SEXUALITY EDUCATION LESSONS<br>PRIMARY 5
+<td style="border:2px solid #0A0B30" colspan="4"><b><center>2023 SEXUALITY EDUCATION LESSONS<br>PRIMARY 5</center>
 </b> </td></tr>
 <tr>
 <td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>CCE(FTGP) THEME</strong> </td><td style="border:2px solid #0A0B30; background-color:#f3f3f3"><strong>LESSON TITLE / DURATION</strong>
