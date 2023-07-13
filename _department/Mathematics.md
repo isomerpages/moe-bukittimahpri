@@ -9,24 +9,24 @@ description: ""
 Guided by the principles of <strong><i>“Love, Enjoy, and Think Mathematics”</i></strong>, our students are engaged through holistic mathematics programmes which nurture, promote, and sharpen conceptual understanding, skill proficiencies and thinking skills across a meaningful and enriching 6-year learning journey.</p>
 
 <strong><u>Develop the Love for Mathematics</u></strong>
-<table><tbody><tr><td> 
-<img style="border:2px solid #0A0B30" src="/images/btpsmath2.jpeg" width="200"></td><td><p align="justify">Math lessons for the lower primary students are designed to be fun, practical, and interactive. There are many hands-on activities to help students acquire basic concepts of Mathematics. </p></td></tr></tbody></table>
+<table><tbody><tr><td width="300">
+<img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/btpsmath2.jpeg"></td><td><p align="justify">Math lessons for the lower primary students are designed to be fun, practical, and interactive. There are many hands-on activities to help students acquire basic concepts of Mathematics. </p></td></tr></tbody></table>
 <p align="justify">Engaging mathematics interactive games are also introduced to reinforce their learning. As the lower primary students are in the early stages of learning mathematics, the lessons are infused with many hands-on activities to keep learning of mathematics fun and practical and at the same time, ensure acquisition of basic concepts. Students are also exposed to mathematics interactive games to reinforce their learning in an engaging manner.</p>
 
 <strong><u>Enjoy and Understand Mathematics Logically</u></strong>
-<table><tbody><tr><td><img style="border:2px solid #0A0B30" src="/images/btpsmath3.jpeg" width="45%"></td>
+<table><tbody><tr><td width="200"><br><img style="border:2px solid #0A0B30; width:200px;height:260px;" src="/images/btpsmath3.jpeg"></td>
 <td><p align="justify">In middle primary, the focus is on deepening the students’ conceptual knowledge and applying them in their daily lives. This is achieved through presenting students with both standard curriculum topics and challenging real-world math problems to encourage higher-order thinking skills. </p></td></tr></tbody></table>
 <p align="justify">
 As the lower primary students are in the early stages of learning mathematics, the lessons are infused with many hands-on activities to keep learning of mathematics fun and practical and at the same time, ensure acquisition of basic concepts. Students are also exposed to mathematics interactive games to reinforce their learning in an engaging manner.
  </p>
 <strong><u>Think and Master Mathematics</u> </strong>
-<table><tbody><tr><td><img style="border:2px solid #0A0B30" src="/images/btpsmath4.jpeg"></td><td><p align="justify">In upper primary, we consolidate and reinforce Students’ learning through complex tasks that require them to investigate, connect, and apply mathematical concepts learnt to solve complicated real-life problems. Opportunities would be provided for students to reflect on their learning and make connections to deepen their understanding of various mathematics ideas.</p></td></tr></tbody></table>
+<table><tbody><tr><td width="200"><br><img style="border:2px solid #0A0B30; width:200px;height:260px;" src="/images/btpsmath4.jpeg"></td><td><p align="justify">In upper primary, we consolidate and reinforce Students’ learning through complex tasks that require them to investigate, connect, and apply mathematical concepts learnt to solve complicated real-life problems. Opportunities would be provided for students to reflect on their learning and make connections to deepen their understanding of various mathematics ideas.</p></td></tr></tbody></table>
 
     
 <strong>**Key Programmes**</strong><br>
 <b>1. Mathematics Journaling – Thinking of Mathematics (TOM)</b>
 <p align="justify">
-<table><tbody><tr><td width="250"><img style="border:2px solid #0A0B30" src="/images/btpsmath5.jpg"></td><td><p align="justify">TOM is a learning log for students to record their mathematics thinking and learning. It tracks the development of their thinking process and allows them space to reflect on their learning. It is also a platform for students to develop creative and critical thinking in problem solving, as well as reasoning and communication skills.</p></td></tr></tbody></table>
+<table><tbody><tr><td width="300"><img style="border:2px solid #0A0B30; width:300px;height:400px;" src="/images/btpsmath5.jpg"></td><td><p align="justify">TOM is a learning log for students to record their mathematics thinking and learning. It tracks the development of their thinking process and allows them space to reflect on their learning. It is also a platform for students to develop creative and critical thinking in problem solving, as well as reasoning and communication skills.</p></td></tr></tbody></table>
  </p>
 <p></p>
 <br>
@@ -38,7 +38,7 @@ Heuristics and methods of problem solving are taught to students to sharpen thei
 <table><tbody><tr><td width="200">
 <p align="justify">
 Students are given opportunity to experience application of Mathematics concepts and skills through experiential and realistic learning at Mathematics stations around the school. Through this programme, students can better relate mathematics to real life and work collaboratively to solve problems together.</p></td>
-<td width="250"><img style="border:2px solid #0A0B30" src="/images/btpsmath7.jpeg"></td></tr></tbody></table>
+<td width="300"><img style="border:2px solid #0A0B30; width:300px;height:400px;" src="/images/btpsmath7.jpeg"></td></tr></tbody></table>
 <br>
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
@@ -55,7 +55,7 @@ E2K is a 3-year enrichment programme which aims to engage students in investigat
 <b>2. Mathematics Olympiad Training Programme (Primary 4 to 6)</b>
 <table><tbody><tr><td><p align="justify">
 Every year, BTPS organises the Math Olympiad Training Programme to stretch students who have a passion for Mathematics. The programme provides a platform for students to develop problem solving abilities like analytical and creative thinking as they explore beyond the primary curriculum. This programme targeted at Primary 4 to 6 students who are in the top 15%-20% of their cohort.</p></td>
-<td width="300"><img style="border:2px solid #0A0B30" src="/images/btpsmath8.jpeg"></td></tr></tbody></table>
+<td width="300"><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/btpsmath8.jpeg"></td></tr></tbody></table>
 
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
