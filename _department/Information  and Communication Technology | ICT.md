@@ -59,14 +59,14 @@ Garage Band
 Create a presentation with text and Graphics  
 </td>
 <td style="border:2px solid #0A0B30;vertical-align: middle"><p align="justify">P3</p></td>
-<td style="border:2px solid #0A0B30;"><p align="justify">✓	Basic use of PowerPoint <br>
+<td style="border:2px solid #0A0B30;"><p align="justify">✓	Basic use of PowerPoint <br><br>
 ✓	Touch-typing lessons – Tamil fonts
 </p></td>
 </tr>
 <tr>
 <td style="border:2px solid #0A0B30; vertical-align: middle">P4<br> </td>
-<td style="border:2px solid #0A0B30;"><p align="justify">✓	Introduction to Google Apps<br>
-✓	Intermediate use of MS Word &amp; PowerPoint<br>
+<td style="border:2px solid #0A0B30;"><p align="justify">✓	Introduction to Google Apps<br><br>
+✓	Intermediate use of MS Word &amp; PowerPoint<br><br>
 ✓	Touch-typing lessons – Tamil fonts 
 </p></td>
 </tr>
@@ -75,13 +75,13 @@ Create a presentation with text and Graphics
 Learning with Multimedia, communication tools, data collection tools  and Spreadsheet
 <br><br><br></td>
 <td style="border:2px solid #0A0B30;vertical-align: middle"><p align="justify">P5</p></td>
-<td style="border:2px solid #0A0B30; vertical-align: middle">✓ Sending emails with attachment (MS Word)<br>
-✓ Advanced use of MS Word &amp; PowerPoint<br>
+<td style="border:2px solid #0A0B30; vertical-align: middle">✓ Sending emails with attachment (MS Word)<br><br>
+✓ Advanced use of MS Word &amp; PowerPoint<br><br>
 ✓ Use of Excel spreadsheet</td></tr>
 <tr>
 <td style="border:2px solid #0A0B30; vertical-align: middle">P6<br> </td>
-<td style="border:2px solid #0A0B30;"><p align="justify">✓	Advanced use of Google Apps<br>
-✓	Intermediate use of MS Word &amp; PowerPoint<br>
+<td style="border:2px solid #0A0B30;"><p align="justify">✓	Advanced use of Google Apps<br><br>
+✓	Intermediate use of MS Word &amp; PowerPoint<br><br>
 ✓	Code for Fun
 </p></td>
 </tr>
