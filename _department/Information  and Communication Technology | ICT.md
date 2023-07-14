@@ -18,7 +18,7 @@ Our ICT programmes across P1 to P6 aims to equip every student with the fundamen
 1. Acquire and apply technical skills to create digital content<br>
 2. Demonstrate 21st CC through self-directed and collaborative learning!<br>
 3. Develop computational thinking and problem-solving skills
-<img src="/images/ict-baseline-skills.png">
+
 <table style="border:2px solid #0A0B30">
 <tbody>
 <tr>
