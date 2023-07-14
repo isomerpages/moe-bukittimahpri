@@ -58,7 +58,7 @@ Garage Band
 <td style="border:2px solid #0A0B30; vertical-align: middle" rowspan="2">Level 2:<br> 
 Create a presentation with text and Graphics  
 </td>
-<td style="border:2px solid #0A0B30;"><p align="justify">P3</p></td>
+<td style="border:2px solid #0A0B30;vertical-align: middle"><p align="justify">P3</p></td>
 <td style="border:2px solid #0A0B30;"><p align="justify">✓	Basic use of PowerPoint <br>
 ✓	Touch-typing lessons – Tamil fonts
 </p></td>
