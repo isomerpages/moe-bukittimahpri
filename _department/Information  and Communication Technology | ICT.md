@@ -70,6 +70,21 @@ Create a presentation with text and Graphics
 ✓	Touch-typing lessons – Tamil fonts 
 </p></td>
 </tr>
+<tr>
+<td style="border:2px solid #0A0B30; vertical-align: middle" rowspan="2"> <b>Level 3:</b><br><br>
+Learning with Multimedia, communication tools, data collection tools  and Spreadsheet
+<br><br><br></td>
+<td style="border:2px solid #0A0B30;vertical-align: middle"><p align="justify">P5</p></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle">✓ Sending emails with attachment (MS Word)<br>
+✓ Advanced use of MS Word &amp; PowerPoint<br>
+✓ Use of Excel spreadsheet</td></tr>
+<tr>
+<td style="border:2px solid #0A0B30; vertical-align: middle">P6<br> </td>
+<td style="border:2px solid #0A0B30;"><p align="justify">✓	Advanced use of Google Apps<br>
+✓	Intermediate use of MS Word &amp; PowerPoint<br>
+✓	Code for Fun
+</p></td>
+</tr>
 </tbody></table><br>
 <p align="justify">
 <u><strong>Info-comm CCA</strong></u><br>
