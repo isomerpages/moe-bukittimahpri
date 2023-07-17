@@ -4,13 +4,11 @@ permalink: /department/CCE/ne-and-ss/
 description: ""
 third_nav_title: CCE
 ---
-
 # NATIONAL EDUCATION
 
 <center><em>Forging a national identity through shared experiences</em></center>
 
-<img src="/images/Head.jpeg" 
-     style="width:30%">
+<img src="/images/Head.jpeg" style="width:30%">
 
 National Education (NE) is about engaging the hearts and minds of pupils in developing a shared sense of identity. Through core NE commemorative days and programmes pupils develop a sense of belonging and commitment to the school, community, nation and world.
 
@@ -25,7 +23,7 @@ National Education (NE) is about engaging the hearts and minds of pupils in deve
 | Primary 5 and Primary 6 | Integrity    | We must uphold meritocracy and incorruptibility. <br><br><em>We have the <strong>integrity</strong> to uphold meritocracy and incorruptibility, and provide opportunities for all, according to their ability and effort.</em> |
 |                         | Resilience   | We have confidence in our future. <br><br><em>United, determined and well-prepared, we have what it takes- the <strong>resilience</strong> to build a bright future for ourselves and to progress together as one nation.</em> |
 
-**NE CORE EVENTS & FESTIVALS**
+**NE CORE EVENTS &amp; FESTIVALS**
 
 - Chinese New Year
 - Total Defence DaFriendship Day
@@ -57,8 +55,6 @@ International Friendship Day is a highly anticipated annual event for staff and 
 
 Drawing upon the richness of nationalities in our school population, our Parent Support Group (PSG) has been instrumental in putting up elaborate exhibitions and performances; and has engaged the pupils in appreciating the cultures of their fellow schoolmates through games and activities. It is noteworthy that in the past few years, we have featured many countries such as Indonesia, India, Canada, Holland, Germany, Spain, Sri Lanka, Taiwan, Korea, Australia and etc. in our showcase.
 
-[For More Information - Click Here](https://sites.google.com/moe.edu.sg/btpsifd/ifdbtps)
-
 **RACIAL HARMONY DAY (BTPS INSPIRE)**
 
 Schools commemorate Racial Harmony Day on 21st July. On this day in 1964, Singapore saw racial riots. Racial Harmony Day serves to remind our pupils that social division costs us dearly and that race and religion are potential fault-lines in the Singapore society. It is a day for pupils to reflect on, and celebrate our success as a harmonious nation and society built on a rich diversity of cultures and heritages.
@@ -69,7 +65,6 @@ As we value the social fabric that binds all of us together in this multi-racial
 
 National Day marks our emergence as an independent country in the community of nations. Since 1997, NE Show has been organised for the Primary 5 pupils to instill a sense of pride and belonging in students and to bring across the significance of our National Day. The ceremony aims to bring to the pupils a greater sense of the historical importance and solemnity of National Day.
 
-[For More Information - Click Here](https://sites.google.com/moe.edu.sg/btpsinspire2020/btps-inspire-2020)
 
 **SOCIAL STUDIES**
 
@@ -83,3 +78,4 @@ The syllabus is complimented by field-based learning journeys, where pupils are 
 | <strong>Primary 4</strong> | Valuing Our Past                           | How is life in Singapore today shaped by what happened in the past? | National Museum of Singapore                  |
 | <strong>Primary 5</strong> | Appreciating the world                     | How have the legacies of the world impacted our lives today?        | Asian Civilization Museum                     |
 | <strong>Primary 6</strong> | Discovering Southeast Asia                 | How is Southeast Asia important to Singapore?                       | Singapore Botanical Gardens                   |
+</em></strong></strong>
