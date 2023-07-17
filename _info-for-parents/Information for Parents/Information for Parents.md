@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Information for Parents
 ---
 # INFORMATION FOR PARENTS
-[2023 Sem 1 Commz @ BTPS](/files/2023/Commz@BTPS2023_(Sem2).pdf)
+[2023 Sem 2 Commz @ BTPS](/files/2023/Commz@BTPS2023_(Sem2).pdf)
 
 [[2023 School Calendar]](/files/2023/2023%20sem%202%20school%20calendar.pdf)
 
