@@ -47,13 +47,11 @@ Science teachers guide pupils to align their projects to the practices of good s
 <b>LEARNING GARDEN @ BTPS (SCIENCE AROUND US)</b>
 <p align="justify">
 The Learning Garden is where pupils can observe a large variety of organisms. Sharp-eyed pupils may be quick to spot butterflies, dragonflies and even the occasional Oriental Garden Lizard on a lucky day. </p>
-<p align="justify">
-The experience of collecting and observing real-life data excites pupils. Teachers make use of the garden to support the understanding of concepts in Life Science lessons – Diversity, Cycles, Reproduction of plants and animals. Observation tasks in the garden makes learning meaningful as students are encouraged to draw connections between knowledge learnt in class and what they experience personally.  </p>
-
 <table>
-<tbody><tr><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci007.jpg"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci008.jpg"></td></tr>
-
-<tr><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci009.jpg"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci010.jpg"></td></tr>
+<tbody><tr><td width="300"><br><br><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci007.jpg"></td><td><p align="justify">
+The experience of collecting and observing real-life data excites pupils. Teachers make use of the garden to support the understanding of concepts in Life Science lessons – Diversity, Cycles, Reproduction of plants and animals. Observation tasks in the garden makes learning meaningful as students are encouraged to draw connections between knowledge learnt in class and what they experience personally.  </p></td></tr></tbody></table>
+<table>
+<tbody><tr><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci008.jpg"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci009.jpg"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci010.jpg"></td></tr>
 </tbody></table>
 
 <u><b>SUPPORT PROGRAMMES (BUILDING CONFIDENCE)</b></u>
