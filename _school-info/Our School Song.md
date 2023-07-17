@@ -6,5 +6,4 @@ description: ""
 # School Song
 
 <center>
-<iframe src="https://www.youtube.com/embed/https://youtu.be/HsfBS9JlxRQ" height="400" width="500">
-</iframe></center>
+</center>
