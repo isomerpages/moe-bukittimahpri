@@ -9,7 +9,7 @@ description: ""
 
 * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 
-* [Parents Gateway](https://vle.learning.moe.edu.sg/login)<br>
+* [Parents Gateway](/files/Annex%20B.pdf)<br>
 <iframe src="https://www.youtube.com/embed/29H_d-l5H0s" height="415" width="500">
 </iframe>
 
