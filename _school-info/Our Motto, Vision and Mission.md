@@ -23,8 +23,16 @@ A school that fuels the hearts and minds to be future-ready.
 To Enthuse, Engage and Empower in a Learning Community that inculcates sound values and equips individuals to be world-ready citizens.</p>
 
 **OUR VALUES**<br>
-<table>
-<tbody><tr><td>GRACIOUSNESS</td><td>Be Polite Always</td><td><p align="justify">"Graciousness is valuing harmony and good relationships. I also put others before self, even when no one is watching"</p></td></tr></tbody></table>
+<table style="border:2px solid #0A0B30">
+<tbody>
+<tr>
+<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%"><strong>GRACIOUSNESS</strong>
+</td><td style="border:2px solid #0A0B30; text-align: center; width:25%"><strong>Be Polite Always</strong></td><td style="border:2px solid #0A0B30; text-align: center; width:50%"><p align="justify">"Graciousness is valuing harmony and good relationships. I also put others before self, even when no one is watching"</p></td></tr>
+<tr>
+<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%"><strong>RESPECT</strong>
+</td><td style="border:2px solid #0A0B30; text-align: center; width:25%"><strong>Treat Others Well</strong></td><td><p align="justify">"Graciousness is valuing harmony and good relationships. I also put others before self, even when no one is watching"</p></td></tr>
+
+</tbody></table>
  <br><br>
 RESPECT<br>
 RESILIENCE <br>
