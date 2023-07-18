@@ -2,7 +2,7 @@ collections:
   school-info:
     output: true
     order:
-      - Our Vision, Mission and Motto.md
+      - Our Motto, Vision and Mission.md
       - Our School Song.md
       - School History.md
       - BTPS Virtual Tour.md
