@@ -27,11 +27,13 @@ To Enthuse, Engage and Empower in a Learning Community that inculcates sound val
 <tbody>
 <tr>
 <td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%"><strong>GRACIOUSNESS</strong>
-</td><td style="border:2px solid #0A0B30; text-align: center; width:25%"><strong>Be Polite Always</strong></td><td style="border:2px solid #0A0B30; text-align: center; width:50%"><p align="justify">"Graciousness is valuing harmony and good relationships. I also put others before self, even when no one is watching"</p></td></tr>
+</td><td style="border:2px solid #0A0B30; text-align: center; width:25%"><strong>Be Polite Always</strong></td><td style="border:2px solid #0A0B30; text-align: center; width:50%"><p align="justify">"<strong>Graciousness</strong> is valuing harmony and good relationships. I also put others before self, even when no one is watching"</p></td></tr>
 <tr>
 <td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%"><strong>RESPECT</strong>
-</td><td style="border:2px solid #0A0B30; text-align: center; width:25%"><strong>Treat Others Well</strong></td><td><p align="justify">"Graciousness is valuing harmony and good relationships. I also put others before self, even when no one is watching"</p></td></tr>
-
+</td><td style="border:2px solid #0A0B30; text-align: center; width:25%"><strong>Treat Others Well</strong></td><td><p align="justify"><strong>Respect</strong> is believing in my abilities and that of others, and showing good manners at all times.</p></td></tr>
+<tr>
+<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%"><strong>RESILIENCE</strong>
+</td><td style="border:2px solid #0A0B30; text-align: center; width:25%"><strong>Never Give Up</strong></td><td><p align="justify"><strong>Resilience</strong> is the emotional strength to face challenges and overcome them. I am courageous, optimistic, adaptable and resourceful.</p></td></tr>
 </tbody></table>
  <br><br>
 RESPECT<br>
