@@ -24,9 +24,8 @@ To Enthuse, Engage and Empower in a Learning Community that inculcates sound val
 
 **OUR VALUES**<br>
 <table style="border:2px solid #0A0B30">
-<tbody>
-<tr>
-<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center;" width="20%"><strong>GRACIOUSNESS</strong><img src="/images/graciousness.png" width="50px">
+<tbody><tr>
+<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center;" width="20%"><strong>GRACIOUSNESS</strong><img src="/images/graciousness.png">
 </td><td style="border:2px solid #0A0B30; text-align: center;"><strong>Be Polite Always</strong></td><td style="border:2px solid #0A0B30; text-align: center;"><p align="justify">"<strong>Graciousness</strong> is valuing harmony and good relationships. I also put others before self, even when no one is watching"</p></td></tr>
 
 <tr>
