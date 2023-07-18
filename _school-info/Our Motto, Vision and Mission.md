@@ -42,6 +42,6 @@ STRIVE FOR THE BEST
 </td><td style="border:2px solid #0A0B30; text-align: center;"><strong>Care For Others</strong></td><td style="border:2px solid #0A0B30; text-align: center;"><p align="justify"><strong>Compassion</strong> is to sympathise with the suffering of others and take action to better the situation.</p></td></tr>
 <tr>
 <td style="border:2px solid #0A0B30; background-color:#f3f3f3; width:20%; text-align: center;"><strong>INTERGRITY</strong><img src="/images/integrity.png">
-</td><td style="border:2px solid #0A0B30; text-align: center;"><strong>Tell the Truth</strong></td><td style="border:2px solid #0A0B30; text-align: center;"><p align="justify"><strong>Integrity</strong> is being honest and consistent when making responsible choices and actions. I have the moral courage to stand up for what is right</p></td></tr>
+</td><td style="border:2px solid #0A0B30; text-align: center;"><strong>Tell the Truth</strong></td><td style="border:2px solid #0A0B30; text-align: center;"><p align="justify"><strong>Integrity</strong> is being honest and consistent when making responsible choices and actions. I have the moral courage to stand up for what is right.</p></td></tr>
 </tbody></table>
  <br><br>
