@@ -70,15 +70,50 @@ National Day marks our emergence as an independent country in the community of n
 
 The syllabus is complimented by field-based learning journeys, where pupils are engaged in deeper thinking and reflection to understand the challenges faced by Singapore and how these were overcome, and be inspired to bring Singapore to greater heights.
 
+<table style="border:2px solid #0A0B30">
+<tbody>
+<tr>
+<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%"><strong>LEVEL</strong> </td><td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:10%"><strong>Topics</strong>
+</td><td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:40%"><strong>Inquiry Focus</strong>
+</td><td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%"><strong>Field-based Learning
+</strong>
+ </td></tr>
+<tr>
+<td style="border:2px solid #0A0B30; vertical-align: middle;"><b>Primary 1</b></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;">Knowing myself, others and My Surroundings<br></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;"><b>Who am I in relation to the people and places around me?</b></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;">Jacob Ballas Children Gardens<br></td>
+</tr><tr>
+</tr><tr>
+<td style="border:2px solid #0A0B30; vertical-align: middle;"><b>Primary 2</b></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;">Coming together as a Nation<br></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;"><b>What unites us as people of Singapore? </b></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;">National Orchid Garden<br></td>
+</tr><tr>
+</tr><tr>
+<td style="border:2px solid #0A0B30; vertical-align: middle;"><b>Primary 3</b></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;">Understanding Singapore<br></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;"><b>How do we appreciate the country we live in? </b></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;">BTPS - HDB Gallery and NEWater Visitor Centre<br></td>
+</tr><tr>
+</tr><tr>
+<td style="border:2px solid #0A0B30; vertical-align: middle;"><b>Primary 4 </b></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;">Valuing Our Past <br></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;"><b>How is life in Singapore today shaped by what happened in the past? </b></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;">National Museum of Singapore<br></td>
+</tr><tr>
+</tr><tr>
+<td style="border:2px solid #0A0B30; vertical-align: middle;"><b>Primary 5 </b></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;">Appreciating the world <br></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;"><b>How have the legacies of the world impacted our lives today? </b></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;">Asian Civilization Museum<br></td>
+</tr><tr>
+</tr><tr>
+<td style="border:2px solid #0A0B30; vertical-align: middle;"><b>Primary 6 </b></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;">Discovering Southeast Asia<br></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;"><b>How is Southeast Asia important to Singapore? </b></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;">Singapore Botanical Gardens<br></td>
+</tr><tr>
+</tr></tbody></table>
 
-
-
-|                            | Topics                                     | Inquiry Focus Questions                                             | Field-based Learning                          |
-| -------------------------- | ------------------------------------------ | ------------------------------------------------------------------- | --------------------------------------------- |
-| <strong>Primary 1</strong><strong>Primary 2</strong><strong>Primary 3</strong><strong>Primary 4</strong><strong>Primary 5</strong><strong>Primary 6</strong><table><tbody><tr></tr></tbody></table> | Knowing myself, others and My Surroundings | Who am I in relation to the people and places around me?            | Jacob Ballas Children Gardens                 |
-|  | Coming together as a Nation                | What unites us as people of Singapore?                              | National Orchid Garden                        |
-|  | Understanding Singapore                    | How do we appreciate the country we live in?                        | BTPS - HDB Gallery and NEWater Visitor Centre |
-|  | Valuing Our Past                           | How is life in Singapore today shaped by what happened in the past? | National Museum of Singapore                  |
-|  | Appreciating the world                     | How have the legacies of the world impacted our lives today?        | Asian Civilization Museum                     |
-|  | Discovering Southeast Asia                 | How is Southeast Asia important to Singapore?                       | Singapore Botanical Gardens                   |
 </em></strong></strong>
