@@ -13,14 +13,14 @@ The blue background denotes the depth of the oceans and the learning offers. Gol
 <p align="justify">
 The human figure stands for a person robust in mind and body as he balances academic and co-curricular achievements in the course of his education. </p>
 
-**SCHOOL MOTTO**<br>
-STRIVE FOR THE BEST
-
 **OUR VISION**<br>
 A school that fuels the hearts and minds to be future-ready.
 
 **OUR MISSION**<br>
 To Enthuse, Engage and Empower in a Learning Community that inculcates sound values and equips individuals to be world-ready citizens.
+
+**SCHOOL MOTTO**<br>
+STRIVE FOR THE BEST
 
 **OUR VALUES**<br>
 <table style="border:2px solid #0A0B30">
