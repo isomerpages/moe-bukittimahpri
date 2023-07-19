@@ -24,13 +24,13 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a6s9">Peng Yang Transport Pte Ltd</td>
+    <td>Peng Yang Transport Pte Ltd</td>
     <td class="tg-22y8">Sch Bus Services</td>
     <td class="tg-22y8">Mr Tang</td>
     <td class="tg-22y8">91998844</td>
   </tr>
   <tr>
-    <td class="tg-a6s9"><a href="/files/Uniform%20Vendor%20-%20Kah%20Huat.pdf">Kah Huat ( Manufacturer)</a></td>
+    <td>Kah Huat ( Manufacturer)</td>
     <td class="tg-22y8">Sch Uniform</td>
     <td class="tg-22y8">Mr Koh</td>
     <td class="tg-22y8">64796811</td>
