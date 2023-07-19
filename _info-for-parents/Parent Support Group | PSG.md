@@ -45,11 +45,6 @@ Over the past years, we have initiated some of the following interesting program
 - Photographers for school events
 - And many more…
 
-**Photo Gallery**
-
-Check out our snapshots of past events at:
-
-[www.flickr.com/photos/btps-psg/sets](www.flickr.com/photos/btps-psg/sets)
 
 **Facebook**
 
