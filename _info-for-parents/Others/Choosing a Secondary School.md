@@ -9,4 +9,5 @@ third_nav_title: Others
 WE STories is a collection of stories from all the secondary schools in the West Zone.
 
 <img src="/images/p6%20westories1.jpeg" style="width:75%"><br>
-<center>Click [here](https://online.fliphtml5.com/obrr/qkde) to view a collection of stories from our West Zone Secondary Schools.</center>
+
+<center>Click [here](https://online.fliphtml5.com/obrr/qkde)to view a collection of stories from our West Zone Secondary Schools.</center>
