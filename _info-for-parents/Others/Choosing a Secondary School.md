@@ -10,4 +10,4 @@ WE STories is a collection of stories from all the secondary schools in the West
 
 <img src="/images/p6%20westories1.jpeg" style="width:75%"><br>
 
-<center>Click [here](https://online.fliphtml5.com/obrr/qkde)to view a collection of stories from our West Zone Secondary Schools.</center>
+<center>Click<a href="https://online.fliphtml5.com/obrr/qkde"> here  </a>  to view a collection of stories from our West Zone Secondary Schools.</center>
