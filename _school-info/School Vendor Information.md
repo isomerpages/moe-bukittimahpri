@@ -24,13 +24,13 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a6s9"><a href="https://bukittimahpri-moe-edu-sg-admin.cwp.sg/qql/slot/u750/Information%20&amp;%20Download/Vendors%20Information/Bus%20Company%20-%20Peng%20Yang.pdf" target="_blank" rel="noopener noreferrer">Peng Yang Transport PteLtd</a> <br> (File too large)</td>
+    <td class="tg-a6s9"><a href="https://bukittimahpri-moe-edu-sg-admin.cwp.sg/qql/slot/u750/Information%20&amp;%20Download/Vendors%20Information/Bus%20Company%20-%20Peng%20Yang.pdf">Peng Yang Transport PteLtd</a> <br> (File too large)</td>
     <td class="tg-22y8">Sch Bus Services</td>
     <td class="tg-22y8">Mr Tang</td>
     <td class="tg-22y8">91998844</td>
   </tr>
   <tr>
-    <td class="tg-a6s9"><a href="/files/Uniform%20Vendor%20-%20Kah%20Huat.pdf" target="_blank" rel="noopener noreferrer">Kah Huat ( Manufacturer)</a></td>
+    <td class="tg-a6s9"><a href="/files/Uniform%20Vendor%20-%20Kah%20Huat.pdf">Kah Huat ( Manufacturer)</a></td>
     <td class="tg-22y8">Sch Uniform</td>
     <td class="tg-22y8">Mr Koh</td>
     <td class="tg-22y8">64796811</td>
