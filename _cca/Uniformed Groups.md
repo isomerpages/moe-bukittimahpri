@@ -4,7 +4,7 @@ permalink: /cca/uniformed-groups/
 description: ""
 ---
 # Boys’ Brigade 
-<table><tbody><tr><td width="300"><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/bb%20picture%201.jpeg"></td><td width="300"><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/assemblytalk002.png"></td><td width="300"><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/assemblytalk002.png"></td></tr></tbody></table>
+<table><tbody><tr><td width="300"><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/bbpicture1.jpeg"></td><td width="300"><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/assemblytalk002.png"></td><td width="300"><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/assemblytalk002.png"></td></tr></tbody></table>
 
 
 | Uniformed Group |                           Teacher-in-charge                           |   Day    |     Time     | Level / Group |   Venue   | Recruiting level for 2023 |
