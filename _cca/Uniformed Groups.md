@@ -3,7 +3,9 @@ title: Uniformed Groups
 permalink: /cca/uniformed-groups/
 description: ""
 ---
-# UNIFORMED GROUPS
+# Boys’ Brigade 
+
+
 
 | Uniformed Group |                           Teacher-in-charge                           |   Day    |     Time     | Level / Group |   Venue   | Recruiting level for 2023 |
 | :-------------: | :-------------------------------------------------------------------: | :------: | :----------: | :-----------: | :-------: | :------------------------------: |
