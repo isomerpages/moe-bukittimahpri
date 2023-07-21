@@ -4,9 +4,9 @@ permalink: /cca/clubs-and-societies/
 description: ""
 ---
 # Infocomm Club
-
+<p align="justify">
 <u><strong>Info-comm CCA</strong></u><br>
-The Info-Comm Club offers its members an exciting journey into Digital Making and Immersive Media. Under the guidance of its trainers, pupils will gain an understanding on Microsoft Makecode, Microbit, and learn the fundamentals of mobile photography, videography creating podcasts and Augmented Reality (AR) video content.<p></p>
+The Info-Comm Club offers its members an exciting journey into Digital Making and Immersive Media. Under the guidance of its trainers, pupils will gain an understanding on Microsoft Makecode, Microbit, and learn the fundamentals of mobile photography, videography creating podcasts and Augmented Reality (AR) video content.</p>
 
 <p align="justify">
 <u><strong>Competitions</strong></u><br>
