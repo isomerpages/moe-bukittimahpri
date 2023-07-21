@@ -18,4 +18,4 @@ Boys' Brigade   | Ms Peng Yuanzhen <br>Mdm Yap Poh Keng Serene <br>BB Volunteer 
 
 | Uniformed Groups |                           Teacher-in-charge                           |   Day    |        Time        | Level / Group |   Venue   | Recruiting level for 2023|
 | :-------------: | :-------------------------------------------------------------------: | :------: | :----------: | :-----------: | :-------: | :------------------------------: |
-|      Scouts      |       Mr Wang Hao<br>Miss Neo Kai Lin                       | Thursday | 2.00 pm to 4.00 pm |   P3 to P6    | Classroom |             P3 to P5             
+|      Scouts      |       Mr Wang Hao<br>Miss Neo Kai Lin                       | Thursday | 2.00 pm to 4.00 pm |   P3 to P6    | Classroom |             P3 to P5
