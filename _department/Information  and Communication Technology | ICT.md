@@ -113,11 +113,4 @@ The training workshop aim to develop ambassadors who can support their peers in 
 4 Exco Peer Support Ambassadors took part in the inaugural National Cyber Wellness Advocacy Challenge (NCAC) organised by Crescent Girls’ School (CGS). The theme for this year challenge is “Evaluating Online News”. The ambassadors designed a comprehensive Cyber Wellness toolkit for their peers to create awareness on identifying Fake News. </p></td><td align="center" width="300"><img style="border:2px solid #0A0B30" src="/images/cyber01.jpg">Our ambassadors attended the NCAC Training Camp </td></tr></tbody></table>
 <table><tbody><tr><td width="200"><img style="border:2px solid #0A0B30" src="/images/cyber02.jpg"></td><td width="200"><img style="border:2px solid #0A0B30" src="/images/cyber03.jpg"></td><td width="200"><img style="border:2px solid #0A0B30" src="/images/cyber04.jpg"></td></tr><tr><td colspan="3"><p align="center">Our ambassadors engaged in discussions and preparing the Cyber Wellness Toolkit</p></td></tr></tbody></table><img style="border:2px solid #0A0B30" src="/images/cyber06.jpg">
 <p align="justify">
-<u><strong>Info-comm CCA</strong></u><br>
-The Info-Comm Club offers its members an exciting journey into Digital Making and Immersive Media. Under the guidance of its trainers, pupils will gain an understanding on Microsoft Makecode, Microbit, and learn the fundamentals of mobile photography, videography creating podcasts and Augmented Reality (AR) video content.</p>
-
-<p align="justify">
-<u><strong>Competitions</strong></u><br>
-Through the application of computational thinking and design thinking constructs, a team of  pupils learn how to problem solve and use upcycled materials such as cardboard, infused with technology, to create useful artefacts. They participate in the Pei Hwa Hackathon 2023 on the 27 May 2023. They came up with a project on automated plant watering system for people who travel frequently or the elderly with dementia and might forget to water their plants.
-
-Another team of pupils participated in the IDE Code Builder 2023 on 9 May 2023 where they applied their Scratch 3.0 coding skills based on a series of computing-based questions.</p>
+</p>
