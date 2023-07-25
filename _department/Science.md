@@ -19,20 +19,19 @@ Through our lessons and programmes, we aim to develop our pupils into curious le
 Through the SAM journal, our pupils form a deeper understanding of what they learn and develop skills of critical thinking. It is essential that pupils do not become proficient ‘regurgitators’ of information but rather individuals capable of applying, innovating and constructing new knowledge from what they have learnt.</p>
 
 # <u> OUR KEY PROGRAMMES</u>
-<table><tbody><tr><td>SAM JOURNAL (CREATIVE EXPRESSIONS OF LEARNING)</td><td></td></tr>
-<tr><td><p align="justify">
+<table><tbody><tr><td style="border:2px solid #1e1851; background-color:#ef3e6a;">SAM JOURNAL (CREATIVE EXPRESSIONS OF LEARNING)</td></tr>
+<tr><td style="border:2px solid #1e1851;"><p align="justify">
 Journaling allows pupils to make their thinking visible and express themselves in their preferred styles. Through the SAM (Science Around Me) journal, we actively support each child to take charge of their own learning. Journaling tasks can take on different forms, including poster design, investigative experiment, observation record, mind map generation and the application of Thinking Routines (TR).  </p></td></tr></tbody></table>
 
-
-<u><b>The use of Thinking Routines challenges our pupils to:</b></u>
-
+<p align="justify">
+<u><b>The use of Thinking Routines challenges our pupils to:</b></u><br>
 • 	Reflect and pose questions about their learning. <br>
 • 	Actively look for answers in their observations. <br>
 • 	Explain and rationalise their thinking.<br>
-• 	Link their learning to the world around them. <br>
+• 	Link their learning to the world around them. <br></p>
 
 <p align="justify">
-Through the SAM journal, our pupils <b>form a deeper understanding of what they learn and develop skills of critical thinking</b>. It is essential that pupils do not become proficient ‘regurgitators’ of information but rather <b>individuals capable of applying, innovating and constructing new knowledge</b> from what they have learnt.</p>
+Through the SAM journal, our pupils <strong>form a deeper understanding of what they learn and develop skills of critical thinking</strong>. It is essential that pupils do not become proficient ‘regurgitators’ of information but rather <strong>individuals capable of applying, innovating and constructing new knowledge</strong> from what they have learnt.</p>
 
 <table>
 <tbody><tr><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci001.png"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci002.png"></td></tr>
