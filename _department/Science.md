@@ -33,9 +33,9 @@ Journaling allows pupils to make their thinking visible and express themselves i
 <p align="justify">
 Through the SAM journal, our pupils <strong>form a deeper understanding of what they learn and develop skills of critical thinking</strong>. It is essential that pupils do not become proficient ‘regurgitators’ of information but rather <strong>individuals capable of applying, innovating and constructing new knowledge</strong> from what they have learnt.</p>
 <table>
-<tbody><tr><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci001.png"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci002.png"></td></tr>
-
-<tr><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci003.png"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci004.png"></td></tr>
+<tbody><tr><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci001.png"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci002.png"></td></tr></tbody></table>
+<table>
+<tbody><tr><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci003.png"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci004.png"></td></tr>
 </tbody></table>
 <table><tbody><tr><td style="border:2px solid #1e1851; background-color:#7c58a5;"><strong><font color="#ffffff">
 SCIENCE EXPLORATION DAY (ENCOURAGING CURIOSITY AND LOVE OF LEARNING)</font></strong></td></tr></tbody></table>
