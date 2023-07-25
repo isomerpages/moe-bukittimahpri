@@ -67,6 +67,6 @@ COMPETITIONS (STRETCHING POTENTIAL) </strong><br></td></tr></tbody></table>
 • 	Singapore Primary Science Olympiad<br>
 • 	West Zone Junior Science Whiz Challenge
 
-# <p align="justify">CURIOUS MIND<br>
+# CURIOUS MIND<br>
 # Engaged Science Learners <br>
-</p><h3><strong>OUR VISION</strong></h3><p></p>
+<h3><strong>OUR VISION</strong></h3>
