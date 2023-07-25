@@ -3,7 +3,7 @@ title: Our Vision, Mission and Motto
 permalink: /school-info/our-vision-mission-and-motto/
 description: ""
 ---
-**OUR SCHOOL**
+<h2>Our School Crest</h2>
 
 <img src="/images/BTPS_Logo.jpeg" style="width:25%">
 <p align="justify">
@@ -13,16 +13,16 @@ The blue background denotes the depth of the oceans and the learning offers. Gol
 <p align="justify">
 The human figure stands for a person robust in mind and body as he balances academic and co-curricular achievements in the course of his education. </p>
 
-**OUR VISION**<br>
+<h2>Our Vision Statement</h2><br>
 A school that fuels the hearts and minds to be future-ready.
 
-**OUR MISSION**<br>
+<h2>Our Mission Statement</h2> <br>
 To Enthuse, Engage and Empower in a Learning Community that inculcates sound values and equips individuals to be world-ready citizens.
 
-**SCHOOL MOTTO**<br>
-STRIVE FOR THE BEST
+<h2>Our School Motto</h2><br>
+<strong>STRIVE FOR THE BEST</strong>
 
-**OUR VALUES**<br>
+<h2> Our Values</h2><br>
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
 <td style="border:2px solid #0A0B30; background-color:#f3f3f3; width:20%; text-align: center;"><strong>GRACIOUSNESS</strong><img src="/images/graciousness.png">
