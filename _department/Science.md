@@ -69,4 +69,4 @@ COMPETITIONS (STRETCHING POTENTIAL) </strong><br></td></tr></tbody></table>
 
 # <p align="justify">CURIOUS MIND<br>
 # ENGAGED SCIENCE LEARNERS <br>
-<strong>OUR VISION</strong></p>
+</p><h3><strong>OUR VISION</strong></h3><p></p>
