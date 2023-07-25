@@ -13,7 +13,7 @@ Through our lessons and programmes, we aim to develop our pupils into curious le
 •	 Construct their own understanding about Science topics.<br>
 •	 Connect scientific concepts to daily living and decision making.<br>
 • 	Demonstrate “Ways of Thinking and Doing in Science” through Investigating, Evaluating, Reasoning and Developing and Evaluating Solutions. <br>
-•	 Develop the character strength of Resilience.<p></p>
+•	 Develop the character strength of Resilience.
 
 <p align="justify">
 Through the SAM journal, our pupils form a deeper understanding of what they learn and develop skills of critical thinking. It is essential that pupils do not become proficient ‘regurgitators’ of information but rather individuals capable of applying, innovating and constructing new knowledge from what they have learnt.</p>
