@@ -20,7 +20,7 @@ A school that fuels the hearts and minds to be future-ready.
 To Enthuse, Engage and Empower in a Learning Community that inculcates sound values and equips individuals to be world-ready citizens.
 
 <h2>Our School Motto</h2><br>
-STRIVE FOR THE BEST
+<strong>STRIVE FOR THE BEST</strong>
 
 <h2> Our Values</h2><br>
 <table style="border:2px solid #0A0B30">
