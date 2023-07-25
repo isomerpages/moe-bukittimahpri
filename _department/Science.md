@@ -19,7 +19,7 @@ Through our lessons and programmes, we aim to develop our pupils into curious le
 Through the SAM journal, our pupils form a deeper understanding of what they learn and develop skills of critical thinking. It is essential that pupils do not become proficient ‘regurgitators’ of information but rather individuals capable of applying, innovating and constructing new knowledge from what they have learnt.</p>
 
 # <u> OUR KEY PROGRAMMES</u>
-<table><tbody><tr><td style="border:2px solid #1e1851; background-color:#ef3e6a;"><strong><font color="#ffffff">SAM JOURNAL (CREATIVE EXPRESSIONS OF LEARNING)</font></strong></td></tr>
+<table><tbody><tr><td style="background-color:#ef3e6a;"><strong><font color="#ffffff">SAM JOURNAL (CREATIVE EXPRESSIONS OF LEARNING)</font></strong></td></tr>
 <tr><td><p align="justify">
 Journaling allows pupils to make their thinking visible and express themselves in their preferred styles. Through the SAM (Science Around Me) journal, we actively support each child to take charge of their own learning. Journaling tasks can take on different forms, including poster design, investigative experiment, observation record, mind map generation and the application of Thinking Routines (TR).  </p></td></tr></tbody></table>
 
@@ -37,12 +37,12 @@ Through the SAM journal, our pupils <strong>form a deeper understanding of what 
 <table>
 <tbody><tr><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci003.png"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci004.png"></td></tr>
 </tbody></table>
-<table><tbody><tr><td style="border:2px solid #1e1851; background-color:#7c58a5;"><strong><font color="#ffffff">
+<table><tbody><tr><td style="background-color:#7c58a5;"><strong><font color="#ffffff">
 SCIENCE EXPLORATION DAY (ENCOURAGING CURIOSITY AND LOVE OF LEARNING)</font></strong></td></tr></tbody></table>
 <table><tbody><tr><td><p align="justify">
 Science Exploration Day lets pupils showcase their Science projects or research results. Pupils have the opportunity to apply and explore their understanding of Science. 
 Science teachers guide pupils to align their projects to the practices of good scientific research.</p></td><td width="200"><img style="border:2px solid #0A0B30; width:200px;height:260px;" src="/images/sci006.jpg"></td></tr></tbody></table><table><tbody><tr><td width="250"><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci005.jpg"></td><td><p align="justify">Pupils then present their work, strengthening their communication and public speaking skills. This builds up their confidence and develops them as confident practitioners of Science. </p></td><td></td></tr></tbody></table>
-<table><tbody><tr><td style="border:2px solid #1e1851; background-color:#ffeb36;">
+<table><tbody><tr><td style="background-color:#ffeb36;">
 	<strong>LEARNING GARDEN @ BTPS (SCIENCE AROUND US)</strong></td></tr></tbody></table><p align="justify">
 The Learning Garden is where pupils can observe a large variety of organisms. Sharp-eyed pupils may be quick to spot butterflies, dragonflies and even the occasional Oriental Garden Lizard on a lucky day. </p>
 <table>
@@ -52,7 +52,7 @@ The experience of collecting and observing real-life data excites pupils. Teache
 <tbody><tr><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci008.jpg"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci009.jpg"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci010.jpg"></td></tr>
 </tbody></table>
 <table>
-<tbody><tr><td style="border:2px solid #1e1851;background-color:#74cdd7;">
+<tbody><tr><td style="background-color:#74cdd7;">
 <strong>SUPPORT PROGRAMMES (BUILDING CONFIDENCE)</strong></td></tr></tbody></table>
 
 <p align="justify">
@@ -60,7 +60,7 @@ These programmes are customised for pupils who need additional support in the le
 Activities are scaffolded to aid pupils in the understanding and application of scientific concepts. This is usually carried out in the form of After-School Classes (P4 to 6) or Pull-out lessons.</p>
 
 <table>
-<tbody><tr><td style="border:2px solid #1e1851;background-color:#86c659;">
+<tbody><tr><td style="background-color:#86c659;">
 <strong>
 COMPETITIONS (STRETCHING POTENTIAL) </strong><br></td></tr></tbody></table>
 • 	Raffles Science Olympiad <br>
