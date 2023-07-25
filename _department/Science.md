@@ -3,7 +3,7 @@ title: Science
 permalink: /department/science/
 description: ""
 ---
-# Science
+# SCIENCE
 
 <p align="justify">At BTPS, we treat every pupil as an inquirer of Science. Our vision is <strong>‘Curious Minds, Engaged Science Learners’</strong>. We believe that all pupils are curious about the world around us. We want to tap into this curiosity and engage them in the meaningful learning of Science. <br><br>
 Through our lessons and programmes, we aim to develop our pupils into curious learners with the knowledge and skills to explore and understand the world around them. </p>
