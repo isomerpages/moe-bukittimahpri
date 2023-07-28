@@ -3,8 +3,6 @@ title: Mother Tongue
 permalink: /department/mother-tongue/
 description: ""
 ---
-<h1>MOTHER TONGUE DEPARTMENT</h1><br>
-
 <h3><u>Our Vision</u></h3><p align="justify">
 The Mother Tongue Language (MTL) Department strives to develop BTPS students to become confident communicators and active learners of MTL, who are effectively bilingual and rooted in traditional culture.</p>
 
