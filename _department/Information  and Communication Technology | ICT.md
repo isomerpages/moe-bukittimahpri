@@ -97,7 +97,7 @@ Through Cyber Wellness education in CCE, students learn to be respectful, safe, 
 ✔ Be a safe and responsible user of technology and maintain a positive online presence.<br>
 ✔ Be responsible for personal well-being in the cyberspace.<p></p>
 </td></tr></tbody></table><img style="border:2px solid #0A0B30" src="/images/cyberwellness2.png"><br>
-<u><h3>Cyber Wellness Week</h3></u><br>
+<h3><u>Cyber Wellness Week</u></h3><br>
 <table><tbody><tr><td>
 <p align="justify">
 Cyber Wellness week is organised annually to heighten awareness and spread Cyber Wellness messages. These messages are promoted through posters, quizzes and hands-on activities.</p></td><td width="300"><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/cyberwellness002.png"></td></tr></tbody></table>
