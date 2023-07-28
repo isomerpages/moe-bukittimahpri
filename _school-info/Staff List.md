@@ -3,17 +3,13 @@ title: Staff List
 permalink: /staff/staff-list/
 description: ""
 ---
-<title>BTPS ORG CHART</title>
-
-
-
 <table cellspacing="0" cellpadding="0" style="color:#191970;">
   <colgroup><col width="119">
   <col width="300">
   <col width="68">
   <col width="301">
   </colgroup><tbody><tr>
-    <td colspan="4" style="color:#191970;"><b>TEACHING STAFFS</b></td>
+    <td colspan="4" style="color:#191970;"><h2>TEACHING STAFFS<!--/h2--></h2></td>
   </tr>
   <tr>
     <td width="129"><b>CLASS</b></td>
@@ -467,7 +463,7 @@ description: ""
     <td>&nbsp;</td>
   </tr>
 <tr>
-    <td colspan="4"><b>EAS STAFF</b></td>
+    <td colspan="4"><h2>EAS STAFFS</h2></td>
   </tr>
     <tr>
       <td rowspan="4"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm nurhayati bte rahmat.jpeg"></td>

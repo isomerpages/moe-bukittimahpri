@@ -3,7 +3,7 @@ title: Dental Information
 permalink: /info-for-parents/dental-information/
 description: ""
 ---
-**DENTAL INFORMATION**
+<h1>DENTAL INFORMATION</h1>
 
 Dear Parents / Guardians / Pupils,
 
@@ -14,7 +14,7 @@ Bukit Timah Primary School's Dental Clinic will open from 24 March 2023 to Augus
 * Closed on Saturdays, Sundays and Public Holidays.
 * Lunch Time 1.00p.m. to 2.00p.m. 
 
-**You may contact via whatapp message Dental Clinic for more information at 87985043. **
+<h3>You may contact via whatapp message Dental Clinic for more information at 87985043. </h3>
 
 
 Please contact buddy clinics (to ensure dental staff is on duty at nearby schools for dental treatment.&nbsp;

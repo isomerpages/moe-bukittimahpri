@@ -5,7 +5,7 @@ description: ""
 ---
 # Blended Learning
 
-<strong><u>STUDENT LEARNING SPACE (SLS)</u></strong>
+<h3><u>STUDENT LEARNING SPACE (SLS)</u></h3>
 
 The SLS is an online platform with tools and curriculum-aligned resources for all students to learn at their own pace and collaboratively. With the SLS, students can take greater ownership of their learning and pick up skills and habits that prepare them for lifelong learning. Click [ [here] ](/files/2023/Info%20for%20parents/SLS%20ANNEX.pdf) to download the SLS userguide to reset password.
 
@@ -31,7 +31,7 @@ If you have forgotten your password, you could:
 
 <p class="tab">c) School-based Helpdesk at tan_shu_rui@moe.edu.sg or 64662863 <br>Mondays - Fridays: 8.00 a.m. - 4.00 p.m. </p>
 
-<strong><u>Non-School Operating Hours</u></strong>
+<h3><u>Non-School Operating Hours</u></h3>
 
 Outside the school operating hours, students should contact the <strong><u>SLS Helpdesk</u></strong> for support.
 
