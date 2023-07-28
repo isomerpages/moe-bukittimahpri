@@ -14,7 +14,7 @@ Our school’s ICT literacy programme is built on MOE’s standards of new media
 Our ICT programmes across P1 to P6 aims to equip every student with the fundamental ICT skills and literacy to be a future-ready individual and be competent in New Media Literacies to navigate the cyber world safely and effectively. Through the introduction of computational thinking and the infusion of new media literacies into different disciplines, we hope to achieve the following objectives- </p>
 
 
- <strong>Students will be able to:</strong><br>
+ <h3>Students will be able to:</h3><br>
 1. Acquire and apply technical skills to create digital content<br>
 2. Demonstrate 21st CC through self-directed and collaborative learning!<br>
 3. Develop computational thinking and problem-solving skills
@@ -86,29 +86,29 @@ Learning with Multimedia, communication tools, data collection tools  and Spread
 </p></td>
 </tr>
 </tbody></table><br>
-#  Cyberwellness
+<h1>Cyberwellness</h1>
 
 <table><tbody><tr><td width="300"><img src="/images/cyberwellness001.png"></td><td><p align="justify">Our school is guided by the Cyber Wellness Framework to plan and implement a holistic education which is customized to our students’ profile and school environment.
 The three Cyber Wellness Principles anchor a student’s well-being in cyberspace.
 Through Cyber Wellness education in CCE, students learn to be respectful, safe, and responsible users of technology and be a positive peer influence, advocating for the good of the community online.</p>
 </td></tr></tbody></table>
-<table><tbody><tr><td><p align="justify"><u><b>3 Cyber Wellness Key Messages</b></u><br>
+<table><tbody><tr><td><p align="justify"><u></u></p><h3><u>3 Cyber Wellness Key Messages</u></h3><br>
 ✔ Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities.<br>
 ✔ Be a safe and responsible user of technology and maintain a positive online presence.<br>
-✔ Be responsible for personal well-being in the cyberspace.</p>
+✔ Be responsible for personal well-being in the cyberspace.<p></p>
 </td></tr></tbody></table><img style="border:2px solid #0A0B30" src="/images/cyberwellness2.png"><br>
-<u><b>Cyber Wellness Week</b></u><br>
+<u><h3>Cyber Wellness Week</h3></u><br>
 <table><tbody><tr><td>
 <p align="justify">
 Cyber Wellness week is organised annually to heighten awareness and spread Cyber Wellness messages. These messages are promoted through posters, quizzes and hands-on activities.</p></td><td width="300"><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/cyberwellness002.png"></td></tr></tbody></table>
 <b><u>Assembly Talk</u></b> on Netiquette by TOUCH community and students’ voice on the importance of Cyber Wellness.<br>
 <table><tbody><tr><td width="300"><img style="border:2px solid #0A0B30; width:300px;height:360px;" src="/images/assemblytalk001.jpg"></td><td width="300"><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/assemblytalk002.png"></td></tr></tbody></table>
-<b><u>Cyber Wellness Workshop</u></b><br>
+<h3><u>Cyber Wellness Workshop</u></h3><br>
 <p align="justify">
 Our Cyber Wellness efforts also aim to develop the Exco Peer Support Ambassadors to advocate Cyber Wellness in our school. 
 The training workshop aim to develop ambassadors who can support their peers in cyber issues. </p>
 <table><tbody><tr><td><img style="border:2px solid #0A0B30" src="/images/workshop1.jpg"></td><td><img style="border:2px solid #0A0B30" src="/images/workshop2.jpg"></td><td width="300"><img style="border:2px solid #0A0B30" src="/images/workshop3.png"></td></tr></tbody></table>
-<b><u>National 2023 Cyber Wellness Advocacy Challenge (NCAC)  </u></b>
+<h3><u>National 2023 Cyber Wellness Advocacy Challenge (NCAC)  </u></h3>
 <table><tbody><tr><td><p align="justify">
 4 Exco Peer Support Ambassadors took part in the inaugural National Cyber Wellness Advocacy Challenge (NCAC) organised by Crescent Girls’ School (CGS). The theme for this year challenge is “Evaluating Online News”. The ambassadors designed a comprehensive Cyber Wellness toolkit for their peers to create awareness on identifying Fake News. </p></td><td align="center" width="300"><img style="border:2px solid #0A0B30" src="/images/cyber01.jpg">Our ambassadors attended the NCAC Training Camp </td></tr></tbody></table>
 <table><tbody><tr><td width="200"><img style="border:2px solid #0A0B30" src="/images/cyber02.jpg"></td><td width="200"><img style="border:2px solid #0A0B30" src="/images/cyber03.jpg"></td><td width="200"><img style="border:2px solid #0A0B30" src="/images/cyber04.jpg"></td></tr><tr><td colspan="3"><p align="center">Our ambassadors engaged in discussions and preparing the Cyber Wellness Toolkit</p></td></tr></tbody></table><img style="border:2px solid #0A0B30" src="/images/cyber06.jpg">
