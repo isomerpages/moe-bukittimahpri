@@ -28,16 +28,16 @@ We aim to build a strong foundation and nurture the love of Mother Tongue in our
 
 <h3>MTLF Closing 2023</h3>
 <iframe src="https://www.youtube.com/embed/MlVe5N9YPMQ" height="400" width="500">
-</iframe><br>
+</iframe>
 <h3>Parent Child Video Making CL</h3>
 <iframe src="https://www.youtube.com/embed/kRSWvFL7skM" height="400" width="500">
-</iframe><br>
+</iframe>
 <h3>Parent Child Video Making ML</h3>
 <iframe src="https://www.youtube.com/embed/DYwN82f7BQ8" height="400" width="500">
-</iframe><br>
+</iframe>
 <h3>Parent Child Video Making TL</h3>
 <iframe src="https://www.youtube.com/embed/m5pR2UjpHE" height="400" width="500">
-</iframe><br>
+</iframe>
 <h3><u>Learning Journeys</u></h3><p align="justify">
 </p><p align="justify">On 9th May 2023, our Primary Four students visited  SINGAPORE HOKKIEN HUAY KUAN CULTURAL ACADEMY  for a live drama experience  where they were immersed  in a thought-provoking performance put up by a local theatre company. </p>
 <table><tbody><tr><td width="360"><img style="border:2px solid #0A0B30;width:360px;height:200px;" src="/images/p004lj.png"></td><td width="300"><img style="border:2px solid #0A0B30;width:300px;height:200px;" src="/images/lj0002.jpeg"></td></tr><tr><td style="text-align: center" colspan="2"><strong>Primary 4 Learning Journey to Singapore Hokkien Huay Kwan Cultural Academy</strong> </td></tr></tbody></table>
