@@ -463,7 +463,7 @@ description: ""
     <td>&nbsp;</td>
   </tr>
 <tr>
-    <td colspan="4"><h2>EAS STAFF</h2></td>
+    <td colspan="4"><h2>EAS STAFFS</h2></td>
   </tr>
     <tr>
       <td rowspan="4"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm nurhayati bte rahmat.jpeg"></td>
