@@ -38,7 +38,7 @@ We aim to build a strong foundation and nurture the love of Mother Tongue in our
 <iframe src="https://www.youtube.com/embed/DYwN82f7BQ8" height="400" width="500">
 </iframe><br>
 <h3>Parent Child Video Making TL</h3>
-<iframe src="https://www.youtube.com/embed/Im5pR2UjpHE" height="400" width="500">
+<iframe src="https://www.youtube.com/embed/m5pR2UjpHE" height="400" width="500">
 </iframe><br>
 <h3><u>Learning Journeys</u></h3><p align="justify">
 </p><p align="justify">On 9th May 2023, our Primary Four students visited  SINGAPORE HOKKIEN HUAY KUAN CULTURAL ACADEMY  for a live drama experience  where they were immersed  in a thought-provoking performance put up by a local theatre company. </p>
