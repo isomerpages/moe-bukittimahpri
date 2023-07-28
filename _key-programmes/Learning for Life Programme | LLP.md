@@ -33,7 +33,7 @@ School-wide programmes and experiences immerse students in an enhanced musical e
 <table><tbody><tr><td width="300"><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/picture3.jpg"></td><td width="300"><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/picture4.jpg"></td></tr></tbody></table>
 
 <h1>Exposure to the Arts </h1>
-<table><tbody><tr><td width="400"><p align="justify">Students get to experience different art forms at school-wide assembly programmes and through concerts at major school events.</p></td><td></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/llparts1.jpeg"></td></tr></tbody></table>
+<table><tbody><tr><td width="400"><p align="justify"><br>Students get to experience different art forms at school-wide assembly programmes and through concerts at major school events.</p></td><td></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/llparts1.jpeg"></td></tr></tbody></table>
 <table><tbody><tr><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/llparts2.jpg"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/llparts3.jpg"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/llparts4.jpeg"></td></tr></tbody></table>
 <table>
 <tbody><tr><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/llparts5.jpg"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/llparts6.jpg"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/llparts7.jpg"></td></tr></tbody></table>
