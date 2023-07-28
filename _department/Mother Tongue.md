@@ -16,7 +16,7 @@ We believe that every child can learn. The BTPS MT teachers sees every BTPS pupi
 <h2>Key Programmes</h2>
 <h3><u>Reading Programme</u></h3><p align="justify">
 We aim to build a strong foundation and nurture the love of Mother Tongue in our students through reading. Our Reading Programme includes “Visit the Library”, “School Based Reading Activities” and “SLS Reading Mums &amp; Dads”. Every year, students will be introduced to the new books in the school library collection. </p><p></p>
-<table><tbody><tr><td width="200"><img style="border:2px solid #0A0B30;width:200px;height:260px;" src="/images/reading%20programme%201.jpg"></td><td width="200"><img style="border:2px solid #0A0B30;width:200px;height:260px;" src="/images/reading%20programme%202.png"></td><td width="300"><img style="border:2px solid #0A0B30;width:400px;height:260px;" src="/images/reading%20programme%203.jpg"></td></tr><tr><td><strong>Buddy Support Programme</strong> </td><td style="text-align: center" colspan="2"><strong>Introducing new books in the library</strong></td></tr></tbody></table>
+<table><tbody><tr><td width="200"><img style="border:2px solid #0A0B30;width:200px;height:260px;" src="/images/reading%20programme%201.jpg"></td><td width="200"><img style="border:2px solid #0A0B30;width:200px;height:260px;" src="/images/reading%20programme%202.png"></td><td width="300"><img style="border:2px solid #0A0B30;width:400px;height:260px;" src="/images/reading%20programme%203.jpg"></td></tr><tr><td style="text-align: center"><strong>Buddy Support Programme</strong> </td><td style="text-align: center" colspan="2"><strong>Introducing new books in the library</strong></td></tr></tbody></table>
 <p align="jusitfy">“SLS Reading Mums &amp; Dads” is a collaboration between parents and teachers where our supportive Reading Mums and Reading Dads will read Chinese story books to our students online. Teachers will create online activities like Kahoot and Drawing to further stimulate the interest of our students.</p>
 
 <h3><u>World Book Day</u></h3><p align="justify">
@@ -29,11 +29,9 @@ We aim to build a strong foundation and nurture the love of Mother Tongue in our
 <h3>MTLF Closing 2023</h3>
 <iframe src="https://www.youtube.com/embed/MlVe5N9YPMQ" height="400" width="500">
 </iframe><br>
-
 <h3>Parent Child Video Making CL</h3>
 <iframe src="https://www.youtube.com/embed/kRSWvFL7skM" height="400" width="500">
 </iframe><br>
-
 <h3>Parent Child Video Making ML</h3>
 <iframe src="https://www.youtube.com/embed/DYwN82f7BQ8" height="400" width="500">
 </iframe><br>
