@@ -3,6 +3,7 @@ title: Learning for Life Programme | LLP
 permalink: /key-programmes/learning-for-life-programme/
 description: ""
 ---
+
 <style>
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
@@ -11,7 +12,7 @@ description: ""
   }
 }
 </style>
-# LEARNING FOR LIFE PROGRAMME |LLP
+<h1> LEARNING FOR LIFE PROGRAMME |LLP</h1>
 <p align="center" style="font-family:Dreaming OutLoud"><font color="#660033" face="Dreaming OutLoud Pro">
 <b>“Music for Everyone – Building Empathy and Resilience”</b></font></p>
 
