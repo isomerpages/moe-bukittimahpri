@@ -24,7 +24,7 @@ As the lower primary students are in the early stages of learning mathematics, t
 <img style="border:2px solid #0A0B30; width:300px;height:400px;" src="/images/btpsmath4.jpeg">
 <p align="justify">In upper primary, we consolidate and reinforce Students’ learning through complex tasks that require them to investigate, connect, and apply mathematical concepts learnt to solve complicated real-life problems. Opportunities would be provided for students to reflect on their learning and make connections to deepen their understanding of various mathematics ideas.</p>
     
-<i><h2>Key Programmes</h2></i>
+<h2><i>Key Programmes</i></h2>
 <h3>1. Mathematics Journaling – Thinking of Mathematics (TOM)</h3>
 <p align="justify">
 <img style="border:2px solid #0A0B30; width:300px;height:400px;" src="/images/btpsmath5.jpg">
@@ -45,7 +45,7 @@ Students are given opportunity to experience application of Mathematics concepts
 <td>Learning Support for Mathematics (LSM) </td><td style="border:2px solid #0A0B30">Pull-out Lessons
 <br>After-School Classes
  </td></tr></tbody></table>
-<i><h2>Enrichment Programmes</h2></i>
+<h2><i>Enrichment Programmes</i></h2>
 <h3>1. Excellence 2000 (E2K) Programme (Primary 4 to 6)</h3><p align="justify">
 E2K is a 3-year enrichment programme which aims to engage students in investigations involving advanced Mathematics concepts. The programme is conducted during curriculum hours for selected classes. The selection is based on students’ achievement in Mathematics.</p>
 
