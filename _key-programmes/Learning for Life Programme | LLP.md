@@ -3,7 +3,6 @@ title: Learning for Life Programme | LLP
 permalink: /key-programmes/learning-for-life-programme/
 description: ""
 ---
-
 <style>
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
