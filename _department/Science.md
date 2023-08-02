@@ -32,25 +32,18 @@ Journaling allows pupils to make their thinking visible and express themselves i
 
 <p align="justify">
 Through the SAM journal, our pupils <strong>form a deeper understanding of what they learn and develop skills of critical thinking</strong>. It is essential that pupils do not become proficient ‘regurgitators’ of information but rather <strong>individuals capable of applying, innovating and constructing new knowledge</strong> from what they have learnt.</p>
-<table>
-<tbody><tr><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci001.png"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci002.png"></td></tr></tbody></table>
-<table>
-<tbody><tr><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci003.png"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci004.png"></td></tr>
-</tbody></table>
+<img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/sci001.png"><img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/sci002.png"><img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/sci003.png"><img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/sci004.png"><br>
 <table><tbody><tr><td style="background-color:#7c58a5;"><strong><font color="#ffffff">
 SCIENCE EXPLORATION DAY (ENCOURAGING CURIOSITY AND LOVE OF LEARNING)</font></strong></td></tr></tbody></table>
-<table><tbody><tr><td><p align="justify">
+<p align="justify">
 Science Exploration Day lets pupils showcase their Science projects or research results. Pupils have the opportunity to apply and explore their understanding of Science. 
-Science teachers guide pupils to align their projects to the practices of good scientific research.</p></td><td width="200"><img style="border:2px solid #0A0B30; width:200px;height:260px;" src="/images/sci006.jpg"></td></tr></tbody></table><table><tbody><tr><td width="250"><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci005.jpg"></td><td><p align="justify">Pupils then present their work, strengthening their communication and public speaking skills. This builds up their confidence and develops them as confident practitioners of Science. </p></td><td></td></tr></tbody></table>
+Science teachers guide pupils to align their projects to the practices of good scientific research.</p><img style="border:2px solid #0A0B30; width:300px;height:400px;" src="/images/sci006.jpg"><img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/sci005.jpg"><p align="justify">Pupils then present their work, strengthening their communication and public speaking skills. This builds up their confidence and develops them as confident practitioners of Science. </p>
 <table><tbody><tr><td style="background-color:#ffeb36;">
 	<strong>LEARNING GARDEN @ BTPS (SCIENCE AROUND US)</strong></td></tr></tbody></table><p align="justify">
 The Learning Garden is where pupils can observe a large variety of organisms. Sharp-eyed pupils may be quick to spot butterflies, dragonflies and even the occasional Oriental Garden Lizard on a lucky day. </p>
-<table>
-<tbody><tr><td width="300"><br><br><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci007.jpg"></td><td><p align="justify">
-The experience of collecting and observing real-life data excites pupils. Teachers make use of the garden to support the understanding of concepts in Life Science lessons – Diversity, Cycles, Reproduction of plants and animals. Observation tasks in the garden makes learning meaningful as students are encouraged to draw connections between knowledge learnt in class and what they experience personally.  </p></td></tr></tbody></table>
-<table>
-<tbody><tr><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci008.jpg"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci009.jpg"></td><td><img style="border:2px solid #0A0B30; width:300px;height:200px;" src="/images/sci010.jpg"></td></tr>
-</tbody></table>
+<img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/sci007.jpg">
+<p align="justify">
+The experience of collecting and observing real-life data excites pupils. Teachers make use of the garden to support the understanding of concepts in Life Science lessons – Diversity, Cycles, Reproduction of plants and animals. Observation tasks in the garden makes learning meaningful as students are encouraged to draw connections between knowledge learnt in class and what they experience personally.  </p><img style="border:2px solid #0A0B30; width:400px;height:200px;" src="/images/sci008.jpg"><img style="border:2px solid #0A0B30; width:400px;height:200px;" src="/images/sci009.jpg"><img style="border:2px solid #0A0B30; width:400px;height:200px;" src="/images/sci010.jpg"><br>
 <table>
 <tbody><tr><td style="background-color:#74cdd7;">
 <strong>SUPPORT PROGRAMMES (BUILDING CONFIDENCE)</strong></td></tr></tbody></table>
