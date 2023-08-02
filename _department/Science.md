@@ -38,7 +38,9 @@ SCIENCE EXPLORATION DAY (ENCOURAGING CURIOSITY AND LOVE OF LEARNING)</font></str
 <p align="justify">
 Science Exploration Day lets pupils showcase their Science projects or research results. Pupils have the opportunity to apply and explore their understanding of Science. 
 Science teachers guide pupils to align their projects to the practices of good scientific research.</p><img style="border:2px solid #0A0B30; width:300px;height:400px;" src="/images/sci006.jpg"><img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/sci005.jpg"><br>
+
 <p align="justify">Pupils then present their work, strengthening their communication and public speaking skills. This builds up their confidence and develops them as confident practitioners of Science. </p>
+
 <table><tbody><tr><td style="background-color:#ffeb36;">
 	<strong>LEARNING GARDEN @ BTPS (SCIENCE AROUND US)</strong></td></tr></tbody></table><p align="justify">
 The Learning Garden is where pupils can observe a large variety of organisms. Sharp-eyed pupils may be quick to spot butterflies, dragonflies and even the occasional Oriental Garden Lizard on a lucky day. </p>
