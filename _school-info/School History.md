@@ -3,21 +3,18 @@ title: School History
 permalink: /school-info/school-history/
 description: ""
 ---
-<h2>OUR PREVIOUS SCHOOL</h2>
+<h2>School History</h2>
 
 <div style="float: left">
 <img src="/images/1imghistbtbatokpri.gif" style="width:70%">
 </div>
 <p align="justify">
-Bukit Batok Primary School, situated at the junction of Jalan Jurong Kechil and Jurong Road, is an amalgamation of two schools, namely Bukit Batok East and Bukit Batok West Primary Schools. These two schools functioned as separate schools since 1959. However, in 1984, they amalgamated to form the present Bukit Batok Primary School. The school buildings, completed in 1959, comprise two separate three-storey blocks. A new hall-cum-canteen was constructed in 1988. In December 2001, the school relocated to its new premises at Lorong Kismis with a new name "BUKIT TIMAH PRIMARY SCHOOL".</p>
-
-<h2>OUR PRESENT SCHOOL</h2>
+Bukit Batok East Primary School (started 1959) and Bukit Batok West Primary School (started 1960) were merged in 1984 to form Bukit Batok Primary School. In 2001, the school relocated from Jalan Jurong Kechil to Lorong Kismis and was renamed Bukit Timah Primary School to reflect its location. The school badge was redesigned, and the school song lyrics changed but the school motto “Strive for the Best” has been retained to today as it continues to be relevant, exhorting every generation of BTPS students to do their best. </p>
 <p align="justify">
-The school offers Malay, Tamil and Chinese as Mother Tongue Languages.
-As a 7-year old school with a long history dating back to 1959, Bukit Timah Primary School has a staff strength of 80 and a strong pupil population. We have consistently performed above the National Average in achieving Quality Grades (A\* &amp; A) in the PSLE. Besides the achievement in academic area, we have maintained strong partnership links with the Bukit Timah Community and close collaboration with the School Alumnis and Parents.</p>
-
-<h2>OUR CONSTITUENCY FLOWER</h2>
+To mark the official opening of the school in 2003, the school worked closely with the community to create a community symbol – an orchid named Kagawara Bukit Timah which is registered with the Royal Horticultural Society of England. A vibrant orange orchid, the Kagawara Bukit Timah is a hybrid of the Renanthera, Vanda and Ascocentrum species of orchids.</p>
 <p align="justify">
-It is a vigorous, orange orchid called the Kagawara Bukit Timah. The flower measures 7.5cm across and was picked because its striking colour symbolises passion, optimism and cheerfulness. It is a hybrid involving the Renanthera, Vanda and Ascocentrum.</p>
+In 2012, the school celebrated its 10th anniversary with performances at Republic Polytechnic Cultural Centre. The occasion was themed “Dare to Dream”. </p>
 <p align="justify">
-It was specially created for the constituency and is registered with the Royal Horticultural Society of England. This is all thanks to Bukit Timah Primary School, which wanted to create a community symbol, as well as to start its own orchid garden.</p>
+2014 saw the launch of BTPS’s Learning for Life Programme – Music for Everyone: Building Empathy and Resilience. The LLP provides an immersive experience for our students to explore, identify and showcase their musical talents. In 2015, our Applied Learning Programme – Inquiry Based Learning supported by Thinking Routines began. Over the years, it has been integrated into the school instructional programme to support students in developing creative and critical thinking. </p>
+<p align="justify">
+With the celebration of its 20th anniversary in 2022, BTPS looks forward to guiding new generations of students to grow as future and world-ready citizens with sound values.  </p>
