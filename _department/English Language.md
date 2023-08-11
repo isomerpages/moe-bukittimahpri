@@ -13,10 +13,10 @@ description: ""
 <center><img style="border:2px solid #0A0B30;width:300px;height:400px;" src="/images/pic5_life%20of%20a%20vet.JPG"><strong>Life of a Vet</strong><img style="border:2px solid #0A0B30;width:300px;height:400px;" src="/images/pic6_late%20but%20not%20last.jpeg"><img style="border:2px solid #0A0B30;width:400px;height:300px;" src="/images/pic7_mr%20c%20kunalan.jpeg"></center>
 
 <h2>Key Programmes</h2>
-<h3><p align="justify">1.	Journaling – ELLE (English Language Learning Experience) for P1 &amp; P2; TED (Tackling English Diligently) for P3-P6 </p></h3>
+<h3>1.	Journaling – ELLE (English Language Learning Experience) for P1 &amp; P2; TED (Tackling English Diligently) for P3-P6 </h3>
 <p align="justify">
 ELLE and TED journals provide pupils the platform to explore the different aspects of learning English and make it a fun and exciting experience. Using Thinking Routines, the journaling experience provides opportunities for pupils to read the nuances between lines, think deeper (out of the box) and go beyond the text. Journaling opens the doors to make connections to school values, the social and emotional learning competencies while enjoying the enriching language learning experiences.</p>
-<h3><p align="justify">2.	Extensive Reading Programme</p></h3>
+<h3>2.	Extensive Reading Programme</h3>
 <ul><li>English Magazines (P2 to P6 pupils)</li>
 <li>Little Red Dot (supplementary newspapers) P4 to P6</li>
 <li>NLB Reading Programmes</li>
