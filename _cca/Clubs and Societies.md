@@ -16,17 +16,7 @@ Another team of pupils participated in the IDE Code Builder 2023 on 9 May 2023 w
 
 <br>
 
-<table><tbody><tr>
-<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%"> Clubs &amp; Societies</td>
-<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%">Teacher-in-charge</td>
-<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%">Day</td>
-<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%">Time</td>
-<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%">Level / Group</td>
-<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%"> Venue</td>
-<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%">Recruiting level for 2023</td></tr>
-<tr><td style="border:2px solid #0A0B30; text-align: middle; width:25%" rowspan="2">Infocomm Club</td>
-<td style="border:2px solid #0A0B30; text-align: center; width:25%">Mdm Rozana<br> Ms Koh Beng Li</td><td style="border:2px solid #0A0B30; text-align: center; width:25%;">Thursday</td><td style="border:2px solid #0A0B30; text-align: center; width:25%;">2 pm to 4 pm</td><td style="border:2px solid #0A0B30; text-align: center; width:25%;">P3 to P6 </td><td style="border:2px solid #0A0B30; text-align: center; width:25%;">Computer Lab</td><td style="border:2px solid #0A0B30; text-align: center; width:25%;">P3 to P5 </td></tr>
-</tbody></table>
+
 
 # RSVP* Club *(Respect, Save &amp; Value our Planet)
 
