@@ -3,96 +3,49 @@ title: English Language
 permalink: /department/english-language/
 description: ""
 ---
+<p align="justify">The English Language department in BTPS aims to develop the communication, reading and thinking skills in our pupils so that they can be empathetic communicators and discerning readers, aligned to the MOE English Language Syllabus 2020. Through collaborative lesson planning, lessons are crafted based on the STELLAR 2.0 units to provide the pupils with experiential learning and connection to real life.</p>
+<p align="justify">In one of the P5 STELLAR Units Late but not Last, we invited Mr C Kunalan to share his experience as a Singaporean athlete who has made a great contribution to athletics, specifically in track and field. The Primary 5 pupils were also privileged to be given the opportunity to pose questions and interact with Mr Kunalan.</p>
 
-# ENGLISH LANGUAGE
+<u><h2>Experiential and Extension Learning to STELLAR Units </h2></u>
+<center><img style="border:2px solid #0A0B30;width:600px;height:400px;" src="/images/pic1_a%20butterfly%20is%20born.jpg"><strong>A Butterfly is Born</strong><img style="border:2px solid #0A0B30;width:400px;height:300px;" src="/images/pic2%20life%20in%20a%20shell.jpg"><strong>Life in a Shell</strong><img style="border:2px solid #0A0B30;width:400px;height:300px;" src="/images/pic3_the%20bicycle%20race.jpg"><strong>The Bicycle Race</strong><img style="border:2px solid #0A0B30;width:400px;height:300px;" src="/images/pic4_making%20ice%20cream.jpg"><strong>Making Ice Cream</strong></center>
 
-**Our Programmes:**
+<u><h2>Invited speakers to connect to real life experiences</h2></u>
+<center><img style="border:2px solid #0A0B30;width:300px;height:400px;" src="/images/pic5_life%20of%20a%20vet.JPG"><strong>Life of a Vet</strong><img style="border:2px solid #0A0B30;width:300px;height:400px;" src="/images/pic6_late%20but%20not%20last.jpeg"><img style="border:2px solid #0A0B30;width:400px;height:300px;" src="/images/pic7_mr%20c%20kunalan.jpeg"></center>
 
-# I) JOURNALING TO ENHANCE LEARNING OF ENGLISH
+<h2>Key Programmes</h2><ol>
+<h3><li><p align="justify">	Journaling – ELLE (English Language Learning Experience) for P1 &amp; P2; TED (Tackling English Diligently) for P3-P6 </p></li></h3><p></p><p align="justify">
+ELLE and TED journals provide pupils the platform to explore the different aspects of learning English and make it a fun and exciting experience. Using Thinking Routines, the journaling experience provides opportunities for pupils to read the nuances between lines, think deeper (out of the box) and go beyond the text. Journaling opens the doors to make connections to school values, the social and emotional learning competencies while enjoying the enriching language learning experiences.</p>
+<h3><li><p align="justify">	Extensive Reading Programme</p></li></h3>
+<ul><li>English Magazines (P2 to P6 pupils)</li>
+<li>Little Red Dot (supplementary newspapers) P4 to P6</li>
+<li>NLB Reading Programmes</li>
+<li>The *LiFE or Literature For Everyone aims to:</li>
+<ul style="list-style-type:circle;">
+<li>Enhance the learning of English Language by going beyond the standard texts.
+</li>
+<li>Expose pupils to different genres of writing.</li>
+<li>Let pupils experience the joy of reading a book together as a class and discussing the plot, characters, and values depicted in the book.</li>
+<li>Engage pupils through in-depth reading and enhance their reading skills by exploring the plot, characters, scenery description and other elements of interest in the literature text. Enrich their reading using thinking routines to explore their understanding via their ELLE and TED journals.</li>
+<li>Develop an appreciation for local authors and local-themed plots and settings.</li>
+</ul>
+</ul>
+</ol>
+<h3>3.	Moo-O Reading Programme (P1-P3)</h3>
+<p align="justify">BTPS takes part in the Singapore Moo-O Awards every year. On 12 April 2023, our BTPS team comprising Kim Jooha (3 Graciousness), Jason James Brown (3 Resilience) and Naomi Kechen Festo (3 Respect) participated in the 2023 Singapore Moo-O Awards. This annual competition is open to all P3 pupils and supported by the Speak Good English Movement.
+Our students demonstrated resilience, teamwork and creativity during the competition. The BTPS team received the Gold award this year! The Gold award is awarded to the top 5 teams out of the 50 participating schools. 
+</p>
+<p align="justify">You may go to the website <a target="_blank" href="https://plus.moo-o.com/tma/"></a> to view the results, the judges’ comments as well as the link to our team’s video. </p>
 
-**_a. English Language Learning Experiences (ELLE) for P1 and P2 pupils_**
+<center><img style="border:2px solid #0A0B30;width:400px;height:300px;" src="/images/pic008.JPG"><img style="border:2px solid #0A0B30;width:400px;height:260px;" src="/images/pic009.JPG"></center>
 
-ELLE is a journal that gives pupils space and opportunities to realise that learning English is a fun experience. ELLE allows them to express their thoughts, their likes, dislikes, and feelings about every day experiences as well as their readings. Moreover, journaling provides our young ones opportunities to use Thinking Routines to link their learning to deepen their understanding of school values and social & emotional competencies.
 
-<img src="/images/P1%20(1).png" 
-     style="width:30%">
-
-<center><em>Claire Tanady , 1 GRACIOUSNESS</em></center>
-
-<img src="/images/tanzirong.png" 
-     style="width:75%">
-
-<center><em>Toon Zirong, 1 RESPECT</em></center>
-
-**_b.Tackling English Diligently (TED) for P3 to P6 pupils_**
-
-TED provides pupils the platform to explore the different aspects of learning English and make it a fun and exciting experience. TED allows pupils to journal their thoughts, their views/opinions, likes and dislikes via the use of the Thinking Routines. This journaling experience provides our pupils with opportunities to read the nuances between lines and go beyond the text. Journaling opens the doors for them to make connections to school values, the social and emotional learning competencies while enjoying the enriching language learning experiences.
-
-<img src="/images/TED.png" 
-     style="width:75%">
-
-# II) English Extensive Reading Programme include…
-
-- LiFE (Literature For Everyone) (P1 to P4) Programme
-- English Magazines (P2 to P6 pupils)
-- Little Red Dot (supplementary newspapers) P4 to P6
-- NLB Reading Programmes
-- Moo-O e-reading Programme (P1 to P3)
-- The \*LiFE or Literature For Everyone is a programme conducted by the school so as to…
-
-<style type="text/css">
-<!--
- .tab { margin-left: 40px; }
--->
-</style>
-
-<p class="tab"> • enhance the learning of English Language by going beyond the Stellar Readers that are used during English lessons. 
-<br>• expose pupils to different genres of writing.
-<br>• enjoy the experience of reading one book as a class and discuss various plots, characters, values depicted in the book.
-<br>• engage pupils through in-depth reading of the book  and enhance pupils’ reading skills by exploring the plot, characters, scenery description and other elements of interest in the literature text through theme-based collaborative lesson planning by level teachers.
-<br>• Enrich their reading using thinking routines to explore their understanding via their ELLE and TED journaling.
-<br>• appreciate local authors and identify with local-themed plots and settings</p>
-
-_ELLE entry on Dolphin Boy by a P2 pupil._
-<img src="/images/stelluna%20elle.png" 
-     style="width:75%">
-<img src="/images/elle%20samples.png" 
-     style="width:75%">
-
-**Moo-O e-reading Programme (P1 to P3)**
-
-BTPS takes part in the Singapore Moo-O Awards every year. On 7 April 2021, our BTPS team comprising Dylan James Rodger, Karis Eva Eisenhawer Mak and Eithan Yuen Zi Hao participated in the 2021 Singapore Moo-O Awards. This annual competition is open to all P3 pupils and supported by the Speak Good English Movement. The objectives of the competition are:
-
-✓ To motivate students to read and speak fluently & expressively in English
-
-✓ To cultivate a love for the English language through a fun, engaging and immersive way of reading.Our pupils demonstrated resilience, teamwork and creativity during the preparation for this competition. The results were announced on 21 April 2021 and our BTPS team received the Gold award! Only the top 5 teams out of the 45 participating schools received the Gold award and we are so proud of our pupils for their achievement.
-
-Visit the website [https://plus.moo-o.com/tma/?sel=2021-singapore](https://plus.moo-o.com/tma/?sel=2021-singapore) to view the results, the judges’ comments as well as the link to our team’s video.
-
-_Our P3 pupils’ recording their reading._
-<img src="/images/p3%20students.png" 
-     style="width:85%">
-
-# III) English Enrichment Programme (Outside curriculum)
-
-**Master Scrabble for P2 to P6 pupils**
-
-<img src="/images/P16.jpeg" 
-     style="width:75%">
-
-Pupils enjoy challenging one another in this word game which help develop thinking skills, build vocabulary and put values, such as respect, integrity and graciousness into practice. Our pupils have attained awards at both National and Zonal levels but above winning awards, are the rich bonds of friendship they develop with the players from other schools as well within our own school.
-
-# IV) SUPER JOURNALING TEAM (SJT)
-
-The Super Journaling is a special programme designed for pupils who are self-directed and love journaling. Their TED entries, which include reflection of articles, showcases their deep thinking. SJT members who are selected based on their interest in journaling and writing, would attend master classes which are conducted outside curriculum hours once every term.
-
-They get opportunities to explore issues and topics from different perspectives with supporting evidences and reasoning. Their learning experiences are varied which include meeting a baker, a national soccer player and even exploring our neighbourhood gardens. The collaborative work by SJT pupils together with the Art Club members help create beautiful poems with wonderful artistic illustrations.
-
-<img src="/images/SJT%201.png" 
-     style="width:75%">
-<img src="/images/SJT%202.png" 
-     style="width:75%">
-<img src="/images/SJT%203.png" 
-     style="width:75%">
-<img src="/images/SJT%204.png" 
-     style="width:75%">
+<h2>Enrichment Programme</h2>
+<ol><h3><li>Master Scrabble (P2-P6)</li></h3>
+<p align="justify">
+Pupils enjoy challenging one another in this word game which is not only about developing thinking skills and building vocabulary but also about inculcating values, such as respect, integrity and graciousness. Our pupils have attained awards at both National and Zonal levels but above winning awards, are the rich bonds of friendship they develop with the players from other schools as well within our school.</p>
+<h3><li>SUPER JOURNALING TEAM (SJT)</li></h3><p align="justify">
+Super Journaling is a special programme designed for pupils who are self-directed and have an affinity for journaling. These pupils have showcased their reflection and thinking skills in their TED entries.  When selected, SJT members  would attend master classes once per term.</p>
+<p align="justify">
+SJT members explore issues and topics from different perspectives.  They are taken out of the classroom context to enjoy authentic experiences such as meeting and interviewing a baker, a national soccer player, exploring our neighbourhood gardens and even go on a learning journey to visit the ‘last kampong’ in Singapore after reading a Singlit book on kampong life by Josephine Chia.</p>
+</ol>
+<center><img style="border:2px solid #0A0B30;width:400px;height:300px;" src="/images/pic010.jpeg"><img style="border:2px solid #0A0B30;width:400px;height:300px;" src="/images/pic011.jpeg"></center>
