@@ -12,8 +12,8 @@ description: ""
 <h2>Invited speakers to connect to real life experiences</h2>
 <center><img style="border:2px solid #0A0B30;width:300px;height:400px;" src="/images/pic5_life%20of%20a%20vet.JPG"><strong>Life of a Vet</strong><img style="border:2px solid #0A0B30;width:300px;height:400px;" src="/images/pic6_late%20but%20not%20last.jpeg"><img style="border:2px solid #0A0B30;width:400px;height:300px;" src="/images/pic7_mr%20c%20kunalan.jpeg"></center>
 
-<h2>Key Programmes</h2><ol>
-<h3><p align="justify">1.	Journaling – ELLE (English Language Learning Experience) for P1 &amp; P2; TED (Tackling English Diligently) for P3-P6 </p></h3><p></p><p align="justify">
+<h2>Key Programmes</h2>
+<h3><p align="justify">1.	Journaling – ELLE (English Language Learning Experience) for P1 &amp; P2; TED (Tackling English Diligently) for P3-P6 </p></h3><p align="justify">
 ELLE and TED journals provide pupils the platform to explore the different aspects of learning English and make it a fun and exciting experience. Using Thinking Routines, the journaling experience provides opportunities for pupils to read the nuances between lines, think deeper (out of the box) and go beyond the text. Journaling opens the doors to make connections to school values, the social and emotional learning competencies while enjoying the enriching language learning experiences.</p>
 <h3><p align="justify">2.	Extensive Reading Programme</p></h3>
 <ul><li>English Magazines (P2 to P6 pupils)</li>
@@ -29,7 +29,7 @@ ELLE and TED journals provide pupils the platform to explore the different aspec
 <li>Develop an appreciation for local authors and local-themed plots and settings.</li>
 </ul>
 </ul>
-</ol>
+
 <h3>3.	Moo-O Reading Programme (P1-P3)</h3>
 <p align="justify">BTPS takes part in the Singapore Moo-O Awards every year. On 12 April 2023, our BTPS team comprising Kim Jooha (3 Graciousness), Jason James Brown (3 Resilience) and Naomi Kechen Festo (3 Respect) participated in the 2023 Singapore Moo-O Awards. This annual competition is open to all P3 pupils and supported by the Speak Good English Movement.
 Our students demonstrated resilience, teamwork and creativity during the competition. The BTPS team received the Gold award this year! The Gold award is awarded to the top 5 teams out of the 50 participating schools. 
