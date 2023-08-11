@@ -14,20 +14,13 @@ Through the application of computational thinking and design thinking constructs
 <p align="justify">
 Another team of pupils participated in the IDE Code Builder 2023 on 9 May 2023 where they applied their Scratch 3.0 coding skills based on a series of computing-based questions.</p>
 
-<br>
+<img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/CCA/infocomm%201.jpg"><img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/CCA/infocomm%202.jpg"><img style="border:2px solid #0A0B30; width:400px;height:200px;" src="/images/CCA/infocomm%203.jpg"><img style="border:2px solid #0A0B30; width:400px;height:200px;" src="/images/CCA/infocomm%204.jpg">
 
 
 
-# RSVP* Club *(Respect, Save &amp; Value our Planet)
-
-<table><tbody><tr>
-<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%"> Clubs &amp; Societies</td>
-<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%">Teacher-in-charge</td>
-<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%">Day</td>
-<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%">Time</td>
-<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%">Level / Group</td>
-<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%"> Venue</td>
-<td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%">Recruiting level for 2023</td></tr>
-<tr><td style="border:2px solid #0A0B30; text-align: middle; width:25%" rowspan="2">RSVP* Club *(Respect, Save &amp; Value our Planet)</td>
-<td style="border:2px solid #0A0B30; text-align: center; width:25%">Mdm Chitra <br>Mr Solomon Tan</td><td style="border:2px solid #0A0B30; text-align: center; width:25%;">Thursday</td><td style="border:2px solid #0A0B30; text-align: center; width:25%;">2 pm to 4 pm</td><td style="border:2px solid #0A0B30; text-align: center; width:25%;">P3 to P6 </td><td style="border:2px solid #0A0B30; text-align: center; width:25%;">Science Room</td><td style="border:2px solid #0A0B30; text-align: center; width:25%;">P3 to P5 </td></tr>
-</tbody></table>
+# RSVP
+<p align="justify">
+RSVP is a science and environmental club which stands for Respect-Save-Value-our Planet. RSVP members are exposed to engaging science experiments and investigations where they explore new ideas, conduct experiments and collect evidence to prove or better understand a scientific theory.  They also have an opportunity to work on young scientist card projects organized by Singapore Science Centre.</p>
+<p align="justify">
+Our pupils are also actively involved in leading and implementing environmental projects in school as well as the community. They are given the opportunity to attend conferences and workshops organized by secondary schools and NEA to learn more about current environmental issues and how they initiate and lead change around them.  Through these programmes, we aim to develop student leaders who show compassion in caring for our environment and take the lead in making a positive difference for the environment. </p>
+<img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/CCA/rsvp%201.jpg"><img style="border:2px solid #0A0B30; width:400px;height:460px;" src="/images/CCA/rsvp%202.jpg"><img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/CCA/rsvp%203.jpg">
