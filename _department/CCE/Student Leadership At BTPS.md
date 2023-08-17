@@ -46,13 +46,13 @@ To allow everyone to be a peer supporter, the “CHEER” model adapted from Gui
 <img src="/images/cce005.jpg" style="border:2px solid #0A0B30; width:400px;height:300px;"><br>
 <p align="justify">BTPS students use the CHEER Model to help classmates who need social and emotional support. They also undergo experiential activities to understand and appreciate the importance of Peer Support during the Back-to-School programme.</p>
 
-<img src="/images/cce006.jpg" style="border:2px solid #0A0B30; width:400px;height:200px;"><img src="/images/cce007.jpg" style="border:2px solid #0A0B30; width:400px;height:200px;"><br>
+<img src="/images/cce006.jpg" style="border:2px solid #0A0B30; width:360px;height:200px;"><img src="/images/cce007.jpg" style="border:2px solid #0A0B30; width:360px;height:200px;"><br>
 <u><strong>Tier 2: Peer Support Ambassadors (PSAs)</strong></u><br>
 <p align="justify">
 Peer Support Ambassadors (PSAs) were appointed to support peers socially and emotionally, therefore promoting overall student well-being and strengthening the positive network of peers in the school. This contributes to a caring and positive learning environment.</p><br>
 <p align="justify">
 To develop an effective Peer Support culture within the school, PSAs@BTPS were selected for their sense of empathy and moral courage and are trained in interpersonal skills to positively influence and support their peers. They are also taught to recognise signs of distress and offer practical help or seek support for their peers.</p>
 <center>
-<img src="/images/cce008.jpg" style="border:2px solid #0A0B30; width:400px;height:200px;"><strong>PSAs training</strong>
-<img src="/images/cce009.jpg" style="border:2px solid #0A0B30; width:400px;height:200px;"><strong>PSAs in a discussion</strong>
-<img src="/images/cce010.jpg" style="border:2px solid #0A0B30; width:400px;height:200px;"><strong>Team Building among the PSAs</strong></center>
+<img src="/images/cce008.jpg" style="border:2px solid #0A0B30; width:360px;height:200px;"><strong>PSAs training</strong>
+<img src="/images/cce009.jpg" style="border:2px solid #0A0B30; width:360px;height:200px;"><strong>PSAs in a discussion</strong>
+<img src="/images/cce010.jpg" style="border:2px solid #0A0B30; width:360px;height:200px;"><strong>Team Building among the PSAs</strong></center>
