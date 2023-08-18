@@ -100,15 +100,15 @@ Through Cyber Wellness education in CCE, students learn to be respectful, safe, 
 <img style="border:2px solid #0A0B30; width:700px;height:200px;" src="/images/cyberwellness2.png"><br>
 <h3><u>Cyber Wellness Week</u></h3><br>
 <p align="justify">
-Cyber Wellness week is organised annually to heighten awareness and spread Cyber Wellness messages. These messages are promoted through posters, quizzes and hands-on activities.</p><img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/cyberwellness002.png">
+Cyber Wellness week is organised annually to heighten awareness and spread Cyber Wellness messages. These messages are promoted through posters, quizzes and hands-on activities.</p><img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/cyberwellness002.png">
 <b><u>Assembly Talk</u></b> on Netiquette by TOUCH community and students’ voice on the importance of Cyber Wellness.<br>
-<img style="border:2px solid #0A0B30; width:300px;height:360px;" src="/images/assemblytalk001.jpg"><img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/assemblytalk002.png">
+<img style="border:2px solid #0A0B30; width:300px;height:360px;" src="/images/assemblytalk001.jpg"><img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/assemblytalk002.png">
 <h3><u>Cyber Wellness Workshop</u></h3>
 <p align="justify">
 Our Cyber Wellness efforts also aim to develop the Exco Peer Support Ambassadors to advocate Cyber Wellness in our school. 
 The training workshop aim to develop ambassadors who can support their peers in cyber issues. </p>
-<img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/workshop1.jpg"><img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/workshop2.jpg"><img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/workshop3.png">
+<img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/workshop1.jpg"><img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/workshop2.jpg"><img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/workshop3.png">
 <h3><u>National 2023 Cyber Wellness Advocacy Challenge (NCAC)  </u></h3>
 <p align="justify">
 4 Exco Peer Support Ambassadors took part in the inaugural National Cyber Wellness Advocacy Challenge (NCAC) organised by Crescent Girls’ School (CGS). The theme for this year challenge is “Evaluating Online News”. The ambassadors designed a comprehensive Cyber Wellness toolkit for their peers to create awareness on identifying Fake News. </p>
-<center><img style="border:2px solid #0A0B30; width:400px;height:200px;" src="/images/cyber01.jpg"><strong>Our ambassadors attended the NCAC Training Camp </strong><img style="border:2px solid #0A0B30; width:400px;height:200px;" src="/images/cyber02.jpg"><img style="border:2px solid #0A0B30; width:400px;height:200px;" src="/images/cyber03.jpg"><img style="border:2px solid #0A0B30; width:400px;height:200px;" src="/images/cyber04.jpg"><strong>Our ambassadors engaged in discussions and preparing the Cyber Wellness Toolkit</strong></center><img style="border:2px solid #0A0B30" src="/images/cyber06.jpg">
+<center><img style="border:2px solid #0A0B30; width:360px;height:200px;" src="/images/cyber01.jpg"><strong>Our ambassadors attended the NCAC Training Camp </strong><img style="border:2px solid #0A0B30; width:360px;height:200px;" src="/images/cyber02.jpg"><img style="border:2px solid #0A0B30; width:360px;height:200px;" src="/images/cyber03.jpg"><img style="border:2px solid #0A0B30; width:360px;height:200px;" src="/images/cyber04.jpg"><strong>Our ambassadors engaged in discussions and preparing the Cyber Wellness Toolkit</strong></center><img style="border:2px solid #0A0B30" src="/images/cyber06.jpg">

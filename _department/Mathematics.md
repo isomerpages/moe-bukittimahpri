@@ -10,18 +10,18 @@ Guided by the principles of <strong><i>“Love, Enjoy, and Think Mathematics”<
 
 <h3><u>Develop the Love for Mathematics</u></h3>
 
-<img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/btpsmath2.jpeg">
+<img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/btpsmath2.jpeg">
 <p align="justify">Math lessons for the lower primary students are designed to be fun, practical, and interactive. There are many hands-on activities to help students acquire basic concepts of Mathematics. </p>
 <p align="justify">Engaging mathematics interactive games are also introduced to reinforce their learning. As the lower primary students are in the early stages of learning mathematics, the lessons are infused with many hands-on activities to keep learning of mathematics fun and practical and at the same time, ensure acquisition of basic concepts. Students are also exposed to mathematics interactive games to reinforce their learning in an engaging manner.</p>
 
 <h3><u>Enjoy and Understand Mathematics Logically</u></h3>
-<img style="border:2px solid #0A0B30; width:300px;height:400px;" src="/images/btpsmath3.jpeg">
+<img style="border:2px solid #0A0B30; width:300px;height:360px;" src="/images/btpsmath3.jpeg">
 <p align="justify">In middle primary, the focus is on deepening the students’ conceptual knowledge and applying them in their daily lives. This is achieved through presenting students with both standard curriculum topics and challenging real-world math problems to encourage higher-order thinking skills. </p>
 <p align="justify">
 As the lower primary students are in the early stages of learning mathematics, the lessons are infused with many hands-on activities to keep learning of mathematics fun and practical and at the same time, ensure acquisition of basic concepts. Students are also exposed to mathematics interactive games to reinforce their learning in an engaging manner.
  </p>
 <h3><u>Think and Master Mathematics</u> </h3>
-<img style="border:2px solid #0A0B30; width:300px;height:400px;" src="/images/btpsmath4.jpeg">
+<img style="border:2px solid #0A0B30; width:300px;height:360px;" src="/images/btpsmath4.jpeg">
 <p align="justify">In upper primary, we consolidate and reinforce Students’ learning through complex tasks that require them to investigate, connect, and apply mathematical concepts learnt to solve complicated real-life problems. Opportunities would be provided for students to reflect on their learning and make connections to deepen their understanding of various mathematics ideas.</p>
     
 <h2><i>Key Programmes</i></h2>
@@ -37,7 +37,7 @@ Heuristics and methods of problem solving are taught to students to sharpen thei
 <h3>3. Mathematics Learning Day</h3>
 <p align="justify">
 Students are given opportunity to experience application of Mathematics concepts and skills through experiential and realistic learning at Mathematics stations around the school. Through this programme, students can better relate mathematics to real life and work collaboratively to solve problems together.</p>
-<img style="border:2px solid #0A0B30; width:300px;height:400px;" src="/images/btpsmath7.jpeg">
+<img style="border:2px solid #0A0B30; width:300px;height:360px;" src="/images/btpsmath7.jpeg">
 <br>
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
@@ -51,7 +51,7 @@ E2K is a 3-year enrichment programme which aims to engage students in investigat
 
 <h3>2. Mathematics Olympiad Training Programme (Primary 4 to 6)</h3>
 <p align="justify">
-Every year, BTPS organises the Math Olympiad Training Programme to stretch students who have a passion for Mathematics. The programme provides a platform for students to develop problem solving abilities like analytical and creative thinking as they explore beyond the primary curriculum. This programme targeted at Primary 4 to 6 students who are in the top 15%-20% of their cohort.</p><img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/btpsmath8.jpeg">
+Every year, BTPS organises the Math Olympiad Training Programme to stretch students who have a passion for Mathematics. The programme provides a platform for students to develop problem solving abilities like analytical and creative thinking as they explore beyond the primary curriculum. This programme targeted at Primary 4 to 6 students who are in the top 15%-20% of their cohort.</p><img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/btpsmath8.jpeg">
 <br>
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
