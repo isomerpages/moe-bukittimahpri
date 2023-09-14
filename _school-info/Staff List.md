@@ -537,7 +537,7 @@ description: ""
     <tr><td colspan="4">Extension: 801 </td></tr>
 <tr><td colspan="4"><a href="mailto:nor_junedah_salim@moe.edu.sg">nor_junedah_salim@moe.edu.sg</a></td></tr>
 <tr>
-      <td rowspan="4"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm nor junedah binte salim.jpg"></td>
+      <td rowspan="4"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/female.png"></td>
       <td colspan="4">Mdm Amelia Lim Aik Kun</td>
     </tr>
 <tr><td colspan="4"><b>Management Support Officer</b></td></tr>
