@@ -3,6 +3,28 @@ title: Staff List
 permalink: /staff/staff-list/
 description: ""
 ---
+<table>
+<tbody><tr>
+<td><h5>CLASS</h5> </td>
+<td><h5>NAME</h5> </td>
+<td><h5>EXTENSION</h5> </td>
+<td><h5>EMAIL ADDRESS</h5><h5></h5></td>
+</tr>
+<tr>
+<td>1A </td>
+<td>Mrs Evelyn Lee </td>
+<td>326 </td>
+<td><a href="mailto:evelyn_ang_gek_shia@moe.edu.sg">evelyn_ang_gek_shia@moe.edu.sg</a></td>
+</tr>
+<tr>
+    <td>1A</td>
+    <td>Mr Wang Hao</td>
+    <td>355</td>
+    <td><a href="mailto:wang_hao@moe.edu.sg">wang_hao@moe.edu.sg</a></td>
+  </tr>
+
+</tbody></table>
+
 <table cellspacing="0" cellpadding="0" style="color:#191970;">
   <colgroup><col width="119">
   <col width="300">
