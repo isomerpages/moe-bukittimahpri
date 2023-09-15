@@ -3,13 +3,14 @@ title: Staff List
 permalink: /staff/staff-list/
 description: ""
 ---
-<br><table cellspacing="0" cellpadding="0" style="color:#191970;">
+<table cellspacing="0" cellpadding="0" style="color:#191970;">
   <colgroup><col width="119">
   <col width="300">
   <col width="68">
   <col width="301">
-  </colgroup><tbody><tr>
-    <td colspan="4" style="color:#191970;"><h2>TEACHING STAFFS<!--/h2--></h2></td>
+  </colgroup>
+<tbody><tr>
+    <td colspan="4" style="color:#191970;"><h2>TEACHING STAFFS</h2></td>
   </tr>
   <tr>
     <td width="129"><b>CLASS</b></td>
@@ -575,4 +576,3 @@ description: ""
     <td>&nbsp;</td>
   </tr>
 </tbody></table>
-<br>
