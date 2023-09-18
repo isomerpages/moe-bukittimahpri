@@ -310,7 +310,7 @@ description: ""
     <td>5_Compassion</td>
     <td>Mrs Mellissa Khoo</td>
     <td align="right">317</td>
-    <td><a href="mailto:chan_yu_fang_mellissa@moe.edu.sg">chan_yu_fang_mellissa@moe.edu.s</a></td>
+    <td><a href="mailto:chan_yu_fang_mellissa@moe.edu.sg">chan_yu_fang_mellissa@moe.edu.sg</a></td>
   </tr>
    <tr>
     <td>5_Compassion</td>
