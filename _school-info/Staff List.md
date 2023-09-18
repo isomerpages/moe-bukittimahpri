@@ -31,13 +31,13 @@ description: ""
     <td><a href="mailto:wang_hao@moe.edu.sg">wang_hao@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td>1_Compassion&nbsp;</td>
+    <td>1_Compassion</td>
     <td>Mrs Iman–Akidah</td>
     <td align="right">324</td>
     <td><a href="mailto:%20shahidatul_akidah_mohd_suaidi@moe.edu.sg">shahidatul_akidah_mohd_suaidi@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td>1_Compassion&nbsp;</td>
+    <td>1_Compassion</td>
     <td>Mdm Tan Hwee Hsia</td>
     <td align="right">353</td>
     <td><a href="mailto:tan_hwee_hsia@moe.edu.sg">tan_hwee_hsia@moe.edu.sg</a></td>
@@ -50,7 +50,7 @@ description: ""
   </tr>
   <tr>
     <td>1_Graciousness</td>
-    <td>Miss Koh Beng Li&nbsp;&nbsp;</td>
+    <td>Miss Koh Beng Li</td>
     <td align="right">354</td>
     <td><a href="mailto:koh_beng_li@moe.edu.sg">koh_beng_li@moe.edu.sg</a></td>
   </tr>
@@ -68,24 +68,24 @@ description: ""
   </tr>
   <tr>
     <td>1_Resilience</td>
-    <td>Mr Almir Shafur Bin    Mohamed </td>
+    <td>Mr Almir Shafur Bin Mohamed </td>
     <td align="right">348</td>
     <td><a href="mailto:almir_shafur_mohamed@moe.edu.sg">almir_shafur_mohamed@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>1_Resilience</td>
-    <td>Ms Pang Liew Chin&nbsp;&nbsp;</td>
+    <td>Ms Pang Liew Chin</td>
     <td align="right">334</td>
     <td><a href="mailto:pang_liew_chin@moe.edu.sg">pang_liew_chin@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td>1_Respect&nbsp;</td>
+    <td>1_Respect</td>
     <td>Mrs Lynette Lim<br>(SH/Aesthetics)</td>
     <td align="right">336</td>
     <td><a href="mailto:thia_hui_shan_lynette@moe.edu.sg">thia_hui_shan_lynette@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td>1_Respect&nbsp;</td>
+    <td>1_Respect</td>
     <td>Miss Neo Kai Lin</td>
     <td align="right">349</td>
     <td><a href="mailto:neo_kai_lin@moe.edu.sg">neo_kai_lin@moe.edu.sg</a></td>
@@ -128,7 +128,7 @@ description: ""
   </tr>
   <tr>
     <td>2_Harmony</td>
-    <td>Mrs Nicole Chan<br>(HOD/CCE)&nbsp;</td>
+    <td>Mrs Nicole Chan<br>(HOD/CCE)</td>
     <td align="right">202</td>
     <td><a href="mailto:yap_xue_li_nicole@moe.edu.sg">yap_xue_li_nicole@moe.edu.sg</a></td>
   </tr>
@@ -162,17 +162,17 @@ description: ""
     <td align="right">351</td>
     <td><a href="mailto:chng_ling_ling@moe.edu.sg">chng_ling_ling@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>2_Respect</td>
-    <td>Mrs Yvonne Kwan</td>
-    <td align="right">313</td>
-    <td><a href="mailto:yvonne_tan_bee_leng@moe.edu.sg">yvonne_tan_bee_leng@moe.edu.sg</a></td>
-  </tr>
- <tr>
+   <tr>
     <td>2_Respect</td>
     <td>Mrs Samantha Er</td>
     <td align="right">322</td>
     <td><a href="mailto:ong_yen_ting_samantha@moe.edu.sg">ong_yen_ting_samantha@moe.edu.sg</a></td>
+  </tr>
+<tr>
+    <td>2_Respect</td>
+    <td>Mrs Yvonne Kwan</td>
+    <td align="right">313</td>
+    <td><a href="mailto:yvonne_tan_bee_leng@moe.edu.sg">yvonne_tan_bee_leng@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>3_Adaptability</td>
@@ -246,17 +246,17 @@ description: ""
     <td align="right">315</td>
     <td><a href="mailto:chong_yu_pei@moe.edu.sg">chong_yu_pei@moe.edu.sg</a></td>
   </tr>
-   <tr>
-    <td>4_Compassion</td>
-    <td>Mrs Raj - Lorshenni</td>
-    <td align="right">318</td>
-    <td><a href="mailto:lorshenni_jaya_sanger_a@moe.edu.sg">lorshenni_jaya_sanger_a@moe.edu.sg</a></td>
-  </tr>
-  <tr>
+    <tr>
     <td>4_Compassion</td>
     <td>Mr Idris Bin Mohd Taha</td>
     <td align="right">367</td>
     <td><a href="mailto:idris_b_mohd_taha@moe.edu.sg">idris_b_mohd_taha@moe.edu.sg</a></td>
+  </tr>
+ <tr>
+    <td>4_Compassion</td>
+    <td>Mrs Raj - Lorshenni</td>
+    <td align="right">318</td>
+    <td><a href="mailto:lorshenni_jaya_sanger_a@moe.edu.sg">lorshenni_jaya_sanger_a@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>4_Graciousness</td>
@@ -294,31 +294,25 @@ description: ""
     <td align="right">357</td>
     <td><a href="mailto:suzana_mohd_yaacob@moe.edu.sg">suzana_mohd_yaacob@moe.edu.sg</a></td>
   </tr>
-  <tr>
+     <tr>
+    <td>5_Adaptability</td>
+    <td>Miss Lee Yan Ying</td>
+    <td align="right">371</td>
+    <td><a href="mailto:lee_yan_ying_c@moe.edu.sg">lee_yan_ying_c@moe.edu.sg</a></td>
+  </tr>
+ <tr>
     <td>5_Adaptability</td>
     <td>Mdm Mazlinah Juhari</td>
     <td align="right">337</td>
     <td><a href="mailto:Mazlinah_Juhari_A@moe.edu.sg">Mazlinah_Juhari_A@moe.edu.sg</a></td>
   </tr>
-    <tr>
-    <td>5_Adaptability</td>
-    <td>Miss Lee Yan Ying</td>
-    <td align="right">371</td>
-    <td><a href="mailto:lee_yan_ying_c@moe.edu.sg">lee_yan_ying_c@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>5_Adaptability</td>
-    <td>Miss Lee Yan Ying</td>
-    <td align="right">371</td>
-    <td><a href="mailto:lee_yan_ying_c@moe.edu.sg">lee_yan_ying_c@moe.edu.sg</a></td>
-  </tr>
   <tr>
     <td>5_Compassion</td>
-    <td>Mdm Mazlinah Bte Juhari</td>
-    <td align="right">337</td>
-    <td><a href="mailto:mazlinah_juhari_a@moe.edu.sg">mazlinah_juhari_a@moe.edu.sg</a></td>
+    <td>Mrs Mellissa Khoo</td>
+    <td align="right">317</td>
+    <td><a href="mailto:chan_yu_fang_mellissa@moe.edu.sg">chan_yu_fang_mellissa@moe.edu.s</a></td>
   </tr>
-  <tr>
+   <tr>
     <td>5_Compassion</td>
     <td>Ms Tee Xinyi</td>
     <td align="right">332</td>
@@ -348,32 +342,31 @@ description: ""
     <td align="right">208</td>
     <td><a href="mailto:khoo_kian_kiong_christopher@moe.edu.sg">khoo_kian_kiong_christopher@moe.edu.sg</a></td>
   </tr>
-
+<tr>
+    <td>5_Respect</td>
+    <td>Mr Kenny Chin Peng Kiew</td>
+    <td align="right">340</td>
+    <td><a href="Chin_Peng_Kiew@moe.edu.sg">Chin_Peng_Kiew@moe.edu.sg</a></td>
+  </tr>
   <tr>
     <td>5_Respect</td>
     <td>Mdm Suzanah Bte Miswari </td>
     <td align="right">368</td>
     <td><a href="mailto:suzanah_miswari@moe.edu.sg">suzanah_miswari@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>5_Respect</td>
-    <td>Mr Kenny Chin</td>
-    <td align="right">340</td>
-    <td><a href="Chin_Peng_Kiew@moe.edu.sg">Chin_Peng_Kiew@moe.edu.sg</a></td>
+      <tr><td>6_Adaptibilty</td>
+    <td>Mdm Chitra d/o Selvaraju</td>
+    <td align="right">342</td>
+    <td><a href="mailto:chitra_selvaraju@moe.edu.sg">chitra_selvaraju@moe.edu.sg</a></td>
   </tr>
-  <tr>
+ <tr>
     <td>6_Adaptibility</td>
     <td>Mr Zaini Bin Zanal  </td>
     <td align="right">359</td>
     <td><a href="mailto:zaini_zanal@moe.edu.sg">zaini_zanal@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td>6_Adaptibilty</td>
-    <td>Mdm Chitra d/o    Selvaraju</td>
-    <td align="right">342</td>
-    <td><a href="mailto:chitra_selvaraju@moe.edu.sg">chitra_selvaraju@moe.edu.sg</a></td>
-  </tr>
-  <tr>
+  </tr><tr>
     <td>6_Compassion</td>
     <td>Mdm Junaida Bte Jasman <br>(ST/MA)</td>
     <td align="right">306</td>
