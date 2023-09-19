@@ -237,7 +237,7 @@ description: ""
   <tr>
     <td>3_Respect</td>
     <td>Miss Goh Xue Yi <br>(HOD/Pupil Management)</td>
-    <td align="right">210</td>
+    <td align="right">369</td>
     <td><a href="mailto:goh_xue_yi@moe.edu.sg">goh_xue_yi@moe.edu.sg</a></td>
   </tr>
   <tr>
