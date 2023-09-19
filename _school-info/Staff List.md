@@ -479,7 +479,7 @@ description: ""
     <td>FAJT</td>
     <td>Ms Dina Maheswary</td>
     <td align="right">376</td>
-     <td></td>
+     <td><a href="mailto:dina_maheswary_s_devarajan@moe.edu.sg">dina_maheswary_s_devarajan@moe.edu.sg</a></td>
   </tr>
 
 <tr>
