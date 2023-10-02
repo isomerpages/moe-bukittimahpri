@@ -26,7 +26,7 @@ School-wide programmes and experiences immerse students in an enhanced musical e
 
 <img src="/images/llp001.jpg" style="border:2px solid #0A0B30; width:400px;height:300px;">
 <p align="justify">The “By-invitation” programme provides opportunities for students to deepen their learning of selected instruments upon invitation by teachers. Ukulele, classical guitar, angklung and Samba percussion are examples of instrumental modules included in this programme. At the end of the programme, students will get to showcase their ensemble musicianship in school concerts. To enhance their interests and develop their passion in the performing arts, students get to go for learning journeys such as the “Day Out @ Esplanade” and “Tour in the Dark”, a programme organised by Ngee Ann Polytechnic. </p>
-<img src="/images/llp002.JPG" style="border:2px solid #0A0B30; width:400px; height:300px;"><img src="/images/llp003.JPG" style="border:2px solid #0A0B30 ;width:400px;height:300px;"><img src="/images/llp004.JPG" style="border:2px solid #0A0B30; width:400px;height:300px;">
+<img src="/images/llp002.JPG" style="border:2px solid #0A0B30; width:400px; height:300px;"><br><img src="/images/llp003.JPG" style="border:2px solid #0A0B30 ;width:400px;height:300px;"><br><img src="/images/llp004.JPG" style="border:2px solid #0A0B30; width:400px;height:300px;">
 <h2>ChaRmz</h2>
 <img src="/images/picture1.jpg" style="border:2px solid #0A0B30; width:300px; height:400px;"><br>
 <p align="justify">An in-house school concert that happens once in every two years, ChaRmz celebrates the young talents in the school’s music programmes and the Visual and Performing Arts CCA groups which include BTPS Brass Symphonia, Choir, Dance-Versity, Drama Club and Art Club. </p><br>
