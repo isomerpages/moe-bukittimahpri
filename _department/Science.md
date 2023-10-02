@@ -32,12 +32,12 @@ Journaling allows pupils to make their thinking visible and express themselves i
 
 <p align="justify">
 Through the SAM journal, our pupils <strong>form a deeper understanding of what they learn and develop skills of critical thinking</strong>. It is essential that pupils do not become proficient ‘regurgitators’ of information but rather <strong>individuals capable of applying, innovating and constructing new knowledge</strong> from what they have learnt.</p>
-<img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/sci001.png"><img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/sci002.png"><img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/sci003.png"><img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/sci004.png"><br>
+<img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/sci001.png"><br><img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/sci002.png"><br><img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/sci003.png"><br><img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/sci004.png"><br>
 <table><tbody><tr><td style="background-color:#7c58a5;"><strong><font color="#ffffff">
 SCIENCE EXPLORATION DAY (ENCOURAGING CURIOSITY AND LOVE OF LEARNING)</font></strong></td></tr></tbody></table>
 <p align="justify">
 Science Exploration Day lets pupils showcase their Science projects or research results. Pupils have the opportunity to apply and explore their understanding of Science. 
-Science teachers guide pupils to align their projects to the practices of good scientific research.</p><img style="border:2px solid #0A0B30; width:300px;height:360px;" src="/images/sci006.jpg"><img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/sci005.jpg"><br>
+Science teachers guide pupils to align their projects to the practices of good scientific research.</p><img style="border:2px solid #0A0B30; width:300px;height:360px;" src="/images/sci006.jpg"><br><img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/sci005.jpg"><br>
 
 <p align="justify">Pupils then present their work, strengthening their communication and public speaking skills. This builds up their confidence and develops them as confident practitioners of Science. </p>
 
@@ -46,7 +46,7 @@ Science teachers guide pupils to align their projects to the practices of good s
 The Learning Garden is where pupils can observe a large variety of organisms. Sharp-eyed pupils may be quick to spot butterflies, dragonflies and even the occasional Oriental Garden Lizard on a lucky day. </p>
 <img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/sci007.jpg">
 <p align="justify">
-The experience of collecting and observing real-life data excites pupils. Teachers make use of the garden to support the understanding of concepts in Life Science lessons – Diversity, Cycles, Reproduction of plants and animals. Observation tasks in the garden makes learning meaningful as students are encouraged to draw connections between knowledge learnt in class and what they experience personally.  </p><img style="border:2px solid #0A0B30; width:360px;height:200px;" src="/images/sci008.jpg"><img style="border:2px solid #0A0B30; width:360px;height:200px;" src="/images/sci009.jpg"><img style="border:2px solid #0A0B30; width:360px;height:200px;" src="/images/sci010.jpg"><br>
+The experience of collecting and observing real-life data excites pupils. Teachers make use of the garden to support the understanding of concepts in Life Science lessons – Diversity, Cycles, Reproduction of plants and animals. Observation tasks in the garden makes learning meaningful as students are encouraged to draw connections between knowledge learnt in class and what they experience personally.  </p><img style="border:2px solid #0A0B30; width:360px;height:200px;" src="/images/sci008.jpg"><br><img style="border:2px solid #0A0B30; width:360px;height:200px;" src="/images/sci009.jpg"><br><img style="border:2px solid #0A0B30; width:360px;height:200px;" src="/images/sci010.jpg"><br>
 <table>
 <tbody><tr><td style="background-color:#74cdd7;">
 <strong>SUPPORT PROGRAMMES (BUILDING CONFIDENCE)</strong></td></tr></tbody></table>
