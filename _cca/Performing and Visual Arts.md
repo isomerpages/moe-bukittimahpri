@@ -24,20 +24,20 @@ Victoria School</p>
 <p align="justify">
 <strong>Singapore National Youth Orchestra (SNYO) </strong><br>
 The SNYO is a National Project of Excellence recognised by the Ministry of Education (MOE). Our talented band members who have a deep passion for music and playing brass instruments have opportunities to audition and be part of the prestigious Singapore National Youth Orchestra (SNYO) community. Their love of learning music continues even as they become the alumini of BTPS. We are proud to be one of the schools to be represented in SNYO.</p>
-<img style="border:2px solid #0A0B30; width:400px;height:260px;" src="/images/CCA/brass%20symphonia%201.jpg"><img style="border:2px solid #0A0B30; width:400px;height:260px;" src="/images/CCA/brass%20symphonia%202.jpg"><img style="border:2px solid #0A0B30; width:400px;height:260px;" src="/images/CCA/brass%20symphonia%203.jpg">
+<img style="border:2px solid #0A0B30; width:400px;height:260px;" src="/images/CCA/brass%20symphonia%201.jpg"><br><img style="border:2px solid #0A0B30; width:400px;height:260px;" src="/images/CCA/brass%20symphonia%202.jpg"><br><img style="border:2px solid #0A0B30; width:400px;height:260px;" src="/images/CCA/brass%20symphonia%203.jpg">
 
 <h3>CHOIR</h3><p align="justify">
 BTPS Choir aims to achieve a high level of musical excellence. This involves developing vocal skills, musical interpretation, and ensemble performance through practice and rehearsal. Teamwork and collaboration are fostered among its members. Each singer contributes to the collective sound, and harmonious coordination is crucial for a successful performance.  Choir sessions provide a platform for singers to enhance their musical abilities, expand their repertoire, and develop their understanding of different musical styles and genres.  This promotes ongoing learning and personal growth.</p>
 <p align="justify">
 We value respect for all members, embrace diversity, and create an inclusive environment where everyone feels valued and supported.  We strive to create a positive and enjoyable atmosphere where the students can express their love for music and share it with others.  BTPS Choir fosters a sense of camaraderie and forges deep connections among members. The shared experiences, teamwork, and mutual support can create lasting friendships and a sense of belonging.</p>
-<img style="border:2px solid #0A0B30; width:400px;height:260px;" src="/images/CCA/choir%201.jpg"><img style="border:2px solid #0A0B30; width:400px;height:260px;" src="/images/CCA/choir%202.jpg"><img style="border:2px solid #0A0B30; width:400px;height:260px;" src="/images/CCA/choir%203.jpg">
+<img style="border:2px solid #0A0B30; width:400px;height:260px;" src="/images/CCA/choir%201.jpg"><br><img style="border:2px solid #0A0B30; width:400px;height:260px;" src="/images/CCA/choir%202.jpg"><br><img style="border:2px solid #0A0B30; width:400px;height:260px;" src="/images/CCA/choir%203.jpg">
 
 
 <h3>DANCE-VERSITY</h3><p align="justify">
 Dance can be a one-man-show or a team effort. In BTPS, we strive to inculcate the values of teamwork, discipline and resilience, as well as appreciation for body movement beauty and creativity in our pupils through dance. These are achieved via structured training, leadership development, creative choreography and team performance. 
 BTPS Dance-Versity embodies the spirit of inclusiveness. Members with different foundation and background work together and tap on diversity as the source of strength during performances.</p>
 <p align="justify">Over the years, our pupils have expanded their skills and repertoire of dances to include Hip Hop, K-Pop and Jazz,. School events such as National Day, Teachers’ Day celebrations, Prize Giving Day and Charmz plus external performances like the competitive Singapore Youth Festival (SYF) Arts Presentation and Super 24, provide platforms for our pupils to showcase their talent.   </p>
-<img style="border:2px solid #0A0B30; width:400px;height:260px;" src="/images/CCA/dance%201.jpg"><img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/CCA/dance%202.jpg">
+<img style="border:2px solid #0A0B30; width:400px;height:260px;" src="/images/CCA/dance%201.jpg"><br><img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/CCA/dance%202.jpg">
 <h3>DRAMA CLUB</h3><p align="justify">
 Drama Club aims to develop confident speakers and performers. Our members get to explore creative expression through theatrical techniques such as mime, physical theatre, role playing, characterisation, improvisation, voice projection and spatial awareness.</p>
 <p align="justify">

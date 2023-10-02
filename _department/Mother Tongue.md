@@ -16,7 +16,7 @@ We believe that every child can learn. The BTPS MT teachers sees every BTPS pupi
 <h2><i>Key Programmes</i></h2>
 <h3><u>Reading Programme</u></h3><p align="justify">
 We aim to build a strong foundation and nurture the love of Mother Tongue in our students through reading. Our Reading Programme includes “Visit the Library”, “School Based Reading Activities” and “SLS Reading Mums &amp; Dads”. Every year, students will be introduced to the new books in the school library collection. </p><p></p>
-<center><img style="border:2px solid #0A0B30;width:300px;height:360px;" src="/images/reading%20programme%201.jpg"><strong>Buddy Support Programme</strong></center><center><img style="border:2px solid #0A0B30;width:300px;height:360px;" src="/images/reading%20programme%202.png"><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/reading%20programme%203.jpg"><strong>Introducing new books in the library</strong></center>
+<center><img style="border:2px solid #0A0B30;width:300px;height:360px;" src="/images/reading%20programme%201.jpg"><strong>Buddy Support Programme</strong></center><center><img style="border:2px solid #0A0B30;width:300px;height:360px;" src="/images/reading%20programme%202.png"><br><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/reading%20programme%203.jpg"><strong>Introducing new books in the library</strong></center>
 <p align="jusitfy">“SLS Reading Mums &amp; Dads” is a collaboration between parents and teachers where our supportive Reading Mums and Reading Dads will read Chinese story books to our students online. Teachers will create online activities like Kahoot and Drawing to further stimulate the interest of our students.</p>
 
 <h3><u>World Book Day</u></h3><p align="justify">In conjunction with World Book Day, we organised a series of activities to encourage our students to discover the pleasure of reading. Activities include visiting the MOLLY bus by National Library Board, picture book introduction and presentation by a renowned local author and performances put up by teachers. Students engage in classroom activities to create their own books and Malay students get to dress up as their favourite characters from the book. Our school also hosted a book fair from a local publisher. </p>
@@ -37,13 +37,13 @@ We aim to build a strong foundation and nurture the love of Mother Tongue in our
 <iframe src="https://www.youtube.com/embed/m5pR2UjpHE" height="400" width="500">
 </iframe>
 <h3><u>Learning Journeys</u></h3><p align="justify">On 9th May 2023, our Primary Four students visited  SINGAPORE HOKKIEN HUAY KUAN CULTURAL ACADEMY  for a live drama experience  where they were immersed  in a thought-provoking performance put up by a local theatre company. </p><center>
-<img style="border:2px solid #0A0B30;width:360px;height:200px;" src="/images/p004lj.png"><img style="border:2px solid #0A0B30;width:360px;height:280px;" src="/images/lj0002.jpeg"><strong>Primary 4 Learning Journey to Singapore Hokkien Huay Kwan Cultural Academy</strong> </center>
+<img style="border:2px solid #0A0B30;width:360px;height:200px;" src="/images/p004lj.png"><br><img style="border:2px solid #0A0B30;width:360px;height:280px;" src="/images/lj0002.jpeg"><strong>Primary 4 Learning Journey to Singapore Hokkien Huay Kwan Cultural Academy</strong> </center>
 
 <h2><i>Competitions</i></h2>
 <h3><u>Goodtalk “Global Village” Children &amp; Youth Bilingual Speech Convention</u></h3><p align="justify">We aim to cultivate student appreciation of their Mother Tongue through positive experiences. In order to provide these experiences, for the third year in a row, our school has participated in the Goodtalk “Global Village” Children &amp; Youth Bilingual Speech Convention.
 This competition cum convention is a semi-official activity organised by China in collaboration with countries like Australia, the United States, Denmark, Japan and Singapore. It aims to promote Chinese and English language among young second language users. Through speech competitions and exchange activities, it also serves to deepen the learning and understanding of each other’s cultures.
  </p>
-<center><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/good%20talk.jpeg"><img style="border:2px solid #0A0B30;width:360px;height:200px;" src="/images/good%20talk%201.jpeg"><strong>14th Goodtalk “Global Village” Children &amp; Youth Bilingual Speech Convention</strong></center>
+<center><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/good%20talk.jpeg"><br><img style="border:2px solid #0A0B30;width:360px;height:200px;" src="/images/good%20talk%201.jpeg"><strong>14th Goodtalk “Global Village” Children &amp; Youth Bilingual Speech Convention</strong></center>
 
 
 <h3><u>Pongalo Pongal 2023</u></h3>
