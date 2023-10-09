@@ -553,10 +553,7 @@ description: ""
     </tr>
 
 <tr><td colspan="4"><b>NCS/ Desktop Engineer</b></td></tr>
- <tr>
-      <td rowspan="2"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm sadhiya.jpg"></td>
-      <td colspan="4">Mdm Sadhiya  </td>
-    </tr><tr><td colspan="4"><b>NCS/ Desktop Engineer</b></td></tr>
+
 <tr>
       <td rowspan="2"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm irene chionh.jpg"></td>
       <td colspan="4">Mdm Irene Chionh  </td>
