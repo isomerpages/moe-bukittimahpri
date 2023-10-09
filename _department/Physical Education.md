@@ -31,5 +31,10 @@ We recognise and groom pupil leadership through PE lessons. Selected pupils unde
 For children to grow well and have the energy to enjoy school and leisure. we aim to teach our pupils how to balance a healthy diet, good sleeping habits and sufficient physical activity. Through experiential learning, talks and other activities, BTPS pupils will develop the awareness, knowledge and desire to lead a healthy and active lifestyle beyond primary school. 
 
 <h3>Sports Boy and Sports Girl of the Year</h3> 
-The BTPS Sports Boy and Sports Girl Awards are given annually to two graduating pupils who have demonstrated the ideals of sportsmanship, by showcasing the school values of Graciousness, Respect, Resilience, Adaptability, Compassion and Integrity in their CCAs and represented BTPS in a <b>school-organised CCA</b> at a zonal or national level competition, i.e, the National School Games. The pupil athlete will be selected from the Primary 6 level by their CCA teachers for the year. 
+The BTPS Sports Boy and Sports Girl Awards are given annually to two graduating pupils who have demonstrated the ideals of sportsmanship, by showcasing the school values of Graciousness, Respect, Resilience, Adaptability, Compassion and Integrity in their CCAs and represented BTPS in a <b>school-organised CCA</b> at a zonal or national level competition, i.e, the National School Games. The pupil athlete will be selected from the Primary 6 level by their CCA teachers for the year.
 
+<b><u>Through our Science programme, BTPS pupils will: </u></b><br>
+•	 Construct their own understanding about Science topics.<br>
+•	 Connect scientific concepts to daily living and decision making.<br>
+• 	Demonstrate “Ways of Thinking and Doing in Science” through Investigating, Evaluating, Reasoning and Developing and Evaluating Solutions. <br>
+•	 Develop the character strength of Resilience.
