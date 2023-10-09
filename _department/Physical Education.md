@@ -38,3 +38,30 @@ The BTPS Sports Boy and Sports Girl Awards are given annually to two graduating 
 •	 Connect scientific concepts to daily living and decision making.<br>
 • 	Demonstrate “Ways of Thinking and Doing in Science” through Investigating, Evaluating, Reasoning and Developing and Evaluating Solutions. <br>
 •	 Develop the character strength of Resilience.
+
+
+<table style="border:2px solid #0A0B30">
+<tbody>
+<tr>
+<td style="border:2px solid #0A0B30; background-color:#8EAADB; text-align: center; width:25%"><strong>PE Teaching and Learning Syllabus</strong> </td><td style="border:2px solid #0A0B30; background-color:#8EAADB; text-align: center; width:25%"><strong>Key Programmes</strong>
+</td></tr>
+<tr>
+<td style="border:2px solid #0A0B30; vertical-align: middle;" rowspan="2">
+• Games &amp; Sports - Fundamental Motor Skills and Concepts <br>(P1 – P2)<br>
+• Games &amp; Sports<br>
+• Dance<br>
+• Gymnastics<br>
+• Outdoor Education<br>
+• Athletics (P4 -P6)<br>
+• Physical Health &amp; Fitness<br>
+</td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;">
+• Lower Primary Games Day (P1, P2)<br>
+•	Games Carnival (P3 – P6)<br>
+•	Sports Education Program (SEP)<br>
+•	National Physical Fitness Award Test (NAPFA) (P4 &amp; P6)<br>
+•	Residential Camp<br>
+•	P5 Adventure Camp<br>
+•	Swimsafer Programme<br>
+•	Book Free Day (Student Initiated Learning – Physical Education)
+<br></td></tr></tbody></table>
