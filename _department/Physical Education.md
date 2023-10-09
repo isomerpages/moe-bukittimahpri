@@ -31,7 +31,7 @@ description: ""
 <p align="justify">For children to grow well and have the energy to enjoy school and leisure. we aim to teach our pupils how to balance a healthy diet, good sleeping habits and sufficient physical activity. Through experiential learning, talks and other activities, BTPS pupils will develop the awareness, knowledge and desire to lead a healthy and active lifestyle beyond primary school. </p>
 
 <h3>Sports Boy and Sports Girl of the Year</h3> 
-<p align="justify">The BTPS Sports Boy and Sports Girl Awards are given annually to two graduating pupils who have demonstrated the ideals of sportsmanship, by showcasing the school values of Graciousness, Respect, Resilience, Adaptability, Compassion and Integrity in their CCAs and represented BTPS in a <b>school-organised CCA</b> at a zonal or national level competition, i.e, the National School Games. The pupil athlete will be selected from the Primary 6 level by their CCA teachers for the year.</p>
+<p align="justify">The BTPS Sports Boy and Sports Girl Awards are given annually to two graduating pupils who have demonstrated the ideals of sportsmanship, by showcasing the school values of Graciousness, Respect, Resilience, Adaptability, Compassion and Integrity in their CCAs and represented BTPS in a <b>school-organised CCA</b> at a zonal or national level competition, i.e, the National School Games. The pupil athlete will be selected from the Primary 6 level by their CCA teachers for the year.
 
 <table style="border:2px solid #0A0B30">
 <tbody>
@@ -57,4 +57,4 @@ description: ""
 •	P5 Adventure Camp<br>
 •	Swimsafer Programme<br>
 •	Book Free Day (Student Initiated Learning – Physical Education)
-<br></td></tr></tbody></table>
+<br></td></tr></tbody></table></p>
