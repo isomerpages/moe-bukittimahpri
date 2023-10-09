@@ -54,7 +54,7 @@ description: ""
 </td></tr>
 <tr>
 <td style="border:2px solid #0A0B30; vertical-align: middle;" rowspan="2">
-• Games &amp; Sports - Fundamental Motor Skills and Concepts <br>(P1 – P2)<br>
+• Games &amp; Sports - Fundamental Motor Skills <br>and Concepts (P1 – P2)<br>
 • Games &amp; Sports<br>
 • Dance<br>
 • Gymnastics<br>
@@ -66,7 +66,7 @@ description: ""
 • Lower Primary Games Day (P1, P2)<br>
 •	Games Carnival (P3 – P6)<br>
 •	Sports Education Program (SEP)<br>
-•	National Physical Fitness Award Test (NAPFA) (P4 &amp; P6)<br>
+•	National Physical Fitness Award Test <br>(NAPFA) (P4 &amp; P6)<br>
 •	Residential Camp<br>
 •	P5 Adventure Camp<br>
 •	Swimsafer Programme<br>
