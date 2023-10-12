@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 <a href="https://go.gov.sg/pat2024">
 <img src="/images/pat%202024.gif">
 </a>
