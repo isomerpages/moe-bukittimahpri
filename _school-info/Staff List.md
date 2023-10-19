@@ -196,7 +196,7 @@ description: ""
     <td>3_Graciousness</td>
     <td>Mdm Rosna Bte Hussein</td>
     <td align="right">305</td>
-    <td><a href="mailto:rosna_bte_hussein@moe.edu.sg">rosna_bte_hussein@moe.edu.sg</a></td>
+    <td><a href="mailto:rosna_bte_hussein@moe.edu.sg">rosna_hussein@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>3_Graciousness</td>
