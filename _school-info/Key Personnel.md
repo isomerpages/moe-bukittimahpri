@@ -233,9 +233,8 @@ sangitah_jayaseelan@moe.edu.sg</a></td>
   </tr>
 <tr>
       <td colspan="2"><b>SCHOOL ADMIN TEAM (SAT) </b></td></tr>
-   
- <tr>
-       <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm nurhayati bte rahmat.jpeg"></td>
+  <tr>
+       <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20nurhayati.jpg"></td>
       <td>Mdm Nurhayati Bte Rahmat</td>
     </tr>
 <tr><td><b>Admin Manager</b></td></tr>
@@ -244,7 +243,7 @@ sangitah_jayaseelan@moe.edu.sg</a></td>
 </a></td>
     </tr>
 <tr>
-       <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mr samales kuppusamy.jpeg"></td>
+       <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/mr%20samales%20m%20kuppusamy.jpg"></td>
       <td>Mr Samales Kuppusamy</td>
     </tr>
 <tr><td><b>Operations Manager</b></td></tr>
