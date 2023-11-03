@@ -2,6 +2,7 @@
 title: Briefing
 permalink: /info-for-parents/briefing/
 description: ""
+variant: markdown
 ---
 <h3>BRIEFING SLIDES FOR PARENTS YEAR 2023</h3>
 
@@ -25,6 +26,12 @@ description: ""
 [Pri 3 Science](/files/2023/P3%20Science.pdf)
 
 <b>[ Cohort Briefing for Primary Four parents ]</b><br> 
+[Cohort Briefing on
+Subject-based
+Banding 2023](/files/2023/briefing%20on%20sbb%20-%202%20nov.pdf) <i>updated on 3/11/2023</i>
+
+[]()
+
 [School Leader's sharing for Pri 4 parents](/files/2023/Cohort%20Briefing%20for%20P4%20Parents.pdf)
 
 [Pri 4 English Language](/files/2023/P4%20EL.pdf)
