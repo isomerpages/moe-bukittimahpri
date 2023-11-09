@@ -2,6 +2,7 @@
 title: Staff List
 permalink: /staff/staff-list/
 description: ""
+variant: markdown
 ---
 <table cellspacing="0" cellpadding="0" style="color:#191970;">
   <colgroup><col width="119">
@@ -475,12 +476,7 @@ description: ""
     <td align="right">375</td>
      <td><a href="mailto:ng_kim_chwee@moe.edu.sg">ng_kim_chwee@moe.edu.sg</a></td>
   </tr>
-<tr>
-    <td>FAJT</td>
-    <td>Ms Dina Maheswary</td>
-    <td align="right">376</td>
-     <td><a href="mailto:dina_maheswary_s_devarajan@moe.edu.sg">dina_maheswary_s_devarajan@moe.edu.sg</a></td>
-  </tr>
+
 
 <tr>
     <td>&nbsp;</td>
