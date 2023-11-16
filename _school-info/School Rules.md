@@ -88,10 +88,54 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li><p align="justify">All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others. </p></li></ul>
 <h5>5.	Respect for the environment</h5>
 <ul style="list-style-type: disc;">
-<li><p align="justify">Students are to ensure a clean and conducive environment by cleaning up after themselves and picking up any litter around them.
-</p></li><li><p align="justify">Students are to maintain a clean and hygienic classroom environment. 
-</p></li><li><p align="justify">Assigned classroom cleaning duties are to be completed daily.
-</p></li><li><p align="justify">Students are to return their crockery and utensils to the respective receptacles after eating in the school canteen.
-</p></li><li><p align="justify">Students are to ensure that they do not deliberately or accidentally tamper with or damage school or public property. Any act of vandalism whether deliberate or accidental will be considered a major offence. 
-</p></li>
+<li><p align="justify">Students are to maintain a clean and hygienic classroom environment. </p></li>
+<li><p align="justify">Assigned classroom cleaning duties are to be completed daily.</p></li>
+<li><p align="justify">Students are to return their crockery and utensils to the respective receptacles after eating in the school canteen.</p></li>
+<li><p align="justify">Students are to ensure that they do not deliberately or accidentally tamper with or damage school or public property. Any act of vandalism whether deliberate or accidental will be considered a major offence. </p></li></ul>
+<h5>6.	Learning Behaviours</h5>
+<ul style="list-style-type: disc;">
+<li><p align="justify">Students are expected to be ready for lessons/activity/CCA by ensuring that they have the necessary materials, stationery, attire and/or equipment.</p></li>
+<li><p align="justify">Students are to greet their teachers at the start and end of the lesson/activity/CCA.</p></li>
+<li><p align="justify">Students are expected to pay attention and participate actively in the lesson/activity/CCA. </p></li>
+<li><p align="justify">Students are expected to complete and submit their classwork, assignments, and homework on time.</p></li>
+<li><p align="justify">They should record any homework, assignments, and upcoming tests/assessments in the BT Kit. </p></li></ul>
+
+<h5>7. Use of Technology including mobile phones</h5>
+<ul style="list-style-type: disc;">
+<li><p align="justify">Use of technology in the classroom should only take place under the supervision of a teacher/school staff. The use should be limited to the purpose of the lesson activity. </p></li>
+<li><p align="justify">Students may only use their mobile devices and smart watches for the purpose of contacting their parents/guardians after classes, CCAs or other school activities. The device may only be used at the waiting area near the security post at dismissal or with teacher’s permission and supervision in other parts of the school.</p></li>
+<li><p align="justify">At all other times, the phone must be switched off and not be visible. Mobile devices will be confiscated if they are spotted by any school staff regardless of whether they are in use.</p></li>
+<li><p align="justify">Mobile devices including smart watches are to be submitted to the school during national examinations and to be left in the school bags away from the student during any other assessment. Any devices spotted on or around the student during assessment will be confiscated and considered a cheating attempt. (Refer to examination conduct and behaviour for details)</p></li></ul>
+<h5>8.	Other Major Offences</h5>
+<ul style="list-style-type: disc;">
+<li><p align="justify">The school takes a serious view of the following acts which are considered major offences regardless of whether they take place in school or outside of school.</p></li>
+<li><p align="justify">Arson – Student plants explosives or sets fire to school/public property, whether attempted or actual.</p></li>
+<li><p align="justify">Gambling – Student is found playing cards or betting on games, regardless of whether money is involved.</p></li>
+<li><p align="justify">Smoking/Vaping – Student is found using/possessing/distributing/selling/buying tobacco products such as cigarettes/e-vaporisers/lighters/matches.</p></li>
+<li><p align="justify">Substance Abuse – Student is found using/possessing/distributing/selling/buying alcohol/drugs/inhalants.</p></li>
+<li><p align="justify">Selling/Trading of items
+</p><ul><li><p align="justify">Student is found selling/trading any items/products/services among students. </p></li></ul>
+</li><li><p align="justify">Undesirable Materials/Toys and Unauthorised Devices </p></li></ul>
+<ul><ul><li><p align="justify">	Student is found using/possessing/distributing/selling/buying undesirable materials/toys in school or outside of school. Examples include but are not limited to physical and digital form of items such as trading cards, playing cards and pornographic materials.</p></li>
+<li><p align="justify">Student is found using/possessing/distributing/selling/buying electronic devices (other than the electronic dictionary and scientific calculator required for learning and assessment).</p></li>
+<li><p align="justify">Student is found using/possessing/distributing/selling/buying toys and games in school. Examples include but are not limited to trading cards and toys such as slime.</p></li></ul></ul>
+<h5>9.	Exam Conduct and Behaviour</h5>
+<ul style="list-style-type: disc;">
+<p align="justify">Students are expected to familiarise themselves with all pertinent information about the examinations and to adhere to the following rules of examination conduct.  </p>
+<li><p align="justify">Reporting time for school is as usual during examination days. No extra time will be given for latecomers.</p></li>
+<li><p align="justify">There will be no re-sitting of examination papers for students who are absent.  Any student who is absent from any paper should produce a valid medical certificate.  This should be submitted to his/her Form Teacher as soon as the student returns to school.</p></li>
+<li><p align="justify">Students are not allowed to bring to the examination room, any notes, drawings, pictures, tracings, books etc, other than those specially permitted by the examiner/invigilator. </p></li>
+<li><p align="justify">Handphones and any other electronic devices e.g. smart watches and google glasses are also not allowed. </p></li>
+<li><p align="justify">Students are not allowed to interact/pass anything to anyone during the examination.  No borrowing of items will be allowed.  </p></li>
+<li><p align="justify">Students are not allowed to communicate with each other in the examination venue. </p></li>
+<li><p align="justify">Any students who wish to communicate with an invigilator must remain seated and raise his/her hand. Note that no questions on the meaning or interpretation of an examination question will be answered.</p></li>
+<li><p align="justify">Students are to avoid going to the toilet during examination. They will not be allowed to refill their bottles during examination. It should be done before the examination.</p></li>
+<li><p align="justify">Students are expected to know and adhere to all examination rules.</p></li>
+<li><p align="justify">A student who is guilty of improper conduct or misbehaviour during the examination will be subjected to disciplinary consequences.</p></li>
+<li><p align="justify">Student who is caught cheating during any test/examination may be given zero mark for that paper and a “Poor” conduct grade for the semester. </p></li>
+<li><p align="justify">	Examples of cheating/attempting to cheat may include:</p></li>
+<ul><li><p align="justify">Possessing notes or other prohibited items, copying from others, allowing others to copy, tampering with marks. </p></li>
+<li><p align="justify">	Student is found to be in possession of any communication equipment such as handphone or smart watches.</p></li>
+<li><p align="justify">	Forgery – Student imitates someone else’s signature or alters any form of writing without permission and with the intention to deceive. This includes altering grades/answers/teacher’s marking for assignments and assessments.  </p></li></ul>
+
 </ul></ul>
