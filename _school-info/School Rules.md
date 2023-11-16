@@ -28,7 +28,23 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li><p align="justify">Please see table 2.1 for valid reasons for absence.  Do email your child/ward’s form teacher if you require any clarification. </p></li>
 <li><p align="justify"> Student will be considered as playing truant under the following circumstances:</p></li></ul>
 <ul><ul><li><p align="justify">Student is absent from school/lesson/CCA/any other school activity without a medical certificate or valid reason or did not seek prior permission from the teacher-in-charge for the absence. </p></li><li>Student leaves the school grounds after reporting but before the end of the school day, without seeking approval from the teachers and the General Office.<p></p> </li></ul></ul>
-<h3>table</h3>
+
+<table style="border:2px solid #0A0B30">
+<tbody><tr>
+<td style="border:2px solid #0A0B30"><b>Valid Reasons for Absence </b> </td><td style="border:2px solid #0A0B30"><b>Examples</b> </td></tr><tr>
+<td style="border:2px solid #0A0B30">Absent with MC</td><td style="border:2px solid #0A0B30">
+<ul><li>Medical leave </li>
+<li>Hospitalisation leave</li> 
+<li>Tested Positive through COVID testing – Parents/Guardians to provide a picture of a positive test result. </li></ul>
+
+ </td></tr><tr>
+<td style="border:2px solid #0A0B30">Absent with Valid Reason (VR) – Up to five occasions a semester.  </td><td style="border:2px solid #0A0B30">
+<ul><li>Medical</li>
+<li>Bereavement or serious illness of a family member</li>
+<li>Personal or family commitments</li>
+<li>Extenuating circumstances</li></ul>
+ </td></tr></tbody></table>
+<p align="justify">The school will assess each application on a case-by-case basis. Parents/Guardians are advised to write in via email to your child/ward’s Form Teacher in advance where possible.  Do note that family holidays during school days will not be considered a valid reason.</p>
 
 <b>2.2 Late Coming</b><ul style="list-style-type: disc;">
 <li><p align="justify">Students are to be in school by <strong>7.30 am</strong> on school days.</p></li>
@@ -143,11 +159,50 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <p align="justify">A student who repeatedly acts in defiance of the school rules and ignores the instructions from teachers and school staff will be considered recalcitrant.</p>
 
 <h5>Major Offences</h5>
-<h2>table</h2>
+<table style="border:2px solid #0A0B30">
+<tbody><tr>
+<td style="border:2px solid #0A0B30"><b>Category </b> </td><td style="border:2px solid #0A0B30"><b>Offence</b> </td></tr>
+<tr><td style="border:2px solid #0A0B30">Attendance and Late Coming</td><td style="border:2px solid #0A0B30">
+<ul><li>Truancy</li>
+<li>Persistent late coming (more than 5 times a term)</li>
+<li>Leaving school without permission</li>
+<li>	Wilful absenteeism</li>
+<li>Other related offences</li></ul>
 
-| Category | Offence | 
-| -------- | -------- | -------- |
-| Text     | Text     | 
+ </td></tr>
+<tr><td style="border:2px solid #0A0B30">Conduct</td><td style="border:2px solid #0A0B30">
+<ul><li>Open Defiance/ Rudeness</li>
+<li>Disruptive behaviour</li>
+<li>Cheating during assessment</li>
+<li>Forgery</li>
+<li>Harassment/ Bullying</li>
+<li>Being a public nuisance</li>
+<li>Other serious misconduct as defined by the school</li></ul>
+ </td></tr>
+
+<tr>
+<td style="border:2px solid #0A0B30">Theft/Damage of Property</td><td style="border:2px solid #0A0B30">
+<ul><li>Arson / Mischief with fire</li>
+<li>Theft / Stealing</li>
+<li>Vandalism / Damage of school property</li>
+<li>Other related offences</li></ul>
+ </td></tr>
+
+<tr>
+<td style="border:2px solid #0A0B30">Other Major Offences</td><td style="border:2px solid #0A0B30">
+<ul><li>Abuse of technology</li>
+<li>Smoking/Vaping</li>
+<li>Gambling</li>
+<li>Gangsterism</li>
+<li>Extortion</li>
+<li>Possession of unauthorized items/weapons/pornographic materials</li>
+<li>Substance abuse</li>
+<li>Illegal assembly with intention to cause hurt</li>
+<li>Trespassing</li></ul>
+ </td></tr>
+
+
+</tbody></table>
 
 <p align="justify">All acts of misbehaviour will first be addressed by the teacher/school staff. Repeated offences and/or recalcitrant behaviour will be escalated progressively to the Student Management Committee (SMC), Student Development Committee (SDT) and School Leaders.  Parents/Guardians may be called in at any of these junctures to support your child/ward’s learning and growth. </p>
 <p align="justify">Students who repeatedly misbehave in defiance of the school rules or who commit a major offence will be given first a verbal warning and if the misbehaviour is not addressed or is repeated, a written warning from the Principal.  Conduct grade for the semester will be a Fair or Poor under these circumstances.  Any “Fair” or “Poor” rating for conduct will render the student ineligible for Edusave Awards.</p>
