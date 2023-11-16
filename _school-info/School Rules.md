@@ -64,5 +64,34 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li><p align="justify">Hair accessories should be simple and in either black or dark blue.</p></li></ul>
 <h3>Girl photo</h3>
 <h5>4.	Respect for others</h5>
-<b>3.1 Uniform</b><ul style="list-style-type: disc;">
-<li><p align="justify">Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. The first row depicts the formal school uniform and the second row, the PE attire.</p></li></ul></ul>
+<b>4.1 Conduct and Behaviour</b><ul style="list-style-type: disc;">
+<li><p align="justify">Students are expected to treat their class/school mates, teachers, and the school staff as well as members of the public with respect and graciousness.</p></li>
+<li><p align="justify">Students should know and abide by the school rules and obey instructions.</p></li>
+<li><p align="justify">Students are expected to support their teachers, school staff and others by always behaving appropriately.  They should also encourage their class/school mates to do the same.</p></li>
+<li><p align="justify">Disruptive behaviour during lessons, school activities and CCAs will be addressed, and consequences meted out to recalcitrant students. </p></li>
+<li><p align="justify">Misbehaviour outside of the school will be subjected to disciplinary consequences and has an implication on the conduct grade.  </p></li>
+<li><p align="justify">Students are to be mindful of their speech and actions and are not to use coarse or offensive language and/or actions under any circumstances.</p></li></ul>
+<b>4.2 Bullying</b><ul style="list-style-type: disc;">
+<li><p align="justify">The school does not condone bullying behaviours of any kind and will take action against the perpetrator(s). </p></li>
+<li><p align="justify">Students are strongly encouraged to report such behaviour whether as victims or as upstanders. </p></li>
+<li><p align="justify">Bullying behaviour involves repeated or persistent behaviours in the form of physical, verbal, social and/or cyber in nature, when a student uses strength, influence or words to intimidate others, force them to do something or to cause harm, distress, or humiliation.  </p></li>
+<li><p align="justify">Cyberbullying occurs when a student uses technology to perpetuate bullying behaviours.  This includes but is not limited to the following:</p></li>
+<ul><li><p align="justify">Impersonating or misusing another person’s account.</p></li>
+<li><p align="justify">Sending viral links. </p></li>
+<li><p align="justify">Communicating hostile, aggressive, or intimidating messages, images or videos with the intent to inflict harm or discomfort towards others. </p></li>
+<li><p align="justify">Taking and/or sharing photos and videos without permission. </p></li>
+</ul></ul>
+<b>4.3 Aggression and Weapons</b><ul style="list-style-type: disc;">
+<li><p align="justify">The school does not condone acts of aggression under any circumstances. </p></li>
+<li><p align="justify">Assault occurs when a student attacks others such as students or school staff, regardless of whether there is an injury, trigger or provocation.</p></li>
+<li><p align="justify">Fighting occurs when a student is involved in a confrontation between individuals or opposing groups, when one or both sides attempt to harm or gain power over the other using bodily force or weapons.</p></li>
+<li><p align="justify">All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others. </p></li></ul>
+<h5>5.	Respect for the environment</h5>
+<ul style="list-style-type: disc;">
+<li><p align="justify">Students are to ensure a clean and conducive environment by cleaning up after themselves and picking up any litter around them.
+</p></li><li><p align="justify">Students are to maintain a clean and hygienic classroom environment. 
+</p></li><li><p align="justify">Assigned classroom cleaning duties are to be completed daily.
+</p></li><li><p align="justify">Students are to return their crockery and utensils to the respective receptacles after eating in the school canteen.
+</p></li><li><p align="justify">Students are to ensure that they do not deliberately or accidentally tamper with or damage school or public property. Any act of vandalism whether deliberate or accidental will be considered a major offence. 
+</p></li>
+</ul></ul>
