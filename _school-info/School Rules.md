@@ -137,5 +137,30 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <ul><li><p align="justify">Possessing notes or other prohibited items, copying from others, allowing others to copy, tampering with marks. </p></li>
 <li><p align="justify">	Student is found to be in possession of any communication equipment such as handphone or smart watches.</p></li>
 <li><p align="justify">	Forgery – Student imitates someone else’s signature or alters any form of writing without permission and with the intention to deceive. This includes altering grades/answers/teacher’s marking for assignments and assessments.  </p></li></ul>
+<h5>10.	Consequences</h5>
+<ul style="list-style-type: disc;">
+<p align="justify">Students who fail to display appropriate behaviour in adherence to the school rules will have their behaviour addressed by a teacher or school staff. Students are expected to correct their behaviour and not repeat the behaviour.</p>
+<p align="justify">A student who repeatedly acts in defiance of the school rules and ignores the instructions from teachers and school staff will be considered recalcitrant.</p>
 
-</ul></ul>
+<h5>Major Offences</h5>
+<h2>table</h2>
+
+| Category | Offence | 
+| -------- | -------- | -------- |
+| Text     | Text     | 
+
+<p align="justify">All acts of misbehaviour will first be addressed by the teacher/school staff. Repeated offences and/or recalcitrant behaviour will be escalated progressively to the Student Management Committee (SMC), Student Development Committee (SDT) and School Leaders.  Parents/Guardians may be called in at any of these junctures to support your child/ward’s learning and growth. </p>
+<p align="justify">Students who repeatedly misbehave in defiance of the school rules or who commit a major offence will be given first a verbal warning and if the misbehaviour is not addressed or is repeated, a written warning from the Principal.  Conduct grade for the semester will be a Fair or Poor under these circumstances.  Any “Fair” or “Poor” rating for conduct will render the student ineligible for Edusave Awards.</p>
+<p align="justify">Students are also expected to make restitution for their misbehaviour through one or more of the following as decided by the school management:</p>
+<li>Verbal or written apologies</li>
+<li>Circle Time with affected parties</li>
+<li>Community Work</li>
+<li>Compensation for the damage/injury</li>
+<li>Suspension from recess, CCA, school activities and/or programmes </li>
+<li>Internal suspension from class</li>
+<li>External suspension from school</li>
+<li>Caning</li>
+<li>Expulsion from school</li>
+<li>Police report and investigation and/or assistance from other external agencies including Health Science Authority (HSA) for smoking/vaping and other tobacco-related offences. The school may escalate the matter to the police and other relevant authorities where necessary for any major offence. </li>
+<li>	Students will be supported to learn the right behaviour by their teachers, the school counsellor, SMC, SDT and/or SLs who will work with the students. </li>
+</ul></ul></ul>
