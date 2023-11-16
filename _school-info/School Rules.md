@@ -162,5 +162,5 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li>Caning</li>
 <li>Expulsion from school</li>
 <li>Police report and investigation and/or assistance from other external agencies including Health Science Authority (HSA) for smoking/vaping and other tobacco-related offences. The school may escalate the matter to the police and other relevant authorities where necessary for any major offence. </li>
-<li>	Students will be supported to learn the right behaviour by their teachers, the school counsellor, SMC, SDT and/or SLs who will work with the students. </li>
-</ul></ul></ul>
+<li>	Students will be supported to learn the right behaviour by their teachers, the school counsellor, SMC, SDT and/or SLs who will work with the students. </li></ul>
+<p align="justify">All students are expected to know and abide by the school rules. They are expected to remind their peers to do the same and report any violation of school rules to their teachers or a school staff. They are not to take matters into their own hands and can speak to a trusted adult when they need support. </p></ul></ul>
