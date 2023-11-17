@@ -75,24 +75,26 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li><p align="justify">Outlandish hairstyles and hair colouring are not allowed. </p></li>
 <li><p align="justify">Students are to wear white/predominantly white school shoes and socks with the school uniform.</p></li>
 <li><p align="justify">Students are to be in the formal school uniform during examinations and formal school events. </p></li></ul>
-<table width="600px" style="border:2px solid #0A0B30">
+<table width="600px">
 <tbody><tr>
-<td style="border:2px solid #0A0B30" colspan="2"><strong>Boys </strong> </td></tr>
+<td><strong>Boys </strong> </td></tr>
 <tr>
-<td style="border:2px solid #0A0B30">
+<td>
 <ul><li><p align="justify">Hair should be short, neat and tidy.  The hair should not touch the eyebrows, ears or shirt collar.  Sideburns are not allowed.</p></li><li><p align="justify">All boys must be clean shaven and no facial hair is allowed. </p></li></ul>
  </td></tr><tr>
-<td><img width="200px" src="/images/boys_hair.jpg"></td></tr>
+<td><img style="width:200px;height:200px;" src="/images/boys_hair.jpg"></td></tr>
 </tbody></table>
-<table width="600px" style="border:2px solid #0A0B30">
+<table>
 <tbody><tr>
-<td style="border:2px solid #0A0B30" colspan="2"><strong>Girls </strong> </td></tr>
+<td><strong>Girls </strong> </td></tr>
 <tr>
-<td style="border:2px solid #0A0B30">
+<td>
 <ul><li><p align="justify">Girls should maintain simple hairstyles.  Hair should not touch the collar or eyebrows.</p></li><li><p align="justify">Longer hair (beyond shoulder length) should be tied up and long fringes clipped. </p></li>
 <li><p align="justify">Hair accessories should be simple and in either black or dark blue.</p></li></ul>
  </td></tr><tr>
-<td><img width="200px" src="/images/girls_hair.jpg"></td></tr>
+<td><img style="width:200px;height:200px;" src="/images/girls_hair.jpg"></td></tr>
+
+
 </tbody></table>
 
 <h5>4.	Respect for others</h5>
