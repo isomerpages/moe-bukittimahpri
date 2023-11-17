@@ -117,8 +117,8 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li><p align="justify">Sending viral links. </p></li>
 <li><p align="justify">Communicating hostile, aggressive, or intimidating messages, images or videos with the intent to inflict harm or discomfort towards others. </p></li>
 <li><p align="justify">Taking and/or sharing photos and videos without permission. </p></li>
-</ul>
-<b>4.3 Aggression and Weapons</b>
+</ul></ul>
+<b>4.3 Aggression and Weapons</b><ul>
 <li><p align="justify">The school does not condone acts of aggression under any circumstances. </p></li>
 <li><p align="justify">Assault occurs when a student attacks others such as students or school staff, regardless of whether there is an injury, trigger or provocation.</p></li>
 <li><p align="justify">Fighting occurs when a student is involved in a confrontation between individuals or opposing groups, when one or both sides attempt to harm or gain power over the other using bodily force or weapons.</p></li>
