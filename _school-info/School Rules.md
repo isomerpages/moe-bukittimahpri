@@ -54,21 +54,14 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <b>3.1 Uniform</b><ul>
 <li><p align="justify">Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. The first row depicts the formal school uniform and the second row, the PE attire.</p></li></ul>
 
-<table style="border:2px solid #0A0B30">
+<table width="600px" style="border:2px solid #0A0B30">
 <tbody><tr>
 <td style="border:2px solid #0A0B30"><b>Girls </b> </td><td style="border:2px solid #0A0B30"><b>Boys</b> </td></tr><tr>
-<td style="border:2px solid #0A0B30">Absent with MC</td><td style="border:2px solid #0A0B30">
-<ul><li>Medical leave </li>
-<li>Hospitalisation leave</li> 
-<li>Tested Positive through COVID testing – Parents/Guardians to provide a picture of a positive test result. </li></ul>
+<td style="border:2px solid #0A0B30"><img src="/images/uniform_front.png"></td><td style="border:2px solid #0A0B30">
+<img src="/images/uniform_boys_front.png">
 
  </td></tr><tr>
-<td style="border:2px solid #0A0B30">Absent with Valid Reason (VR) – Up to five occasions a semester.  </td><td style="border:2px solid #0A0B30">
-<ul><li>Medical</li>
-<li>Bereavement or serious illness of a family member</li>
-<li>Personal or family commitments</li>
-<li>Extenuating circumstances</li></ul>
- </td></tr></tbody></table>
+<td style="border:2px solid #0A0B30"><img src="/images/pe_front.png"></td><td style="border:2px solid #0A0B30"><img src="/images/pe_boys_front.jpg"></td></tr></tbody></table>
 
 <p align="justify">
 </p><ul style="list-style-type: disc;">
@@ -82,11 +75,21 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li><p align="justify">Outlandish hairstyles and hair colouring are not allowed. </p></li>
 <li><p align="justify">Students are to wear white/predominantly white school shoes and socks with the school uniform.</p></li>
 <li><p align="justify">Students are to be in the formal school uniform during examinations and formal school events. </p></li>
+<table width="600px" style="border:2px solid #0A0B30">
+<tbody><tr>
+<td style="border:2px solid #0A0B30" colspan="2"><b>Boys </b> </td></tr>
+<tr>
+<td style="border:2px solid #0A0B30">
+<ul><li><p align="justify">Hair should be short, neat and tidy.  The hair should not touch the eyebrows, ears or shirt collar.  Sideburns are not allowed.</p></li><li><p align="justify">All boys must be clean shaven and no facial hair is allowed. </p></li></ul>
+ </td></tr><tr>
+
+<td><img width="200px" src="/images/boys_hair.jpg"></td></tr>
+</tbody></table>
 <li><p align="justify">Boys </p></li>
 <ul><li><p align="justify">Hair should be short, neat and tidy.  The hair should not touch the eyebrows, ears or shirt collar.  Sideburns are not allowed.</p></li>
 <li><p align="justify">All boys must be clean shaven and no facial hair is allowed. </p></li>
 </ul>
-
+<img width="200px" src="/images/boys_hair.jpg">
 <h3>Boy photo</h3>
 
 <li><p align="justify">Girls </p></li>
