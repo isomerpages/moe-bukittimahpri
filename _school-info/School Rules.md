@@ -117,7 +117,7 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li><p align="justify">Sending viral links. </p></li>
 <li><p align="justify">Communicating hostile, aggressive, or intimidating messages, images or videos with the intent to inflict harm or discomfort towards others. </p></li>
 <li><p align="justify">Taking and/or sharing photos and videos without permission. </p></li>
-</ul></ul>
+</ul>
 <b>4.3 Aggression and Weapons</b><ul>
 <li><p align="justify">The school does not condone acts of aggression under any circumstances. </p></li>
 <li><p align="justify">Assault occurs when a student attacks others such as students or school staff, regardless of whether there is an injury, trigger or provocation.</p></li>
@@ -239,4 +239,4 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li>Expulsion from school</li>
 <li>Police report and investigation and/or assistance from other external agencies including Health Science Authority (HSA) for smoking/vaping and other tobacco-related offences. The school may escalate the matter to the police and other relevant authorities where necessary for any major offence. </li>
 <li>	Students will be supported to learn the right behaviour by their teachers, the school counsellor, SMC, SDT and/or SLs who will work with the students. </li>
-<p align="justify">All students are expected to know and abide by the school rules. They are expected to remind their peers to do the same and report any violation of school rules to their teachers or a school staff. They are not to take matters into their own hands and can speak to a trusted adult when they need support. </p></ul></ul>
+<p align="justify">All students are expected to know and abide by the school rules. They are expected to remind their peers to do the same and report any violation of school rules to their teachers or a school staff. They are not to take matters into their own hands and can speak to a trusted adult when they need support. </p></ul></ul></ul>
