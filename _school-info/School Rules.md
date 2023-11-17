@@ -111,7 +111,7 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li><p align="justify">Students are strongly encouraged to report such behaviour whether as victims or as upstanders. </p></li>
 <li><p align="justify">Bullying behaviour involves repeated or persistent behaviours in the form of physical, verbal, social and/or cyber in nature, when a student uses strength, influence or words to intimidate others, force them to do something or to cause harm, distress, or humiliation.  </p></li>
 <li><p align="justify">Cyberbullying occurs when a student uses technology to perpetuate bullying behaviours.  This includes but is not limited to the following:</p></li>
-<ul><li><p align="justify">Impersonating or misusing another person’s account.</p></li>
+<li><p align="justify">Impersonating or misusing another person’s account.</p></li>
 <li><p align="justify">Sending viral links. </p></li>
 <li><p align="justify">Communicating hostile, aggressive, or intimidating messages, images or videos with the intent to inflict harm or discomfort towards others. </p></li>
 <li><p align="justify">Taking and/or sharing photos and videos without permission. </p></li>
@@ -237,4 +237,4 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li>Expulsion from school</li>
 <li>Police report and investigation and/or assistance from other external agencies including Health Science Authority (HSA) for smoking/vaping and other tobacco-related offences. The school may escalate the matter to the police and other relevant authorities where necessary for any major offence. </li>
 <li>	Students will be supported to learn the right behaviour by their teachers, the school counsellor, SMC, SDT and/or SLs who will work with the students. </li>
-<p align="justify">All students are expected to know and abide by the school rules. They are expected to remind their peers to do the same and report any violation of school rules to their teachers or a school staff. They are not to take matters into their own hands and can speak to a trusted adult when they need support. </p></ul></ul>
+<p align="justify">All students are expected to know and abide by the school rules. They are expected to remind their peers to do the same and report any violation of school rules to their teachers or a school staff. They are not to take matters into their own hands and can speak to a trusted adult when they need support. </p></ul>
