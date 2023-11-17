@@ -77,7 +77,7 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li><p align="justify">Students are to be in the formal school uniform during examinations and formal school events. </p></li></ul>
 <table width="600px" style="border:2px solid #0A0B30">
 <tbody><tr>
-<td style="border:2px solid #0A0B30" colspan="2"><b>Boys </b> </td></tr>
+<td style="border:2px solid #0A0B30" colspan="2"><strong>Boys </strong> </td></tr>
 <tr>
 <td style="border:2px solid #0A0B30">
 <ul><li><p align="justify">Hair should be short, neat and tidy.  The hair should not touch the eyebrows, ears or shirt collar.  Sideburns are not allowed.</p></li><li><p align="justify">All boys must be clean shaven and no facial hair is allowed. </p></li></ul>
@@ -86,7 +86,7 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 </tbody></table>
 <table width="600px" style="border:2px solid #0A0B30">
 <tbody><tr>
-<td style="border:2px solid #0A0B30" colspan="2"><b>Girls </b> </td></tr>
+<td style="border:2px solid #0A0B30" colspan="2"><strong>Girls </strong> </td></tr>
 <tr>
 <td style="border:2px solid #0A0B30">
 <ul><li><p align="justify">Girls should maintain simple hairstyles.  Hair should not touch the collar or eyebrows.</p></li><li><p align="justify">Longer hair (beyond shoulder length) should be tied up and long fringes clipped. </p></li>
@@ -94,10 +94,6 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
  </td></tr><tr>
 <td><img width="200px" src="/images/girls_hair.jpg"></td></tr>
 </tbody></table>
-
-
-
-
 
 <h5>4.	Respect for others</h5>
 <b>4.1 Conduct and Behaviour</b>
