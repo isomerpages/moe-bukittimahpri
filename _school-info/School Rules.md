@@ -21,12 +21,12 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li><p align="justify">Uphold the name and school values by behaving with pride and decorum in and outside of the school.</p></li></ul></ul>
 
 <h5>2. Attendance and Late coming</h5>
-<b>2.1 Attendance</b><ul>
-<li><p align="justify"> All students are expected to be in school every school day.</p></li>
-<li><p align="justify">Absences must be covered by a medical certificate (MC) from a registered medical practitioner.</p></li>
-<li><p align="justify">Absences for other urgent reasons must be covered by a letter from parent/guardian, to be submitted within a week of the absence.  The school will accept up to five letters (one for each occasion) per semester.</p></li>
-<li><p align="justify">Please see table 2.1 for valid reasons for absence.  Do email your child/ward’s form teacher if you require any clarification. </p></li>
-<li><p align="justify"> Student will be considered as playing truant under the following circumstances:</p></li>
+<b>2.1 Attendance</b>
+<ul><li><p align="justify"> All students are expected to be in school every school day.</p></li></ul>
+<ul><li><p align="justify">Absences must be covered by a medical certificate (MC) from a registered medical practitioner.</p></li></ul>
+<ul><li><p align="justify">Absences for other urgent reasons must be covered by a letter from parent/guardian, to be submitted within a week of the absence.  The school will accept up to five letters (one for each occasion) per semester.</p></li></ul>
+<ul><li><p align="justify">Please see table 2.1 for valid reasons for absence.  Do email your child/ward’s form teacher if you require any clarification. </p></li></ul>
+<ul><li><p align="justify"> Student will be considered as playing truant under the following circumstances:</p></li></ul>
 <ul><ul><li><p align="justify">Student is absent from school/lesson/CCA/any other school activity without a medical certificate or valid reason or did not seek prior permission from the teacher-in-charge for the absence. </p></li><li>Student leaves the school grounds after reporting but before the end of the school day, without seeking approval from the teachers and the General Office.<p></p> </li></ul></ul>
 
 <table style="border:2px solid #0A0B30">
@@ -219,4 +219,4 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li>Expulsion from school</li>
 <li>Police report and investigation and/or assistance from other external agencies including Health Science Authority (HSA) for smoking/vaping and other tobacco-related offences. The school may escalate the matter to the police and other relevant authorities where necessary for any major offence. </li>
 <li>	Students will be supported to learn the right behaviour by their teachers, the school counsellor, SMC, SDT and/or SLs who will work with the students. </li></ul>
-<p align="justify">All students are expected to know and abide by the school rules. They are expected to remind their peers to do the same and report any violation of school rules to their teachers or a school staff. They are not to take matters into their own hands and can speak to a trusted adult when they need support. </p></ul></ul></ul></ul>
+<p align="justify">All students are expected to know and abide by the school rules. They are expected to remind their peers to do the same and report any violation of school rules to their teachers or a school staff. They are not to take matters into their own hands and can speak to a trusted adult when they need support. </p></ul></ul></ul>
