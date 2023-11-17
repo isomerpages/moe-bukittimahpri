@@ -89,8 +89,8 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <td style="border:2px solid #0A0B30" colspan="2"><b>Girls </b> </td></tr>
 <tr>
 <td style="border:2px solid #0A0B30">
-<ul><li><p align="justify">Girls should maintain simple hairstyles.  Hair should not touch the collar or eyebrows.</p></li><li><p align="justify">Longer hair (beyond shoulder length) should be tied up and long fringes clipped. </p></li></ul>
-<li><p align="justify">Hair accessories should be simple and in either black or dark blue.</p></li>
+<ul><li><p align="justify">Girls should maintain simple hairstyles.  Hair should not touch the collar or eyebrows.</p></li><li><p align="justify">Longer hair (beyond shoulder length) should be tied up and long fringes clipped. </p></li>
+<li><p align="justify">Hair accessories should be simple and in either black or dark blue.</p></li></ul>
  </td></tr><tr>
 <td><img width="200px" src="/images/girls_hair.jpg"></td></tr>
 </tbody></table>
