@@ -69,12 +69,12 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li><p align="justify">Primary 3 to 6 students may wear the PE t-shirt with the formal uniform bottom (shorts or skirt) if they have PE lessons for the day.  They are to change into PE shorts before the PE lesson and change back to the formal uniform bottom after the PE lesson.</p></li>
 <li>PE t-shirts are to be tucked into the bottom.</li>
 <li><p align="justify">Students will only change into CCA attire after school before the commencement of their CCA session on Tuesdays and/or Fridays where applicable.</p></li></ul>
-<b>3.2 General Appearance</b><ul>
-<li><p align="justify">Fingernails must be kept short and clean, and not be coloured.</p></li>
-<li><p align="justify">Jewellery, ornaments, and other accessories are not permitted.  For safety reasons, girls are only permitted to wear one pair of plain, small, and identical ear studs.  </p></li>
-<li><p align="justify">Outlandish hairstyles and hair colouring are not allowed. </p></li>
-<li><p align="justify">Students are to wear white/predominantly white school shoes and socks with the school uniform.</p></li>
-<li><p align="justify">Students are to be in the formal school uniform during examinations and formal school events. </p></li>
+<b>3.2 General Appearance</b>
+<ul><li><p align="justify">Fingernails must be kept short and clean, and not be coloured.</p></li></ul>
+<ul><li><p align="justify">Jewellery, ornaments, and other accessories are not permitted.  For safety reasons, girls are only permitted to wear one pair of plain, small, and identical ear studs.  </p></li></ul>
+<ul><li><p align="justify">Outlandish hairstyles and hair colouring are not allowed. </p></li></ul>
+<ul><li><p align="justify">Students are to wear white/predominantly white school shoes and socks with the school uniform.</p></li></ul>
+<ul><li><p align="justify">Students are to be in the formal school uniform during examinations and formal school events. </p></li></ul>
 <table width="600px" style="border:2px solid #0A0B30">
 <tbody><tr>
 <td style="border:2px solid #0A0B30" colspan="2"><b>Boys </b> </td></tr>
@@ -100,13 +100,13 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 
 
 <h5>4.	Respect for others</h5>
-<b>4.1 Conduct and Behaviour</b><ul>
-<li><p align="justify">Students are expected to treat their class/school mates, teachers, and the school staff as well as members of the public with respect and graciousness.</p></li>
-<li><p align="justify">Students should know and abide by the school rules and obey instructions.</p></li>
-<li><p align="justify">Students are expected to support their teachers, school staff and others by always behaving appropriately.  They should also encourage their class/school mates to do the same.</p></li>
-<li><p align="justify">Disruptive behaviour during lessons, school activities and CCAs will be addressed, and consequences meted out to recalcitrant students. </p></li>
-<li><p align="justify">Misbehaviour outside of the school will be subjected to disciplinary consequences and has an implication on the conduct grade.  </p></li>
-<li><p align="justify">Students are to be mindful of their speech and actions and are not to use coarse or offensive language and/or actions under any circumstances.</p></li></ul>
+<b>4.1 Conduct and Behaviour</b>
+<ul><li><p align="justify">Students are expected to treat their class/school mates, teachers, and the school staff as well as members of the public with respect and graciousness.</p></li>
+<ul><li><p align="justify">Students should know and abide by the school rules and obey instructions.</p></li></ul>
+<ul><li><p align="justify">Students are expected to support their teachers, school staff and others by always behaving appropriately.  They should also encourage their class/school mates to do the same.</p></li></ul>
+<ul><li><p align="justify">Disruptive behaviour during lessons, school activities and CCAs will be addressed, and consequences meted out to recalcitrant students. </p></li></ul>
+<ul><li><p align="justify">Misbehaviour outside of the school will be subjected to disciplinary consequences and has an implication on the conduct grade.  </p></li></ul>
+<ul><li><p align="justify">Students are to be mindful of their speech and actions and are not to use coarse or offensive language and/or actions under any circumstances.</p></li></ul>
 <b>4.2 Bullying</b>
 <ul>
 <li><p align="justify">The school does not condone bullying behaviours of any kind and will take action against the perpetrator(s). </p></li>
