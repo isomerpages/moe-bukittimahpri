@@ -51,8 +51,8 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <ul><li><p align="justify">Students are also expected to be on time for all lessons, CCAs and other activities.</p></li></ul>
 <ul><li><p align="justify">Students who are late more than 5 times in a term will be subjected to disciplinary consequences.</p></li></ul>
 <h5>3.	Attire and Appearance</h5>
-<b>3.1 Uniform</b><ul>
-<li><p align="justify">Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. The first row depicts the formal school uniform and the second row, the PE attire.</p></li></ul>
+<b>3.1 Uniform</b>
+<li><p align="justify">Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. The first row depicts the formal school uniform and the second row, the PE attire.</p></li>
 
 <table width="600px" style="border:2px solid #0A0B30">
 <tbody><tr>
