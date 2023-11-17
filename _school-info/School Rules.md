@@ -46,15 +46,30 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
  </td></tr></tbody></table>
 <p align="justify">The school will assess each application on a case-by-case basis. Parents/Guardians are advised to write in via email to your child/ward’s Form Teacher in advance where possible.  Do note that family holidays during school days will not be considered a valid reason.</p>
 
-<b>2.2 Late Coming</b><ul>
-<li><p align="justify">Students are to be in school by <strong>7.30 am</strong> on school days.</p></li>
-<li><p align="justify">Students are also expected to be on time for all lessons, CCAs and other activities.</p></li>
-<li><p align="justify">Students who are late more than 5 times in a term will be subjected to disciplinary consequences.</p></li></ul>
+<b>2.2 Late Coming</b>
+<ul><li><p align="justify">Students are to be in school by <strong>7.30 am</strong> on school days.</p></li></ul>
+<ul><li><p align="justify">Students are also expected to be on time for all lessons, CCAs and other activities.</p></li></ul>
+<ul><li><p align="justify">Students who are late more than 5 times in a term will be subjected to disciplinary consequences.</p></li></ul>
 <h5>3.	Attire and Appearance</h5>
 <b>3.1 Uniform</b><ul>
 <li><p align="justify">Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. The first row depicts the formal school uniform and the second row, the PE attire.</p></li></ul>
 
-<h3>photos and tables</h3>
+<table style="border:2px solid #0A0B30">
+<tbody><tr>
+<td style="border:2px solid #0A0B30"><b>Girls </b> </td><td style="border:2px solid #0A0B30"><b>Boys</b> </td></tr><tr>
+<td style="border:2px solid #0A0B30">Absent with MC</td><td style="border:2px solid #0A0B30">
+<ul><li>Medical leave </li>
+<li>Hospitalisation leave</li> 
+<li>Tested Positive through COVID testing – Parents/Guardians to provide a picture of a positive test result. </li></ul>
+
+ </td></tr><tr>
+<td style="border:2px solid #0A0B30">Absent with Valid Reason (VR) – Up to five occasions a semester.  </td><td style="border:2px solid #0A0B30">
+<ul><li>Medical</li>
+<li>Bereavement or serious illness of a family member</li>
+<li>Personal or family commitments</li>
+<li>Extenuating circumstances</li></ul>
+ </td></tr></tbody></table>
+
 <p align="justify">
 </p><ul style="list-style-type: disc;">
 <li><p align="justify">Primary 1 and 2 students may wear PE attire from the start of the day if they have PE/PAL (Outdoor Education, Games &amp; Sports, Dance) lessons. </p></li>
