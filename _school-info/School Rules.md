@@ -82,21 +82,23 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <td style="border:2px solid #0A0B30">
 <ul><li><p align="justify">Hair should be short, neat and tidy.  The hair should not touch the eyebrows, ears or shirt collar.  Sideburns are not allowed.</p></li><li><p align="justify">All boys must be clean shaven and no facial hair is allowed. </p></li></ul>
  </td></tr><tr>
-
 <td><img width="200px" src="/images/boys_hair.jpg"></td></tr>
 </tbody></table>
-<li><p align="justify">Boys </p></li>
-<ul><li><p align="justify">Hair should be short, neat and tidy.  The hair should not touch the eyebrows, ears or shirt collar.  Sideburns are not allowed.</p></li>
-<li><p align="justify">All boys must be clean shaven and no facial hair is allowed. </p></li>
-</ul>
-<img width="200px" src="/images/boys_hair.jpg">
-<h3>Boy photo</h3>
+<table width="600px" style="border:2px solid #0A0B30">
+<tbody><tr>
+<td style="border:2px solid #0A0B30" colspan="2"><b>Girls </b> </td></tr>
+<tr>
+<td style="border:2px solid #0A0B30">
+<ul><li><p align="justify">Girls should maintain simple hairstyles.  Hair should not touch the collar or eyebrows.</p></li><li><p align="justify">Longer hair (beyond shoulder length) should be tied up and long fringes clipped. </p></li></ul>
+<li><p align="justify">Hair accessories should be simple and in either black or dark blue.</p></li>
+ </td></tr><tr>
+<td><img width="200px" src="/images/girls_hair.jpg"></td></tr>
+</tbody></table>
 
-<li><p align="justify">Girls </p></li>
-<ul><li><p align="justify">Girls should maintain simple hairstyles.  Hair should not touch the collar or eyebrows.</p></li>
-<li><p align="justify">Longer hair (beyond shoulder length) should be tied up and long fringes clipped. </p></li>
-<li><p align="justify">Hair accessories should be simple and in either black or dark blue.</p></li></ul>
-<h3>Girl photo</h3>
+
+
+
+
 <h5>4.	Respect for others</h5>
 <b>4.1 Conduct and Behaviour</b><ul>
 <li><p align="justify">Students are expected to treat their class/school mates, teachers, and the school staff as well as members of the public with respect and graciousness.</p></li>
