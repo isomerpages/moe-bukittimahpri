@@ -173,9 +173,9 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li><p align="justify">	Examples of cheating/attempting to cheat may include:</p></li>
 <ul><li><p align="justify">Possessing notes or other prohibited items, copying from others, allowing others to copy, tampering with marks. </p></li>
 <li><p align="justify">	Student is found to be in possession of any communication equipment such as handphone or smart watches.</p></li>
-<li><p align="justify">	Forgery – Student imitates someone else’s signature or alters any form of writing without permission and with the intention to deceive. This includes altering grades/answers/teacher’s marking for assignments and assessments.  </p></li></ul>
+<li><p align="justify">	Forgery – Student imitates someone else’s signature or alters any form of writing without permission and with the intention to deceive. This includes altering grades/answers/teacher’s marking for assignments and assessments.  </p></li></ul></ul>
 <h5>10.	Consequences</h5>
-<ul style="list-style-type: disc;">
+<ul>
 <p align="justify">Students who fail to display appropriate behaviour in adherence to the school rules will have their behaviour addressed by a teacher or school staff. Students are expected to correct their behaviour and not repeat the behaviour.</p>
 <p align="justify">A student who repeatedly acts in defiance of the school rules and ignores the instructions from teachers and school staff will be considered recalcitrant.</p>
 
@@ -239,4 +239,4 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li>Expulsion from school</li>
 <li>Police report and investigation and/or assistance from other external agencies including Health Science Authority (HSA) for smoking/vaping and other tobacco-related offences. The school may escalate the matter to the police and other relevant authorities where necessary for any major offence. </li>
 <li>	Students will be supported to learn the right behaviour by their teachers, the school counsellor, SMC, SDT and/or SLs who will work with the students. </li>
-<p align="justify">All students are expected to know and abide by the school rules. They are expected to remind their peers to do the same and report any violation of school rules to their teachers or a school staff. They are not to take matters into their own hands and can speak to a trusted adult when they need support. </p></ul></ul>
+<p align="justify">All students are expected to know and abide by the school rules. They are expected to remind their peers to do the same and report any violation of school rules to their teachers or a school staff. They are not to take matters into their own hands and can speak to a trusted adult when they need support. </p></ul>
