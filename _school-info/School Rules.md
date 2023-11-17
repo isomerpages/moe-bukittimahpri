@@ -16,9 +16,9 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <br>
   <li>All students are expected to: </li></ul>
 
-<ul><ul><li>Stand at attention during the flag raising ceremony.</li>
-<li>Sing the school song with pride.</li>
-<li><p align="justify">Uphold the name and school values by behaving with pride and decorum in and outside of the school.</p></li></ul></ul>
+<ul><ul><li>Stand at attention during the flag raising ceremony.</li></ul></ul>
+<ul><ul><li>Sing the school song with pride.</li></ul></ul>
+<ul><ul><li><p align="justify">Uphold the name and school values by behaving with pride and decorum in and outside of the school.</p></li></ul></ul>
 
 <h5>2. Attendance and Late coming</h5>
 <b>2.1 Attendance</b>
