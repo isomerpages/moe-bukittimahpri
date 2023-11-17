@@ -122,7 +122,7 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li><p align="justify">The school does not condone acts of aggression under any circumstances. </p></li>
 <li><p align="justify">Assault occurs when a student attacks others such as students or school staff, regardless of whether there is an injury, trigger or provocation.</p></li>
 <li><p align="justify">Fighting occurs when a student is involved in a confrontation between individuals or opposing groups, when one or both sides attempt to harm or gain power over the other using bodily force or weapons.</p></li>
-<li><p align="justify">All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others. </p></li>
+<li><p align="justify">All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others. </p></li></ul></ul>
 <h5>5.	Respect for the environment</h5>
 <ul style="list-style-type: disc;">
 <li><p align="justify">Students are to maintain a clean and hygienic classroom environment. </p></li>
@@ -239,4 +239,4 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li>Expulsion from school</li>
 <li>Police report and investigation and/or assistance from other external agencies including Health Science Authority (HSA) for smoking/vaping and other tobacco-related offences. The school may escalate the matter to the police and other relevant authorities where necessary for any major offence. </li>
 <li>	Students will be supported to learn the right behaviour by their teachers, the school counsellor, SMC, SDT and/or SLs who will work with the students. </li>
-<p align="justify">All students are expected to know and abide by the school rules. They are expected to remind their peers to do the same and report any violation of school rules to their teachers or a school staff. They are not to take matters into their own hands and can speak to a trusted adult when they need support. </p></ul></ul></ul></ul>
+<p align="justify">All students are expected to know and abide by the school rules. They are expected to remind their peers to do the same and report any violation of school rules to their teachers or a school staff. They are not to take matters into their own hands and can speak to a trusted adult when they need support. </p></ul></ul>
