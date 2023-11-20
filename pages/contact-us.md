@@ -8,10 +8,7 @@ locations:
       - "111"
       - Lorong Kismis
       - Singapore 598112
-    operating_hours:
-      - days: Monday - Friday
-        time: 8am - 4pm
-        description: ""
+    operating_hours: []
     maps_link: ""
     title: School Building
 contacts:
@@ -35,4 +32,5 @@ contacts:
       - email: ""
       - other: Bukit Batok MRT <br>Clementi stations
     title: Nearest MRT Stations
+feedback: ""
 ---
