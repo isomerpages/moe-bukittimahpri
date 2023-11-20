@@ -2,7 +2,6 @@ collections:
   school-info:
     output: true
     order:
-      - Contact Us.md
       - Our Vision, Mission and Motto.md
       - Our School Song.md
       - School History.md
@@ -11,4 +10,5 @@ collections:
       - Key Personnel.md
       - Staff List.md
       - School Rules.md
+      - Contact Us.md
       - Vendor Information.md
