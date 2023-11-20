@@ -2,9 +2,9 @@ collections:
   info-for-parents:
     output: true
     order:
-      - Information for Parents/School Vendor Information.md
       - Information for Parents/.keep
       - Information for Parents/Information for Parents.md
+      - Information for Parents/School Vendor Information.md
       - Blended Learning.md
       - Briefing.md
       - Dental Information.md
