@@ -1,7 +1,8 @@
 ---
 title: School Vendor Information
-permalink: /school-info/school-vendor-information/
+permalink: /info-for-parents/school-vendor-information/
 description: ""
+variant: tiptap
 ---
 <table>
 <thead>
