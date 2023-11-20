@@ -4,8 +4,8 @@ permalink: /school-info/contact-us/
 variant: markdown
 description: ""
 ---
-<font color="#232247">Get in touch with</font>  
-<strong>Bukit Timah Primary School</strong>
+<h2><font color="#232247">Get in touch with</font> <br> 
+<strong>Bukit Timah Primary School</strong></h2>
 
 <h3>School Location</h3>
 <strong>111 Lorong Kismis Singapore 598112 </strong>
