@@ -36,7 +36,7 @@ Bukit Timah Primary School</strong></h2>
 <h3>Contact Us</h3>
 <strong>Phone </strong>
 
-[+65 6466 2863](tel:+6564662863)
+<strong>[+65 6466 2863](tel:+6564662863)</strong>
 
 <h3>Mail</h3>
 
