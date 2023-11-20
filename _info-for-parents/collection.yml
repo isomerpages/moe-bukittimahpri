@@ -2,7 +2,6 @@ collections:
   info-for-parents:
     output: true
     order:
-      - School Vendor Information.md
       - Information for Parents/.keep
       - Information for Parents/Information for Parents.md
       - Blended Learning.md
@@ -11,5 +10,6 @@ collections:
       - Parent Support Group | PSG.md
       - Sexuality Education.md
       - School Bus Service.md
+      - School Vendor Information.md
       - Others/.keep
       - Others/Choosing a Secondary School.md
