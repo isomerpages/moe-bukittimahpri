@@ -40,9 +40,9 @@ description: ""
 
 <h3>Mail</h3>
 
-<strong>[+65 6469 2179](tel:+6564692179)
+<strong>[+65 6469 2179](tel:+6564692179)</strong>
 
-[bukittimahps@moe.edu.sg](mailto:bukittimahps@moe.edu.sg)</strong>
+[bukittimahps@moe.edu.sg](mailto:bukittimahps@moe.edu.sg)
 
 <h3>Bus Services</h3>
 <strong>173</strong>
