@@ -14,7 +14,20 @@ description: ""
 
 <h3>Operating Hours</h3>
 
+<table style="border:2px solid #0A0B30">
+<tbody><tr>
+<td style="border:2px solid #0A0B30"><b>BTPS Opening Hours 2023</b> </td><td style="border:2px solid #0A0B30"><b>Term Time</b> </td><td style="border:2px solid #0A0B30"><b>School Holidays</b> </td></tr><tr>
+<td style="border:2px solid #0A0B30">School </td><td style="border:2px solid #0A0B30">
+6am – 7pm</td><td style="border:2px solid #0A0B30">7am - 7pm </td></tr><tr>
+<td style="border:2px solid #0A0B30">General Office</td><td style="border:2px solid #0A0B30">7am – 530pm (Mon to Thur)<br>
+7am – 5pm (Fri)</td><td style="border:2px solid #0A0B30">
+8am – 5pm </td>
+</tr><tr>
+<td style="border:2px solid #0A0B30">Student Care Centre (SCC) </td><td style="border:2px solid #0A0B30">
+11am – 7pm</td><td style="border:2px solid #0A0B30">730am – 7pm </td></tr><tr>
+<td style="border:2px solid #0A0B30" colspan="3">The school is closed on weekends, public holidays, and certain designated school holidays. </td>
 
+ </tr></tbody></table>
 
 
 
