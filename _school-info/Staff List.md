@@ -451,25 +451,6 @@ variant: markdown
     <td align="right">329</td>
     <td><a href="mailto:ng_peng_hwee_b@moe.edu.sg">ng_peng_hwee_b@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>FAJT</td>
-    <td>Mdm Sim Chor Kiang</td>
-    <td align="right">377</td>
-   <td><a href="mailto:sim_chor_kiang_a@moe.edu.sg">sim_chor_kiang_a@moe.edu.sg</a></td>
-  </tr>
-<tr>
-    <td>FAJT</td>
-    <td>Mr Koh James</td>
-    <td align="right">333</td>
-     <td><a href="mailto:koh_thiam_ming@moe.edu.sg">koh_thiam_ming@moe.edu.sg</a></td>
-  </tr>
-<tr>
-    <td>FAJT</td>
-    <td>Mrs Tan Lin Fang</td>
-    <td align="right">380</td>
-     <td><a href="mailto:tan_lin_fang@moe.edu.sg">tan_lin_fang@moe.edu.sg</a></td>
-  </tr>
-  
 <tr>
     <td>FAJT</td>
     <td>Mr Ng Kim Chwee</td>
@@ -534,7 +515,12 @@ variant: markdown
     <tr><td colspan="4">Extension: 802 </td></tr>
 <tr><td colspan="4"><a href="mailto:lim_aik_kun@moe.edu.sg">lim_aik_kun@moe.edu.sg</a></td></tr>
 <tr>
-      <td rowspan="2"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm chor yoon moy.jpg"></td>
+</tr><tr>
+      <td rowspan="4"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/male.png"></td><td colspan="4">Mr Abdul Azahri Sapari </td>
+</tr><tr><td colspan="4"><b>Administrative Executive</b></td></tr>
+    <tr><td colspan="4">Extension: 103 </td></tr>
+<tr><td colspan="4"><a href="mailto:Abdul_Azahri_Sapari_A@moe.edu.sg">Abdul_Azahri_Sapari_A@moe.edu.sg</a></td></tr>
+      <tr><td rowspan="2"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm chor yoon moy.jpg"></td>
       <td colspan="4">Mdm Chor Yoon Moy</td>
     </tr>
 <tr><td colspan="4"><b>Operation Support Officer</b></td></tr>
@@ -547,7 +533,11 @@ variant: markdown
       <td rowspan="2"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mr saufiq.jpg"></td>
       <td colspan="4">Mr Saufiq  </td>
     </tr>
-
+<tr><td colspan="4"><b>NCS/ Desktop Engineer</b></td></tr>
+ <tr>
+      <td rowspan="2"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/male.png"></td>
+      <td colspan="4">Mr Zuhaili   </td>
+    </tr>
 <tr><td colspan="4"><b>NCS/ Desktop Engineer</b></td></tr>
 
 <tr>
