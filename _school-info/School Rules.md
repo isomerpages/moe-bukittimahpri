@@ -24,7 +24,7 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <b>2.1 Attendance</b>
 <ul><li><p align="justify"> All students are expected to be in school every school day.</p></li></ul>
 <ul><li><p align="justify">Absences must be covered by a medical certificate (MC) from a registered medical practitioner.</p></li></ul>
-<ul><li><p align="justify">Absences for other urgent reasons must be covered by a letter from parent/guardian, to be submitted within a week of the absence.  The school will accept up to five letters (one for each occasion) per semester.</p></li></ul>
+<ul><li><p align="justify">Absences for other urgent reasons must be covered by a letter from parent/guardian, to be submitted within a week of the absence.  The school will accept up to <strong>five</strong> letters (one for each occasion) per semester.</p></li></ul>
 <ul><li><p align="justify">Please see table 2.1 for valid reasons for absence.  Do email your child/ward’s form teacher if you require any clarification. </p></li></ul>
 <ul><li><p align="justify"> Student will be considered as playing truant under the following circumstances:</p></li></ul>
 <ul><ul><li><p align="justify">Student is absent from school/lesson/CCA/any other school activity without a medical certificate or valid reason or did not seek prior permission from the teacher-in-charge for the absence. </p></li><li>Student leaves the school grounds after reporting but before the end of the school day, without seeking approval from the teachers and the General Office.<p></p> </li></ul></ul>
@@ -43,8 +43,9 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li>Bereavement or serious illness of a family member</li>
 <li>Personal or family commitments</li>
 <li>Extenuating circumstances</li></ul>
- </td></tr></tbody></table>
 <p align="justify">The school will assess each application on a case-by-case basis. Parents/Guardians are advised to write in via email to your child/ward’s Form Teacher in advance where possible.  Do note that family holidays during school days will not be considered a valid reason.</p>
+ </td></tr></tbody></table>
+
 
 <b>2.2 Late Coming</b>
 <ul><li><p align="justify">Students are to be in school by <strong>7.30 am</strong> on school days.</p></li></ul>
@@ -61,7 +62,10 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <img src="/images/uniform_boys_front.png">
 
  </td></tr><tr>
-<td style="border:2px solid #0A0B30"><img src="/images/pe_front.png"></td><td style="border:2px solid #0A0B30"><img src="/images/pe_boys_front.jpg"></td></tr></tbody></table>
+<td style="border:2px solid #0A0B30"><img src="/images/pe_front.png"></td><td style="border:2px solid #0A0B30"><img src="/images/pe_boys_front.jpg"></td></tr>
+<tr><td colspan="2">
+<img src="/images/school_uniform_logo.png"></td></tr>
+</tbody></table>
 
 <p align="justify">
 </p><ul style="list-style-type: disc;">
