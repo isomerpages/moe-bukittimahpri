@@ -451,25 +451,6 @@ variant: markdown
     <td align="right">329</td>
     <td><a href="mailto:ng_peng_hwee_b@moe.edu.sg">ng_peng_hwee_b@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>FAJT</td>
-    <td>Mdm Sim Chor Kiang</td>
-    <td align="right">377</td>
-   <td><a href="mailto:sim_chor_kiang_a@moe.edu.sg">sim_chor_kiang_a@moe.edu.sg</a></td>
-  </tr>
-<tr>
-    <td>FAJT</td>
-    <td>Mr Koh James</td>
-    <td align="right">333</td>
-     <td><a href="mailto:koh_thiam_ming@moe.edu.sg">koh_thiam_ming@moe.edu.sg</a></td>
-  </tr>
-<tr>
-    <td>FAJT</td>
-    <td>Mrs Tan Lin Fang</td>
-    <td align="right">380</td>
-     <td><a href="mailto:tan_lin_fang@moe.edu.sg">tan_lin_fang@moe.edu.sg</a></td>
-  </tr>
-  
 <tr>
     <td>FAJT</td>
     <td>Mr Ng Kim Chwee</td>
