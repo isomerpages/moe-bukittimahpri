@@ -266,7 +266,7 @@ sangitah_jayaseelan@moe.edu.sg</a></td>
       <td>Mr Goh Ngian Wa</td></tr>
 <tr><td><b>Operations Manager</b></td></tr>
     <tr>
-      <td><a href="mailto:choon_guoxiang_ernest@moe.edu.sg">goh_ngian_wa@schools.gov.sg</a></td>
+      <td><a href="mailto:goh_ngian_wa@schools.gov.sg">goh_ngian_wa@schools.gov.sg</a></td>
     </tr> 
 <tr>
        <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/ictmanager.jpg"></td>
