@@ -2,6 +2,7 @@
 title: Key Personnel
 permalink: /staff/key-personnel/
 description: ""
+variant: markdown
 ---
 <table border="0" width="800">
    <tbody><tr><td colspan="2"><b>PRINCIPAL</b></td></tr>
@@ -21,7 +22,11 @@ description: ""
     <tr><td rowspan="2"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/02vprincipal.jpg"></td>
       <td><b>Mdm Kitha Arumugam</b></td>
     </tr>
-    <tr><td><a href="mailto:Kitha_ARUMUGAM@schools.gov.sg">Kitha_ARUMUGAM@schools.gov.sg</a></td>
+       <tr><td colspan="2"><a href="mailto:Kitha_ARUMUGAM@schools.gov.sg">Kitha_ARUMUGAM@schools.gov.sg</a></td></tr>
+    <tr><td rowspan="2"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/female.png"></td>
+      <td><b>Mdm Lin Shihua Jan</b></td>
+    </tr>
+    <tr><td><a href="mailto:lin_shihua@schools.gov.sg">lin_shihua@schools.gov.sg</a></td>
     </tr>
 <tr>
     <td>&nbsp;</td>
@@ -116,6 +121,12 @@ description: ""
     <tr>
       <td><a href="mailto:suzanna_mohamed_isnin@moe.edu.sg">suzanna_mohamed_isnin@moe.edu.sg</a></td>
     </tr> 
+<tr><td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/male.png"></td>
+      <td>Mr Ernest Choon</td></tr>
+<tr><td><b>HOD/ ICT</b></td></tr>
+    <tr>
+      <td><a href="mailto:choon_guoxiang_ernest@moe.edu.sg">choon_guoxiang_ernest@moe.edu.sg</a></td>
+    </tr> 
 <tr>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -152,7 +163,7 @@ description: ""
        <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/13shict.jpg"></td>
       <td>Mdm Durgadevi d/o Tamil Selvam</td>
     </tr>
-<tr><td><b>SH/ICT - Covering HOD ICT</b></td></tr>
+<tr><td><b>SH/ICT</b></td></tr>
     <tr>
       <td><a href="mailto:durgadevi_tamil_selvam@moe.edu.sg">durgadevi_tamil_selvam@moe.edu.sg</a></td>
     </tr>
@@ -250,6 +261,13 @@ sangitah_jayaseelan@moe.edu.sg</a></td>
     <tr>
       <td><a href="mailto:kuppusamy_m_samales@moe.edu.sg">kuppusamy_m_samales@moe.edu.sg</a></td>
     </tr>
+  
+<tr><td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/male.png"></td>
+      <td>Mr Goh Ngian Wa</td></tr>
+<tr><td><b>Operations Manager</b></td></tr>
+    <tr>
+      <td><a href="mailto:goh_ngian_wa@schools.gov.sg">goh_ngian_wa@schools.gov.sg</a></td>
+    </tr> 
 <tr>
        <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/ictmanager.jpg"></td>
       <td>Mrs Lin Shu Rui</td>
