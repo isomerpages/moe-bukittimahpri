@@ -25,13 +25,7 @@ variant: markdown
     <td align="right">326</td>
     <td><a href="mailto:evelyn_ang_gek_shia@moe.edu.sg">evelyn_ang_gek_shia@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>1_Adaptability</td>
-    <td>Mr Wang Hao</td>
-    <td align="right">355</td>
-    <td><a href="mailto:wang_hao@moe.edu.sg">wang_hao@moe.edu.sg</a></td>
-  </tr>
-  <tr>
+   <tr>
     <td>1_Compassion</td>
     <td>Mrs Iman–Akidah</td>
     <td align="right">324</td>
@@ -277,12 +271,7 @@ variant: markdown
     <td align="right">314</td>
     <td><a href="mailto:yap_poh_keng@moe.edu.sg">yap_poh_keng@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>4_Integrity</td>
-    <td>Mr Jeremy Ho </td>
-    <td align="right">360</td>
-    <td><a href="mailto:ho_jian_xiong@moe.edu.sg">ho_jian_xiong@moe.edu.sg</a></td>
-  </tr>
+  
   <tr>
     <td>4_Respect</td>
     <td>Ms Sharmini d/o Jaya Kumaran<br>(LH/EL) covering</td>
@@ -447,12 +436,6 @@ variant: markdown
   </tr>
 <tr>
     <td>FAJT</td>
-    <td>Mr Ng Peng Hwee</td>
-    <td align="right">329</td>
-    <td><a href="mailto:ng_peng_hwee_b@moe.edu.sg">ng_peng_hwee_b@moe.edu.sg</a></td>
-  </tr>
-<tr>
-    <td>FAJT</td>
     <td>Mr Ng Kim Chwee</td>
     <td align="right">375</td>
      <td><a href="mailto:ng_kim_chwee@moe.edu.sg">ng_kim_chwee@moe.edu.sg</a></td>
@@ -482,6 +465,14 @@ variant: markdown
 <tr><td colspan="4"><b>OPERATIONS MANAGER</b></td></tr>
     <tr><td colspan="4">Extension: 104 </td></tr>
 <tr><td colspan="4"><a href="mailto:kuppusamy_m_samales@moe.edu.sg">kuppusamy_m_samales@moe.edu.sg
+</a></td></tr>
+   <tr>
+      <td rowspan="4"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/male.png"></td>
+      <td colspan="4">Mr Goh Ngian Wa</td>
+    </tr>
+<tr><td colspan="4"><b>OPERATIONS MANAGER</b></td></tr>
+    <tr><td colspan="4">Extension: 104 </td></tr>
+<tr><td colspan="4"><a href="mailto:goh_ngian_wa@schools.gov.sg">goh_ngian_wa@schools.gov.sg
 </a></td></tr>
    <tr>
       <td rowspan="4"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/ictmanager.jpg"></td>
