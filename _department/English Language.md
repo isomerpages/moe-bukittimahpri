@@ -9,7 +9,7 @@ variant: markdown
 
 <h2>Experiential and Extension Learning to STELLAR Units </h2>
 <center><img style="border:2px solid #0A0B30;width:460px;height:400px;" src="/images/pic1_a%20butterfly%20is%20born.jpg"><strong>A Butterfly is Born</strong>
-<img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/pic2%20life%20in%20a%20shell.jpg"><strong>Life in a Shell</strong><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/pic3_the%20bicycle%20race.jpg"><strong>The Bicycle Race</strong>
+<table><tbody><tr><td align="center"><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/pic2%20life%20in%20a%20shell.jpg"><strong>Life in a Shell</strong></td><td align="center"><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/pic3_the%20bicycle%20race.jpg"><strong>The Bicycle Race</strong></td></tr></tbody></table>
 <img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/pic4_making%20ice%20cream.jpg"><strong>Making Ice Cream</strong></center>
 
 <h2>Invited speakers to connect to real life experiences</h2>
