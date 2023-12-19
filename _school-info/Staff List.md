@@ -375,7 +375,7 @@ variant: markdown
   </tr>
   <tr>
     <td>5_Compassion</td>
-    <td>Mrs Wong-Chong Yu Pei <br>(LH/Math Covering)
+    <td>Mrs Wong-Chong Yu Pei <br>(LH/Math)
 </td>
     <td align="right">315</td>
     <td><a href="mailto:chong_yu_pei@moe.edu.sg">chong_yu_pei@moe.edu.sg</a></td>
@@ -389,87 +389,126 @@ variant: markdown
   </tr>
   <tr>
     <td>5_Graciousness</td>
-    <td>Mdm Rozana Bte Hashim<br>(ST/EL)</td>
-    <td align="right">316</td>
-    <td><a href="mailto:rozana_hashim@moe.edu.sg">rozana_hashim@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>5_Graciousness</td>
-    <td>Mr Jesudass Joseph Patros</td>
-    <td align="right">370</td>
-    <td><a href="mailto:jesudass_joseph_patros@moe.edu.sg">jesudass_joseph_patros@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>5_Integrity</td>
-    <td>Miss Cheng May Ling </td>
-    <td align="right">302</td>
-    <td><a href="mailto:cheng_may_ling@moe.edu.sg">cheng_may_ling@moe.edu.sg</a></td>
-  </tr>
-   <tr>
-    <td>5_Resilience</td>
-    <td>Mr Christopher Khoo<br>(HOD/Science)</td>
-    <td align="right">208</td>
-    <td><a href="mailto:khoo_kian_kiong_christopher@moe.edu.sg">khoo_kian_kiong_christopher@moe.edu.sg</a></td>
-  </tr>
-<tr>
-    <td>5_Respect</td>
-    <td>Mr Kenny Chin Peng Kiew</td>
-    <td align="right">340</td>
-    <td><a href="Chin_Peng_Kiew@moe.edu.sg">Chin_Peng_Kiew@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>5_Respect</td>
-    <td>Mdm Suzanah Bte Miswari </td>
-    <td align="right">368</td>
-    <td><a href="mailto:suzanah_miswari@moe.edu.sg">suzanah_miswari@moe.edu.sg</a></td>
-  </tr>
-      <tr><td>6_Adaptibilty</td>
-    <td>Mdm Chitra d/o Selvaraju</td>
-    <td align="right">342</td>
-    <td><a href="mailto:chitra_selvaraju@moe.edu.sg">chitra_selvaraju@moe.edu.sg</a></td>
-  </tr>
- <tr>
-    <td>6_Adaptibility</td>
-    <td>Mr Zaini Bin Zanal  </td>
-    <td align="right">359</td>
-    <td><a href="mailto:zaini_zanal@moe.edu.sg">zaini_zanal@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-  </tr><tr>
-    <td>6_Compassion</td>
-    <td>Mdm Junaida Bte Jasman <br>(ST/MA)</td>
+    <td>Mdm Junaida Bte Jasman (ST/Math)
+</td>
     <td align="right">306</td>
     <td><a href="mailto:junaida_jasman@moe.edu.sg">junaida_jasman@moe.edu.sg</a></td>
   </tr>
   <tr>
+    <td>5_Graciousness</td>
+    <td>Mr Ernest Choon (ICT HOD)</td>
+    <td align="right">349</td>
+    <td><a href="mailto:choon_guoxiang_ernest@moe.edu.sg">choon_guoxiang_ernest@moe.edu.sg
+</a></td>
+  </tr>
+  <tr>
+    <td>5_Respect</td>
+    <td>Ms Sharmini d/o Jaya Kumaran (LH/EL Covering)</td>
+    <td align="right">304</td>
+    <td><a href="mailto:sharmini_jaya_kumaran@moe.edu.sg">sharmini_jaya_kumaran@moe.edu.sg</a></td>
+  </tr>
+   <tr>
+    <td>5_Respect</td>
+    <td>Ms Iris Lim Li Hwang
+</td>
+    <td align="right">361</td>
+    <td><a href="mailto:bukittimahps@moe.edu.sg">bukittimahps@moe.edu.sg</a></td>
+  </tr>
+      <tr><td>6_Adaptibilty</td>
+    <td>Miss Lee Yan Ying</td>
+    <td align="right">371</td>
+    <td><a href="mailto:lee_yan_ying_c@moe.edu.sg">lee_yan_ying_c@moe.edu.sg</a></td>
+  </tr>
+ <tr>
+    <td>6_Adaptibility</td>
+    <td>Mdm Chitra d/o Selvaraju</td>
+    <td align="right">342</td>
+    <td><a href="mailto:chitra_selvaraju@moe.edu.sg">chitra_selvaraju@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+  </tr><tr>
     <td>6_Compassion</td>
-    <td>Ms Indira d/o R Pillai<br> (HOD/EL)</td>
-    <td align="right">201</td>
-    <td><a href="mailto:indira_raghavan_pillai@moe.edu.sg">indira_raghavan_pillai@moe.edu.sg</a></td>
+    <td>Mrs Mellissa Khoo</td>
+    <td align="right">317</td>
+    <td><a href="mailto:chan_yu_fang_mellissa@moe.edu.sg">chan_yu_fang_mellissa@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>6_Compassion</td>
+    <td>Ms Tee Xinyi</td>
+    <td align="right">332</td>
+    <td><a href="mailto:tee_xinyi@moe.edu.sg">tee_xinyi@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>6_Graciousness</td>
-    <td>Mrs Ong Kai Chun </td>
-    <td align="right">307</td>
-    <td><a href="mailto:tay_kai_chun@moe.edu.sg">tay_kai_chun@moe.edu.sg</a></td>
+    <td>Mdm Rozana Bte Hashim (ST EL)</td>
+    <td align="right">316</td>
+    <td><a href="mailto:rozana_hashim@moe.edu.sg">rozana_hashim@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>6_Graciousness</td>
-    <td>Mdm Nur Namira Bte Mazlan</td>
-    <td align="right">366</td>
-    <td><a href="mailto:nur_namira_mazlan@moe.edu.sg">nur_namira_mazlan@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>6_Respect</td>
-    <td>Mrs Karin Gan<br>(HOD/Math)</td>
-    <td align="right">206</td>
-    <td><a href="mailto:yeo_lei_teng@moe.edu.sg">yeo_lei_teng@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>6_Respect</td>
-    <td>Mr Donald Tan Eit Peow </td>
+    <td>Mr Donald Tan Eit Peow</td>
     <td align="right">346</td>
-    <td><a href="mailto:tan_eit_peow@moe.edu.sg@moe.edu.sg">tan_eit_peow@moe.edu.sg</a></td>
+    <td><a href="mailto:tan_eit_peow@moe.edu.sg">tan_eit_peow@moe.edu.sg</a></td>
+  </tr>
+<tr>
+    <td>6_Graciousness</td>
+    <td>Ms Nur Fidyyana Bte Abdul Latiff</td>
+    <td align="right">356</td>
+    <td><a href="mailto:nur_fidyyana_ab_latiff@moe.edu.sg">nur_fidyyana_ab_latiff@moe.edu.sg
+</a></td>
+  </tr>
+<tr>
+    <td>6_Graciousness</td>
+    <td>Mdm Mazlinah Bte Juhari </td>
+    <td align="right">337</td>
+    <td><a href="mailto:Mazlinah_Juhari_A@moe.edu.sg">Mazlinah_Juhari_A@moe.edu.sg</a></td>
+  </tr>
+<tr>
+    <td>6_Integrity</td>
+    <td>Miss Cheng May Ling</td>
+    <td align="right">302</td>
+    <td><a href="mailto:cheng_may_ling@moe.edu.sg">cheng_may_ling@moe.edu.sg
+</a></td>
+  </tr>
+  <tr>
+    <td>6_Integrity</td>
+    <td>Mdm Xu Aili</td>
+    <td align="right">329</td>
+    <td><a href="mailto:xu_ai_li@moe.edu.sg">xu_ai_li@moe.edu.sg
+</a></td>
+  </tr>
+  <tr>
+    <td>6_Resilience</td>
+    <td>Mr Christopher Khoo (HOD/Science)
+</td>
+    <td align="right">208</td>
+    <td><a href="mailto:khoo_kian_kiong_christopher@moe.edu.sg">khoo_kian_kiong_christopher@moe.edu.sg
+</a></td>
+  </tr>
+  <tr>
+    <td>6_Respect</td>
+    <td>Mr Kenny Chin Peng Kiew</td>
+    <td align="right">340</td>
+    <td><a href="mailto:chin_peng_kiew@moe.edu.sg">chin_peng_kiew@moe.edu.sg
+</a></td>
+  </tr>
+<tr>
+    <td>6_Respect</td>
+    <td>Mdm Suzanah Bte Miswari      </td>
+    <td align="right">368</td>
+    <td><a href="mailto:suzanah_miswari@moe.edu.sg">suzanah_miswari@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>FAJT</td>
+    <td>Mrs Daphne Ho</td>
+    <td align="right">310</td>
+    <td><a href="mailto:ng_sze_yee@moe.edu.sg">ng_sze_yee@moe.edu.sg</a></td>
+  </tr>
+ <tr>
+    <td>FAJT</td>
+    <td>Mr Ng Kim Chwee</td>
+    <td align="right">375</td>
+     <td><a href="mailto:ng_kim_chwee@moe.edu.sg">ng_kim_chwee@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>SEN Officer</td>
@@ -485,40 +524,11 @@ variant: markdown
   </tr>
  <tr>
     <td>School Counsellor</td>
-    <td>Ms Lydia Lee Tiong Ee</td>
-    <td align="right">382</td>
-    <td><a href="mailto:lee_tiong_ee_a@moe.edu.sg">lee_tiong_ee_a@moe.edu.sg</a></td>
+    <td>Mr R Rajamohan</td>
+    <td align="right">377</td>
+    <td><a href="mailto:bukittimahps@moe.edu.sg">bukittimahps@moe.edu.sg</a></td>
   </tr>
-   <tr>
-    <td>FAJT</td>
-    <td>Mdm Evelyn Nah Bee Har</td>
-    <td align="right">312</td>
-    <td><a href="mailto:nah_bee_har@moe.edu.sg">nah_bee_har@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>FAJT</td>
-    <td>Mdm Subahshini Jayaseelan</td>
-    <td align="right">364</td>
-    <td><a href="mailto:subahshini_jayaseelan@moe.edu.sg">subahshini_jayaseelan@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>FAJT</td>
-    <td>Mrs Daphne Ho</td>
-    <td align="right">310</td>
-    <td><a href="mailto:ng_sze_yee@moe.edu.sg">ng_sze_yee@moe.edu.sg</a></td>
-  </tr>
- <tr>
-    <td>FAJT</td>
-    <td>Mdm Ng Puay Choo</td>
-    <td align="right">311</td>
-    <td><a href="mailto:ng_puay_choo@moe.edu.sg">ng_puay_choo@moe.edu.sg</a></td>
-  </tr>
-<tr>
-    <td>FAJT</td>
-    <td>Mr Ng Kim Chwee</td>
-    <td align="right">375</td>
-     <td><a href="mailto:ng_kim_chwee@moe.edu.sg">ng_kim_chwee@moe.edu.sg</a></td>
-  </tr>
+ 
 
 
 <tr>
