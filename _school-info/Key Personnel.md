@@ -134,30 +134,50 @@ variant: markdown
     <td>&nbsp;</td>
   </tr>
 <tr>
-      <td colspan="2"><b>LEVEL HEAD (LH) </b></td></tr>
+      <td colspan="2"><b>LEVEL HEAD (LH) | SUBJECT HEAD (SH)  </b></td></tr>
   
  <tr>
        <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/11lhmath.jpg"></td>
       <td>Mrs Wong-Chong Yu Pei</td></tr>
-<tr><td><b> LH/Mathematics (Covering)</b></td></tr>
+<tr><td><b> LH/Mathematics</b></td></tr>
     <tr>
       <td><a href="mailto:chong_yu_pei@moe.edu.sg">chong_yu_pei@moe.edu.sg
 </a></td>
     </tr>
-<tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-<tr>
-      <td colspan="2"><b>SUBJECT HEAD (SH) </b></td></tr>
+	 <tr>
+       <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/16shness.jpg"></td>
+      <td>Ms Sharmini d/o Jaya Kumaran</td></tr>
+<tr><td><b>LH/EL (Covering)</b></td></tr>
+    <tr>
+      <td><a href="mailto:
+sharmini_jaya_kumaran@moe.edu.sg">
+sharmini_jaya_kumaran@moe.edu.sg</a></td>
+    </tr>
     <tr>
        <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/12shpam.jpg"></td>
       <td>Mrs Lynette Lim</td></tr>
 <tr><td><b>SH/Aesthetics</b></td></tr>
     <tr>
       <td><a href="mailto:thia_hui_shan_lynette@moe.edu.sg">thia_hui_shan_lynette@moe.edu.sg</a></td>
+    </tr>
+ <tr>
+       <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm sangitah do jayaseelan.jpeg"></td>
+      <td>Mdm Sangitah d/o Jayaseelan</td></tr>
+<tr><td><b>SH/CCE</b></td></tr>
+    <tr>
+      <td><a href="mailto:
+sangitah_jayaseelan@moe.edu.sg">
+sangitah_jayaseelan@moe.edu.sg</a></td>
+    </tr>
+ <tr>
+       <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/15shcl.jpg"></td>
+      <td>Mdm Chng Ling Ling</td>
+    </tr>
+<tr><td><b>SH/Chinese Language</b></td></tr>
+    <tr>
+      <td><a href="mailto:
+chng_ling_ling@moe.edu.sg">
+chng_ling_ling@moe.edu.sg</a></td>
     </tr>
  <tr>
        <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/13shict.jpg"></td>
@@ -175,34 +195,9 @@ variant: markdown
     <tr>
       <td><a href="mailto:noor_idayu_sunator@moe.edu.sg">noor_idayu_sunator@moe.edu.sg</a></td>
     </tr>
-		 <tr>
-       <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/15shcl.jpg"></td>
-      <td>Mdm Chng Ling Ling</td>
-    </tr>
-<tr><td><b>SH/Chinese Language</b></td></tr>
-    <tr>
-      <td><a href="mailto:
-chng_ling_ling@moe.edu.sg">
-chng_ling_ling@moe.edu.sg</a></td>
-    </tr>
-	 <tr>
-       <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/16shness.jpg"></td>
-      <td>Ms Sharmini d/o Jaya Kumaran</td></tr>
-<tr><td><b>SH/NESS (Covering)</b></td></tr>
-    <tr>
-      <td><a href="mailto:
-sharmini_jaya_kumaran@moe.edu.sg">
-sharmini_jaya_kumaran@moe.edu.sg</a></td>
-    </tr>
-	 <tr>
-       <td rowspan="3"><img style="width:63px; border:2px solid #0A0B30" src="/images/Staff%20Photos/Organisation%20Photos/mdm sangitah do jayaseelan.jpeg"></td>
-      <td>Mdm Sangitah d/o Jayaseelan</td></tr>
-<tr><td><b>SH/VIA and Leadership</b></td></tr>
-    <tr>
-      <td><a href="mailto:
-sangitah_jayaseelan@moe.edu.sg">
-sangitah_jayaseelan@moe.edu.sg</a></td>
-    </tr>
+
+
+	
 <tr>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
