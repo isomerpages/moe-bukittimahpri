@@ -3,6 +3,7 @@ title: Information for Parents
 permalink: /info-for-parents/information-for-parents/
 description: ""
 third_nav_title: Information for Parents
+variant: markdown
 ---
 # INFORMATION FOR PARENTS
 [2023 Sem 2 Commz @ BTPS](/files/2023/commz@btps2023(sem%202).pdf)
@@ -16,11 +17,11 @@ third_nav_title: Information for Parents
 [2022 Term4 CommzBTPS](/files/2022/Term%20Comms/Term%204%20Commz@BTPS%20(Updated).pdf)
 
 # OTHER INFORMATIONS FOR DOWNLOADS
+* [Building Resilience In Our Children](/files/2022/Informations/Building%20Resilience%20in%20Our%20Children.pdf)
 
-<h2>Vendors Information</h2>
+* [MOO-O Parent's Guide for Windows](/files/2022/Guides/MOO-O%20Parent's%20Guide%20for%20Windows.pdf)
 
-Updating in progress
-
+* [MOO-O Parent's Guide for IPADs](/files/2022/Guides/MOO-O%20Parent's%20Guide%20for%20ipad.pdf)
 
 <h2>Group Personal Accident Insurance</h2>
 
@@ -28,8 +29,4 @@ Updating in progress
 2. [MOE Student GPA Claim Form](/files/2022/Vendors%20Information/MOE%20Student%20GPA%20claim%20form.pdf)
 
 
-* [Building Resilience In Our Children](/files/2022/Informations/Building%20Resilience%20in%20Our%20Children.pdf)
 
-* [MOO-O Parent's Guide for Windows](/files/2022/Guides/MOO-O%20Parent's%20Guide%20for%20Windows.pdf)
-
-* [MOO-O Parent's Guide for IPADs](/files/2022/Guides/MOO-O%20Parent's%20Guide%20for%20ipad.pdf)
