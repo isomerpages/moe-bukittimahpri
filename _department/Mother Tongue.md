@@ -15,13 +15,15 @@ We believe that every child can learn. The BTPS MT teachers sees every BTPS pupi
 <h2>Key Programmes</h2>
 <h3><u>Reading Programme</u></h3><p align="justify">
 We aim to build a strong foundation and nurture the love of Mother Tongue in our students through reading. Our Reading Programme includes “Visit the Library”, “School Based Reading Activities” and “SLS Reading Mums &amp; Dads”. Every year, students will be introduced to the new books in the school library collection. </p><p></p>
-<center><img style="border:2px solid #0A0B30;width:300px;height:360px;" src="/images/reading%20programme%201.jpg"><strong>Buddy Support Programme</strong></center><center><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/reading%20programme%203.jpg"><strong>Introducing new books in the library</strong>
+<center><img style="border:2px solid #0A0B30;width:300px;height:360px;" src="/images/reading%20programme%201.jpg"><strong>Buddy Support Programme</strong></center><center><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/reading%20programme%203.jpg"><strong>Introducing new books in the library</strong></center>
 <p align="justify">“SLS Reading Mums &amp; Dads” is a collaboration between parents and teachers where our supportive Reading Mums and Reading Dads will read Chinese story books to our students online. Teachers will create online activities like Kahoot and Drawing to further stimulate the interest of our students.</p>
-
 <h3><u>World Book Day</u></h3>
 <table><tbody><tr><td width="50%"><center><img style="border:2px solid #0A0B30;width:360px;height:200px;" src="/images/molly%20bus.jpg"><strong>MOLLY Bus Visit</strong><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/character%20dressup.jpg"><strong>Primary 1 Character Dressup</strong></center>
 </td><td><p align="justify"><br>In conjunction with World Book Day, we organised a series of activities to encourage our students to discover the pleasure of reading. Activities include visiting the MOLLY bus by National Library Board, picture book introduction and presentation by a renowned local author and performances put up by teachers.<br><br> Students engage in classroom activities to create their own books and Malay students get to dress up as their favourite characters from the book. Our school also hosted a book fair from a local publisher. </p></td></tr></tbody></table>
-<img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/big%20mouth%20book.jpg"><strong>Students’ Big Mouth Book</strong><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/teacher's%20performance.png"><strong>Teachers performing on stage</strong></center>
+<table><tbody><tr><td><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/big%20mouth%20book.jpg"><strong>Students’ Big Mouth Book</strong></td>
+<td><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/teacher's%20performance.png"><strong>Teachers performing on stage</strong></td></tr>
+</tbody></table>
+
 
 
 
