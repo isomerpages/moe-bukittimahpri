@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/BTPS image.gif
-      button: Virtual Tour
-      url: https://360.itcow.com/fullscreens/2020/BukitTimah/TOUR_MASTER1/
       key_highlights:
         - title: Info For Parents
           description: ""
