@@ -2,6 +2,7 @@
 title: Learning for Life Programme | LLP
 permalink: /key-programmes/learning-for-life-programme/
 description: ""
+variant: markdown
 ---
 <h1> LEARNING FOR LIFE PROGRAMME |LLP</h1>
 <p style="font-family:Dreaming OutLoud" align="center"><font face="Dreaming OutLoud Pro" color="#660033">
@@ -17,16 +18,18 @@ School-wide programmes and experiences immerse students in an enhanced musical e
 <p></p><img src="/images/music-for-everyone2.jpg"><br>
 
 <p align="Justify"><u></u></p><h2><u>Key Programmes and Events</u></h2>
-<p></p>
-<font face="Arial">
-</font>
-<img src="/images/pamtv1.png" style="border:2px solid #0A0B30; width:300px;height:400px;">
-<p align="justify">P.A.M TV provides an authentic platform for students and staff to promote a healthy lifestyle in Physical and Health Education <i><b>(P)</b></i> and showcase their talents in the Aesthetics <i><b>(Art and Music)</b></i>. It also encourages students who are generally quieter and more reserved to come forward to display their talents. In addition, students who are more articulate could support others by being hosts.With this platform, students and staff perform in the comfort of their own home or familiar environments. Videos received include artworks, instrumental playing, sports skills and even cooking skills that are beyond the classroom experiences. Parent participation is also encouraged.</p>
+<table><tbody><tr><td width="50%"><img src="/images/pamtv1.png" style="border:2px solid #0A0B30; width:300px;height:400px;"></td>
+<td>
+<p align="justify"><font face="Arial">
+P.A.M TV provides an authentic platform for students and staff to promote a healthy lifestyle in Physical and Health Education <i><b>(P)</b></i> and showcase their talents in the Aesthetics <i><b>(Art and Music)</b></i>. It also encourages students who are generally quieter and more reserved to come forward to display their talents. In addition, students who are more articulate could support others by being hosts.</font></p></td></tr>
+<tr><td colspan="2"><p align="justify"><font face="Arial">With this platform, students and staff perform in the comfort of their own home or familiar environments. Videos received include artworks, instrumental playing, sports skills and even cooking skills that are beyond the classroom experiences. Parent participation is also encouraged.</font></p></td></tr>
+</tbody></table>
 <h2>By-Invitation</h2>
 
 <img src="/images/llp001.jpg" style="border:2px solid #0A0B30; width:400px;height:300px;">
 <p align="justify">The “By-invitation” programme provides opportunities for students to deepen their learning of selected instruments upon invitation by teachers. Ukulele, classical guitar, angklung and Samba percussion are examples of instrumental modules included in this programme. At the end of the programme, students will get to showcase their ensemble musicianship in school concerts. To enhance their interests and develop their passion in the performing arts, students get to go for learning journeys such as the “Day Out @ Esplanade” and “Tour in the Dark”, a programme organised by Ngee Ann Polytechnic. </p>
-<img src="/images/llp002.JPG" style="border:2px solid #0A0B30; width:400px; height:300px;"><br><img src="/images/llp003.JPG" style="border:2px solid #0A0B30 ;width:400px;height:300px;"><br><img src="/images/llp004.JPG" style="border:2px solid #0A0B30; width:400px;height:300px;">
+<table><tbody><tr><td width="50%"><img src="/images/llp002.JPG" style="border:2px solid #0A0B30; width:400px; height:300px;"></td><td><img src="/images/llp003.JPG" style="border:2px solid #0A0B30 ;width:400px;height:300px;"></td></tr></tbody></table>
+<img src="/images/llp004.JPG" style="border:2px solid #0A0B30; width:400px;height:300px;">
 <h2>ChaRmz</h2>
 <img src="/images/picture1.jpg" style="border:2px solid #0A0B30; width:300px; height:400px;"><br>
 <p align="justify">An in-house school concert that happens once in every two years, ChaRmz celebrates the young talents in the school’s music programmes and the Visual and Performing Arts CCA groups which include BTPS Brass Symphonia, Choir, Dance-Versity, Drama Club and Art Club. </p><br>
