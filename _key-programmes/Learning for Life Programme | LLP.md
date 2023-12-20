@@ -27,9 +27,9 @@ P.A.M TV provides an authentic platform for students and staff to promote a heal
 <table><tbody><tr><td width="50%"><img src="/images/llp002.JPG" style="border:2px solid #0A0B30; width:400px; height:300px;"></td><td><img src="/images/llp003.JPG" style="border:2px solid #0A0B30 ;width:400px;height:300px;"></td></tr></tbody></table>
 <img src="/images/llp004.JPG" style="border:2px solid #0A0B30; width:400px;height:300px;">
 <h2>ChaRmz</h2>
-<img src="/images/picture1.jpg" style="border:2px solid #0A0B30; width:300px; height:400px;"><br>
-<p align="justify">An in-house school concert that happens once in every two years, ChaRmz celebrates the young talents in the school’s music programmes and the Visual and Performing Arts CCA groups which include BTPS Brass Symphonia, Choir, Dance-Versity, Drama Club and Art Club. </p>
-<p align="justify">ChaRmz, provides the performers a platform to express themselves confidently and gives others the opportunity to appreciate the aesthetic beauty of the diverse forms of music and visual arts. It also encourages students to interact and forge friendships with peers through music, dance and art, thus fostering social cohesion. </p>
+<table><tbody><tr><td width="30%"><img src="/images/picture1.jpg" style="border:2px solid #0A0B30; width:300px; height:400px;"></td>
+
+<td><p align="justify">An in-house school concert that happens once in every two years, ChaRmz celebrates the young talents in the school’s music programmes and the Visual and Performing Arts CCA groups which include BTPS Brass Symphonia, Choir, Dance-Versity, Drama Club and Art Club. <br>ChaRmz, provides the performers a platform to express themselves confidently and gives others the opportunity to appreciate the aesthetic beauty of the diverse forms of music and visual arts. It also encourages students to interact and forge friendships with peers through music, dance and art, thus fostering social cohesion. </p></td></tr></tbody></table>
 <img src="/images/picture2.jpg" style="border:2px solid #0A0B30; width:400px;height:300px;"><br><img src="/images/picture3.jpg" style="border:2px solid #0A0B30; width:400px;height:300px;"><br><img src="/images/picture4.jpg" style="border:2px solid #0A0B30; width:400px;height:300px;">
 
 <h1>Exposure to the Arts </h1>
