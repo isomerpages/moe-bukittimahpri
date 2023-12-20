@@ -20,14 +20,9 @@ We aim to build a strong foundation and nurture the love of Mother Tongue in our
 <h3><u>World Book Day</u></h3>
 <table><tbody><tr><td width="50%"><center><img style="border:2px solid #0A0B30;width:360px;height:200px;" src="/images/molly%20bus.jpg"><strong>MOLLY Bus Visit</strong><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/character%20dressup.jpg"><strong>Primary 1 Character Dressup</strong></center>
 </td><td><p align="justify"><br>In conjunction with World Book Day, we organised a series of activities to encourage our students to discover the pleasure of reading. Activities include visiting the MOLLY bus by National Library Board, picture book introduction and presentation by a renowned local author and performances put up by teachers.<br><br> Students engage in classroom activities to create their own books and Malay students get to dress up as their favourite characters from the book. Our school also hosted a book fair from a local publisher. </p></td></tr></tbody></table>
-<table><tbody><tr><td><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/big%20mouth%20book.jpg"><strong>Students’ Big Mouth Book</strong></td>
-<td><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/teacher's%20performance.png"><strong>Teachers performing on stage</strong></td></tr>
+<table><tbody><tr><td><center><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/big%20mouth%20book.jpg"><strong>Students’ Big Mouth Book</strong></center></td>
+<td><center><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/teacher's%20performance.png"><strong>Teachers performing on stage</strong></center></td></tr>
 </tbody></table>
-
-
-
-
-
 
 <h3><u>Mother Tongue Learning Fortnight</u></h3><p align="justify">
 </p><p align="justify">We aim to create an immersive environment for the learning of Mother Tongue languages and appreciation of Singapore’s unique culture. In 2023, the theme is  “Kampong Spirit”. Our pupils will get to enjoy various performances and activities which allow them to enjoy Kampong life.  </p>
