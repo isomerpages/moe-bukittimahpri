@@ -2,6 +2,7 @@
 title: Quick Links
 permalink: /quick-links/
 description: ""
+variant: markdown
 ---
 * [COMMZ @ BTPS](/info-for-parents/information-for-parents)
 
@@ -20,6 +21,6 @@ description: ""
 * [Digital Access at home](
 https://www.imda.gov.sg/how-we-can-help/digital-access-at-home/)
 
-* [2022 Secondary Schools E-Open House / DSA E-Session](https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2022)
+* [2023 Open House for Secondary Schools](https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2023)
 
 * [P1 Orientation Slides](/info-for-parents/information-for-parents)
