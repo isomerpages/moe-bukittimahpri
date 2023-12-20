@@ -2,6 +2,7 @@
 title: Science
 permalink: /department/science/
 description: ""
+variant: markdown
 ---
 # SCIENCE
 
@@ -63,6 +64,3 @@ COMPETITIONS (STRETCHING POTENTIAL) </strong><br></td></tr></tbody></table>
 • 	Singapore Primary Science Olympiad<br>
 • 	West Zone Junior Science Whiz Challenge
 
-# CURIOUS MIND<br>
-# Engaged Science Learners <br>
-<h3><strong>OUR VISION</strong></h3>
