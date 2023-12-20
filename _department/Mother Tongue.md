@@ -18,13 +18,13 @@ We aim to build a strong foundation and nurture the love of Mother Tongue in our
 <center><img style="border:2px solid #0A0B30;width:300px;height:360px;" src="/images/reading%20programme%201.jpg"><strong>Buddy Support Programme</strong></center><center><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/reading%20programme%203.jpg"><strong>Introducing new books in the library</strong>
 <p align="justify">“SLS Reading Mums &amp; Dads” is a collaboration between parents and teachers where our supportive Reading Mums and Reading Dads will read Chinese story books to our students online. Teachers will create online activities like Kahoot and Drawing to further stimulate the interest of our students.</p>
 
-<h3><u>World Book Day</u></h3><center>
-<img style="border:2px solid #0A0B30;width:360px;height:200px;" src="/images/molly%20bus.jpg"><strong>MOLLY Bus Visit</strong><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/character%20dressup.jpg"><strong>Primary 1 Character Dressup</strong><br>
+<h3><u>World Book Day</u></h3>
+<table><tbody><tr><td width="50%"><center><img style="border:2px solid #0A0B30;width:360px;height:200px;" src="/images/molly%20bus.jpg"><strong>MOLLY Bus Visit</strong><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/character%20dressup.jpg"><strong>Primary 1 Character Dressup</strong></center>
+</td><td><p align="justify"><br>In conjunction with World Book Day, we organised a series of activities to encourage our students to discover the pleasure of reading. Activities include visiting the MOLLY bus by National Library Board, picture book introduction and presentation by a renowned local author and performances put up by teachers.<br><br> Students engage in classroom activities to create their own books and Malay students get to dress up as their favourite characters from the book. Our school also hosted a book fair from a local publisher. </p></td></tr></tbody></table>
 <img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/big%20mouth%20book.jpg"><strong>Students’ Big Mouth Book</strong><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/teacher's%20performance.png"><strong>Teachers performing on stage</strong></center>
 
 
 
-<p align="justify">In conjunction with World Book Day, we organised a series of activities to encourage our students to discover the pleasure of reading. Activities include visiting the MOLLY bus by National Library Board, picture book introduction and presentation by a renowned local author and performances put up by teachers. Students engage in classroom activities to create their own books and Malay students get to dress up as their favourite characters from the book. Our school also hosted a book fair from a local publisher. </p>
 
 
 <h3><u>Mother Tongue Learning Fortnight</u></h3><p align="justify">
@@ -57,4 +57,4 @@ This competition cum convention is a semi-official activity organised by China i
  </p>
 <p align="justify">Dhakshanya from 5 Compassion took part in the competition. As part of the competition, she wrote a letter to a friend sharing information about Pongal. Her y  won the Top 6 entries nationwide and was published on the Mediacorp Seithi’s website. Dhakshanya  wrote about the four days of Pongal celebration, namely ‘Bhogi’ (when old things in the house are disposed by burning), ‘Surya Pongal’ (when Pongal rice is cooked in a pot. As it boils over, the celebrants shout ‘Pongalo Pongal’ representing the ushering in of new beginnings and blessings), ‘Maattu Pongal’ (when cows are revered and honoured for their role in farming) and ‘Kaanum Pongal’ (when relatives visit each other and receive blessings from their elders). Her drawing of sugarcanes and the Pongal pot at the end of the letter enhanced her written entry. </p>
 
-<center><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/letter%20written%20by%20dhakshanya.jpg"><strong>Winning entry by Dhakshanya</strong></center></center>
+<center><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/letter%20written%20by%20dhakshanya.jpg"><strong>Winning entry by Dhakshanya</strong></center>
