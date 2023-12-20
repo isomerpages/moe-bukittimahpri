@@ -17,7 +17,7 @@ School-wide programmes and experiences immerse students in an enhanced musical e
 <p align="Justify"><u></u></p><h2><u>Key Programmes and Events</u></h2>
 <p align="justify"><font face="Arial">
 P.A.M TV provides an authentic platform for students and staff to promote a healthy lifestyle in Physical and Health Education <i><b>(P)</b></i> and showcase their talents in the Aesthetics <i><b>(Art and Music)</b></i></font>.
-<table><tbody><tr><td width="30%"><img src="/images/pamtv1.png" style="border:2px solid #0A0B30; width:300px;height:400px;"></td>
+<table><tbody><tr><td width="36%"><img src="/images/pamtv1.png" style="border:2px solid #0A0B30; width:300px;height:400px;"></td>
 <td><p align="justify">
  It also encourages students who are generally quieter and more reserved to come forward to display their talents. In addition, students who are more articulate could support others by being hosts. With this platform, students and staff perform in the comfort of their own home or familiar environments. Videos received include artworks, instrumental playing, sports skills and even cooking skills that are beyond the classroom experiences. Parent participation is also encouraged.</p></td></tr></tbody></table>
 </p><h2>By-Invitation</h2>
