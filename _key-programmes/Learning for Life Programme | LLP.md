@@ -38,6 +38,3 @@ P.A.M TV provides an authentic platform for students and staff to promote a heal
 <table><tbody><tr><td><img src="/images/llparts2.jpg" style="border:2px solid #0A0B30; width:400px;height:300px;"></td><td><img src="/images/llparts3.jpg" style="border:2px solid #0A0B30; width:400px;height:300px;"></td></tr></tbody></table>
 <table><tbody><tr><td><img src="/images/llparts4.jpeg" style="border:2px solid #0A0B30; width:400px;height:300px;"></td><td><img src="/images/llparts5.jpg" style="border:2px solid #0A0B30; width:400px;height:300px;"></td></tr></tbody></table>
 <table><tbody><tr><td><img src="/images/llparts6.jpg" style="border:2px solid #0A0B30; width:400px;height:300px;"></td><td><img src="/images/llparts7.jpg" style="border:2px solid #0A0B30; width:400px;height:300px;"></td></tr></tbody></table>
-<br>
-<br><br><br>
-<br><br>
