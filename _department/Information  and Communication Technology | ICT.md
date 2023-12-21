@@ -7,11 +7,9 @@ variant: markdown
 # INFORMATION AND COMMUNICATION TECHNOLOGY | ICT
 
 <p align="justify">
-Our school’s ICT literacy programme is built on MOE’s standards of new media literacy and includes the skills, knowledge, attitudes and values (SKAV) that students should apply and demonstrate when harnessing ICT for learning and interacting. The new ICT baseline standards are: curating digital content; connecting and communicating digitally; and creating digital multimodal products. </p>
+Our school’s ICT literacy programme is built on MOE’s standards of new media literacy and includes the skills, knowledge, attitudes and values (SKAV) that students should apply and demonstrate when harnessing ICT for learning and interacting. The new ICT baseline standards are: curating digital content; connecting and communicating digitally; and creating digital multimodal products. 
 <img style="border:2px solid #0A0B30; width:460px;height:400px;" src="/images/ict-framework.png">
-<p align="justify">
-Our ICT programmes across P1 to P6 aims to equip every student with the fundamental ICT skills and literacy to be a future-ready individual and be competent in New Media Literacies to navigate the cyber world safely and effectively. Through the introduction of computational thinking and the infusion of new media literacies into different disciplines, we hope to achieve the following objectives- 
- </p><h3>Students will be able to:</h3><br>
+Our ICT programmes across P1 to P6 aims to equip every student with the fundamental ICT skills and literacy to be a future-ready individual and be competent in New Media Literacies to navigate the cyber world safely and effectively. Through the introduction of computational thinking and the infusion of new media literacies into different disciplines, we hope to achieve the following objectives-  </p><h3>Students will be able to:</h3>
 1. Acquire and apply technical skills to create digital content<br>
 2. Demonstrate 21st CC through self-directed and collaborative learning!<br>
 3. Develop computational thinking and problem-solving skills<p></p>
@@ -86,10 +84,10 @@ Learning with Multimedia, communication tools, data collection tools  and Spread
 <img style="border:2px solid #0A0B30; width:400px;height:400px;" src="/images/cyberwellness001.png">
 <p align="justify">Our school is guided by the Cyber Wellness Framework to plan and implement a holistic education which is customized to our students’ profile and school environment.<br>
 The three Cyber Wellness Principles anchor a student’s well-being in cyberspace.
-Through Cyber Wellness education in CCE, students learn to be respectful, safe, and responsible users of technology and be a positive peer influence, advocating for the good of the community online.<br></p><h3><u>3 Cyber Wellness Key Messages</u></h3>
+Through Cyber Wellness education in CCE, students learn to be respectful, safe, and responsible users of technology and be a positive peer influence, advocating for the good of the community online.</p><h3><u>3 Cyber Wellness Key Messages</u></h3>
 ✔ Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities.<br>
 ✔ Be a safe and responsible user of technology and maintain a positive online presence.<br>
-✔ Be responsible for personal well-being in the cyberspace.
+✔ Be responsible for personal well-being in the cyberspace.<p></p>
 <img style="border:2px solid #0A0B30; width:700px;height:200px;" src="/images/cyberwellness2.png">
 <h3><u>Cyber Wellness Week</u></h3>
 <p align="justify">
