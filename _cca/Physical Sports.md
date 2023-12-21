@@ -2,6 +2,7 @@
 title: Physical Sports
 permalink: /cca/physical-sports/
 description: ""
+variant: markdown
 ---
 <h3>BADMINTON</h3>
 <p align="justify">Bukit Timah Primary School ‘s Badminton CCA strives to provide a fun and exciting sporting experience that trains pupils in their agility, speed and reflexes. Our CCA instils the values of respect, resilience and adaptability as well as good sportsmanship, fair play and teamwork during training and competitions. </p>
@@ -29,12 +30,6 @@ Rugby is a sport that evokes images of fierce battles on the field. It showcases
 <p align="justify">
 Bukit Timah Primary School’s rugby team, also known as Highlander, has been around since 2012. Through the years, our rugby boys have been exposed to many opportunities to display graciousness, respect, resilience and sportsmanship, during National School Games and Rugby Ready Clinic. </p>
 <img style="border:2px solid #0A0B30; width:360px;height:260px;" src="/images/CCA/rugby%201.jpg"><br><img style="border:2px solid #0A0B30; width:360px;height:260px;" src="/images/CCA/rugby%202.jpg"><br><img style="border:2px solid #0A0B30; width:360px;height:260px;" src="/images/CCA/rugby%203.jpg">
-
-<h3>TCHOUKBALL</h3><p align="justify">
-Tchoukball is an indoor non-contact team sport that reduces the aggression between players and enables people of all shapes, sizes, genders, cultures, and backgrounds to play together. It contains elements of handball (it is played with hands, and the balls used are similar), volleyball (as the defending team must prevent the ball from falling) and squash (since there is a rebound).</p>
-<p align="justify">
-In Bukit Timah Primary School, Tchoukball provides an opportunity for both our boys and girls to be physically active while instilling the values or teamwork, discipline, resilience and sportsmanship in them during the game.  </p>
-<img style="border:2px solid #0A0B30; width:300px;height:360px;" src="/images/CCA/tchoukball%201.jpg"><br><img style="border:2px solid #0A0B30; width:300px;height:360px;" src="/images/CCA/tchoukball%202.jpg"><br><img style="border:2px solid #0A0B30; width:300px;height:360px;" src="/images/CCA/tchoukball%203.jpg">
 
 <h3>WUSHU</h3><p align="justify">
 Wushu is a captivating sport that combines grace, power, and agility. It is an art form that has been practiced for centuries. It encompasses a wide range of techniques, including kicks, punches, and acrobatics. Pupils are introduced to the fundamentals of Wushu, which include mastering basic stances, learning routines and understanding the philosophy behind this ancient practice. </p>
