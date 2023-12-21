@@ -37,7 +37,7 @@ You may go to the website <a target="_blank" href="https://plus.moo-o.com/tma/">
 <center><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/pic008.JPG"><br><img style="border:2px solid #0A0B30;width:360px;height:200px;" src="/images/pic009.JPG"></center>
 
 
-<h2>Enrichment Programme</h2>
+<h2>Enrichment Programmes</h2>
 <ol><h3><li>Master Scrabble (P2-P6)</li></h3>
 <p align="justify">
 Pupils enjoy challenging one another in this word game which is not only about developing thinking skills and building vocabulary but also about inculcating values, such as respect, integrity and graciousness. Our pupils have attained awards at both National and Zonal levels but above winning awards, are the rich bonds of friendship they develop with the players from other schools as well within our school.</p>
