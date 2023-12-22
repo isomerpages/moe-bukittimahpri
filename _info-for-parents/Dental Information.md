@@ -30,5 +30,5 @@ For emergencies such as dental trauma, facial/gum swellings or toothaches, pleas
 
 HPB, School Dental Centre (64353779 or 64353151). HPB School Dental Centre - 3 Second Hospital Avenue Singapore 168937 (Level 4) or email at Contact__YPS@hpb.gov.sg
 
-Therapist Ng S C 
+Therapist Ng S C <br>
 Updated as of 08/2023
