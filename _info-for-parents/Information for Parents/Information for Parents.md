@@ -25,8 +25,8 @@ variant: markdown
 
 <h2>Group Personal Accident Insurance</h2>
 
-1. [Product Fact Sheet (Nov 2017) Students GPA](/files/2022/Vendors%20Information/Product%20Fact%20Sheet%20(Nov%202017)%20Student%20GPA.pdf)
-2. [MOE Student GPA Claim Form](/files/2022/Vendors%20Information/MOE%20Student%20GPA%20claim%20form.pdf)
+1. [Product Fact Sheet](/files/2023/Product_Fact_Sheet.pdf)
 
+2. [E Submission Guide](/files/2023/E_Submission_Guide.pdf)
 
-
+3. [ONLINE CLAIM SUBMISSION](https://studentgpa.incomegroupins.com.sg/#/)
