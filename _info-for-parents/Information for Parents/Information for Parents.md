@@ -33,7 +33,7 @@ The Ministry of Education (MOE) has established a contract for GPA Insurance for
 5.	Participating in any activity conducted by the above mentioned student care centre
 For more details on the insurance coverage, please click: </p>
 
-  [Insurance Coverage](/files/2023/Product_Fact_Sheet.pdf)
+  [Insurance Coverage 2024](/files/Product_Fact_Sheet_Year_2024.pdf)  
 
 <u>Claim Procedures</u><br>
 1.	For eSubmission, parents can go to Income’s GPA portal.<br>
