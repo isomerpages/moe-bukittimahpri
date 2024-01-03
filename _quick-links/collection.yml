@@ -1,0 +1,5 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - Quick Links.md

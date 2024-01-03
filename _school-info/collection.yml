@@ -1,0 +1,13 @@
+collections:
+  school-info:
+    output: true
+    order:
+      - Our Vision, Mission and Motto.md
+      - Our School Song.md
+      - School History.md
+      - Principal's Message.md
+      - Key Personnel.md
+      - Staff List.md
+      - School Rules.md
+      - Contact Us.md
+      - Vendor Information.md

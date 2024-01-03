@@ -1,0 +1,12 @@
+logo: /images/bukittimahps.png
+links:
+  - title: School Info
+    collection: school-info
+  - title: Key Programmes
+    collection: key-programmes
+  - title: Department
+    collection: department
+  - title: CCA
+    collection: cca
+  - title: Info For Parents
+    collection: info-for-parents

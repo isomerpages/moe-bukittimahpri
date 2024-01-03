@@ -1,0 +1,16 @@
+collections:
+  department:
+    output: true
+    order:
+      - English Language.md
+      - Mathematics.md
+      - Mother Tongue.md
+      - Science.md
+      - Information  and Communication Technology | ICT.md
+      - CCE/.keep
+      - CCE/NE and SS.md
+      - CCE/Values in Action.md
+      - CCE/Student Leadership At BTPS.md
+      - CCE/BTPS Character Programme.md
+      - Physical Education.md
+      - Aesthetics.md
