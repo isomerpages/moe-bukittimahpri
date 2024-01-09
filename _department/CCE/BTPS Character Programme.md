@@ -43,14 +43,16 @@ Focus: Teamwork, Care for others, Social skills, Resilience<br>
 • I use appropriate words and actions to handle disagreements and peer pressure. <br>
 • I will think of ways to improve a situation. <br>
 
-<strong><u>Social Awareness &amp; Relationship Management</u></strong><br>• I respect that everyone is different and will be inclusive. I will listen to others’ points of view without expressing judgement. <br>
+<strong><u>Social Awareness &amp; Relationship Management</u></strong>
+<br>
+• I respect that everyone is different and will be inclusive. I will listen to others’ points of view without expressing judgement. <br>
 • I will take care of others. <br>
 • I will recognise my peers’ efforts. <br> 
 • I will work with others in a supportive and respectful manner to finish the task. <br>
 </td></tr>
 <tr><td style="border:2px solid #0A0B30;"><strong>Upper Primary Motto: Lead and Inspire</strong> <br><br>
 Focus: Decision-making &amp; Choices, Influencing others positively, Building positive relationships,  Resilience
-</td><td><strong><u>Self-Awareness &amp; Self-Management</u></strong>
+</td><td><strong><u>Self-Awareness &amp; Self-Management</u></strong><br>
 • I will apply my strengths to achieve my goals. (I Can - strategies)<br>
 • I can overcome challenges. (I Am – positive attitude)<br>
 
