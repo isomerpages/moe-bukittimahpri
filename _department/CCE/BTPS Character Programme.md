@@ -16,7 +16,7 @@ At BTPS, our learning environment is dedicated to a comprehensive and progressiv
 </p>
 
 <h5><strong>Our Character Development Structure</strong></h5> 
-<table>
+<table style="border:2px solid #0A0B30">
 <tbody><tr><td><strong>Level Motto</strong> </td><td><strong>Observable Behaviours</strong></td></tr>
 <tr><td><strong>Lower Primary Motto: Start It Right!</strong> <br><br>
 Focus: Routines, Readiness, Attitudes
