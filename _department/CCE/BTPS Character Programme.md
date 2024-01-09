@@ -7,9 +7,7 @@ variant: markdown
 ---
 # BTPS CHARACTER PROGRAMME
 
-
-
-![](/images/Students%20Activities%20Photos/btpsc1.png)
+<img src="/images/Students%20Activities%20Photos/btpsicons.png">
 
 <p align="justify">
 At BTPS, our learning environment is dedicated to a comprehensive and progressive approach to support character building of BTPS students. Our school’s refreshed Character Development Structure delineates the level focus and the observable behaviours we will like the students to practice. 
@@ -78,18 +76,18 @@ Based on the Reflective Practice Model of asking ‘what’, ‘why’, ‘so wh
 
 <table><tbody><tr><td>
 
-![](/images/Students%20Activities%20Photos/btpsc2.png)
+<img src="/images/Students%20Activities%20Photos/btpsc2.png">
 
 </td>
 
 <td>
 
-![](/images/Students%20Activities%20Photos/btpsc3.png)
+<img src="/images/Students%20Activities%20Photos/btpsc3.png">
 
 </td>
 <td>
 
-![](/images/Students%20Activities%20Photos/btpsc4.png)
+<img src="/images/Students%20Activities%20Photos/btpsc4.png">
 
 </td></tr></tbody></table>
 
@@ -97,9 +95,9 @@ Based on the Reflective Practice Model of asking ‘what’, ‘why’, ‘so wh
 <strong>Student Well-Being </strong><br>
 From classroom activities such as Back-to-School activities to check in on student well-being, to promoting inclusivity and involving student leaders as peer supporters in school-wide programmes, students are equipped with the necessary skills and provided with support to overcome challenges and seek help from others. <br>
 
-![](/images/Students%20Activities%20Photos/btpsc5.png)
+<img src="/images/Students%20Activities%20Photos/btpsc5.png">
 
-![](/images/Students%20Activities%20Photos/btpsc6.png)
+<img src="/images/Students%20Activities%20Photos/btpsc6.png">
 </p>
 
 
