@@ -3,12 +3,98 @@ title: BTPS Character Programme
 permalink: /department/CCE/btps-character-programme/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
-
 # BTPS CHARACTER PROGRAMME
 
-The school emphasises Character and Leadership Development through the teaching of School Values, Social Emotional Learning competencies and leadership skills. Positive Psychology is used to build confidence in our pupils by focusing on their character strengths.
 
-A theme-based assembly programme, P3-P4 camps, leadership camps, weekly CCAs and Form Teacher Guidance Period lessons provide opportunities to build character and leadership skills.
 
-Students apply their learning in service projects in class, school, at home and in the community through outreach projects at the Kindergartens and activity centres for the elderly.
+![](/images/Students%20Activities%20Photos/btpsc1.png)
+
+<p align="justify">
+At BTPS, our learning environment is dedicated to a comprehensive and progressive approach to support character building of BTPS students. Our school’s refreshed Character Development Structure delineates the level focus and the observable behaviours we will like the students to practice. 
+</p>
+
+<h5><strong>Our Character Development Structure</strong></h5> 
+<table>
+<tbody><tr><td><strong>Level Motto</strong> </td><td><strong>Observable Behaviours</strong></td></tr>
+<tr><td><strong>Lower Primary Motto: Start It Right!</strong> <br><br>
+Focus: Routines, Readiness, Attitudes
+</td><td><strong><u>Self-Awareness &amp; Self-Management</u></strong> <br>
+• I will be present and on time for school and school-related activities. <br>
+• I will organize my personal belongings and be ready for lessons. <br>
+• I will write down homework and reminders in my BT Kit and complete them on time. <br>
+• I will participate and do my best for all schoolwork and activities. <br>
+• I can recognise my emotions and know when to seek help from a trusted adult. <br>
+
+<strong><u>Social Awareness</u></strong> <br>
+• I will listen to my peers. <br>
+• I will greet others respectfully. <br> 
+• I will use kind words and actions. <br>
+• I will apologise when I am in the wrong. <br> 
+• I understand that everyone is unique and special. <br>
+</td></tr>
+<tr><td><strong>Middle Primary Motto: Appreciate and Care</strong><br><br>
+Focus: Teamwork, Care for others, Social skills, Resilience<br>
+</td><td><strong><u>Self-Awareness &amp; Self-Management</u></strong><br>
+• I know my strengths and weaknesses and will tap on my strengths to overcome challenges. <br>
+• I will listen attentively to feedback and suggestions. <br>
+• I use appropriate words and actions to handle disagreements and peer pressure. <br>
+• I will think of ways to improve a situation. <br>
+
+<strong><u>Social Awareness &amp; Relationship Management</u></strong><br>• I respect that everyone is different and will be inclusive. I will listen to others’ points of view without expressing judgement. <br>
+• I will take care of others. <br>
+• I will recognise my peers’ efforts. <br> 
+• I will work with others in a supportive and respectful manner to finish the task. <br>
+</td></tr>
+<tr><td><strong>Upper Primary Motto: Lead and Inspire</strong> <br><br>
+Focus: Decision-making &amp; Choices, Influencing others positively, Building positive relationships,  Resilience
+</td><td><strong><u>Self-Awareness &amp; Self-Management</u></strong>
+• I will apply my strengths to achieve my goals. (I Can - strategies)<br>
+• I can overcome challenges. (I Am – positive attitude)<br>
+
+<strong><u>Social Awareness &amp; Relationship Management</u></strong><br>
+• I will influence others positively.<br>
+• I will value diversity as opportunities to learn. <br>
+• I have the support from others to overcome challenges. (I Have – caring &amp; 
+supportive env)<br>
+
+<strong><u>Responsible Decision-Making</u></strong><br>
+• I will always uphold integrity.<br>
+• I will be responsible for my decisions and actions.<br>
+• I will take care of the environment. <br>
+• I will be an upstander.
+</td></tr>
+</tbody></table>
+<p align="justify">
+<strong>Enactment of CCE</strong> <br>
+In the enactment of CCE2021 curriculum, we value student-centricity, intentionality and coherence when designing learning experiences such as Book-Free Day to support student well-being and ignite the joy of learning.  <br><br>
+<strong>Book-Free Day ‘(Re)Discovering Myself’ </strong><br>
+Based on the Reflective Practice Model of asking ‘what’, ‘why’, ‘so what’ and ‘now what’, this pedagogical approach shaped students’ learning experiences over the two days, as they went through a cycle involving experiencing, reflecting, thinking and acting to transform their experiences into learning.
+</p>
+
+<table><tbody><tr><td>
+
+![](/images/Students%20Activities%20Photos/btpsc2.png)
+
+</td>
+
+<td>
+
+![](/images/Students%20Activities%20Photos/btpsc3.png)
+
+</td>
+<td>
+
+![](/images/Students%20Activities%20Photos/btpsc4.png)
+
+</td></tr></tbody></table>
+
+<p align="justify">
+<strong>Student Well-Being </strong><br>
+From classroom activities such as Back-to-School activities to check in on student well-being, to promoting inclusivity and involving student leaders as peer supporters in school-wide programmes, students are equipped with the necessary skills and provided with support to overcome challenges and seek help from others. <br>
+
+![](/images/Students%20Activities%20Photos/btpsc5.png)
+
+![](/images/Students%20Activities%20Photos/btpsc6.png)
+</p>
