@@ -76,18 +76,18 @@ Based on the Reflective Practice Model of asking ‘what’, ‘why’, ‘so wh
 
 <table><tbody><tr><td>
 
-<img src="/images/Students%20Activities%20Photos/btpsc2.png">
+<img src="/images/Students%20Activities%20Photos/btpsc03.png">
 
 </td>
 
 <td>
 
-<img src="/images/Students%20Activities%20Photos/btpsc3.png">
+<img src="/images/Students%20Activities%20Photos/btpsc04.png">
 
 </td>
 <td>
 
-<img src="/images/Students%20Activities%20Photos/btpsc4.png">
+<img src="/images/Students%20Activities%20Photos/btpsc02.png">
 
 </td></tr></tbody></table>
 
@@ -95,9 +95,8 @@ Based on the Reflective Practice Model of asking ‘what’, ‘why’, ‘so wh
 <strong>Student Well-Being </strong><br>
 From classroom activities such as Back-to-School activities to check in on student well-being, to promoting inclusivity and involving student leaders as peer supporters in school-wide programmes, students are equipped with the necessary skills and provided with support to overcome challenges and seek help from others. <br>
 
-<img src="/images/Students%20Activities%20Photos/btpsc5.png">
+<img src="/images/Students%20Activities%20Photos/btpsc05.png">
 
-<img src="/images/Students%20Activities%20Photos/btpsc6.png">
 </p>
 
 
