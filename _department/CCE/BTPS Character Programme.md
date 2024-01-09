@@ -17,10 +17,11 @@ At BTPS, our learning environment is dedicated to a comprehensive and progressiv
 
 <h5><strong>Our Character Development Structure</strong></h5> 
 <table style="border:2px solid #0A0B30">
-<tbody><tr><td><strong>Level Motto</strong> </td><td><strong>Observable Behaviours</strong></td></tr>
-<tr><td><strong>Lower Primary Motto: Start It Right!</strong> <br><br>
+<tbody><tr><td style="border:2px solid #0A0B30; background-color:#f3f3f3;"> 
+<strong>Level Motto</strong> </td><td style="border:2px solid #0A0B30; background-color:#f3f3f3;"> <strong>Observable Behaviours</strong></td></tr>
+<tr><td style="border:2px solid #0A0B30;"><strong>Lower Primary Motto: Start It Right!</strong> <br><br>
 Focus: Routines, Readiness, Attitudes
-</td><td><strong><u>Self-Awareness &amp; Self-Management</u></strong> <br>
+</td><td style="border:2px solid #0A0B30;"><strong><u>Self-Awareness &amp; Self-Management</u></strong> <br>
 • I will be present and on time for school and school-related activities. <br>
 • I will organize my personal belongings and be ready for lessons. <br>
 • I will write down homework and reminders in my BT Kit and complete them on time. <br>
@@ -34,9 +35,9 @@ Focus: Routines, Readiness, Attitudes
 • I will apologise when I am in the wrong. <br> 
 • I understand that everyone is unique and special. <br>
 </td></tr>
-<tr><td><strong>Middle Primary Motto: Appreciate and Care</strong><br><br>
+<tr><td style="border:2px solid #0A0B30;"><strong>Middle Primary Motto: Appreciate and Care</strong><br><br>
 Focus: Teamwork, Care for others, Social skills, Resilience<br>
-</td><td><strong><u>Self-Awareness &amp; Self-Management</u></strong><br>
+</td><td style="border:2px solid #0A0B30;"><strong><u>Self-Awareness &amp; Self-Management</u></strong><br>
 • I know my strengths and weaknesses and will tap on my strengths to overcome challenges. <br>
 • I will listen attentively to feedback and suggestions. <br>
 • I use appropriate words and actions to handle disagreements and peer pressure. <br>
@@ -47,7 +48,7 @@ Focus: Teamwork, Care for others, Social skills, Resilience<br>
 • I will recognise my peers’ efforts. <br> 
 • I will work with others in a supportive and respectful manner to finish the task. <br>
 </td></tr>
-<tr><td><strong>Upper Primary Motto: Lead and Inspire</strong> <br><br>
+<tr><td style="border:2px solid #0A0B30;"><strong>Upper Primary Motto: Lead and Inspire</strong> <br><br>
 Focus: Decision-making &amp; Choices, Influencing others positively, Building positive relationships,  Resilience
 </td><td><strong><u>Self-Awareness &amp; Self-Management</u></strong>
 • I will apply my strengths to achieve my goals. (I Can - strategies)<br>
