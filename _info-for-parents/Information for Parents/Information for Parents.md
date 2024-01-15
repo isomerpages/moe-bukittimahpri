@@ -6,15 +6,12 @@ third_nav_title: Information for Parents
 variant: markdown
 ---
 # INFORMATION FOR PARENTS
-[2023 Sem 2 Commz @ BTPS](/files/2023/commz@btps2023(sem%202).pdf)
 
-[2023 Sem 2 School Calendar](/files/2023/2023%20sem%202%20school%20calendar.pdf)
+[2024 BTPS](/files/2024/BTPS_2024.pdf)
 
-[2023 Sem 1 Commz @ BTPS](/files/2022/Commz@BTPS2023_Sem1.pdf)
+[2024 Sem 1 School Calendar](/files/2024/BTPS-School-Calendar-2024-Sem1.pdf)
 
-[2023 Sem 1 School Calendar](/files/2022/School%20Calendar%202023%20(Sem%201).pdf)
 
-[2022 Term4 CommzBTPS](/files/2022/Term%20Comms/Term%204%20Commz@BTPS%20(Updated).pdf)
 
 # OTHER INFORMATIONS FOR DOWNLOADS
 * [Building Resilience In Our Children](/files/2022/Informations/Building%20Resilience%20in%20Our%20Children.pdf)
