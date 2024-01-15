@@ -9,7 +9,9 @@ variant: markdown
 
 [2024 BTPS](/files/2024/BTPS_2024.pdf)
 
-[2024 Sem 1 School Calendar](/files/2024/BTPS-School-Calendar-2024-Sem1.pdf)
+[2024 Sem 1 School Calendar](/files/2024/BTPS_School_Calendar_2024_Sem1.pdf)
+
+
 
 
 
