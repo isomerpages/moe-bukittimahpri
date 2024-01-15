@@ -68,11 +68,10 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 </tbody></table>
 
 <p align="justify">
-</p><ul style="list-style-type: disc;"><li><p align="justify">	Name tags should be on both uniform top and PE t-shirt.  </p></li>
-<li><p align="justify">Primary 1 and 2 students may wear PE attire from the start of the day if they have PE/PAL (Outdoor Education, Games &amp; Sports, Dance) lessons. </p></li>
-<li><p align="justify">Primary 3 to 6 students may wear the PE t-shirt with the formal uniform bottom (shorts or skirt) if they have PE lessons for the day.  They are to change into PE shorts before the PE lesson and change back to the formal uniform bottom after the PE lesson.</p></li>
-<li>PE t-shirts are to be tucked into the bottom.</li>
-<li><p align="justify">Students will only change into CCA attire after school before the commencement of their CCA session on Tuesdays and/or Fridays where applicable.</p></li></ul>
+</p><ul style="list-style-type: disc;"><p align="justify">•		Name tags should be on both uniform top and PE t-shirt.  <br>
+•	Students may wear the BTPS PE attire (BTPS t-shirt and PE shorts) if they have PE or PAL (P1 and P2 only) lessons for the day. <br>
+•	The PE t-shirt is to be tucked into the bottom.</p>
+</ul>
 <b>3.2 General Appearance</b>
 <ul><li><p align="justify">Fingernails must be kept short and clean, and not be coloured.</p></li>
 <li><p align="justify">Jewellery, ornaments, and other accessories are not permitted.  For safety reasons, girls are only permitted to wear one pair of plain, small, and identical ear studs.  </p></li>
