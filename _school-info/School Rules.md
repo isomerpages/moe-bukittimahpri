@@ -68,10 +68,9 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 </tbody></table>
 
 <p align="justify">
-</p><ul style="list-style-type: disc;"><p align="justify">•		Name tags should be on both uniform top and PE t-shirt.  <br>
-•	Students may wear the BTPS PE attire (BTPS t-shirt and PE shorts) if they have PE or PAL (P1 and P2 only) lessons for the day. <br>
-•	The PE t-shirt is to be tucked into the bottom.</p>
-</ul>
+</p><ul style="list-style-type: disc;"><li>Name tags should be on both uniform top and PE t-shirt.  </li><li>Students may wear the BTPS PE attire (BTPS t-shirt and PE shorts) if they have PE or PAL (P1 and P2 only) lessons for the day. </li>
+<li>The PE t-shirt is to be tucked into the bottom.</li>
+</ul><p></p>
 <b>3.2 General Appearance</b>
 <ul><li><p align="justify">Fingernails must be kept short and clean, and not be coloured.</p></li>
 <li><p align="justify">Jewellery, ornaments, and other accessories are not permitted.  For safety reasons, girls are only permitted to wear one pair of plain, small, and identical ear studs.  </p></li>
