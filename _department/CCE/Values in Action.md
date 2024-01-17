@@ -15,7 +15,9 @@ We believe it is crucial to prioritize self-worth before extending that value to
 We believe that every student at BTPS possesses innate leadership qualities, beginning with leading themselves, then their peers, and ultimately the community. Our Student Leadership framework is structured into three tiers, starting with Classroom Leaders. </p><h3>Leadership Opportunities</h3><p align="justify">
 In the first tier, students assume class leadership positions and are given the opportunity to serve their classmates. They engage in in-class training sessions that center around the five exemplary leadership practices outlined in the Student Leadership Challenge. <br>
 At Tiers 2 and 3, our Student Leaders are entrusted with the responsibility of actively contributing to both the school and the wider community. They play an integral role in planning and executing various events, such as Teacher’s Day Celebrations and NE Events, while also engaging in service roles like Junior First Aiders and Peer Support Ambassadors. <br>
-Our aim is to nurture well-rounded leaders of character who not only demonstrate effective leadership but also make meaningful contributions to our school community and beyond. These initiatives aim to instill a sense of responsibility and civic mindedness in our students, empowering them to positively impact the world around them.</p><table>
+Our aim is to nurture well-rounded leaders of character who not only demonstrate effective leadership but also make meaningful contributions to our school community and beyond. These initiatives aim to instill a sense of responsibility and civic mindedness in our students, empowering them to positively impact the world around them.</p><img src="/images/Students%20Activities%20Photos/SLD_framework_2.png"><table>
+
+
 
 
 
