@@ -1,6 +1,6 @@
 ---
-title: Briefing
-permalink: /info-for-parents/briefing/
+title: Cohort Sharing
+permalink: /info-for-parents/cohort-sharing/
 description: ""
 variant: markdown
 ---
@@ -31,5 +31,3 @@ variant: markdown
 3) [P6-2024-MTPS-Math-Sharing](/files/2024/P6_2024_MTPS_Math_Sharing.pdf)
 4) [P6-2024-MTPS-MTL-Sharing](/files/2024/P6_2024_MTPS_MT_Sharing.pdf)
 5) [P6-2024-MTPS-Science-Sharing](/files/2024/P4_2024_MTPS_Science_Sharing.pdf)
-
-
