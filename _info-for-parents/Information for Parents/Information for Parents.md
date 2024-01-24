@@ -19,6 +19,7 @@ variant: markdown
 
 * [MOO-O Parent's Guide for IPADs](/files/2022/Guides/MOO-O%20Parent's%20Guide%20for%20ipad.pdf)
 
+* [WE Stories Publication 2023](https://online.fliphtml5.com/obrr/qkde/#p=1)
 <h2>Group Personal Accident Insurance</h2>
 <p align="justify">
 The Ministry of Education (MOE) has established a contract for GPA Insurance for Students with effect from 1 January 2018. This contract is awarded to NTUC Income Insurance Co-operative Limited. It covers death, permanent and total/partial disability and medical due to an accident. The GPA Insurance covers each student when that student is<br>
