@@ -37,9 +37,10 @@ variant: markdown
 <td style="border:2px solid #0A0B30; text-align: center" colspan="2">Games and Sports</td></tr>
 </tbody></table>
 <h3><u>Performing Arts – Music and Movement</u></h3>
-<table><tbody><tr><td><img style="border:2px solid #0A0B30; width:369px;height:454px;" src="/images/picture 4_pa.jpg"></td><td width="30%"><p align="justify">
+<p align="justify">
 Performing Arts in PAL aims to promote the all-rounded development of pupils in Aesthetics. It provides a platform for pupils to learn about World Music Cultures and improvise dance moves they observe from each cultural dance, eventually contributing ideas towards a class performance at the end of the programme. </p>
-<p align="justify">The performance celebrates the pupils’ success in the domain as they contribute to the choreography of the performance.</p></td><td><img style="border:2px solid #0A0B30; width:369px;height:454px;" src="/images/picture 7_pa.jpg">
+<p align="justify">The performance celebrates the pupils’ success in the domain as they contribute to the choreography of the performance.</p>
+<table><tbody><tr><td><img style="border:2px solid #0A0B30; width:369px;height:454px;" src="/images/picture 4_pa.jpg"></td><td><img style="border:2px solid #0A0B30; width:369px;height:454px;" src="/images/picture 7_pa.jpg">
 </td></tr></tbody></table>
 
 <h3><u>Outdoor Education</u></h3>
