@@ -14,6 +14,12 @@ The SLS is an online platform with tools and curriculum-aligned resources for al
 
 SLS can be accessed from [https://learning.moe.edu.sg](https://learning.moe.edu.sg)
 
+<p>Log in via MIMS</p>
+Your username is your_name@students.edu.sg. If you have forgot your password, you could: 
+<p align="justify">
+Refer to the [MIMS user guide](/files/2024/MIMS_SSPR_Guide.pdf)   to reset your password. 
+</p>
+
 <p>2. What are my SLS account login details?</p> 
 
 Your username is first five letters of your name and last five characters of your ID.
