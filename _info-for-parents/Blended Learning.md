@@ -17,7 +17,7 @@ SLS can be accessed from [https://learning.moe.edu.sg](https://learning.moe.edu.
 <p>Log in via MIMS</p>
 Your username is your_name@students.edu.sg. If you have forgot your password, you could: 
 <p align="justify">
-Refer to the [MIMS user guide](/files/2024/MIMS_SSPR_Guide.pdf)   to reset your password. 
+Refer to the [MIMS user guide](/files/2024/MIMS_SSPR_Guide.pdf)   to reset your password. Alternatively, email tan_shu_rui@schools.gov.sg to request for MIMS password reset with your child's class and full name. 
 </p>
 
 <p>2. What are my SLS account login details?</p> 
