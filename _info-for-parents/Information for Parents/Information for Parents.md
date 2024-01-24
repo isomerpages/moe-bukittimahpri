@@ -5,21 +5,22 @@ description: ""
 third_nav_title: Information for Parents
 variant: markdown
 ---
-# INFORMATION FOR PARENTS
+### INFORMATION FOR PARENTS
 
 [2024 BTPS](/files/2024/BTPS_2024.pdf)
 
 [2024 Sem 1 School Calendar](/files/2024/BTPS_School_Calendar_2024_Sem1.pdf)
 
-
-# OTHER INFORMATIONS FOR DOWNLOADS
+### OTHER INFORMATIONS FOR DOWNLOADS
 * [Building Resilience In Our Children](/files/2022/Informations/Building%20Resilience%20in%20Our%20Children.pdf)
 
 * [MOO-O Parent's Guide for Windows](/files/2022/Guides/MOO-O%20Parent's%20Guide%20for%20Windows.pdf)
 
 * [MOO-O Parent's Guide for IPADs](/files/2022/Guides/MOO-O%20Parent's%20Guide%20for%20ipad.pdf)
 
-* [WE Stories Publication 2023](https://online.fliphtml5.com/obrr/qkde/#p=1)
+
+
+
 <h2>Group Personal Accident Insurance</h2>
 <p align="justify">
 The Ministry of Education (MOE) has established a contract for GPA Insurance for Students with effect from 1 January 2018. This contract is awarded to NTUC Income Insurance Co-operative Limited. It covers death, permanent and total/partial disability and medical due to an accident. The GPA Insurance covers each student when that student is<br>
