@@ -2,6 +2,7 @@
 title: Programme for Active Learning | PAL
 permalink: /department/programme-for-active-learning/
 description: ""
+variant: markdown
 ---
 # PROGRAMME FOR ACTIVE LEARNING |PAL
 <p align="justify">
@@ -36,21 +37,20 @@ description: ""
 <td style="border:2px solid #0A0B30; text-align: center" colspan="2">Games and Sports</td></tr>
 </tbody></table>
 <h3><u>Performing Arts – Music and Movement</u></h3>
-<img style="border:2px solid #0A0B30; width:300px;height:400px;" src="/images/picture 4_pa.jpg">
-<p align="justify">
+<table><tbody><tr><td><img style="border:2px solid #0A0B30; width:369px;height:454px;" src="/images/picture 4_pa.jpg"><img style="border:2px solid #0A0B30; width:369px;height:454px;" src="/images/picture 7_pa.jpg"></td><td width="50%"><p align="justify">
 Performing Arts in PAL aims to promote the all-rounded development of pupils in Aesthetics. It provides a platform for pupils to learn about World Music Cultures and improvise dance moves they observe from each cultural dance, eventually contributing ideas towards a class performance at the end of the programme. </p>
 <p align="justify">The performance celebrates the pupils’ success in the domain as they contribute to the choreography of the performance.</p>
-<img style="border:2px solid #0A0B30; width:300px;height:400px;" src="/images/picture 7_pa.jpg">
+</td></tr></tbody></table>
 
 <h3><u>Outdoor Education</u></h3>
 <p align="justify">
-Outdoor Education (OE) in PAL grows pupil’s appreciation of the environment and nature while working together towards a common goal. It includes activities such as nature walks, outdoor play, navigation and team building. Pupils are engaged in experiential learning which develops physical, socioemotional, and cognitive skills while building positive relationships with their peers and with nature. P also learn about sustainability and conservation through OE.  </p>
+Outdoor Education (OE) in PAL grows pupil’s appreciation of the environment and nature while working together towards a common goal. It includes activities such as nature walks, outdoor play, navigation and team building. Pupils are engaged in experiential learning which develops physical, socioemotional, and cognitive skills while building positive relationships with their peers and with nature. P also learn about sustainability and conservation through OE.  </p><img style="border:2px solid #0A0B30; width:454px;height:369px;" src="/images/outdoor_education.png">
 
 <h3><u>Visual Arts</u></h3><br>
 This is an innovative approach to teach visual arts to students which engages them in active learning. 
 <p align="justify">
 The programme is based on the philosophy that visual arts are not just a set of skills, but a way of thinking, communicating, and understanding the world. It is structured around a series of hands-on, interactive, and collaborative activities and projects.  </p>
-
+<img style="border:2px solid #0A0B30; width:454px;height:369px;" src="/images/visual_arts.png">
 <p align="justify">
 Visual Arts in PAL emphasises the process of creating art over the end product, encouraging students to experiment, take risks, and learn from their mistakes. Pupils are encouraged to reflect on their work and the work of others, and to use feedback and critique to improve their skills and understanding.</p>
 
