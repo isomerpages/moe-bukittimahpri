@@ -84,6 +84,11 @@ description: ""
             <tr>
                 <td rowspan="1" colspan="3">
                     <p></p>
+                </td>
+            </tr>
+            <tr>
+                <td rowspan="1" colspan="3">
+                    <p></p>
                     <div class="isomer-image-wrapper">
                         <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students Activities Photos/alp1.png">
                     </div>
