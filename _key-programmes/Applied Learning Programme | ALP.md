@@ -66,24 +66,23 @@ description: ""
                         of knowledge.</p>
                     <p></p>
                     <p>It also allows children not only to communicate knowledge but also to
-                        form it' (Ostroff 2012). Journals serve as a means for teachers to give
-                        voice to each child, encouraging all pupils to express their thoughts.
-                        Thinking Routines are widely applied in journals to cultivate the habit
-                        of thinking through one's explanations.
-                        <br>
-                        <br>BTPS students get to do journaling for English, Mathematics, Science and
-                        Mother Tongue.</p>
+                        form it' (Ostroff 2012).</p>
                 </td>
                 <td rowspan="1" colspan="1">
                     <p></p>
                     <div class="isomer-image-wrapper">
-                        <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students Activities Photos/alp02.png">
+                        <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Students Activities Photos/alp02.png">
                     </div>
                 </td>
             </tr>
             <tr>
                 <td rowspan="1" colspan="3">
-                    <p></p>
+                    <p>Journals serve as a means for teachers to give voice to each child, encouraging
+                        all pupils to express their thoughts. Thinking Routines are widely applied
+                        in journals to cultivate the habit of thinking through one's explanations.
+                        <br>
+                        <br>BTPS students get to do journaling for English, Mathematics, Science and
+                        Mother Tongue.</p>
                 </td>
             </tr>
             <tr>
