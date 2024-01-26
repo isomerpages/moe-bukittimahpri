@@ -136,6 +136,7 @@ students to gain practical skills in baking.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Students Activities Photos/photo00910.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students Activities Photos/photo0111213.png">
 </div>
