@@ -48,36 +48,20 @@ of Inquiry-based learning are emphasised to teach our pupils how to learn:</p>
 <li>
 <p>Reflect on MY Learning</p>
 <h4><strong>KEY PROGRAMMES</strong><br>JOURNALING TO ENABLE IBL-TR</h4>
-</li>
-</ol>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students Activities Photos/alp02.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
 <p>Journaling is an integral part of education in BTPS. The school firmly
 believes that 'Writing enhances critical thinking, reasoning, and the application
 of knowledge. It also allows children not only to communicate knowledge
-but also to form it' (Ostroff 2012).</p>
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Journals serve as a means for teachers to give voice to each child, encouraging
+but also to form it' (Ostroff 2012).
+<br>Journals serve as a means for teachers to give voice to each child, encouraging
 all pupils to express their thoughts. Thinking Routines are widely applied
 in journals to cultivate the habit of thinking through one's explanations.</p>
 <p>BTPS students get to do journaling for English, Mathematics, Science and
 Mother Tongue.</p>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students Activities Photos/picture01to05.png">
+</div>
 <h4>WORK LIKE A SCIENTIST</h4>
 <table>
 <tbody>
