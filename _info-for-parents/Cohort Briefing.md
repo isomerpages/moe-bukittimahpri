@@ -14,9 +14,9 @@ variant: markdown
 
 3) [P2-2024-MTPS-English-Sharing](/files/2024/P2_2024_MTPS_English_Sharing.pdf)
 
-4) [P2-2024-MTPS-Math-Sharing](/files/2024/P3_2024_MTPS_Math_Sharing.pdf)
+4) [P2-2024-MTPS-Math-Sharing](/files/2024/P2_2024_MTPS_Math_Sharing.pdf)
 
-5) [P2-2024-MTPS-MT-Sharing](/files/2024/P3_2024_MTPS_MT_Sharing.pdf)
+5) [P2-2024-MTPS-MT-Sharing](/files/2024/P2_2024_MTPS_MT_Sharing.pdf)
 
 ##### Cohort Briefing for P3 parents
 
