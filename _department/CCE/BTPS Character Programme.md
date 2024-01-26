@@ -67,10 +67,10 @@ supportive env)<br>
 • I will be an upstander.
 </td></tr>
 </tbody></table>
-<p align="justify">
-<strong>Enactment of CCE</strong> <br>
-In the enactment of CCE2021 curriculum, we value student-centricity, intentionality and coherence when designing learning experiences such as Book-Free Day to support student well-being and ignite the joy of learning.  <br><br>
-<strong>Book-Free Day ‘(Re)Discovering Myself’ </strong><br>
+
+<h5><strong>Enactment of CCE</strong></h5><p align="justify">
+In the enactment of CCE2021 curriculum, we value student-centricity, intentionality and coherence when designing learning experiences such as Book-Free Day to support student well-being and ignite the joy of learning.  </p>
+<h5><strong>Book-Free Day ‘(Re)Discovering Myself’ </strong></h5><p align="justify">
 Based on the Reflective Practice Model of asking ‘what’, ‘why’, ‘so what’ and ‘now what’, this pedagogical approach shaped students’ learning experiences over the two days, as they went through a cycle involving experiencing, reflecting, thinking and acting to transform their experiences into learning.
 </p>
 
@@ -91,8 +91,7 @@ Based on the Reflective Practice Model of asking ‘what’, ‘why’, ‘so wh
 
 </td></tr></tbody></table>
 
-<p align="justify">
-<strong>Student Well-Being </strong><br>
+<h5><strong>Student Well-Being </strong></h5><p align="justify">
 From classroom activities such as Back-to-School activities to check in on student well-being, to promoting inclusivity and involving student leaders as peer supporters in school-wide programmes, students are equipped with the necessary skills and provided with support to overcome challenges and seek help from others. <br>
 
 <img src="/images/Students%20Activities%20Photos/btpsc05.png">
