@@ -6,6 +6,18 @@ variant: markdown
 ---
 <h3>Cohort Briefing for Year 2024</h3>
 
+##### Cohort Briefing for P2 parents
+
+1) [P2-2024-MTPS-Principal-Sharing](/files/2024/P2_2024_MTPS_Principal_Sharing.pdf)
+
+2) [P2-2024-MTPS-Year Head-Sharing](/files/2024/P2_2024_MTPS_Year_Head_Sharing.pdf)
+
+3) [P2-2024-MTPS-English-Sharing](/files/2024/P2_2024_MTPS_English_Sharing.pdf)
+
+4) [P2-2024-MTPS-Math-Sharing](/files/2024/P2_2024_MTPS_Math_Sharing.pdf)
+
+5) [P2-2024-MTPS-MT-Sharing](/files/2024/P2_2024_MTPS_MT_Sharing.pdf)
+
 ##### Cohort Briefing for P3 parents
 
 1) [P3-2024-MTPS-Principal-Year-Head-Sharing](/files/2024/P3_2024_MTPS_Principal___Year_Head_Sharing.pdf)
@@ -29,6 +41,19 @@ variant: markdown
  
 5) [P4-2024-MTPS-Science-Sharing](/files/2024/P4_2024_MTPS_Science_Sharing.pdf)
 
+##### Cohort Briefing for P5 parents
+1) [P5-2024-MTPS-Principal-Year-Head-Sharing](/files/2024/P5_2024_MTPS_Principal___Year_Head_Sharing.pdf)
+ 
+2) [P5-2024-MTPS-English-Language-Sharing](/files/2024/P5_2024_MTPS_English_Sharing.pdf)
+ 
+3) [P5-2024-MTPS-Math-Sharing](/files/2024/P5_2024_MTPS_Math_Sharing.pdf)
+ 
+4) [P5-2024-MTPS-MTL-Sharing](/files/2024/P5_2024_MTPS_MT_Sharing.pdf)
+ 
+5) [P5-2024-MTPS-Science-Sharing](/files/2024/P5_2024_MTPS_Science_Sharing.pdf)
+
+6) [P5-2024-MTPS-Sexuality_Education_Sharing](/files/2024/P5_2024_MTPS_Sexuality_Education_Sharing.pdf)
+
 ##### Cohort Briefing for P6 parents
 1) [P6-2024-MTPS-Principal-Year-Head-Sharing](/files/2024/P6_2024_MTPS_Principal___Year_Head_Sharing.pdf)
  
@@ -39,3 +64,4 @@ variant: markdown
 4) [P6-2024-MTPS-MTL-Sharing](/files/2024/P6_2024_MTPS_MT_Sharing.pdf)
  
 5) [P6-2024-MTPS-Science-Sharing](/files/2024/P4_2024_MTPS_Science_Sharing.pdf)
+
