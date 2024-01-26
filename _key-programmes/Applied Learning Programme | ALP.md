@@ -46,58 +46,25 @@ of Inquiry-based learning are emphasised to teach our pupils how to learn:</p>
 <p>I Link What I learn to Life</p>
 </li>
 <li>
-<p>I Reflect on MY Learning
-<br>
-</p>
-<h4><strong>KEY PROGRAMMES</strong></h4>
-</li>
-</ol>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<h4>JOURNALING TO ENABLE IBL-TR</h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
+<p>Reflect on MY Learning</p>
+<h4><strong>KEY PROGRAMMES</strong><br>JOURNALING TO ENABLE IBL-TR</h4>
 <p>Journaling is an integral part of education in BTPS. The school firmly
 believes that 'Writing enhances critical thinking, reasoning, and the application
-of knowledge.</p>
-<p></p>
-<p>It also allows children not only to communicate knowledge but also to
-form it' (Ostroff 2012).</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Students Activities Photos/alp02.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>Journals serve as a means for teachers to give voice to each child, encouraging
+of knowledge. It also allows children not only to communicate knowledge
+but also to form it' (Ostroff 2012).
+<br>Journals serve as a means for teachers to give voice to each child, encouraging
 all pupils to express their thoughts. Thinking Routines are widely applied
 in journals to cultivate the habit of thinking through one's explanations.
-<br>
 <br>BTPS students get to do journaling for English, Mathematics, Science and
 Mother Tongue.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p></p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students Activities Photos/alp1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students Activities Photos/picture01to05.png">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
 <h4>WORK LIKE A SCIENTIST</h4>
-</td>
-</tr>
+<table>
+<tbody>
 <tr>
 <td rowspan="1" colspan="2">
 <p>The 'Work like a Scientist' programme is a Science initiative designed
@@ -137,27 +104,15 @@ session, they will visit a community garden to interact with plants grown
 from tissue cultures.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="3">
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students Activities Photos/photo0345.png">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
 <h4>SUPER JOURNALING TEAM</h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students Activities Photos/Photo_07.jpeg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
 <p>The Super Journaling Team (SJT) is a special programme designed for students
 who are self-directed and love journaling. Their TED entries, which include
 reflection of articles, showcase their deep thinking. SJT members, selected
@@ -165,9 +120,7 @@ based on their interest in journaling and writing, would attend master
 classes which are conducted outside curriculum hours once every term. They
 have opportunities to explore issues and topics from different perspectives
 with supporting evidence and reasoning. Learning experiences include a
-learning journey to the Last Kampong in Singapore.
-<br>
-</p>
+learning journey to the Last Kampong in Singapore.</p>
 <p>This exploration aims to understand the reality of Kampong life, drawing
 comparisons to the Singlit book by Josephine Chia, 'Growing Up in Kampong
 Potong Pasir.’ Students also had the unique opportunity to connect with
@@ -179,18 +132,12 @@ a professional chef through a Zoom session.</p>
 baking session, creating delicious cupcakes. This immersive experience
 not only provided insight into the culinary profession but also allowed
 students to gain practical skills in baking.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Students Activities Photos/photo00910.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students Activities Photos/photo0111213.png">
 </div>
-<p>
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><br></h4>
 <p></p>
