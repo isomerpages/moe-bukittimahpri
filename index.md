@@ -15,6 +15,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/
+      variant: image
   - resources:
       title: Announcements
       button: Announcements
