@@ -633,7 +633,7 @@ variant: tiptap
 <p>345</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_peng_swee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_peng_swee@moe.edu.sg</a>
+<p><a href="mailto:chua_peng_swee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_peng_swee@moe.edu.sg</a> 
 <br>
 </p>
 </td>
@@ -682,7 +682,7 @@ variant: tiptap
 <p>364</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:subahshini_jayaseelan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">subahshini_jayaseelan@moe.edu.sg</a>
+<p><a href="mailto:subahshini_jayaseelan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">subahshini_jayaseelan@moe.edu.sg</a> 
 <br>
 </p>
 </td>
