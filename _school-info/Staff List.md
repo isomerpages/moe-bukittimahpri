@@ -2,7 +2,7 @@
 title: Staff List
 permalink: /staff/staff-list/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p></p>
 <table>
@@ -51,7 +51,7 @@ variant: tiptap
 <p>1_Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Edna Phong Yang Yi</p>
+<p>Mdm Edna Phong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>330</p>
@@ -82,7 +82,7 @@ variant: tiptap
 <p>1_Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ernest Ong Wei Ming</p>
+<p>Mr Ong Wei Ming Ernest</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>331</p>
@@ -97,7 +97,7 @@ variant: tiptap
 <p>1_Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Celeste Wong Siow Yen</p>
+<p>Ms Celeste Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>338</p>
@@ -172,7 +172,7 @@ variant: tiptap
 <p>1_Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Edina Yong Qi Ying</p>
+<p>Ms Edina Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>379</p>
@@ -416,7 +416,7 @@ variant: tiptap
 <p>2_Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Pang Liew Chin</p>
+<p>Mdm Pang Liew Chin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>334</p>
@@ -431,7 +431,7 @@ variant: tiptap
 <p>3_Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jesudass Joseph Patros</p>
+<p>Mr Jesu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>370</p>
@@ -596,7 +596,7 @@ variant: tiptap
 <p>4_Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Annabelle Chua Wen Xin</p>
+<p>Miss Annabelle</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>319</p>
@@ -673,7 +673,7 @@ variant: tiptap
 <p>4_Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Subahshini Jayaseelan
+<p>Ms Subahshini
 <br>
 <br>
 </p>
@@ -692,7 +692,7 @@ variant: tiptap
 <p>4_Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Serene Tear Poh Keng</p>
+<p>Mrs Tear</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>314</p>
@@ -722,7 +722,8 @@ variant: tiptap
 <p>4_Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jonathan Ng Qi Hao</p>
+<p>Mr Johnathan Ng</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>363</p>
@@ -752,7 +753,7 @@ variant: tiptap
 <p>4_Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Solomon Tan Ding Huang</p>
+<p>Mr Solomon Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>362</p>
@@ -782,7 +783,7 @@ variant: tiptap
 <p>5_Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Wong-Chong Yu Pei
+<p>Mrs Wong
 <br>(LH/Math)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -813,7 +814,8 @@ variant: tiptap
 <p>5_Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Junaida Bte Jasman (ST/Math)</p>
+<p>Mdm Junaida</p>
+<p>(ST/Math)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>306</p>
@@ -888,7 +890,7 @@ variant: tiptap
 <p>5_Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sharmini d/o Jaya Kumaran (LH/EL Covering)</p>
+<p>Mdm Sharmini (LH/EL Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>304</p>
@@ -903,7 +905,7 @@ variant: tiptap
 <p>5_Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Iris Lim</p>
+<p>Ms Lim Li Hwang Iris</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>361</p>
@@ -918,7 +920,8 @@ variant: tiptap
 <p>6_Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rozana Bte Hashim (ST EL)</p>
+<p>Mdm Rozana
+<br>(ST EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>316</p>
@@ -933,7 +936,7 @@ variant: tiptap
 <p>6_Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Donald Tan Eit Peow</p>
+<p>Mr Donald Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>346</p>
@@ -1038,7 +1041,7 @@ variant: tiptap
 <p>6_Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mazlinah Bte Juhari</p>
+<p>Mdm Mazlinah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>337</p>
@@ -1217,7 +1220,7 @@ variant: tiptap
 <td rowspan="4" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 16%;" height="auto" width="100%" alt="" src="/images/Staff Photos/AM_nurhayati.png">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff Photos/AM_Mdm_Nurhayati.png">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1245,7 +1248,7 @@ variant: tiptap
 <td rowspan="4" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 16%;" height="auto" width="100%" alt="" src="/images/Staff Photos/om_mr_desmond.png">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/OM_Mr_Desmond_Goh.png"> 
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1273,7 +1276,7 @@ variant: tiptap
 <td rowspan="4" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 16%;" height="auto" width="100%" alt="" src="/images/Staff Photos/ictma_mrs_lin.png">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/ICT_Manager_Mrs_Lin.png"> 
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1299,8 +1302,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff%20Photos/Organisation%20Photos/mdm marlina mohd nor.jpg">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mdm marlina mohd nor.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1326,8 +1330,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff%20Photos/Organisation%20Photos/mdm nor junedah binte salim.jpg">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mdm nor junedah binte salim.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1353,8 +1358,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 16%;" height="auto" width="100%" alt="" src="/images/Staff Photos/amelia.png">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/MSO_Mdm_Amelia_Lim.png">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1382,7 +1388,7 @@ variant: tiptap
 <td rowspan="4" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 16%;" height="auto" width="100%" alt="" src="/images/Staff Photos/ae_mr_azhari.png">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/AE_Mr_Azhari.png">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1409,7 +1415,7 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff%20Photos/Organisation%20Photos/mdm chor yoon moy.jpg">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mdm chor yoon moy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1425,7 +1431,7 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff%20Photos/Organisation%20Photos/mdm halela bte mawardi.jpg">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mdm halela bte mawardi.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1441,7 +1447,7 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff%20Photos/Organisation%20Photos/mr saufiq.jpg">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mr saufiq.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1458,7 +1464,7 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 16%;" height="auto" width="100%" alt="" src="/images/Staff Photos/de_mr_zuhaili.png">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/DE_Mr_zuhaili.png"> 
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1474,7 +1480,7 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff%20Photos/Organisation%20Photos/mdm irene chionh.jpg">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff%20Photos/Organisation%20Photos/mdm irene chionh.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="4">
