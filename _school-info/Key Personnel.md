@@ -4,7 +4,7 @@ permalink: /staff/key-personnel/
 description: ""
 variant: markdown
 ---
-<strong><h3>School Leaders</h3></strong>
+<h3>School Leaders</h3>
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
 <td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center;" colspan="3"><strong>PRINCIPAL</strong>
