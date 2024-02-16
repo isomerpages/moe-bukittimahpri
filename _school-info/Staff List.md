@@ -1248,7 +1248,7 @@ variant: markdown
 <td rowspan="4" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff Photos/om_mr_desmond.png">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/OM_Mr_Desmond_Goh.png"> 
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1276,7 +1276,7 @@ variant: markdown
 <td rowspan="4" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff Photos/ictma_mrs_lin.png">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/ICT_Manager_Mrs_Lin.png"> 
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1303,7 +1303,7 @@ variant: markdown
 <tr>
 <td rowspan="4" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff%20Photos/Organisation%20Photos/mdm marlina mohd nor.jpg">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mdm marlina mohd nor.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1330,7 +1330,7 @@ variant: markdown
 <tr>
 <td rowspan="4" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff%20Photos/Organisation%20Photos/mdm nor junedah binte salim.jpg">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mdm nor junedah binte salim.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1357,7 +1357,7 @@ variant: markdown
 <tr>
 <td rowspan="4" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff Photos/amelia.png">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/MSO_Mdm_Amelia_Lim.png">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1385,7 +1385,7 @@ variant: markdown
 <td rowspan="4" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff Photos/ae_mr_azhari.png">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/AE_Mr_Azhari.png">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1412,7 +1412,7 @@ variant: markdown
 <tr>
 <td rowspan="2" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff%20Photos/Organisation%20Photos/mdm chor yoon moy.jpg">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mdm chor yoon moy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1428,7 +1428,7 @@ variant: markdown
 <tr>
 <td rowspan="2" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff%20Photos/Organisation%20Photos/mdm halela bte mawardi.jpg">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mdm halela bte mawardi.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1444,7 +1444,7 @@ variant: markdown
 <tr>
 <td rowspan="2" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff%20Photos/Organisation%20Photos/mr saufiq.jpg">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mr saufiq.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1461,7 +1461,7 @@ variant: markdown
 <td rowspan="2" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff Photos/de_mr_zuhaili.png">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/DE_Mr_zuhaili.png"> 
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1477,7 +1477,7 @@ variant: markdown
 <tr>
 <td rowspan="2" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff%20Photos/Organisation%20Photos/mdm irene chionh.jpg">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff%20Photos/Organisation%20Photos/mdm irene chionh.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="4">
