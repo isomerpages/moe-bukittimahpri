@@ -1248,7 +1248,7 @@ variant: markdown
 <td rowspan="4" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff Photos/om_mr_desmond.png">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff Photos/om_mr_desmond.png">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1276,7 +1276,7 @@ variant: markdown
 <td rowspan="4" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff Photos/ictma_mrs_lin.png">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff Photos/ictma_mrs_lin.png">
 </div>
 </td>
 <td rowspan="1" colspan="4">
