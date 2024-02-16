@@ -1302,6 +1302,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mdm marlina mohd nor.jpg">
 </div>
@@ -1329,6 +1330,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mdm nor junedah binte salim.jpg">
 </div>
@@ -1356,6 +1358,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/MSO_Mdm_Amelia_Lim.png">
 </div>
