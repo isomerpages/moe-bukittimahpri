@@ -9,7 +9,7 @@ variant: markdown
 <center><img style="border:2px solid #0A0B30;" src="/images/pic1_a%20butterfly%20is%20born.jpg"><strong>A Butterfly is Born</strong>
 <img style="border:2px solid #0A0B30;" src="/images/pic2%20life%20in%20a%20shell.jpg"><strong>Life in a Shell</strong></center><center><img style="border:2px solid #0A0B30;" src="/images/pic3_the%20bicycle%20race.jpg"><strong>The Bicycle Race</strong></center><center><img style="border:2px solid #0A0B30;" src="/images/pic4_making%20ice%20cream.jpg"><strong>Making Ice Cream</strong></center>
 <h2>Invited speakers to connect to real life experiences</h2>
-<img src="/images/School%20Photos/EL_dept.png">
+<img style="border:2px solid #0A0B30" src="/images/School%20Photos/EL_dept.png">
 <h2>Key Programmes</h2>
 <h3>1.	Journaling – ELLE (English Language Learning Experience) for P1 &amp; P2; TED (Tackling English Diligently) for P3-P6 </h3>
 <p align="justify">
