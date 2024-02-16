@@ -1220,7 +1220,7 @@ variant: markdown
 <td rowspan="4" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 16%;" height="auto" width="100%" alt="" src="/images/Staff Photos/AM_nurhayati.png">
+<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff Photos/AM_nurhayati.png">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1248,7 +1248,7 @@ variant: markdown
 <td rowspan="4" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 16%;" height="auto" width="100%" alt="" src="/images/Staff Photos/om_mr_desmond.png">
+<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff Photos/om_mr_desmond.png">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1276,7 +1276,7 @@ variant: markdown
 <td rowspan="4" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 16%;" height="auto" width="100%" alt="" src="/images/Staff Photos/ictma_mrs_lin.png">
+<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff Photos/ictma_mrs_lin.png">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1357,7 +1357,7 @@ variant: markdown
 <tr>
 <td rowspan="4" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 16%;" height="auto" width="100%" alt="" src="/images/Staff Photos/amelia.png">
+<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff Photos/amelia.png">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1385,7 +1385,7 @@ variant: markdown
 <td rowspan="4" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 16%;" height="auto" width="100%" alt="" src="/images/Staff Photos/ae_mr_azhari.png">
+<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff Photos/ae_mr_azhari.png">
 </div>
 </td>
 <td rowspan="1" colspan="4">
@@ -1461,7 +1461,7 @@ variant: markdown
 <td rowspan="2" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 16%;" height="auto" width="100%" alt="" src="/images/Staff Photos/de_mr_zuhaili.png">
+<img style="width:63px; border:2px solid #0A0B30" height="auto" width="100%" src="/images/Staff Photos/de_mr_zuhaili.png">
 </div>
 </td>
 <td rowspan="1" colspan="4">
