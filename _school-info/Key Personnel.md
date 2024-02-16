@@ -4,8 +4,7 @@ permalink: /staff/key-personnel/
 description: ""
 variant: markdown
 ---
-<center>
-</center><center></center><table><tbody><tr align="center"><td><strong>VICE PRINCIPAL</strong></td><td width="100px"><strong>PRINCIPAL</strong></td><td><strong>VICE PRINCIPAL</strong></td></tr>
+<table><tbody><tr align="center"><td><strong>VICE PRINCIPAL</strong></td><td width="100px"><strong>PRINCIPAL</strong></td><td><strong>VICE PRINCIPAL</strong></td></tr>
 <tr><td><img style="width: 100px;" height="auto" alt="" src="/images/Staff Photos/Organisation Photos/002_mr_wong.png"></td><td width="100px"><img style="width: 100px;" height="auto" alt="" src="/images/Staff Photos/Organisation Photos/001_ms_lau.png"></td><td><img style="width: 100px;" height="auto" alt="" src="/images/Staff Photos/vp_mdm_jan.png"></td></tr>
 <tr align="center"><td><strong>Mr Wong Sung Lai Edward</strong></td><td width="100px"><strong>Ms Lau Wan Sze</strong></td><td><p><strong>Mdm Jan</strong></p></td></tr>
 <tr align="center"><td><a href="mailto:WONG_Sung_Lai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">WONG_Sung_Lai@schools.gov.sg</a></td><td width="100px"><a href="mailto:lau_wan_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_wan_sze@schools.gov.sg</a></td><td><a href="mailto:lin_shihua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_shihua@schools.gov.sg</a></td></tr>
