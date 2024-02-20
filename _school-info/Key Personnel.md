@@ -28,13 +28,9 @@ variant: markdown
  </td></tr></tbody></table>
 
 <table>
-</table><table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="4">
-<h2><strong>YEAR HEAD</strong><p></p></h2>
-</td>
-</tr>
+
+<tbody><tr>
+</tr><tr><td rowspan="1" colspan="1"><p>&nbsp;</p></td><td rowspan="1" colspan="1"><p>&nbsp;</p></td></tr><tr><td rowspan="1" colspan="2"><strong>YEAR HEAD</strong></td></tr>
 <tr>
 <td rowspan="4" colspan="1">
 <p></p>
