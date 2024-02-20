@@ -30,7 +30,7 @@ variant: markdown
 <table>
 <tbody><tr><td rowspan="1" colspan="1"><p>&nbsp;</p></td><td rowspan="1" colspan="1"><p>&nbsp;</p></td></tr><tr><td rowspan="1" colspan="2"><strong>YEAR HEAD</strong></td></tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td style="border:2px ; background-color:#ffffff; text-align: center;" rowspan="4" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:100px;" height="auto" src="/images/Staff Photos/Organisation Photos/yh_shirley.png">
