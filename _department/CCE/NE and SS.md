@@ -3,6 +3,7 @@ title: NE and SS
 permalink: /department/CCE/ne-and-ss/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
 # NATIONAL EDUCATION
 
@@ -114,6 +115,4 @@ The syllabus is complimented by field-based learning journeys, where pupils are 
 <td style="border:2px solid #0A0B30; vertical-align: middle;"><b>How is Southeast Asia important to Singapore? </b></td>
 <td style="border:2px solid #0A0B30; vertical-align: middle;">Singapore Botanical Gardens<br></td>
 </tr><tr>
-</tr></tbody></table>
-
-</em></strong></strong>
+</tr></tbody></table></em></strong></strong>
