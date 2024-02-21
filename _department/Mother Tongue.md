@@ -19,7 +19,7 @@ We aim to build a strong foundation and nurture the love of Mother Tongue in our
 <p align="justify">“SLS Reading Mums &amp; Dads” is a collaboration between parents and teachers where our supportive Reading Mums and Reading Dads will read Chinese story books to our students online. Teachers will create online activities like Kahoot and Drawing to further stimulate the interest of our students.</p>
 <h3><u>World Book Day</u></h3>
 
-<p align="justify">In conjunction with World Book Day, we organised a series of activities to encourage our students to discover the pleasure of reading. Activities include visiting the MOLLY bus by National Library Board, picture book introduction and presentation by a renowned local author and performances put up by teachers.<br><img src="/images/School%20Photos/world_book_day_in_2023.png">Students engage in classroom activities to create their own books and Malay students get to dress up as their favourite characters from the book. Our school also hosted a book fair from a local publisher. </p>
+<p align="justify">In conjunction with World Book Day, we organised a series of activities to encourage our students to discover the pleasure of reading. Activities include visiting the MOLLY bus by National Library Board, picture book introduction and presentation by a renowned local author and performances put up by teachers.<br><img style="width:80%" src="/images/School%20Photos/world_book_day_in_2023.png">Students engage in classroom activities to create their own books and Malay students get to dress up as their favourite characters from the book. Our school also hosted a book fair from a local publisher. </p>
 
 
 <h3><u>Mother Tongue Learning Fortnight</u></h3><p align="justify">
