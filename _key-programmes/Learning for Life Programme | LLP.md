@@ -32,6 +32,6 @@ P.A.M TV provides an authentic platform for students and staff to promote a heal
 <p align="justify">An in-house school concert that happens once in every two years, ChaRmz celebrates the young talents in the school’s music programmes and the Visual and Performing Arts CCA groups which include BTPS Brass Symphonia, Choir, Dance-Versity, Drama Club and Art Club. <br>ChaRmz, provides the performers a platform to express themselves confidently and gives others the opportunity to appreciate the aesthetic beauty of the diverse forms of music and visual arts. It also encourages students to interact and forge friendships with peers through music, dance and art, thus fostering social cohesion. </p><img src="/images/School%20Photos/charmz.png" style="width:80%">
 
 <h1>Exposure to the Arts </h1>
-<p align="justify">Students get to experience different art forms at school-wide assembly programmes and through concerts at major school events.</p><img src="/images/School%20Photos/Exposure_to_the_Arts.png" style="width:80%;">
+<p align="justify">Students get to experience different art forms at school-wide assembly programmes and through concerts at major school events.</p><img src="/images/School%20Photos/Exposure_2023.png" style="width:80%;"><img src="/images/School%20Photos/to_the_arts_2023.png" style="width:80%;"> 
 
 
