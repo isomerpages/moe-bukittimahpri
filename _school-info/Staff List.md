@@ -340,7 +340,7 @@ variant: markdown
 <p>2_Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Puay Choo</p>
+<p>Mrs Quah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>311</p>
@@ -860,7 +860,7 @@ variant: markdown
 <p>5_Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Evelyn Nah Bee Har</p>
+<p>Mdm Evelyn Nah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>312</p>
@@ -905,7 +905,7 @@ variant: markdown
 <p>5_Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Li Hwang Iris</p>
+<p>Miss Iris</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>361</p>
@@ -951,7 +951,7 @@ variant: markdown
 <p>6_Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kenny Chin Peng Kiew</p>
+<p>Mr Kenny Chin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>340</p>
