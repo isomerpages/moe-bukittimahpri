@@ -23,8 +23,7 @@ Using the <i>Thinking Routines</i> is one of the approaches used to enhance stud
 <img style="width:700px; height:400px" src="/images/art003.jpg">
 
 <font color="#191970"><h3>Artist In School Scheme (Sculpture Making - Cast In Stone)</h3></font>
-<img style="border:2px solid #0A0B30; width:300px; height:360px" src="/images/artistinschool001.jpeg"><br><img style="border:2px solid #0A0B30; width:300px; height:360px" src="/images/artistinschool002.jpeg"><br><img style="border:2px solid #0A0B30; width:300px; height:360px" src="/images/artistinschool003.jpeg"><br><img style="border:2px solid #0A0B30; width:300px; height:360px" src="/images/artistinschool004.jpeg"><br>
-<img style="border:2px solid #0A0B30; width:360px; height:200px" src="/images/artistinschool005.jpeg"><br><img style="border:2px solid #0A0B30; width:360px; height:200px" src="/images/artistinschool006.jpeg">
+<img style="width:80%" src="/images/School%20Photos/Artist_In_School_Scheme.png"><br>
 
 # Music
 Click [[here]](/key-programmes/learning-for-life-programme/) to view music content
