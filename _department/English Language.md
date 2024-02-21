@@ -32,7 +32,8 @@ ELLE and TED journals provide pupils the platform to explore the different aspec
 <p align="justify">BTPS takes part in the Singapore Moo-O Awards every year. On 12 April 2023, our BTPS team comprising Kim Jooha (3 Graciousness), Jason James Brown (3 Resilience) and Naomi Kechen Festo (3 Respect) participated in the 2023 Singapore Moo-O Awards. This annual competition is open to all P3 pupils and supported by the Speak Good English Movement.
 Our students demonstrated resilience, teamwork and creativity during the competition. The BTPS team received the Gold award this year! The Gold award is awarded to the top 5 teams out of the 50 participating schools. <br>
 You may go to the website <a target="_blank" href="https://plus.moo-o.com/tma/"></a> to view the results, the judges’ comments as well as the link to our team’s video. </p>
-<center><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/pic008.JPG"><br><img style="border:2px solid #0A0B30;width:360px;height:200px;" src="/images/pic009.JPG"></center>
+
+<center><img width="50%" src="/images/School%20Photos/Moo_O.png"></center>
 
 
 <h2>Enrichment Programmes</h2>
@@ -44,4 +45,4 @@ Super Journaling is a special programme designed for pupils who are self-directe
 <p align="justify">
 SJT members explore issues and topics from different perspectives.  They are taken out of the classroom context to enjoy authentic experiences such as meeting and interviewing a baker, a national soccer player, exploring our neighbourhood gardens and even go on a learning journey to visit the ‘last kampong’ in Singapore after reading a Singlit book on kampong life by Josephine Chia.</p>
 </ol>
-<table><tbody><tr><td><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/pic010.jpeg"></td><td><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/pic011.jpeg"></td></tr></tbody></table>
+<img src="/images/School%20Photos/SUPER_JOURNALING_TEAM.png">
