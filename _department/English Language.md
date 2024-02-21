@@ -9,7 +9,7 @@ variant: markdown
 <center><img src="/images/School%20Photos/A_Butterfly_is_Born.png">
 <img src="/images/School%20Photos/stellar_units_2024.png">
 <h2>Invited speakers to connect to real life experiences</h2>
-<img style="border:2px solid #0A0B30" src="/images/School%20Photos/EL_dept.png">
+<img src="/images/School%20Photos/invited_speakers.png">
 <h2>Key Programmes</h2>
 <h3>1.	Journaling – ELLE (English Language Learning Experience) for P1 &amp; P2; TED (Tackling English Diligently) for P3-P6 </h3>
 <p align="justify">
