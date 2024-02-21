@@ -31,7 +31,7 @@ Heuristics and methods of problem solving are taught to students to sharpen thei
 <h3>3. Mathematics Learning Day</h3>
 <p align="justify">
 Students are given opportunity to experience application of Mathematics concepts and skills through experiential and realistic learning at Mathematics stations around the school. Through this programme, students can better relate mathematics to real life and work collaboratively to solve problems together.</p>
-<img style="border:2px solid #0A0B30; width:300px;height:360px;" src="/images/btpsmath7.jpeg">
+<img src="/images/School%20Photos/Math_Learning_Day.png">
 <br>
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
