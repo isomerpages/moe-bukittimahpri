@@ -6,7 +6,7 @@ variant: markdown
 ---
 <p align="justify">The English Language department in BTPS aims to develop the communication, reading and thinking skills in our pupils so that they can be empathetic communicators and discerning readers, aligned to the MOE English Language Syllabus 2020. Through collaborative lesson planning, lessons are crafted based on the STELLAR 2.0 units to provide the pupils with experiential learning and connection to real life.<br>In one of the P5 STELLAR Units Late but not Last, we invited Mr C Kunalan to share his experience as a Singaporean athlete who has made a great contribution to athletics, specifically in track and field. The Primary 5 pupils were also privileged to be given the opportunity to pose questions and interact with Mr Kunalan.</p>
 <h2>Experiential and Extension Learning to STELLAR Units </h2>
-<center><img src="/images/School%20Photos/A_Butterfly_is_Born.png">
+<img src="/images/School%20Photos/A_Butterfly_is_Born.png">
 <img src="/images/School%20Photos/stellar_units_2024.png">
 <h2>Invited speakers to connect to real life experiences</h2>
 <img src="/images/School%20Photos/invited_speakers.png">
@@ -44,4 +44,4 @@ Super Journaling is a special programme designed for pupils who are self-directe
 <p align="justify">
 SJT members explore issues and topics from different perspectives.  They are taken out of the classroom context to enjoy authentic experiences such as meeting and interviewing a baker, a national soccer player, exploring our neighbourhood gardens and even go on a learning journey to visit the ‘last kampong’ in Singapore after reading a Singlit book on kampong life by Josephine Chia.</p>
 </ol>
-<table><tbody><tr><td><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/pic010.jpeg"></td><td><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/pic011.jpeg"></td></tr></tbody></table></center>
+<table><tbody><tr><td><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/pic010.jpeg"></td><td><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/pic011.jpeg"></td></tr></tbody></table>
