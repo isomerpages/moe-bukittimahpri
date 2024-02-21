@@ -22,7 +22,7 @@ P.A.M TV provides an authentic platform for students and staff to promote a heal
 <img src="/images/pamtv1.png" style="border:2px solid #0A0B30; width:60%">
 </p><p align="justify">
  It also encourages students who are generally quieter and more reserved to come forward to display their talents. In addition, students who are more articulate could support others by being hosts. With this platform, students and staff perform in the comfort of their own home or familiar environments. Videos received include artworks, instrumental playing, sports skills and even cooking skills that are beyond the classroom experiences. Parent participation is also encouraged.</p>
-<p></p><h2>By-Invitation</h2>
+<h2>By-Invitation</h2>
 <p align="justify">The “By-invitation” programme provides opportunities for students to deepen their learning of selected instruments upon invitation by teachers. Ukulele, classical guitar, angklung and Samba percussion are examples of instrumental modules included in this programme. At the end of the programme, students will get to showcase their ensemble musicianship in school concerts. </p>
 
 <p align="justify">To enhance their interests and develop their passion in the performing arts, students get to go for learning journeys such as the “Day Out @ Esplanade” and “Tour in the Dark”, a programme organised by Ngee Ann Polytechnic. </p>
