@@ -26,7 +26,6 @@ variant: markdown
 <td style="border:2px; background-color:#ffffff; text-align: center;"><strong><a href="mailto:WONG_Sung_Lai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">WONG_Sung_Lai@schools.gov.sg</a></strong> </td><td style="border:2px ; background-color:#ffffff;; text-align: center;"><strong><a href="mailto:lin_shihua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_shihua@schools.gov.sg</a>
 </strong>
  </td></tr></tbody></table>
-
 <table>
 <tbody><tr><td rowspan="1" colspan="1"><p>&nbsp;</p></td><td rowspan="1" colspan="1"><p>&nbsp;</p></td></tr><tr><td rowspan="1" colspan="2"><strong>YEAR HEAD</strong></td></tr>
 <tr>
@@ -36,7 +35,6 @@ variant: markdown
 <img style="width:100px;" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/yh_shirley.png">
 </div>
 </td>
-
 <td rowspan="1" colspan="4">
 <p>Mrs Shirley Ong</p>
 </td>
