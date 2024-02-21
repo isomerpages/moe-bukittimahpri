@@ -33,7 +33,7 @@ ELLE and TED journals provide pupils the platform to explore the different aspec
 Our students demonstrated resilience, teamwork and creativity during the competition. The BTPS team received the Gold award this year! The Gold award is awarded to the top 5 teams out of the 50 participating schools. <br>
 You may go to the website <a target="_blank" href="https://plus.moo-o.com/tma/"></a> to view the results, the judges’ comments as well as the link to our team’s video. </p>
 
-<center><img width="50%" src="/images/School%20Photos/Moo_O.png"></center>
+<center><img width="50%" src="/images/School%20Photos/Moo_O_2023.png"></center>
 
 
 <h2>Enrichment Programmes</h2>
