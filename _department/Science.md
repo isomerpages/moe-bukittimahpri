@@ -32,8 +32,7 @@ Journaling allows pupils to make their thinking visible and express themselves i
 • 	Link their learning to the world around them. <br></p><p></p>
 
 <p align="justify">
-Through the SAM journal, our pupils <strong>form a deeper understanding of what they learn and develop skills of critical thinking</strong>. It is essential that pupils do not become proficient ‘regurgitators’ of information but rather <strong>individuals capable of applying, innovating and constructing new knowledge</strong> from what they have learnt.</p>
-<img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/sci001.png"><br><img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/sci002.png"><br><img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/sci003.png"><br><img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/sci004.png"><br>
+Through the SAM journal, our pupils <strong>form a deeper understanding of what they learn and develop skills of critical thinking</strong>. It is essential that pupils do not become proficient ‘regurgitators’ of information but rather <strong>individuals capable of applying, innovating and constructing new knowledge</strong> from what they have learnt.</p><img src="/images/School%20Photos/science1.png"><img src="/images/School%20Photos/science2.png">
 <table><tbody><tr><td style="background-color:#7c58a5;"><strong><font color="#ffffff">
 SCIENCE EXPLORATION DAY (ENCOURAGING CURIOSITY AND LOVE OF LEARNING)</font></strong></td></tr></tbody></table>
 <p align="justify">
@@ -63,4 +62,3 @@ COMPETITIONS (STRETCHING POTENTIAL) </strong><br></td></tr></tbody></table>
 • 	Raffles Science Olympiad <br>
 • 	Singapore Primary Science Olympiad<br>
 • 	West Zone Junior Science Whiz Challenge
-
