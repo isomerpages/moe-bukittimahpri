@@ -40,9 +40,7 @@ variant: markdown
 <p align="justify">
 Performing Arts in PAL aims to promote the all-rounded development of pupils in Aesthetics. It provides a platform for pupils to learn about World Music Cultures and improvise dance moves they observe from each cultural dance, eventually contributing ideas towards a class performance at the end of the programme. </p>
 <p align="justify">The performance celebrates the pupils’ success in the domain as they contribute to the choreography of the performance.</p>
-<table><tbody><tr><td><img style="border:2px solid #0A0B30; width:369px;height:454px;" src="/images/picture 4_pa.jpg"></td><td><img style="border:2px solid #0A0B30; width:369px;height:454px;" src="/images/picture 7_pa.jpg">
-</td></tr></tbody></table>
-
+<img style="width:80%" src="/images/School%20Photos/Performing_Arts_2023.png"> 
 <h3><u>Outdoor Education</u></h3>
 <p align="justify">
 Outdoor Education (OE) in PAL grows pupil’s appreciation of the environment and nature while working together towards a common goal. It includes activities such as nature walks, outdoor play, navigation and team building. Pupils are engaged in experiential learning which develops physical, socioemotional, and cognitive skills while building positive relationships with their peers and with nature. P also learn about sustainability and conservation through OE.  </p><img style="border:2px solid #0A0B30; width:454px;height:369px;" src="/images/outdoor_education.png">
