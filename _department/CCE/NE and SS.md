@@ -26,7 +26,7 @@ Highlights from past IFD exhibitions </b></center>
 National Day marks our emergence as an independent country in the community of nations. Since 1997, NE Show has been organised for the Primary 5 pupils to instill a sense of pride and belonging in students and to bring across the significance of our National Day. The ceremony aims to bring to the pupils a greater sense of the historical importance and solemnity of National Day.
 
 In celebration of the schools’ BTPS Inspire programme, BTPS celebrates National Day with level showcases of students’ hopes and dreams for Singapore and our future. </p>
-<p align="justify"><img src="/images/School%20Photos/5Respect_Chua_Yu_Jing_Charis.png" style="width:50%">The artwork drawn by Chua Yu Jing Charis (5 Respect) was selected by the NDP committee as one of the designs of the 2020 NDP funpack</p><center><iframe src="https://www.youtube.com/embed/?v=S-V9S-xcFKk" height="400" width="500">
+<p align="justify"><img src="/images/School%20Photos/5Respect_Chua_Yu_Jing_Charis.png" style="width:50%">The artwork drawn by Chua Yu Jing Charis (5 Respect) was selected by the NDP committee as one of the designs of the 2020 NDP funpack</p><center><iframe src="https://www.youtube.com/embed/S-V9S-xcFKk" height="400" width="500">
 </iframe>
 <br>In celebration of our nation’s 55th birthday, BTPS composed and produced a music video, One Stronger Singapore. It was a hit among the Bukit Timah community! </center>
 
