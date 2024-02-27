@@ -5,69 +5,33 @@ description: ""
 third_nav_title: CCE
 variant: markdown
 ---
-# NATIONAL EDUCATION
+<h3>NATIONAL EDUCATION</h3>
+<p align="justify">
+Our national education curriculum provides students with the knowledge, skills and values to understand Singapore’s history, realities and challenges unique to our nation, support sense-making and develop critical thinking skills such that students are socially aware and informed about local, regional and global issues. 
+Total Defence Day <br>
+Students gain a deeper appreciation of the various defences that keep Singapore strong and resilient, as they reflect and put into action how they could contribute to the unity and resilience, regardless of their age or station in life. </p>
+<img src="/images/School%20Photos/NE1.png" style="width:100%">
 
-<center><em>Forging a national identity through shared experiences</em></center>
-
-<img src="/images/Head.jpeg" style="width:30%">
-
-National Education (NE) is about engaging the hearts and minds of pupils in developing a shared sense of identity. Through core NE commemorative days and programmes pupils develop a sense of belonging and commitment to the school, community, nation and world.
-
-<strong>6 NE Messages aligned to School Values<strong>
-
-|                         |              |                                                                                                                                                                                                                                |
-| ----------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Primary 1 and Primary 2 | Graciousness | Singapore is our homeland; this is where we belong. <br><br><em>We treasure our heritage and take pride in shaping our own unique way of life and extend <strong>graciousness</strong> towards fellow Singaporeans             |
-|                         | Respect      | We must preserve racial and religious harmony. <br><br><em>We value and <strong>respect</strong> our diversity and are determined to stay a united people.</em>                                                                |
-| Primary 3 and Primary 4 | Adaptability | No one owes Singapore a living. <br><br><em>The quality of <strong>adaptability</strong> ensures that we find our own way to survive and prosper in the ever-revolving world, turning challenge into opportunity.</em>         |
-|                         | Compassion   | We must ourselves defend Singapore. <br><br><em>We <strong>care</strong> for fellow Singaporeans and would defend our land and her people, no one else is responsible for our security and well-being.</em>                    |
-| Primary 5 and Primary 6 | Integrity    | We must uphold meritocracy and incorruptibility. <br><br><em>We have the <strong>integrity</strong> to uphold meritocracy and incorruptibility, and provide opportunities for all, according to their ability and effort.</em> |
-|                         | Resilience   | We have confidence in our future. <br><br><em>United, determined and well-prepared, we have what it takes- the <strong>resilience</strong> to build a bright future for ourselves and to progress together as one nation.</em> |
-
-**NE CORE EVENTS &amp; FESTIVALS**
-
-- Chinese New Year
-- Total Defence DaFriendship Day
-- Racial Harmony Day (BTPS INSPIRE)
-- Hari Raya
-- National Day
-- Deepavali
-
-**TOTAL DEFENCE DAY**
-
-Total Defence Day marks the fall of Singapore to the Japanese in 1942 on 15 February. This poignant day involves every resident in Singapore playing a part, individually and collectively, to build a strong and cohesive nation that is well prepared for any situation. Total Defence remains relevant because the threats faced today require all Singaporeans to step up and play their part.
-
-On this day, our pupils gain a deeper appreciation of the various defences that keep Singapore strong and resilient, as they reflect and put into action how they could contribute to the unity and resilience of the people.
-
-[For More Information - Click Here](https://sites.google.com/moe.edu.sg/btpstdd/home)
-
-| Levels                  | School Values               | Logo, Icons and the 5 pillars                                                                                                                              |
-| ----------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Primary 1 and Primary 2 | Graciousness and Respect    | <strong>Military Defence</strong> <br><br>Singaporeans keeping Singapore secure                                                                            |
-|                         |                             | <strong>Social Defence</strong> <br><br> Living in harmony looking out for one another                                                                     |
-| Primary 3 and Primary 4 | Adaptability and Compassion | <strong>Economic Defence</strong> <br><br>Working and saving to achieve a better life for everyone                                                         |
-|                         |                             | <strong>Civil Defence</strong> <br><br>Taking care of your family, friends and people around in times of crisis                                            |
-| Primary 5 and Primary 6 | Integrity and Resilience    | <strong>Psychological Defence</strong> <br><br>Being a Singaporean and proud of it                                                                         |
-|                         |                             | <strong>Total Defence</strong> <br><br>When we understand our part in Total Defence, we will continue to strength ourselves, our community and our nation. |
-
-**INTERNATIONAL FRIENDSHIP DAY**
-
-International Friendship Day is a highly anticipated annual event for staff and students for it mirrors the close ties forged among various nationalities in the school.
-
-Drawing upon the richness of nationalities in our school population, our Parent Support Group (PSG) has been instrumental in putting up elaborate exhibitions and performances; and has engaged the pupils in appreciating the cultures of their fellow schoolmates through games and activities. It is noteworthy that in the past few years, we have featured many countries such as Indonesia, India, Canada, Holland, Germany, Spain, Sri Lanka, Taiwan, Korea, Australia and etc. in our showcase.
-
-**RACIAL HARMONY DAY (BTPS INSPIRE)**
-
-Schools commemorate Racial Harmony Day on 21st July. On this day in 1964, Singapore saw racial riots. Racial Harmony Day serves to remind our pupils that social division costs us dearly and that race and religion are potential fault-lines in the Singapore society. It is a day for pupils to reflect on, and celebrate our success as a harmonious nation and society built on a rich diversity of cultures and heritages.
-
-As we value the social fabric that binds all of us together in this multi-racial society, Racial Harmony Day is selected as the 2016 – 2017 theme for BTPS Inspire, an annual school learning event.
-
-**NATIONAL DAY / NE SHOW FOR P5**
-
+<h3>INTERNATIONAL FRIENDSHIP DAY </h3> 
+<p align="justify">
+Asia is the world’s fastest-growing region, and Singapore continues to facilitate closer economic, political, social, and cultural cooperation within ASEAN and in Asia. Through International Friendship Day (IFD), students understand Singapore’s realities as a small state and ASEAN’s diversity and seek ways to promote the spirit of friendship, thereby promoting collaboration in this diverse and vibrant region of the world. </p>
+<p align="justify">
+Drawing upon the diverse cultural backgrounds and nationalities in our school population, our Parent Support Group has been instrumental in putting up elaborate and engaging exhibitions, performances and activities to promote understanding and appreciation of diverse cultures in our students. It is noteworthy that in the past few years, we have featured many countries such as Indonesia, India, Canada, Holland, Germany, Spain, Sri Lanka, Taiwan, Korea, Australia and etc. in the IFD showcase.</p><center><img src="/images/School%20Photos/Highlights_from_past_IFD_exhibitions.png" style="width:100%"><b>
+Highlights from past IFD exhibitions </b></center>
+<h3>RACIAL HARMONY DAY </h3>
+<p align="justify">Schools commemorate Racial Harmony Day on 21st July. On this day in 1964, Singapore saw racial riots. Racial Harmony Day serves to remind us that social division costs us dearly and that race and religion are potential fault-lines in the Singapore society. It is a day for students to reflect on, and celebrate our success as a harmonious nation and society built on a rich diversity of cultures and heritages. .</p>
+<img src="/images/School%20Photos/racial_harmony.png" style="width:100%">
+<h3>NATIONAL DAY CELEBRATION</h3>
+<p align="justify">
 National Day marks our emergence as an independent country in the community of nations. Since 1997, NE Show has been organised for the Primary 5 pupils to instill a sense of pride and belonging in students and to bring across the significance of our National Day. The ceremony aims to bring to the pupils a greater sense of the historical importance and solemnity of National Day.
 
+In celebration of the schools’ BTPS Inspire programme, BTPS celebrates National Day with level showcases of students’ hopes and dreams for Singapore and our future. </p>
+<p align="justify"><img src="/images/School%20Photos/5Respect_Chua_Yu_Jing_Charis.png" style="width:50%">The artwork drawn by Chua Yu Jing Charis (5 Respect) was selected by the NDP committee as one of the designs of the 2020 NDP funpack</p><center><iframe src="https://www.youtube.com/embed/?v=S-V9S-xcFKk" height="400" width="500">
+</iframe></center>In celebration of our nation’s 55th birthday, BTPS composed and produced a music video, One Stronger Singapore. It was a hit among the Bukit Timah community! 
 
-**SOCIAL STUDIES**
+
+
+<h3>SOCIAL STUDIES</h3>
 
 The syllabus is complimented by field-based learning journeys, where pupils are engaged in deeper thinking and reflection to understand the challenges faced by Singapore and how these were overcome, and be inspired to bring Singapore to greater heights.
 
@@ -115,4 +79,4 @@ The syllabus is complimented by field-based learning journeys, where pupils are 
 <td style="border:2px solid #0A0B30; vertical-align: middle;"><b>How is Southeast Asia important to Singapore? </b></td>
 <td style="border:2px solid #0A0B30; vertical-align: middle;">Singapore Botanical Gardens<br></td>
 </tr><tr>
-</tr></tbody></table></em></strong></strong>
+</tr></tbody></table>
