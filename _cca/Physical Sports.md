@@ -8,7 +8,7 @@ variant: markdown
 <p align="justify">Bukit Timah Primary School ‘s Badminton CCA strives to provide a fun and exciting sporting experience that trains pupils in their agility, speed and reflexes. Our CCA instils the values of respect, resilience and adaptability as well as good sportsmanship, fair play and teamwork during training and competitions. </p>
 <p align="justify">
 The pupils will learn the rules of badminton, the proper grip of the badminton racket, proper techniques of shots and service and other badminton skills that will prepare them to be competitively ready for the National School Games(NSG).</p>
-<img style="border:2px solid #0A0B30; width:800px;height:760px;" src="/images/CCA/badminton%201.jpeg"><img style="border:2px solid #0A0B30; width:800px;height:760px;" src="/images/CCA/badminton%202.jpeg"><img style="border:2px solid #0A0B30; width:800px;height:760px;" src="/images/CCA/badminton%203.jpeg">
+<img style="width:800px;height:760px;" src="/images/CCA/badminton%201.jpeg"><img style="width:800px;height:760px;" src="/images/CCA/badminton%202.jpeg"><img style="width:800px;height:760px;" src="/images/CCA/badminton%203.jpeg">
 
 <h3>BASKETBALL</h3><p align="justify">
 BTPS Basketball is a dynamic CCA dedicated to fostering resilience, respect and passion for the game. Officially established in 2022, the CCA attracts pupils looking for a supportive and growth-oriented sporting experience. We pride ourselves on creating an inclusive CCA where players of all backgrounds and skill can thrive. With the school’s new Indoor Sports Hall, we are able to provide a great learning and playing environment to the players. </p>
