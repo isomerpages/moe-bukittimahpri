@@ -203,7 +203,7 @@ variant: markdown
 <p>1_Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noor Idayu Bte Sunator
+<p>Mdm Idayu
 <br>(SH/SW)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -401,7 +401,7 @@ variant: markdown
 <p>2_Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Almir Shafur Bin Mohamed</p>
+<p>Mr Shafur</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>348</p>
@@ -476,7 +476,7 @@ variant: markdown
 <p>3_Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suzana Bte Mohd Yaacob</p>
+<p>Mdm Suzana Yaacob</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>357</p>
@@ -491,7 +491,7 @@ variant: markdown
 <p>3_Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Khoon Sia Raymond</p>
+<p>Mr Raymond Chua </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>308</p>
@@ -551,7 +551,7 @@ variant: markdown
 <p>3_Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zaini Bin Zanal</p>
+<p>Mr Zaini</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>359</p>
@@ -566,7 +566,7 @@ variant: markdown
 <p>3_Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Yingru</p>
+<p>Mrs Sim Yingru</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>360</p>
@@ -581,7 +581,7 @@ variant: markdown
 <p>3_Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Idris Bin Mohd Taha</p>
+<p>Mr Idris </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>367</p>
@@ -611,7 +611,7 @@ variant: markdown
 <p>4_Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sangitah d/o K Jayaseelan
+<p>Mdm Sangitah
 <br>(SH/ CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -692,7 +692,7 @@ variant: markdown
 <p>4_Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tear</p>
+<p>Mrs Serene Tear</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>314</p>
@@ -783,7 +783,7 @@ variant: markdown
 <p>5_Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Wong
+<p>Mrs Wong Yu Pei
 <br>(LH/Math)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -799,7 +799,7 @@ variant: markdown
 <p>5_Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Namira Bte Mazlan</p>
+<p>Mdm Namira</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>366</p>
@@ -845,7 +845,7 @@ variant: markdown
 <p>5_Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Indira d/o R Pillai (HOD/ EL)</p>
+<p>Miss Indira (HOD/ EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>201</p>
@@ -905,7 +905,7 @@ variant: markdown
 <p>5_Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Iris</p>
+<p>Miss Iris Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>361</p>
@@ -966,7 +966,7 @@ variant: markdown
 <p>6_Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suzanah Bte Miswari</p>
+<p>Mdm Suzanah Miswari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>368</p>
@@ -996,7 +996,7 @@ variant: markdown
 <p>6_Adaptibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chitra d/o Selvaraju</p>
+<p>Mdm Chitra</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>342</p>
@@ -1101,7 +1101,7 @@ variant: markdown
 <p>6_Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Fidyyana Bte Abdul Latiff</p>
+<p>Ms Nur Fidyy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>356</p>
