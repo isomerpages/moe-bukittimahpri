@@ -14,9 +14,7 @@ variant: markdown
 ### OTHER INFORMATIONS FOR DOWNLOADS
 * [Building Resilience In Our Children](/files/2022/Informations/Building%20Resilience%20in%20Our%20Children.pdf)
 
-* [MOO-O Parent's Guide for Windows](/files/2022/Guides/MOO-O%20Parent's%20Guide%20for%20Windows.pdf)
-
-* [MOO-O Parent's Guide for IPADs](/files/2022/Guides/MOO-O%20Parent's%20Guide%20for%20ipad.pdf)
+* [Moo-O Resources for Singapore School Users](https://plus.moo-o.com/sgschools)
 
 
 
