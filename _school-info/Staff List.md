@@ -860,13 +860,13 @@ variant: markdown
 <p>5_Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Evelyn Nah</p>
+<p>Mdm Durgadevi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>312</p>
+<p>303</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nah_bee_har@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nah_bee_har@moe.edu.sg</a>
+<p><a href="mailto:durgadevi_tamil_selvam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">durgadevi_tamil_selvam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -973,6 +973,21 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:suzanah_miswari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suzanah_miswari@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6_Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Evelyn Nah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>312</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nah_bee_har@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nah_bee_har@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1183,21 +1198,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:r_rajamohan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">r_rajamohan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Seah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>377</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chng_sai_tuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_sai_tuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
