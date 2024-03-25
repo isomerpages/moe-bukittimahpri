@@ -673,6 +673,21 @@ variant: markdown
 <p>4_Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Daanish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>333</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamed_daanishshah_noordin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_daanishshah_noordin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4_Adaptability</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Subahshini
 <br>
 <br>
@@ -1116,7 +1131,7 @@ variant: markdown
 <p>6_Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Fidyy</p>
+<p>Mdm  Fidyy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>356</p>
