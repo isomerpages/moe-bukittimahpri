@@ -9,7 +9,8 @@ variant: markdown
 <p align="justify">
 Our school’s ICT literacy programme is built on MOE’s standards of new media literacy and includes the skills, knowledge, attitudes and values (SKAV) that students should apply and demonstrate when harnessing ICT for learning and interacting. The new ICT baseline standards are: curating digital content; connecting and communicating digitally; and creating digital multimodal products. 
 <img style="border:2px solid #0A0B30; width:460px;height:400px;" src="/images/ict-framework.png">
-Our ICT programmes across P1 to P6 aims to equip every student with the fundamental ICT skills and literacy to be a future-ready individual and be competent in New Media Literacies to navigate the cyber world safely and effectively. Through the introduction of computational thinking and the infusion of new media literacies into different disciplines, we hope to achieve the following objectives-  </p><h3>Students will be able to:</h3>
+Our ICT programmes across P1 to P6 aims to equip every student with the fundamental ICT skills and literacy to be a future-ready individual and be competent in New Media Literacies to navigate the cyber world safely and effectively. Through the introduction of computational thinking and the infusion of new media literacies into different disciplines, we hope to achieve the following objectives-</p> <p align="justify">
+</p><h3>Students will be able to:</h3>
 1. Acquire and apply technical skills to create digital content<br>
 2. Demonstrate 21st CC through self-directed and collaborative learning!<br>
 3. Develop computational thinking and problem-solving skills<p></p>
@@ -99,7 +100,3 @@ Cyber Wellness week is organised annually to heighten awareness and spread Cyber
 Our Cyber Wellness efforts also aim to develop the Exco Peer Support Ambassadors to advocate Cyber Wellness in our school. 
 The training workshop aim to develop ambassadors who can support their peers in cyber issues. </p><img src="/images/School%20Photos/cyberwellness_workshop.png">
 
-<h3><u>National 2023 Cyber Wellness Advocacy Challenge (NCAC)  </u></h3>
-<p align="justify">
-4 Exco Peer Support Ambassadors took part in the inaugural National Cyber Wellness Advocacy Challenge (NCAC) organised by Crescent Girls’ School (CGS). The theme for this year challenge is “Evaluating Online News”. The ambassadors designed a comprehensive Cyber Wellness toolkit for their peers to create awareness on identifying Fake News. </p>
-<center><img style="border:2px solid #0A0B30; width:360px;height:200px;" src="/images/cyber01.jpg"><strong>Our ambassadors attended the NCAC Training Camp </strong><img style="border:2px solid #0A0B30; width:360px;height:200px;" src="/images/cyber02.jpg"><br><img style="border:2px solid #0A0B30; width:360px;height:200px;" src="/images/cyber03.jpg"><br><img style="border:2px solid #0A0B30; width:360px;height:200px;" src="/images/cyber04.jpg"><strong>Our ambassadors engaged in discussions and preparing the Cyber Wellness Toolkit</strong></center><img style="border:2px solid #0A0B30" src="/images/cyber06.jpg">
