@@ -99,4 +99,3 @@ Cyber Wellness week is organised annually to heighten awareness and spread Cyber
 <p align="justify">
 Our Cyber Wellness efforts also aim to develop the Exco Peer Support Ambassadors to advocate Cyber Wellness in our school. 
 The training workshop aim to develop ambassadors who can support their peers in cyber issues. </p><img src="/images/School%20Photos/cyberwellness_workshop.png">
-
