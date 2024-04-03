@@ -875,7 +875,7 @@ variant: markdown
 <p>5_Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Durgadevi</p>
+<p>Mdm Durgadevi</p>(SH/ICT)
 </td>
 <td rowspan="1" colspan="1">
 <p>303</p>
