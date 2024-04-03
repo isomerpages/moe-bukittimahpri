@@ -29,30 +29,14 @@ variant: markdown
 <table>
 <tbody><tr><td rowspan="1" colspan="1"><p>&nbsp;</p></td><td rowspan="1" colspan="1"><p>&nbsp;</p></td></tr><tr><td rowspan="1" colspan="2"><strong>YEAR HEAD</strong></td></tr>
 <tr>
-<td rowspan="4" colspan="1">
-<br><img style="width:100px;" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/yh_shirley.png">
-</td>
-<td rowspan="1" colspan="4">
-<p>Mrs Shirley Ong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
-<p><strong>YH/Lower Primary (Pri 1 and Pri 2)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
-<p>Extension: 374</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
-<p><a href="mailto:low_yin_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_yin_choo@moe.edu.sg</a>
-</p>
-</td>
-</tr>
+<td rowspan="5" colspan="1">
+<img style="width:100px;" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/yh_shirley.png">
+</td></tr>
+<tr><td>Mrs Shirley Ong</td></tr>
+<tr><td><strong>YH/Lower Primary (Pri 1 and Pri 2)</strong></td></tr>
+<tr><td>Extension: 374</td></tr>
+<tr><td><a href="mailto:low_yin_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_yin_choo@moe.edu.sg</a></td></tr>
+
 <tr>
 <td rowspan="4" colspan="1">
 <br><img style="width:100px;" height="auto" src="/images/Staff Photos/angeline.png">
