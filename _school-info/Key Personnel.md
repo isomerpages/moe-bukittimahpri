@@ -28,10 +28,7 @@ variant: markdown
  </td></tr></tbody></table>
 <table>
 <tbody><tr><td rowspan="1" colspan="1"><p>&nbsp;</p></td><td rowspan="1" colspan="1"><p>&nbsp;</p></td></tr><tr><td rowspan="1" colspan="2"><strong>YEAR HEAD</strong></td></tr>
-<tr>
-<td rowspan="5" colspan="1">
-<img style="width:100px;" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/yh_shirley.png">
-</td></tr>
+<tr><td style="border:2px ; background-color:#ffffff;; text-align: center;" rowspan="5"><img style="width: 100px;" height="auto" alt="" src="/images/Staff%20Photos/Organisation%20Photos/yh_shirley.png"></td></tr>
 <tr><td>Mrs Shirley Ong</td></tr>
 <tr><td><strong>YH/Lower Primary (Pri 1 and Pri 2)</strong></td></tr>
 <tr><td>Extension: 374</td></tr>
