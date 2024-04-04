@@ -11,7 +11,12 @@ variant: markdown
 The SLS is an online platform with tools and curriculum-aligned resources for all students to learn at their own pace and collaboratively. With the SLS, students can take greater ownership of their learning and pick up skills and habits that prepare them for lifelong learning. Refer to the  [SLS user guide](/files/2024/AnnexAandFAQ.pdf) to reset password. 
 
 
-### Log in with MIMS Video Tutorial
+### BTPS Log in with MIMS Video Tutorial
+
+<center>
+<iframe src="https://www.youtube.com/embed/3m7WSMe0N1s" height="400" width="500">
+</iframe>
+</center>
 
 
 <p>1. How can I access SLS?</p>
