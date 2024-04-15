@@ -11,6 +11,10 @@ variant: markdown
 
 [2024 Sem 1 School Calendar](/files/2024/BTPS_School_Calendar_2024_Sem1.pdf)
 
+### DSA Talk
+[DSA Talk](/files/2024/DSA_Talk_2024.pdf)
+
+
 ### OTHER INFORMATIONS FOR DOWNLOADS
 * [Building Resilience In Our Children](/files/2022/Informations/Building%20Resilience%20in%20Our%20Children.pdf)
 
