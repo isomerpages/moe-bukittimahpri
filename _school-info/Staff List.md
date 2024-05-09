@@ -471,21 +471,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3_Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Suzana Yaacob</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>357</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:suzana_mohd_yaacob@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suzana_mohd_yaacob@moe.edu.sg</a>
-</p>
-</td>
-</tr>
+
 <tr>
 <td rowspan="1" colspan="1">
 <p>3_Adaptability</p>
