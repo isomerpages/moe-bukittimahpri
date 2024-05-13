@@ -32,13 +32,10 @@ Basic touch-typing by using MIMs ID and Password
 -	Title, font, color and size<br>-	Type 3 sentences <br>•	Saving Documents and opening them<p></p></td>
 
 <td style="border:2px solid #0A0B30; vertical-align: top;" rowspan="6"><b>Lower Primary</b><br>
-Student Learning Space (SLS)
-
-Koobits (Math)
- 
-Moo-O (EL reading programme)
-
-iPad apps for T&amp;L
+Student Learning Space (SLS)<br><br>
+Koobits (Math)<br><br>
+Moo-O (EL reading programme)<br><br>
+iPad apps for T&amp;L<br><br>
 </td>
 </tr>
 <tr>
