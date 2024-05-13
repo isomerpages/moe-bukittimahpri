@@ -31,7 +31,7 @@ Basic touch-typing by using MIMs ID and Password
 -	Move within application software<br>-	Recognise icons (e.g. minimise button, folder)<br>-	Basic touch-typing skills <p></p><strong>Semester 2</strong><br>•	Completing an activity on SLS (English)<br>
 -	Title, font, color and size<br>-	Type 3 sentences <br>•	Saving Documents and opening them<p></p></td>
 
-<td style="border:2px solid #0A0B30; vertical-align: top;" rowspan="6"><b>Lower Primary</b><br>
+<td style="border:2px solid #0A0B30; vertical-align: top;" rowspan="3"><b>Lower Primary</b><br>
 Student Learning Space (SLS)<br><br>
 Koobits (Math)<br><br>
 Moo-O (EL reading programme)<br><br>
@@ -60,6 +60,15 @@ Create a presentation with text and Graphics
 <td style="border:2px solid #0A0B30; vertical-align: middle;"><strong>Semester 1</strong>
 <br>-	Introduction to Google apps (Excel) and online work (Math)<br>-	P3/P4 Tamil Touch-typing<br><br><strong>Semester 2</strong>
 <br>-	Introduction to Google apps (slides) and online teamwork (Science)<br>
+</td>
+<td style="border:2px solid #0A0B30; vertical-align: top;" rowspan="3"><b>Upper Primary</b><br>
+Student Learning Space (SLS)<br><br>
+Mobile Learning Trails<br><br>
+Koobits<br><br>
+Mobile Photography<br><br>
+Stop Motion animation<br><br>
+Garage Band<br><br>
+iPad apps for T&amp;L<br><br>
 </td>
 </tr>
 <tr>
