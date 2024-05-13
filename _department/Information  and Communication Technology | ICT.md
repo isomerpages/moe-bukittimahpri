@@ -31,7 +31,7 @@ Basic touch-typing by using MIMs ID and Password
 -	Move within application software<br>-	Recognise icons (e.g. minimise button, folder)<br>-	Basic touch-typing skills <p></p><strong>Semester 2</strong><br>•	Completing an activity on SLS (English)<br>
 -	Title, font, color and size<br>-	Type 3 sentences <br>•	Saving Documents and opening them<p></p></td>
 
-<td style="border:2px solid #0A0B30; vertical-align: top;" rowspan="6"><b>Lower Primary</b><br>
+<td style="border:2px solid #0A0B30; vertical-align: top;" rowspan="3"><b>Lower Primary</b><br>
 Student Learning Space (SLS)<br><br>
 Koobits (Math)<br><br>
 Moo-O (EL reading programme)<br><br>
@@ -61,20 +61,29 @@ Create a presentation with text and Graphics
 <br>-	Introduction to Google apps (Excel) and online work (Math)<br>-	P3/P4 Tamil Touch-typing<br><br><strong>Semester 2</strong>
 <br>-	Introduction to Google apps (slides) and online teamwork (Science)<br>
 </td>
+<td style="border:2px solid #0A0B30; vertical-align: top;" rowspan="3"><b>Upper Primary</b><br>
+Student Learning Space (SLS)<br><br>
+Mobile Learning Trails<br><br>
+Koobits<br><br>
+Mobile Photography<br><br>
+Stop Motion animation<br><br>
+Garage Band<br><br>
+iPad apps for T&amp;L<br><br>
+</td>
 </tr>
 <tr>
 <td style="border:2px solid #0A0B30; vertical-align: middle;" rowspan="2"><b>Level 3:</b><br><br>
-Learning with Multimedia, communication tools, data collection tools  and Spreadsheet
+Learning with Multimedia, communication tools
 <br><br><br></td>
 <td style="border:2px solid #0A0B30; vertical-align: middle;"><p align="justify">P5</p></td>
-<td style="border:2px solid #0A0B30; vertical-align: middle;">✓ Sending emails with attachment (MS Word)<br><br>
-✓ Advanced use of MS Word &amp; PowerPoint<br><br>
-✓ Use of Excel spreadsheet</td></tr>
+<td style="border:2px solid #0A0B30; vertical-align: middle;">-	National Digital Explorer (NDE 2024)<br><br>
+-	NDE 2024 is a nationwide digital literacy initiative aimed at empowering students to learn real-world skills, think critically and to be more productive learners.  Aligned to the latest Ministry of Education, Singapore’s EdTech Plan, this initiative focuses on providing students with key skills and knowledge in the effective use of office productivity tools, online collaboration, and emerging technologies.<br><br>
+-	Writing emails (English)</td></tr>
 <tr>
 <td style="border:2px solid #0A0B30; vertical-align: middle;">P6<br> </td>
-<td style="border:2px solid #0A0B30; vertical-align: middle;"><p align="justify">✓	Advanced use of Google Apps<br><br>
-✓	Intermediate use of MS Word &amp; PowerPoint<br><br>
-✓	Code for Fun
+<td style="border:2px solid #0A0B30; vertical-align: middle;"><p align="justify">-	Code for Fun<br><br>
+-	Facilitate the exposure of a large base of students to coding and computational thinking<br><br>
+-	Help build an entire generation of workforce inculcated with basic coding and computational thinking skills
 </p></td>
 </tr>
 </tbody></table>
