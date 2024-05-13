@@ -44,7 +44,7 @@ iPad apps for T&amp;L
 <tr>
 <td style="border:2px solid #0A0B30; vertical-align: middle;"> P2<br><br><br></td>
 <td style="border:2px solid #0A0B30; vertical-align: middle;"><strong>Semester 1</strong>
-<br>•	Basic touch-typing for Chinese<br>
+<br>•	Basic touch-typing for Chinese<br><br>
 <strong>Semester 2</strong>
 <br>•	Google Docs<br> -	Add pictures, tables and charts<br>- Type two paragraphs (4 sentences each) <br>- Search and Gather Information from the Internet (Google)<br>-	Access Internet sources with given URLs and specified hyperlinks (SLS)<br>-	Complete an Eng activity on SLS</td>
 </tr>
@@ -54,16 +54,16 @@ Create a presentation with text and Graphics
 </td>
 <td style="border:2px solid #0A0B30; vertical-align: middle;"><p align="justify">P3</p></td>
 <td style="border:2px solid #0A0B30; vertical-align: middle;"><strong>Semester 1</strong>
-<br>•	Creating Powerpoint slides for presentation (Social Studies)<br><strong>Semester 2</strong>
+<br>•	Creating Powerpoint slides for presentation (Social Studies)<br><br><strong>Semester 2</strong>
 <br>•	Uploading Powerpoint slides on SLS and giving peer feedback<br>
 </td>
 </tr>
 <tr>
 <td style="border:2px solid #0A0B30; vertical-align: middle;">P4<br> </td>
-<td style="border:2px solid #0A0B30; vertical-align: middle;"><p align="justify">✓	Introduction to Google Apps<br><br>
-✓	Intermediate use of MS Word &amp; PowerPoint<br><br>
-✓	Touch-typing lessons – Tamil fonts 
-</p></td>
+<td style="border:2px solid #0A0B30; vertical-align: middle;"><strong>Semester 1</strong>
+<br>-	Introduction to Google apps (Excel) and online work (Math)<br>-	P3/P4 Tamil Touch-typing<br><br><strong>Semester 2</strong>
+<br>-	Introduction to Google apps (slides) and online teamwork (Science)<br>
+</td>
 </tr>
 <tr>
 <td style="border:2px solid #0A0B30; vertical-align: middle;" rowspan="2"><b>Level 3:</b><br><br>
