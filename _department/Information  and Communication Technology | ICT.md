@@ -81,10 +81,10 @@ Learning with Multimedia, communication tools
 -	Writing emails (English)</td></tr>
 <tr>
 <td style="border:2px solid #0A0B30; vertical-align: middle;">P6<br> </td>
-<td style="border:2px solid #0A0B30; vertical-align: middle;"><p align="justify">-	Code for Fun<br><br>
+<td style="border:2px solid #0A0B30; vertical-align: middle;">-	Code for Fun<br><br>
 -	Facilitate the exposure of a large base of students to coding and computational thinking<br><br>
 -	Help build an entire generation of workforce inculcated with basic coding and computational thinking skills
-</p></td>
+</td>
 </tr>
 </tbody></table>
 <h1>Cyberwellness</h1>
