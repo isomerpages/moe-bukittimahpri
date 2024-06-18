@@ -37,12 +37,9 @@ You may go to the website <a target="_blank" href="https://plus.moo-o.com/tma/">
 
 
 <h2>Enrichment Programmes</h2>
-<ol><h3><li>Master Scrabble (P2-P6)</li></h3>
-<p align="justify">
-Pupils enjoy challenging one another in this word game which is not only about developing thinking skills and building vocabulary but also about inculcating values, such as respect, integrity and graciousness. Our pupils have attained awards at both National and Zonal levels but above winning awards, are the rich bonds of friendship they develop with the players from other schools as well within our school.</p>
-<h3><li>SUPER JOURNALING TEAM (SJT)</li></h3><p align="justify">
+<h3>SUPER JOURNALING TEAM (SJT)</h3><p align="justify">
 Super Journaling is a special programme designed for pupils who are self-directed and have an affinity for journaling. These pupils have showcased their reflection and thinking skills in their TED entries.  When selected, SJT members  would attend master classes once per term.</p>
 <p align="justify">
 SJT members explore issues and topics from different perspectives.  They are taken out of the classroom context to enjoy authentic experiences such as meeting and interviewing a baker, a national soccer player, exploring our neighbourhood gardens and even go on a learning journey to visit the ‘last kampong’ in Singapore after reading a Singlit book on kampong life by Josephine Chia.</p>
-</ol>
+
 <img src="/images/School%20Photos/SUPER_JOURNALING_TEAM.png">
