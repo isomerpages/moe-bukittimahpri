@@ -1144,21 +1144,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Kim Chwee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>375</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_kim_chwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kim_chwee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
