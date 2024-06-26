@@ -30,7 +30,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Bukit Batok MRT <br>Clementi stations
+      - other: Beauty World MRT <br>Clementi stations
     title: Nearest MRT Stations
 feedback: ""
 ---
