@@ -6,16 +6,12 @@ variant: markdown
 ---
 <h1>DENTAL INFORMATION</h1>
 
-Dear Parents / Guardians / Pupils,
-
-Bukit Timah Primary School's Dental Clinic will closed from 21 August 2023 to August or September 2024/ Subjected to changes. 
-
-(reopening of clinic will be informed)
-
-<h3>You may contact via whatapp message Dental Clinic for more information at 87985043. </h3>
 
 
-Please contact buddy clinics (to ensure dental staff is on duty at nearby schools for dental treatment.&nbsp;
+Bukit Timah Primary School's Dental Clinic will closed from 21 August 2023 to September 2024.
+
+
+Please contact the buddy clinics (to ensure dental staff is on duty) at nearby schools for dental treatment.&nbsp;
 
 
 
@@ -30,5 +26,5 @@ For emergencies such as dental trauma, facial/gum swellings or toothaches, pleas
 
 HPB, School Dental Centre (64353779 or 64353151). HPB School Dental Centre - 3 Second Hospital Avenue Singapore 168937 (Level 4) or email at Contact__YPS@hpb.gov.sg
 
-Therapist Ng S C <br>
+
 Updated as of 08/2023

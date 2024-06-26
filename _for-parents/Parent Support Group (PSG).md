@@ -1,5 +1,5 @@
 ---
-title: Parent Support Group | PSG
+title: Parent Support Group (PSG)
 permalink: /info-for-parents/parent-support-group/
 description: ""
 variant: tiptap

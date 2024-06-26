@@ -1,5 +1,5 @@
 ---
-title: Programme for Active Learning | PAL
+title: Programme for Active Learning (PAL)
 permalink: /department/programme-for-active-learning/
 description: ""
 variant: markdown

@@ -1,5 +1,5 @@
 ---
-title: Learning for Life Programme | LLP
+title: Learning for Life Programme (LLP)
 permalink: /key-programmes/learning-for-life-programme/
 description: ""
 variant: markdown

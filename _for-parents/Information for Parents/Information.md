@@ -1,13 +1,11 @@
 ---
-title: Information for Parents
+title: Information
 permalink: /info-for-parents/information-for-parents/
 description: ""
 third_nav_title: Information for Parents
 variant: markdown
 ---
-### INFORMATION FOR PARENTS
-
-[2024 BTPS](/files/2024/BTPS_2024.pdf)
+### SCHOOL CIRCULAR
 
 [2024 Sem 1 School Calendar](/files/2024/BTPS_School_Calendar_2024_Sem1.pdf)
 
@@ -15,7 +13,8 @@ variant: markdown
 [DSA Talk](/files/2024/DSA_Talk_2024.pdf)
 
 
-### OTHER INFORMATIONS FOR DOWNLOADS
+### OTHER INFORMATION FOR DOWNLOADS
+
 * [Building Resilience In Our Children](/files/2022/Informations/Building%20Resilience%20in%20Our%20Children.pdf)
 
 * [Moo-O Resources for Singapore School Users](https://plus.moo-o.com/sgschools)

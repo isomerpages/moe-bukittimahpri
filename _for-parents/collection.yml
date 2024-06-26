@@ -1,13 +1,13 @@
 collections:
-  info-for-parents:
+  for-parents:
     output: true
     order:
       - Information for Parents/.keep
-      - Information for Parents/Information for Parents.md
+      - Information for Parents/Information.md
       - Blended Learning.md
-      - Cohort Briefing.md
+      - Cohort Briefings.md
       - Dental Information.md
-      - Parent Support Group | PSG.md
+      - Parent Support Group (PSG).md
       - Sexuality Education.md
       - School Bus Service.md
       - School Vendor Information.md
