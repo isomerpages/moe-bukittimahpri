@@ -30,7 +30,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Beauty World MRT <br>Clementi stations
+      - other: Beauty World Station <br>Clementi station
     title: Nearest MRT Stations
 feedback: ""
 ---
