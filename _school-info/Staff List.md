@@ -294,7 +294,7 @@ variant: markdown
 <p>2_Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lynette Lim (HOD Aesthetics &amp; CCA Covering)</p>
+<p>Mrs Lynette Lim (SH/Aesthetics (covering HOD/CCA))</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>336</p>
