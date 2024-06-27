@@ -276,10 +276,25 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2_Graciousness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Kim Chwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>375</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_kim_chwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kim_chwee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2_Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lynette Lim (SH/ Aesthetics)</p>
+<p>Mrs Lynette Lim (HOD Aesthetics &amp; CCA Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>336</p>
@@ -316,6 +331,21 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:evelyn_ang_gek_shia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">evelyn_ang_gek_shia@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2_Adaptability</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Julian Siew Jole</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>357</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siew_jole_julian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siew_jole_julian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -370,8 +400,7 @@ variant: markdown
 <p>2_Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Shirlena Chan
-<br>(HOD/PE &amp; CCA)</p>
+<p>Mrs Shirlena Chan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>209</p>
@@ -453,6 +482,21 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_yen_ting_samantha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_yen_ting_samantha@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3_Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Iman-Akidah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>324</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shahidatul_akidah_mohd_suaidi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahidatul_akidah_mohd_suaidi@moe.edu.sg </a>
 </p>
 </td>
 </tr>
@@ -613,7 +657,7 @@ variant: markdown
 <p>4_Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Peng Swee</p>
+<p>Mr Chua Peng Swee<br>(SH/PE covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>345</p>
@@ -739,13 +783,13 @@ variant: markdown
 <p>4_Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosna Bte Hussien</p>
+<p>Mrs Euodia Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>305</p>
+<p>301</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rosna_hussien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rosna_hussien@moe.edu.sg</a>
+<p><a href="mailto:sia_mei_ling_euodia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sia_mei_ling_euodia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -891,7 +935,7 @@ variant: markdown
 <p>5_Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharmini (LH/EL Covering)</p>
+<p>Mdm Sharmini (LH/EL &amp; SS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>304</p>
@@ -1037,21 +1081,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6_Compassion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tee Xin Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>332</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tee_xinyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tee_xinyi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
+
 <tr>
 <td rowspan="1" colspan="1">
 <p>6_Compassion</p>
@@ -1124,21 +1154,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_fidyyana_ab_latiff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fidyyana_ab_latiff@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Daphne Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>310</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_sze_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sze_yee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
