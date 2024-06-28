@@ -9,7 +9,7 @@ variant: markdown
 
 [2024 Sem 1 School Calendar](/files/2024/BTPS_School_Calendar_2024_Sem1.pdf)
 
-[2024 Sem 2 School Calendar](/files/2024/BTPS-School-Calendar-2024-Sem2.pdf)
+[2024 Sem 2 School Calendar](/files/2024/BTPS_School_Calendar_2024_Sem2.pdf)
 
 ### DSA Talk
 [DSA Talk](/files/2024/DSA_Talk_2024.pdf)
