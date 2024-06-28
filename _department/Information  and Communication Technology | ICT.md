@@ -105,3 +105,10 @@ Cyber Wellness week is organised annually to heighten awareness and spread Cyber
 <p align="justify">
 Our Cyber Wellness efforts also aim to develop the Exco Peer Support Ambassadors to advocate Cyber Wellness in our school. 
 The training workshop aim to develop ambassadors who can support their peers in cyber issues. </p><img src="/images/School%20Photos/cyberwellness_workshop.png">
+
+<h3><u>National Cyber Wellness Advocacy Challenge (NCAC) 2023
+</u></h3>
+
+<p align="justify"><img src="/images/School%20Photos/cyberwellness.png">
+A group of Peer Support Ambassadors (PSAs) participated in the National Cyber Wellness Advocacy Challenge (NCAC) 2023 and received a Silver Award. The theme for this year's challenge was 'Fake News'. The students were tasked with designing engaging and relevant content to advocate within the school.
+</p>
