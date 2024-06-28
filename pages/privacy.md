@@ -3,7 +3,7 @@ title: Privacy Statement
 permalink: /privacy/
 variant: markdown
 ---
-### **Bukit Timah Primary School PRIVACY STATEMENT **
+### Bukit Timah Primary School <br>PRIVACY STATEMENT
 <p align="justify">
 1. This is a Bukit Timah Primary School. Thank you for examining our privacy statement. <br>
 2. If you are only browsing this website, we do not capture data that allows us to identify you individually. <br>
