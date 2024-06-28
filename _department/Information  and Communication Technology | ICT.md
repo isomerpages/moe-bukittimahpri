@@ -109,6 +109,6 @@ The training workshop aim to develop ambassadors who can support their peers in 
 <h3><u>National Cyber Wellness Advocacy Challenge (NCAC) 2023
 </u></h3>
 
-<p align="justify"><img src="/images/School%20Photos/cyberwellness.png">
+<p align="justify">
 A group of Peer Support Ambassadors (PSAs) participated in the National Cyber Wellness Advocacy Challenge (NCAC) 2023 and received a Silver Award. The theme for this year's challenge was 'Fake News'. The students were tasked with designing engaging and relevant content to advocate within the school.
 </p>
