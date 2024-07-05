@@ -19,6 +19,14 @@ sections:
           description: ""
           url: /quick-links/
       variant: image
+  - infopic:
+      title: Instagram
+      subtitle: JOIN US ON
+      id: infopic
+      description: Now
+      button: Click Here
+      url: https://www.instagram.com/bukit.timah.primary.school
+      image: /images/join-btps-on-ig-now.jpg
   - resources:
       title: Announcements
       button: Announcements
