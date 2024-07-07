@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Physical Sports/Badminton.md
       - Physical Sports/.keep
       - Physical Sports.md
       - Uniformed Groups.md
