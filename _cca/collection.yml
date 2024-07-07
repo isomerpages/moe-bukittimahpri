@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Physical Sports/.keep
-      - Badminton.md
       - Physical Sports.md
       - Uniformed Groups.md
       - Performing and Visual Arts.md
