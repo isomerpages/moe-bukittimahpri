@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual and Performing Arts/Art Club.md
       - Visual and Performing Arts/Drama Club.md
       - Visual and Performing Arts/Dance Versity.md
       - Visual and Performing Arts/Choir.md
