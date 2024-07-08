@@ -2,9 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/Scouts.md
-      - Uniformed Groups/Boys’ Brigade.md
       - Uniformed Groups/.keep
+      - Uniformed Groups/Boys’ Brigade.md
+      - Uniformed Groups/Scouts.md
       - Physical Sports/.keep
       - Physical Sports/Badminton.md
       - Physical Sports/Basketball.md
