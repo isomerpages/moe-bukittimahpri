@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual and Performing Arts/Brass Symphonia.md
       - Visual and Performing Arts/.keep
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys’ Brigade.md
