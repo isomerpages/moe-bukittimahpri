@@ -2,7 +2,21 @@ collections:
   cca:
     output: true
     order:
-      - Physical Sports.md
-      - Uniformed Groups.md
-      - Performing and Visual Arts.md
-      - Clubs and Societies.md
+      - Physical Sports/.keep
+      - Physical Sports/Badminton.md
+      - Physical Sports/Basketball.md
+      - Physical Sports/Football.md
+      - Physical Sports/Rugby.md
+      - Physical Sports/Wushu.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Boys’ Brigade.md
+      - Uniformed Groups/Scouts.md
+      - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/Art Club.md
+      - Visual and Performing Arts/Brass Symphonia.md
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/Dance Versity.md
+      - Visual and Performing Arts/Drama Club.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Infocomm Club.md
+      - Clubs and Societies/RSVP.md
