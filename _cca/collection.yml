@@ -2,6 +2,12 @@ collections:
   cca:
     output: true
     order:
+      - Physical Sports/.keep
+      - Physical Sports/Badminton.md
+      - Physical Sports/Basketball.md
+      - Physical Sports/Football.md
+      - Physical Sports/Rugby.md
+      - Physical Sports/Wushu.md
       - Visual and Performing Arts/.keep
       - Visual and Performing Arts/Art Club.md
       - Visual and Performing Arts/Brass Symphonia.md
@@ -11,12 +17,6 @@ collections:
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys’ Brigade.md
       - Uniformed Groups/Scouts.md
-      - Physical Sports/.keep
-      - Physical Sports/Badminton.md
-      - Physical Sports/Basketball.md
-      - Physical Sports/Football.md
-      - Physical Sports/Rugby.md
-      - Physical Sports/Wushu.md
       - Uniformed Groups.md
       - Performing and Visual Arts.md
       - Clubs and Societies.md
