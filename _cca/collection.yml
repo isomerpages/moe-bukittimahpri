@@ -2,9 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Clubs and Societies/RSVP.md
-      - Clubs and Societies/Infocomm Club.md
       - Clubs and Societies/.keep
+      - Clubs and Societies/Infocomm Club.md
+      - Clubs and Societies/RSVP.md
       - Physical Sports/.keep
       - Physical Sports/Badminton.md
       - Physical Sports/Basketball.md
