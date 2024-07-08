@@ -23,12 +23,12 @@ sections:
       title: Instagram
       subtitle: JOIN US ON
       id: infopic
-      description: Now
       button: Click Here
       url: https://www.instagram.com/bukit.timah.primary.school
       image: /images/join-btps-on-ig-now.jpg
       alt: Join BTPS on IG now.
   - resources:
       title: Announcements
-      button: Announcements
+      button: More Announcements
+      subtitle: BUKIT TIMAH PRIMARY SCHOOL
 ---
