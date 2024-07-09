@@ -47,4 +47,4 @@ Bukit Timah Primary School</strong></h2>
 
 <h3>Nearest MRT Stations</h3>
 <strong>
-Bukit Batok <br> Clementi </strong>
+Beauty World<br> Clementi </strong>
