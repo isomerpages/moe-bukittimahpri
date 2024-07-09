@@ -1269,7 +1269,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><a href="mailto:goh_ngian_wa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ngian_wa@schools.gov.sg</a>
+<p><a href="mailto:goh_ngian_wa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ngian_wa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
