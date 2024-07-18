@@ -2,9 +2,6 @@ collections:
   department:
     output: true
     order:
-      - ICT/.keep
-      - ICT/Information  and Communication Technology | ICT.md
-      - ICT/Blended Learning.md
       - English Language.md
       - Mathematics.md
       - Mother Tongue.md
@@ -16,4 +13,7 @@ collections:
       - CCE/Sexuality Education.md
       - CCE/Student Leadership At BTPS.md
       - CCE/Values in Action.md
+      - ICT/.keep
+      - ICT/Information  and Communication Technology | ICT.md
+      - ICT/Blended Learning.md
       - Physical Education.md
