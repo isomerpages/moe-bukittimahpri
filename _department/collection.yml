@@ -2,9 +2,9 @@ collections:
   department:
     output: true
     order:
-      - ICT/Blended Learning.md
-      - ICT/Information  and Communication Technology | ICT.md
       - ICT/.keep
+      - ICT/Information  and Communication Technology | ICT.md
+      - ICT/Blended Learning.md
       - English Language.md
       - Mathematics.md
       - Mother Tongue.md
