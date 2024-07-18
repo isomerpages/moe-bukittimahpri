@@ -19,7 +19,7 @@ variant: markdown
 
 * [Building Resilience In Our Children](/files/2022/Informations/Building%20Resilience%20in%20Our%20Children.pdf)
 
-* [Moo-O Resources for Singapore School Users](https://plus.moo-o.com/sgschools)
+
 
 
 
