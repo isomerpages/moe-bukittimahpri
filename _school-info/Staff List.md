@@ -1425,7 +1425,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Operation Support Officer</strong>
+<p><strong>Operations Support Officer</strong>
 </p>
 </td>
 </tr>
@@ -1441,7 +1441,40 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Operation Support Officer</strong>
+<p><strong>Operations Support Officer</strong>
+</p>
+</td>
+</tr>
+<tr>
+</tr><tr>
+<td rowspan="2" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/Mr_Faizal.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="4">
+<p>Mr Muhammad Faizal Bin Mokhtar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Operations Support Officer</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/Mdm_Zainah.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="4">
+<p>Mdm Zainah Binte Abdul Rahman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Adjunct Operations Support Officer</strong>
 </p>
 </td>
 </tr>
