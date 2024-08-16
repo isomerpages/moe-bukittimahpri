@@ -15,7 +15,7 @@ variant: markdown
 [DSA Talk](/files/2024/DSA_Talk_2024.pdf)
 
 
-### OTHER INFORMATION FOR DOWNLOADS
+### OTHER INFORMATION FOR DOWNLOAD
 
 * [Building Resilience In Our Children](/files/2022/Informations/Building%20Resilience%20in%20Our%20Children.pdf)
 
