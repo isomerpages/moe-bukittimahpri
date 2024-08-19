@@ -22,10 +22,8 @@ guidelines so that the visits will be smooth and enjoyable for all:</p>
 <p><strong>Appointment Required</strong>: Please make prior arrangements
 with teachers via their email addresses, which are available on our school
 website. Upon arrival, meet your teachers at the school gate.</p>
-</li>
-</ol>
 <p></p>
-<ol start="2" data-tight="true" class="tight">
+</li>
 <li>
 <p><strong>Visit Duration</strong>: Visits are scheduled from 11 a.m. to
 12 p.m. We request that you keep your visits brief to allow teachers time
