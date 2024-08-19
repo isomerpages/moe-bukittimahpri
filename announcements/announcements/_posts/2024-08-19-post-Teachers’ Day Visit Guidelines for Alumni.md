@@ -42,7 +42,7 @@ please limit your visit to the ground floor areas only.</p>
 </li>
 </ol>
 <p>&nbsp;</p>
-<p>We appreciate your cooperation in helping maintain the order and cleanliness
+<p>We appreciate your cooperation in helping to maintain the order and cleanliness
 of our campus. Thank you for your understanding, and we look forward to
 welcoming you back to our school.</p>
 <p>&nbsp;</p>
