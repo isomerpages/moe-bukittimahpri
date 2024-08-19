@@ -15,8 +15,9 @@ variant: tiptap
 </p>
 <p>Dear Alumni,</p>
 <p>We would like you to join us in celebrating Teachers' Day by visiting
-your former teachers at Bukit Timah Primary School. To ensure a smooth
-and enjoyable visit for all, please adhere to the following guidelines:</p>
+your former teachers on <strong>29 August 2024 </strong>at Bukit Timah Primary
+School. To ensure a smooth and enjoyable visit for all, please adhere to
+the following guidelines:</p>
 <p>&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
