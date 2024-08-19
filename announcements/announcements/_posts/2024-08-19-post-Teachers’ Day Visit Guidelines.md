@@ -1,6 +1,6 @@
 ---
-title: Teachers’ Day Visit Guidelines for Alumni
-permalink: /teachers-day-visit-guidelines-for-alumni/
+title: Teachers’ Day Visit Guidelines
+permalink: /teachers-day-visit-guidelines/
 date: 2024-08-19
 layout: post
 description: ""
@@ -11,14 +11,12 @@ variant: tiptap
 </p>
 <p><strong>BUKIT TIMAH PRIMARY SCHOOL</strong>
 </p>
-<p><strong>Teachers’ Day Visit Guidelines for Alumni</strong>
+<p><strong>Teachers’ Day Visit Guidelines</strong>
 </p>
 <p>Dear Alumni,</p>
-<p>We would like you to join us in celebrating Teachers' Day by visiting
-your former teachers on <strong>29 August 2024 </strong>at Bukit Timah Primary
-School. To ensure a smooth and enjoyable visit for all, please adhere to
-the following guidelines:</p>
-<p>&nbsp;</p>
+<p>If you would like to visit your former teachers at Bukit Timah Primary
+School on <strong>29 August 2024</strong>, please adhere to the following
+guidelines so that the visits will be smooth and enjoyable for all:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Appointment Required</strong>: Please make prior arrangements
