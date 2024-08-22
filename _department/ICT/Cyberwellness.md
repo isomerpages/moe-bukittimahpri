@@ -27,7 +27,7 @@ Through Cyber Wellness education in CCE, students learn to be respectful, safe, 
 
 <p align="justify">
 
-Cyber Wellness week is organised annually to heighten awareness and spread Cyber Wellness messages. These messages are promoted through posters, quizzes and hands-on activities.</p><center><img src="/images/School%20Photos/cyberwellness\_week.png">
+Cyber Wellness week is organised annually to heighten awareness and spread Cyber Wellness messages. These messages are promoted through posters, quizzes and hands-on activities.</p><center><img src="/images/School%20Photos/cyberwellness_week.png">
 
 <b>Assembly Talk</b> on Netiquette by TOUCH community and students’ voice <br>on the importance of Cyber Wellness.</center>
 
@@ -37,7 +37,7 @@ Cyber Wellness week is organised annually to heighten awareness and spread Cyber
 
 Our Cyber Wellness efforts also aim to develop the Exco Peer Support Ambassadors to advocate Cyber Wellness in our school.
 
-The training workshop aim to develop ambassadors who can support their peers in cyber issues. </p><img src="/images/School%20Photos/cyberwellness\_workshop.png">
+The training workshop aim to develop ambassadors who can support their peers in cyber issues. </p><img src="/images/School%20Photos/cyberwellness_workshop.png">
 
 <h3><u>National Cyber Wellness Advocacy Challenge (NCAC) 2023
 
