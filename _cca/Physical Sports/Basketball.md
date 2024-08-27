@@ -12,4 +12,5 @@ We believe that resilience and respect are fundamental values both on and off th
 
 ![](/images/CCA/basketball24.jpg)
 ![](/images/CCA/basketball24_2.jpg)
+![](/images/CCA/basketball24_4.jpg)
 ![](/images/CCA/basketball24_3.jpg)

@@ -11,4 +11,13 @@ The Art Club is a vibrant and inclusive community within our school, dedicated t
 In Art Club, students engage in a range of activities such as painting, drawing, sculpture, and mixed media. Alongside technical proficiency, we strive to instil important values such as creativity, imagination, teamwork, and self-expression. </p>
 <p align="justify">
 Our commitment to excellence and passion for the arts have led to our noteworthy achievement of receiving a “Certification of Recognition” in the prestigious Singapore Youth Festival Art Exhibition in July 2023.</p>
-<img style="border:2px solid #0A0B30; width:400px;height:460px;" src="/images/CCA/art%20club%201.jpg"><br><img style="border:2px solid #0A0B30; width:400px;height:460px;" src="/images/CCA/art%20club%202.jpg"><br><img style="border:2px solid #0A0B30; width:400px;height:460px;" src="/images/CCA/art%20club%203.jpg">
+
+![](/images/CCA/art24_4.jpg)
+
+![](/images/CCA/art24_2.jpg)
+
+![](/images/CCA/art24_3.jpg)
+
+![](/images/CCA/art24.jpg)
+
+![](/images/CCA/art24_5.jpg)
