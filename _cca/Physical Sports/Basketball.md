@@ -11,8 +11,5 @@ BTPS Basketball is a dynamic CCA dedicated to fostering resilience, respect and 
 We believe that resilience and respect are fundamental values both on and off the court. We encourage our players to develop mental toughness, perseverance, and the ability to overcome challenges. Through rigorous training sessions, intense competitions, and a supportive team environment, we instill a resilient mindset that helps our pupils reach their full potential. We also emphasize the importance of respect in all aspects of the game. Our players are taught to respect their coaches, teammates, opponents, referees, and the game.</p>
 
 ![](/images/CCA/basketball24.jpg)
-
 ![](/images/CCA/basketball24_2.jpg)
-
 ![](/images/CCA/basketball24_3.jpg)
-
