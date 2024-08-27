@@ -21,7 +21,3 @@ Our commitment to excellence and passion for the arts have led to our noteworthy
 ![](/images/CCA/art24.jpg)
 
 ![](/images/CCA/art24_5.jpg)
-
-
-
-
