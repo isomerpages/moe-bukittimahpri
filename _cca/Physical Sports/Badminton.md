@@ -10,4 +10,3 @@ third_nav_title: Physical Sports
 <p align="justify">
 The pupils will learn the rules of badminton, the proper grip of the badminton racket, proper techniques of shots and service and other badminton skills that will prepare them to be competitively ready for the National School Games(NSG).</p>
 <img src="/images/CCA/badminton24.jpg">
-<img style="width:800px;height:760px;" src="/images/CCA/badminton%201.jpeg"><img style="width:800px;height:760px;" src="/images/CCA/badminton%202.jpeg"><img style="width:800px;height:760px;" src="/images/CCA/badminton%203.jpeg">
