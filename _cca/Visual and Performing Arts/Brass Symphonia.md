@@ -11,6 +11,9 @@ third_nav_title: Visual and Performing Arts
 ![](/images/CCA/band24_2.jpg)
 ![](/images/CCA/band24.jpg)
 ![](/images/CCA/band24_3.jpg)
+![](/images/CCA/brasssymphonia24_3.jpg)
+![](/images/CCA/brasssymphonia24_2.jpg)
+![](/images/CCA/brasssymphonia24_1.jpg)
 
 <p align="justify">
 The Band has had the privilege to perform at various venues over the years – the Esplanade, Gardens by the Bay, and even the Istana. We are looking forward to our upcoming Istana performance at the end of this year.</p>
@@ -33,4 +36,3 @@ Victoria School</p>
 The SNYO is a National Project of Excellence recognised by the Ministry of Education (MOE). Our talented band members who have a deep passion for music and playing brass instruments have opportunities to audition and be part of the prestigious Singapore National Youth Orchestra (SNYO) community. Their love of learning music continues even as they become the alumini of BTPS. We are proud to be one of the schools to be represented in SNYO.</p>
 
 
-<img style="border:2px solid #0A0B30; width:400px;height:260px;" src="/images/CCA/brass%20symphonia%201.jpg"><br><img style="border:2px solid #0A0B30; width:400px;height:260px;" src="/images/CCA/brass%20symphonia%202.jpg"><br><img style="border:2px solid #0A0B30; width:400px;height:260px;" src="/images/CCA/brass%20symphonia%203.jpg">
