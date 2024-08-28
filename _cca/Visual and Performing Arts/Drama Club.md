@@ -12,3 +12,7 @@ More importantly, CCA members cultivate values of teamwork, discipline and perse
 
 
 ![](/images/CCA/drama24_ccafair.jpg)
+
+![](/images/CCA/drama24_2.jpg)
+
+![](/images/CCA/drama24_3.jpg)
