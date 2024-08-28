@@ -18,4 +18,10 @@ We value respect for all members, embrace diversity, and create an inclusive env
 
 ![](/images/CCA/choir24_2.jpg)
 
+![](/images/CCA/choir24_5.jpg)
 
+![](/images/CCA/choir24_6.jpg)
+
+![](/images/CCA/choir24_8.jpg)
+
+![](/images/CCA/choir24_7.jpg)
