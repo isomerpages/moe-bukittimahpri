@@ -34,5 +34,3 @@ Victoria School</p>
 <p align="justify">
 <strong>Singapore National Youth Orchestra (SNYO) </strong><br>
 The SNYO is a National Project of Excellence recognised by the Ministry of Education (MOE). Our talented band members who have a deep passion for music and playing brass instruments have opportunities to audition and be part of the prestigious Singapore National Youth Orchestra (SNYO) community. Their love of learning music continues even as they become the alumini of BTPS. We are proud to be one of the schools to be represented in SNYO.</p>
-
-
