@@ -11,9 +11,8 @@ variant: tiptap
 <h4>To apply, please refer to the Service Requirements and the Application Procedure below.</h4>
 <p><strong>Service Requirements</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="/files/Call_for_Proposals__For_Single_Bus_Service__BTPS.pdf" rel="noopener noreferrer nofollow" target="_blank">[Call for Proposal]&nbsp;</a>
-</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[
+<a href="/files/Call_for_Proposals__For_Single_Bus_Service__BTPS.pdf" rel="noopener noreferrer nofollow" target="_blank">Call For Proposal</a>]</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="/files/2024/TC_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Single_Bus_Service__BTPS.pdf" rel="noopener noreferrer nofollow" target="_blank">[Terms and Conditions for School Bus Operator to Provide School Bus Services]</a>&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
