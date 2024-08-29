@@ -22,8 +22,7 @@ variant: tiptap
 <p><strong>Application Procedure</strong>
 </p>
 <p>1. Complete the<a rel="noopener noreferrer nofollow" target="_blank"> </a>
-<a href="/files/2024/Information_from_Vendor__For_Single_Bus_Service__BTPS.pdf" rel="noopener noreferrer nofollow" target="_blank">[Call for Proposal - Annex A (Information Required from Vendor)]</a>
-<a href="/files/2024/Information_from_Vendor__For_Single_Bus_Service__BTPS.pdf" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[NBR4]</a><a href="/files/2024/Information_from_Vendor__For_Single_Bus_Service__BTPS.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<a href="/files/2024/Information_from_Vendor__For_Single_Bus_Service__BTPS.pdf" rel="noopener noreferrer nofollow" target="_blank">[Call for Proposal - Annex A (Information Required from Vendor)]&nbsp;</a>
 </p>
 <p>2. Submit the completed Call for Proposal – Annex A by closing date, 11
 September 2024, to the School’s General Office.</p>
