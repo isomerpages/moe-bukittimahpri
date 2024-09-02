@@ -15,4 +15,9 @@ Through the application of computational thinking and design thinking constructs
 <p align="justify">
 Another team of pupils participated in the IDE Code Builder 2023 on 9 May 2023 where they applied their Scratch 3.0 coding skills based on a series of computing-based questions.</p>
 
-<img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/CCA/infocomm%201.jpg"><img style="border:2px solid #0A0B30; width:400px;height:300px;" src="/images/CCA/infocomm%202.jpg"><img style="border:2px solid #0A0B30; width:400px;height:200px;" src="/images/CCA/infocomm%203.jpg"><img style="border:2px solid #0A0B30; width:400px;height:200px;" src="/images/CCA/infocomm%204.jpg">
+
+<img src="/images/CCA/infocomm24.jpg"><center><strong>Using Microbit to solve real world problem.</strong></center><table>
+<tbody><tr><td><img src="/images/CCA/infocomm24_2.jpg"></td><td><img src="/images/CCA/infocomm24_3.jpg"></td></tr>
+</tbody></table>
+
+<strong>SDMA Entry 2024 – Evan Lu Jiayi (5G)</strong><img src="/images/CCA/infocomm24_5.jpg">
