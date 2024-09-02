@@ -21,7 +21,3 @@ Another team of pupils participated in the IDE Code Builder 2023 on 9 May 2023 w
 </tbody></table>
 
 <strong>SDMA Entry 2024 – Evan Lu Jiayi (5G)</strong><img src="/images/CCA/infocomm24_5.jpg">
-
-
-
-
