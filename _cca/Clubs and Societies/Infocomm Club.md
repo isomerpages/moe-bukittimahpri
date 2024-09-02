@@ -16,7 +16,7 @@ Through the application of computational thinking and design thinking constructs
 Another team of pupils participated in the IDE Code Builder 2023 on 9 May 2023 where they applied their Scratch 3.0 coding skills based on a series of computing-based questions.</p>
 
 
-<img src="/images/CCA/infocomm24.jpg"><center><strong>Using Microbit to solve real world problem.</strong></center>
+<img width="80%" src="/images/CCA/infocomm24.jpg"><center><strong>Using Microbit to solve real world problem.</strong></center>
 
 <table>
 <tbody><tr><td width="50%"><img src="/images/CCA/infocomm24_2.jpg"></td><td><img src="/images/CCA/infocomm24_3.jpg"></td></tr>
