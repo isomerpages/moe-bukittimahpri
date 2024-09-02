@@ -19,7 +19,7 @@ Another team of pupils participated in the IDE Code Builder 2023 on 9 May 2023 w
 <img src="/images/CCA/infocomm24.jpg"><center><strong>Using Microbit to solve real world problem.</strong></center>
 
 <table>
-<tbody><tr><td><img src="/images/CCA/infocomm24_2.jpg"></td><td><img src="/images/CCA/infocomm24_3.jpg"></td></tr>
+<tbody><tr><td width="50%"><img src="/images/CCA/infocomm24_2.jpg"></td><td><img src="/images/CCA/infocomm24_3.jpg"></td></tr>
 </tbody></table>
 
 <strong>SDMA Entry 2024 – Evan Lu Jiayi (5G)</strong><img src="/images/CCA/infocomm24_5.jpg">
