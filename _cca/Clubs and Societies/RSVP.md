@@ -7,9 +7,11 @@ third_nav_title: Clubs and Societies
 ---
 # RSVP
 <p align="justify">
-RSVP is a science and environmental club which stands for Respect-Save-Value-our Planet. RSVP members are exposed to engaging science experiments and investigations where they explore new ideas, conduct experiments and collect evidence to prove or better understand a scientific theory.  They also have an opportunity to work on young scientist card projects organized by Singapore Science Centre.</p>
+RSVP, which stands for Respect Save Value our Planet, is a science and environmental club dedicated to fostering a deep appreciation for the environment and scientific inquiry. In RSVP, students engage in a variety of hands-on science experiments and investigations, exploring new ideas, conducting experiments, and gathering evidence to understand and validate scientific theories.</p>
 <p align="justify">
-Our pupils are also actively involved in leading and implementing environmental projects in school as well as the community. They are given the opportunity to attend conferences and workshops organized by secondary schools and NEA to learn more about current environmental issues and how they initiate and lead change around them.  Through these programmes, we aim to develop student leaders who show compassion in caring for our environment and take the lead in making a positive difference for the environment. </p>
+Members of RSVP also lead and implement environmental projects both within the school and in the broader community. For example, they have given assembly presentations and organized activities during recess and in the library to educate their peers about plastic recycling. Additionally, they manage a weekly collection of plastic recyclables for the school. Students have the opportunity to attend environmental workshops organized by secondary schools and the NEA to stay informed about current environmental issues.</p>
+<p align="justify">
+RSVP collaborates with Epson Industrial Pte Ltd, our corporate partner in environmental education, to learn about eco-friendly practices and initiate changes within our school. Through these programmes, we aim to develop student leaders who are passionate about protecting the environment and are motivated to make a positive impact.</p>
 
 ![](/images/CCA/rsvp24.jpg)
 

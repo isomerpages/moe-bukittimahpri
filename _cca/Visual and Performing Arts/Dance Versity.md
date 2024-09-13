@@ -6,9 +6,10 @@ description: ""
 third_nav_title: Visual and Performing Arts
 ---
 <h3>DANCE-VERSITY</h3><p align="justify">
-Dance can be a one-man-show or a team effort. In BTPS, we strive to inculcate the values of teamwork, discipline and resilience, as well as appreciation for body movement beauty and creativity in our pupils through dance. These are achieved via structured training, leadership development, creative choreography and team performance. 
-BTPS Dance-Versity embodies the spirit of inclusiveness. Members with different foundation and background work together and tap on diversity as the source of strength during performances.</p>
-<p align="justify">Over the years, our pupils have expanded their skills and repertoire of dances to include Hip Hop, K-Pop and Jazz,. School events such as National Day, Teachers’ Day celebrations, Prize Giving Day and Charmz plus external performances like the competitive Singapore Youth Festival (SYF) Arts Presentation and Super 24, provide platforms for our pupils to showcase their talent.   </p>
+At Dance-Versity, our students embody the core school values of respect, resilience, compass, and adaptability. Through a diverse range of dance styles, our members learn to respect different cultures and traditions, while resilience is cultivated through rigorous training and practice. The compass guides them to make ethical choices and stay true to their values, and adaptability allows them to thrive in the ever-changing world of performing arts.</p>
+
+<h4>Achievements:</h4>
+•	2024: SYF Arts Presentation, Certificate of Distinction.
 
 ![](/images/CCA/dance24_7.jpg)
 
@@ -23,4 +24,3 @@ BTPS Dance-Versity embodies the spirit of inclusiveness. Members with different 
 ![](/images/CCA/dance24_2.jpg)
 
 ![](/images/CCA/dance24.jpg)
-

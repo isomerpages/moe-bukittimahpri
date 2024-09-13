@@ -6,9 +6,13 @@ description: ""
 third_nav_title: Physical Sports
 ---
 <h3>RUGBY</h3><p align="justify">
-Rugby is a sport that evokes images of fierce battles on the field. It showcases the epitome of physicality, skill, and unyielding determination. At its core, rugby is a game of strategy, teamwork, and controlled aggression. Played with an oval-shaped ball, the sport demands a delicate balance of power, agility, and precise execution. From the adrenaline-pumping scrums to the daring tackles, every moment on the rugby field is an opportunity for players to showcase their skills and push the limits of their abilities. One of the distinguishing features of rugby is its inclusivity. However, rugby is more than just a physical battle. It is a sport that instills values and virtues that extend beyond the boundaries of the field.</p>
+Rugby is a dynamic sport where two teams compete to score points by carrying, passing, and kicking the ball towards their opponent's goal line. It's a game known for its intense physicality, strategic play, and teamwork.</p>
 <p align="justify">
-Bukit Timah Primary School’s rugby team, also known as Highlander, has been around since 2012. Through the years, our rugby boys have been exposed to many opportunities to display graciousness, respect, resilience and sportsmanship, during National School Games and Rugby Ready Clinic. </p>
+Bukit Timah Primary School’s rugby team is known as Highlanders. As a team, we aim to not only develop strength and skill but also quick thinking and coordination on the field. The Highlanders have had opportunities to learn about the values of resilience, teamwork and discipline through training sessions and during competitions. </p>
+<h4>Achievements:</h4>
+•	2024: National School Games – Senior Division Tier 2, 1st Place<br>
+•	2024: National School Games – Junior Division Tier 1, 2nd  Place
+
 
 ![](/images/CCA/rugby24_3.jpg)
 
