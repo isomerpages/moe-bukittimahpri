@@ -6,9 +6,11 @@ description: ""
 third_nav_title: Visual and Performing Arts
 ---
 <h3>DRAMA CLUB</h3><p align="justify">
-Drama Club aims to develop confident speakers and performers. Our members get to explore creative expression through theatrical techniques such as mime, physical theatre, role playing, characterisation, improvisation, voice projection and spatial awareness.</p>
+The Drama Club fosters a vibrant environment where creativity and collaboration thrive. Students engage in various theatrical activities, from acting to scriptwriting, enhancing their artistic skills while building lasting friendships. </p>
 <p align="justify">
-More importantly, CCA members cultivate values of teamwork, discipline and perseverance through their love and appreciation for drama. The Club performs annually for school events in a short drama production. It also trains hosts and emcees for different school events.  </p>
+Emphasising teamwork, members learn to respect one another's ideas and contributions, creating a supportive community. Through rehearsals and performances, they develop confidence and communication skills, preparing them for future challenges.   </p>
+<p align="justify">
+The Drama Club not only cultivates talent but also instils important values, teaching students the importance of collaboration, respect, and perseverance. </p>
 
 
 ![](/images/CCA/drama24_ccafair.jpg)
