@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Physical Sports
 ---
 <h3>BASKETBALL</h3><p align="justify">
-<strong>BTPS Basketball</strong> is a dynamic CCA dedicated to fostering resilience, respect, and passion for the sports and the game of Basketball. Officially established in 2022, the CCA has  attracted studentstudents seeking a supportive and growth-oriented sporting experience. We pride ourselves on creating an inclusive environment where players of all backgrounds and skill levels can thrive. With the school’s new Indoor Sports Hall, we provide an exceptional space for learning and playing.
+<strong>BTPS Basketball</strong> is a dynamic CCA dedicated to fostering resilience, respect, and passion for the sports and the game of Basketball. Officially established in 2022, the CCA has  attracted students seeking a supportive and growth-oriented sporting experience. We pride ourselves on creating an inclusive environment where players of all backgrounds and skill levels can thrive. With the school’s new Indoor Sports Hall, we provide an exceptional space for learning and playing.
 
 </p>
 <p align="justify">
