@@ -12,4 +12,4 @@ third_nav_title: Physical Sports
 
 <h3>Achievements:</h3>
 • 2024: Senior Boys League 4: 3rd Place<br>
-• 2024: Junior Girl Tier 4 Champion
+• 2024: Junior Girls Tier 4 Champion
