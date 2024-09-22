@@ -1494,23 +1494,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:100px; border:2px solid #0A0B30" height="auto" src="/images/Staff%20Photos/DE_Mr_zuhaili.png"> 
-</div>
-</td>
-<td rowspan="1" colspan="4">
-<p>Mr Zuhaili</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
-<p><strong>NCS/ Desktop Engineer</strong>
-</p>
-</td>
-</tr>
+
 <tr>
 <td rowspan="2" colspan="1">
 <div class="isomer-image-wrapper">
