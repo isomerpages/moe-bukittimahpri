@@ -6,7 +6,9 @@ description: ""
 third_nav_title: Visual and Performing Arts
 ---
 <h3>BRASS SYMPHONIA</h3>
-<p align="justify">Members of the Brass Symphonia get to attend masterclasses by well-established band clinicians. Through resilience and perseverance, our band members always strive for the best and put up impressive performances at every Singapore Youth Festival Arts Presentation for Bands.</p>
+<p align="justify">BTPS Brass Symphonia brings together students who love music and want to take their skills to the next level. As part of the school’s Learning for Life Programme (LLP) Tier 2, the band offers a fun and supportive environment where students make music, build friendships, and learn important life lessons. Through regular practices, students develop resilience, commitment, and teamwork — all while enjoying the process of creating music together.
+
+Guided by dedicated instructors and teachers, band members improve their musical skills and get to participate in band exchanges with local and overseas schools, gaining new perspectives and experiences. The band is also supported by parents and alumni, who often contribute to the band’s efforts and encourage the students in their musical journeys.</p>
 
 ![](/images/CCA/band24_2.jpg)
 ![](/images/CCA/band24.jpg)
@@ -15,22 +17,3 @@ third_nav_title: Visual and Performing Arts
 ![](/images/CCA/brasssymphonia24_2.jpg)
 ![](/images/CCA/brasssymphonia24_1.jpg)
 
-<p align="justify">
-The Band has had the privilege to perform at various venues over the years – the Esplanade, Gardens by the Bay, and even the Istana. We are looking forward to our upcoming Istana performance at the end of this year.</p>
-<p align="justify">
-<strong>DSA (Direct School Admissions)</strong><br>
-Many of our band members have worked hard to play their instruments well and successfully entered their desired secondary school through the DSA exercise.</p>
-
-<p align="justify">
-The following secondary schools have accepted our band members through DSA.<br>
-Anglo Chinese School (lndependent) <br>
-Bukit Panjang Govt High School<br>
-Crescent Girls' School<br>
-Fairfield Methodist Secondary School<br>
-Nan Hua High School<br>
-River Valley High School<br>
-Singapore Chinese Girls' School<br>
-Victoria School</p>
-<p align="justify">
-<strong>Singapore National Youth Orchestra (SNYO) </strong><br>
-The SNYO is a National Project of Excellence recognised by the Ministry of Education (MOE). Our talented band members who have a deep passion for music and playing brass instruments have opportunities to audition and be part of the prestigious Singapore National Youth Orchestra (SNYO) community. Their love of learning music continues even as they become the alumini of BTPS. We are proud to be one of the schools to be represented in SNYO.</p>
