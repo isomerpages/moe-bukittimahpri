@@ -16,4 +16,3 @@ Guided by dedicated instructors and teachers, band members improve their musical
 ![](/images/CCA/brasssymphonia24_3.jpg)
 ![](/images/CCA/brasssymphonia24_2.jpg)
 ![](/images/CCA/brasssymphonia24_1.jpg)
-
