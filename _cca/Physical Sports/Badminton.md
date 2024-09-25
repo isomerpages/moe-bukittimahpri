@@ -11,5 +11,5 @@ third_nav_title: Physical Sports
 <img src="/images/CCA/badminton24.jpg">
 
 <h3>Achievements:</h3>
-• 2024: Senior Boys League 4: 3rd Place<br>
+• 2024: Senior Boys League Round<br>
 • 2024: Junior Girls Tier 4 Champion
