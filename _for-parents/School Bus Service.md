@@ -4,11 +4,15 @@ permalink: /info-for-parents/school-bus-service/
 description: ""
 variant: markdown
 ---
-## Peng Yang Transport Pte Ltd
+<h3>School Bus Information</h3>
 
 
-Contact Number: 64726046 / 91998844 (Mr Tang) 
+<strong>Say Guan Transport Services</strong><br>
+Please contact Mr. Tang on School Bus transport matters.<br>
+If you are unable to contact Mr. Tang via call, please send him a message.<br>
+HP: 91998844<br>
+Office Number: 64726046<br>
+Email: sayguants@yahoo.com.sg<br><br>
+(Period: 1 Jan 2025 to 31 Dec 2026)
 
-Parents may contact Mr Tang at 91998844 or [[click here to submit the form]](https://docs.google.com/forms/d/e/1FAIpQLSedR5rTPRcBdUmLxK0aGkcK782rDCn_cvzGYXFUNzszV_WiUQ/viewform?pli=1 ) for bus services.<br>
-
-Contact Number: 64726046/ 91998844 (Mr Tang)
+![](/images/school_bus_fees.jpg)
