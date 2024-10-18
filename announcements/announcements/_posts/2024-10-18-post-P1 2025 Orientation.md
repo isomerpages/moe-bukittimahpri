@@ -9,11 +9,11 @@ variant: tiptap
 ---
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/BTPS_P_2025_P1_Orientation.pdf" rel="noopener noreferrer nofollow" target="_blank">Welcome 2025 Primary Ones</a>
+<p><a href="/files/BTPS_P_2025_P1_Orientation.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Address</a>
 </p>
 </li>
 <li>
-<p><a href="/files/BTPS_YH_2025_P1_Orientation.pdf" rel="noopener noreferrer nofollow" target="_blank">Sharing with Parents</a>
+<p><a href="/files/BTPS_YH_2025_P1_Orientation.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head's Talk</a>
 </p>
 </li>
 <li>
