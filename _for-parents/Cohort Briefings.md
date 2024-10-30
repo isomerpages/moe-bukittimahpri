@@ -6,6 +6,9 @@ variant: markdown
 ---
 <h3>Cohort Briefings for Year 2024</h3>
 
+##### Briefing on SBB
+[Briefing on SBB - 28 Oct](/files/2024/Briefing_on_SBB___28_Oct.pdf)
+
 ##### P2 Level Briefing
 
 1) [P2-2024-MTPS-Principal-Sharing](/files/2024/P2_2024_MTPS_Principal_Sharing.pdf)
