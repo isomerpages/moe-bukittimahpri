@@ -20,6 +20,20 @@ sections:
           url: /quick-links/
       variant: image
   - infopic:
+      title: PRESIDENT'S AWARD FOR TEACHERS (PAT) 2025
+      id: infopic
+      button: Nominate online at
+      url: https://go.gov.sg/pat2025
+      image: /images/PAT_2025.png
+      alt: Image alt text
+  - infopic:
+      title: OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2025
+      id: infopic
+      button: NOMINATE ONLINE AT
+      url: https://go.gov.sg/oyea2025
+      image: /images/OYEA_2025.png
+      alt: Image alt text
+  - infopic:
       title: Instagram
       subtitle: JOIN US ON
       id: infopic
