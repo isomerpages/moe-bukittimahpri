@@ -12,9 +12,6 @@ sections:
         - title: Info For Parents
           description: ""
           url: /info-for-parents/information-for-parents
-        - title: Open House 2024
-          description: ""
-          url: /open-house-2024/
         - title: Quick Links
           description: ""
           url: /quick-links/
