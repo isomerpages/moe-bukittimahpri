@@ -19,11 +19,12 @@ variant: markdown
 <td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%" colspan="2"><strong>VICE PRINCIPAL</strong></td>
  </tr>
 <tr>
-<td style="border:2px ; background-color:#ffffff; text-align: center;"><strong></strong></td><td style="border:2px ; background-color:#ffffff;; text-align: center;"><img style="width: 100px;" height="auto" alt="" src="/images/Staff Photos/vp_mdm_jan.png"><strong>Mdm Jan
+<td style="border:2px; background-color:#ffffff; text-align: center;"><img style="width: 100px;" height="auto" alt="" src="/images/Staff%20Photos/Organisation%20Photos/female.png"><strong>Mrs Shirlyn Seah
+</strong></td><td style="border:2px ; background-color:#ffffff;; text-align: center;"><img style="width: 100px;" height="auto" alt="" src="/images/Staff Photos/vp_mdm_jan.png"><strong>Mdm Jan
 </strong>
  </td></tr>
 <tr>
-<td style="border:2px; background-color:#ffffff; text-align: center;"><strong></strong> </td><td style="border:2px ; background-color:#ffffff;; text-align: center;"><strong><a href="mailto:lin_shihua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_shihua@schools.gov.sg</a>
+<td style="border:2px; background-color:#ffffff; text-align: center;"><strong><a href="mailto:koh_lee_kun_shirlyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_lee_kun_shirlyn@schools.gov.sg</a></strong> </td><td style="border:2px ; background-color:#ffffff;; text-align: center;"><strong><a href="mailto:lin_shihua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_shihua@schools.gov.sg</a>
 </strong>
  </td></tr></tbody></table>
 <table>
