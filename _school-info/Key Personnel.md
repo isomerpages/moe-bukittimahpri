@@ -19,7 +19,7 @@ variant: markdown
 <td style="border:2px solid #0A0B30; background-color:#f3f3f3; text-align: center; width:25%" colspan="2"><strong>VICE PRINCIPAL</strong></td>
  </tr>
 <tr>
-<td style="border:2px; background-color:#ffffff; text-align: center;"><img style="width: 100px;" height="auto" alt="" src="/images/Staff%20Photos/Organisation%20Photos/female.png"><strong>Mrs Shirlyn Seah
+<td style="border:2px; background-color:#ffffff; text-align: center;"><img style="width: 100px;" height="auto" alt="" src="/images/Staff%20Photos/Mrs_Shirlyn_Seah.png"><strong>Mrs Shirlyn Seah
 </strong></td><td style="border:2px ; background-color:#ffffff;; text-align: center;"><img style="width: 100px;" height="auto" alt="" src="/images/Staff Photos/vp_mdm_jan.png"><strong>Mdm Jan
 </strong>
  </td></tr>
