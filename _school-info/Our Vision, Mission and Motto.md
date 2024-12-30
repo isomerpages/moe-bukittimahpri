@@ -12,18 +12,18 @@ The school crest is a human figure balancing an oscillating circle, against a go
  <p align="justify">
 The blue background symbolises depth of learning while gold represents the richness that will be experienced when the peak of excellence is attained.</p>
 
+<h2>School Motto</h2><br>
+<strong>STRIVE FOR THE BEST</strong>
+
 <h2>Our Vision</h2><br>
-Adaptive Learner, Empathetic Leader and Future-Ready Citizen
+An Adaptive Learner, Empathetic Leader and Future-Ready Citizen
 
 
 <h2>Our Mission</h2> <br>
-To create a vibrant learning environment that values diversity and builds community through shared values, collaboration and innovation
+To create a vibrant learning environment that values diversity and builds community through shared values, collaboration and innovation.
 
 
 
 <h2> Our Values</h2><br>
-Adaptability &nbsp; Empathy &nbsp; Integrity<br>
-Resilience &nbsp; Respect&nbsp; Responsibility 
-
-<h2>Our Motto</h2><br>
-<strong>Strive for the Best</strong>
+Adaptability <br>Empathy <br> Integrity<br>
+Resilience <br> Respect <br> Responsibility
