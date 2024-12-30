@@ -2,6 +2,7 @@
 title: Our Vision, Mission and Motto
 permalink: /school-info/our-vision-mission-and-motto/
 description: ""
+variant: markdown
 ---
 <h2>Our School Crest</h2>
 
@@ -11,16 +12,18 @@ The school crest is a human figure balancing an oscillating circle, against a go
  <p align="justify">
 The blue background symbolises depth of learning while gold represents the richness that will be experienced when the peak of excellence is attained.</p>
 
-<h2>Our Motto</h2><br>
-<strong>Strive for the Best</strong>
-
 <h2>Our Vision</h2><br>
-A school that fuels the hearts and minds to be future ready.
+Adaptive Learner, Empathetic Leader and Future-Ready Citizen
+
 
 <h2>Our Mission</h2> <br>
-To Enthuse, Engage and Empower in a Learning Community that inculcates sound values and equips individuals to be world-ready citizens.
+To create a vibrant learning environment that values diversity and builds community through shared values, collaboration and innovation
 
 
 
 <h2> Our Values</h2><br>
-Graciousness, Respect, Resilience, Adaptability, Compassion, Integrity
+Adaptability &nbsp; Empathy &nbsp; Integrity<br>
+Resilience &nbsp; Respect&nbsp; Responsibility 
+
+<h2>Our Motto</h2><br>
+<strong>Strive for the Best</strong>
