@@ -26,5 +26,4 @@ To create a vibrant learning environment that values diversity and builds commun
 
 <h2> Our Values</h2><br>
 Adaptability <br>Empathy <br> Integrity<br>
-Resilience <br> Respect <br> Responsibility 
-
+Resilience <br> Respect <br> Responsibility
