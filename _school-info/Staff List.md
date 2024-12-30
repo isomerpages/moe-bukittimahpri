@@ -4,7 +4,6 @@ permalink: /staff/staff-list/
 description: ""
 variant: markdown
 ---
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -280,13 +279,13 @@ variant: markdown
   <td rowspan="1" colspan="1"><p>2_Respect</p></td>
   <td rowspan="1" colspan="1"><p>Mr Ong Wei Ming Ernest</p></td>
 <td rowspan="1" colspan="1"><p>369</p></td>
-<td rowspan="1" colspan="1"><a href="mailto:ong_wei_ming_ernest@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wei_ming_ernest@schools.gov.sg</a></td>
+<td rowspan="1" colspan="1"><p><a href="mailto:ong_wei_ming_ernest@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wei_ming_ernest@schools.gov.sg</a></p></td>
 </tr>
 <tr>
   <td rowspan="1" colspan="1"><p>2_Respect</p></td>
   <td rowspan="1" colspan="1"><p>Mdm Rozana Bte Hashim</p></td>
 <td rowspan="1" colspan="1"><p>338</p></td>
-<td rowspan="1" colspan="1"><a href="mailto:rozana_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rozana_hashim@schools.gov.sg</a></td>
+<td rowspan="1" colspan="1"><p><a href="mailto:rozana_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rozana_hashim@schools.gov.sg</a></p></td>
 </tr>
 <tr>
   <td rowspan="1" colspan="1"><p>2_Responsiblity</p></td>
