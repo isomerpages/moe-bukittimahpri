@@ -9,6 +9,7 @@ variant: markdown
 
 [BTPS School Calendar 2025](https://go.gov.sg/btpscalendar25/)
 
+
 ### DSA Talk
 [DSA Talk](/files/2024/DSA_Talk_2024.pdf)
 
