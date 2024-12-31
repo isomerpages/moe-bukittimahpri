@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### SCHOOL CIRCULAR
 
-[BTPS School Calendar 2025](https://go.gov.sg/btpscalendar25/)
+
 
 
 ### DSA Talk
