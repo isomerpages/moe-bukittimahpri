@@ -32,7 +32,7 @@ variant: markdown
 <tr>
 <td rowspan="4" colspan="1"><img style="width: 100px;" height="auto" alt="" src="/images/Staff%20Photos/Organisation%20Photos/yh_shirley.png"></td><td rowspan="1" colspan="4">
 Mrs Shirley Ong</td></tr>
-<tr><td><strong>YH/Lower Primary (Pri 1 and Pri 2)</strong></td></tr>
+<tr><td><strong>YH/Pri 1 and Pri 3</strong></td></tr>
 <tr><td>Extension: 374</td></tr>
 <tr><td><a href="mailto:low_yin_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_yin_choo@schools.gov.sg</a>
 
@@ -46,7 +46,7 @@ Mrs Angeline Teo
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<strong>YH/Mid Primary (Pri 3 and Pri 4)</strong>
+<strong>YH/Pri 4 and Pri 5</strong>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ Mr Effandi Jasman
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<strong>YH/Upper Primary (Pri 5 and Pri 6)</strong>
+<strong>YH/Pri 2 and Pri 6</strong>
 </td>
 </tr>
 <tr>
