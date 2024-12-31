@@ -7,9 +7,8 @@ variant: markdown
 ---
 ### SCHOOL CIRCULAR
 
-[2024 Sem 1 School Calendar](/files/2024/BTPS_School_Calendar_2024_Sem1.pdf)
+[BTPS School Calendar 2025](https://go.gov.sg/btpscalendar25/)
 
-[2024 Sem 2 School Calendar](/files/2024/BTPS_School_Calendar_2024_Sem2.pdf)
 
 ### DSA Talk
 [DSA Talk](/files/2024/DSA_Talk_2024.pdf)
