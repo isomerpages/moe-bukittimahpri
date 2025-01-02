@@ -7,12 +7,12 @@ description: ""
 <h2>School Rules</h2>
 
 <p align="justify">
-At BTPS, we believe that rules are critical to create a safe and conducive environment for our students to learn and play.  Every student, when given guidance and support, can learn from his or her mistakes and mature as leaders of self and persons of influence.  A shared understanding of expectations from both home and school is the foundation for character growth.</p>
+At BTPS, we believe that rules are critical to create a safe and conducive environment for our students to learn and play. Every student, when given guidance and support, can learn from his or her mistakes and mature so as to lead self and others for positive impact. A shared understanding of expectations from both home and school is the foundation for character growth.</p>
 
 <p align="justify">
 </p><h5>1.  Respect for Nation and School</h5> 
 <ul style="list-style-type: disc;">
-   <li><p align="justify">	Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the pledge with right fist placed over the heart. </p></li>
+   <li><p align="justify">	Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the pledge with right fist placed over the heart.</p></li>
 <br>
   <li>All students are expected to: </li></ul>
 
@@ -25,7 +25,7 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <ul><li><p align="justify"> All students are expected to be in school every school day.</p></li></ul>
 <ul><li><p align="justify">Absences must be covered by a medical certificate (MC) from a registered medical practitioner.</p></li></ul>
 <ul><li><p align="justify">Absences for other urgent reasons must be covered by a letter from parent/guardian, to be submitted within a week of the absence.  The school will accept up to <strong>five</strong> letters (one for each occasion) per semester.</p></li></ul>
-<ul><li><p align="justify">Please see table 2.1 for valid reasons for absence.  Do email your child/ward’s form teacher if you require any clarification. </p></li></ul>
+<ul><li><p align="justify">Please see table 2.1 for valid reasons for absence.  </p></li></ul>
 <ul><li><p align="justify"> Student will be considered as playing truant under the following circumstances:</p></li></ul>
 <ul><ul><li><p align="justify">Student is absent from school/lesson/CCA/any other school activity without a medical certificate or valid reason or did not seek prior permission from the teacher-in-charge for the absence. </p></li><li>Student leaves the school grounds after reporting but before the end of the school day, without seeking approval from the teachers and the General Office.<p></p> </li></ul></ul>
 
@@ -41,9 +41,8 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <td style="border:2px solid #0A0B30">Absent with Valid Reason (VR) – Up to five occasions a semester.  </td><td style="border:2px solid #0A0B30">
 <ul><li>Medical</li>
 <li>Bereavement or serious illness of a family member</li>
-<li>Personal or family commitments</li>
-<li>Extenuating circumstances</li></ul>
-<p align="justify">The school will assess each application on a case-by-case basis. Parents/Guardians are advised to write in via email to your child/ward’s Form Teacher in advance where possible.  Do note that family holidays during school days will not be considered a valid reason.</p>
+</ul>
+<p align="justify">The school will assess each application on a case-by-case basis. Parents/Guardians are advised to write in via email to your child/ward’s Form Teacher in advance where possible. Do note that family holidays during school days are not considered a valid reason.</p>
  </td></tr></tbody></table>
 
 
@@ -70,6 +69,7 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <p align="justify">
 </p><ul style="list-style-type: disc;"><li>Name tags should be on both uniform top and PE t-shirt.  </li><li>Students may wear the BTPS PE attire (BTPS t-shirt and PE shorts) if they have PE or PAL (P1 and P2 only) lessons for the day. </li>
 <li>The PE t-shirt is to be tucked into the bottom.</li>
+<li>Students will only change into CCA attire after school on CCA days. Specific instructions will be communicated to CCA members by their CCA teachers at the first CCA session of the year.</li>
 </ul><p></p>
 <b>3.2 General Appearance</b>
 <ul><li><p align="justify">Fingernails must be kept short and clean, and not be coloured.</p></li>
@@ -125,10 +125,12 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li><p align="justify">All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others. </p></li></ul>
 <h5>5.	Respect for the environment</h5>
 <ul style="list-style-type: disc;">
-<li><p align="justify">Students are to maintain a clean and hygienic classroom environment. </p></li>
+<li><p align="justify">Students are to ensure a clean and conducive environment by cleaning up after themselves and picking up any litter around them.</p></li>
+<li><p align="justify">Students are to maintain a clean and hygienic classroom environment.</p></li>
 <li><p align="justify">Assigned classroom cleaning duties are to be completed daily.</p></li>
 <li><p align="justify">Students are to return their crockery and utensils to the respective receptacles after eating in the school canteen.</p></li>
-<li><p align="justify">Students are to ensure that they do not deliberately or accidentally tamper with or damage school or public property. Any act of vandalism whether deliberate or accidental will be considered a major offence. </p></li></ul>
+<li><p align="justify">Students are to ensure that they do not deliberately or accidentally tamper with or damage school or public property. Any act of vandalism whether deliberate or accidental will be considered a major offence.</p></li>
+</ul>
 <h5>6.	Learning Behaviours</h5>
 <ul style="list-style-type: disc;">
 <li><p align="justify">Students are expected to be ready for lessons/activity/CCA by ensuring that they have the necessary materials, stationery, attire and/or equipment.</p></li>
@@ -140,9 +142,14 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <h5>7. Use of Technology including mobile phones</h5>
 <ul style="list-style-type: disc;">
 <li><p align="justify">Use of technology in the classroom should only take place under the supervision of a teacher/school staff. The use should be limited to the purpose of the lesson activity. </p></li>
-<li><p align="justify">Students may only use their mobile devices and smart watches for the purpose of contacting their parents/guardians after classes, CCAs or other school activities. The device may only be used at the waiting area near the security post at dismissal or with teacher’s permission and supervision in other parts of the school.</p></li>
-<li><p align="justify">At all other times, the phone must be switched off and not be visible. Mobile devices will be confiscated if they are spotted by any school staff regardless of whether they are in use.</p></li>
-<li><p align="justify">Mobile devices including smart watches are to be submitted to the school during national examinations and to be left in the school bags away from the student during any other assessment. Any devices spotted on or around the student during assessment will be confiscated and considered a cheating attempt. (Refer to examination conduct and behaviour for details)</p></li></ul>
+<li><p align="justify">Students are not to use smartphones and/or smartwatches, during school hours including recess, CCA and after-school programmes.</p></li>
+<li><p align="justify">Students who bring such devices are to put them in lockers or their school bags before school start time. They can retrieve the devices after school ends. Students should bear responsibility for safekeeping of devices.</p></li>
+<li><p align="justify">Mobile devices will be confiscated if they are spotted by any school staff regardless of whether they are in use.
+
+Mobile devices including smart watches are to be submitted to the school during national examinations and to be left in the school bags away from the student during any other assessment. Any devices spotted on or around the student during assessment will be confiscated and considered a cheating attempt. (Refer to examination conduct and behaviour for details)</p></li>
+<li>Students may only use their mobile devices and smart watches for the purpose of contacting their parents/guardians after classes, CCAs or other school activities. The device may only be used at the waiting area near the security post at dismissal or with teacher’s permission and supervision in other parts of the school.</li>
+
+</ul>
 <h5>8.	Other Major Offences</h5>
 <ul style="list-style-type: disc;">
 <li><p align="justify">The school takes a serious view of the following acts which are considered major offences regardless of whether they take place in school or outside of school.</p></li>
@@ -237,6 +244,6 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <li>External suspension from school</li>
 <li>Caning</li>
 <li>Expulsion from school</li>
-<li>Police report and investigation and/or assistance from other external agencies including Health Science Authority (HSA) for smoking/vaping and other tobacco-related offences. The school may escalate the matter to the police and other relevant authorities where necessary for any major offence. </li>
-<li>	Students will be supported to learn the right behaviour by their teachers, the school counsellor, SMC, SDT and/or SLs who will work with the students. </li>
-<p align="justify">All students are expected to know and abide by the school rules. They are expected to remind their peers to do the same and report any violation of school rules to their teachers or a school staff. They are not to take matters into their own hands and can speak to a trusted adult when they need support. </p></ul>
+<li>Police report and investigation and/or assistance from other external agencies including Health Science Authority (HSA) for smoking/vaping and other tobacco-related offences. The school may escalate the matter to the police and other relevant authorities where necessary for any major offence.</li>
+<li>Students will be supported to learn the right behaviour by their teachers, the school counsellor, school management team and school leaders. All students are expected to know and abide by the school rules. They are expected to remind their peers to do the same and report any violation of school rules to their teachers or a school staff. They are not to take matters into their own hands and can speak to a trusted adult when they need support.</li>
+</ul>
