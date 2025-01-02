@@ -20,7 +20,7 @@ variant: markdown
  </tr>
 <tr>
 <td style="border:2px; background-color:#ffffff; text-align: center;"><img style="width: 100px;" height="auto" alt="" src="/images/Staff%20Photos/Mrs_Shirlyn_Seah.png"><strong>Mrs Shirlyn Seah
-</strong></td><td style="border:2px ; background-color:#ffffff;; text-align: center;"><img style="width: 100px;" height="auto" alt="" src="/images/Staff Photos/vp_mdm_jan.png"><strong>Mdm Jan
+</strong></td><td style="border:2px ; background-color:#ffffff;; text-align: center;"><img style="width: 100px;" height="auto" alt="" src="/images/Staff Photos/vp_mdm_jan.png"><strong>Mdm Jan Lin
 </strong>
  </td></tr>
 <tr>
