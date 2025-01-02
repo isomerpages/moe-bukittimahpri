@@ -2,18 +2,21 @@
 title: Principal's Message
 permalink: /school-info/principals-message/
 description: ""
+variant: markdown
 ---
-From the Principal
+**From the Principal**
 
-I am honoured to be a part of a school that espouses a holistic educational experience for every student, recognises their individuality and yet emphasizes the community. I believe that education is about learning experiences, not just in the classroom but in every aspect of school life. Students learn best when school can provide a range of varied experiences for them to try, test out and reflect. Post-pandemic, I hope to work with the staff of Bukit Timah Primary School to continue providing exciting and enriching learning experiences for all.
+In every school, a new Principal often talks about his/her vision for the school. I believe that the vision is not mine alone but one that is owned by all the stakeholders. I have taken two years at BTPS to get to know the school, its people, their dreams, hopes and aspirations. I am now ready to articulate and talk about the school vision that I share and own with my staff and eventually one that all our stakeholders will own.
 
-As an educator of more than 20 years’ experience, I have worked with a diverse student and staff profile. I started out as a secondary English Language and Business Studies teacher and thoroughly enjoyed this time supporting students’ academic learning and character growth. I helmed portfolios ranging from English Language to Innovation and Enterprise, and finally to Business Studies before embarking on school leadership.
+Students are at the centre of all that we do in school. Hence, we at BTPS have decided on a vision focused on students. We believe that after six years in the school, every BTPS student will be **An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.** Our students should not just produce quantifiable results but would become **Adaptive Learners** grounded in values, and equipped in competencies that make them resilient, flexible and open-minded. They will take ownership of their learning and personal development by being reflective, analytical and creative when facing challenges. 
 
-As a Principal, I led East View Secondary School for 8 years before leaving for postgraduate studies at Teachers College, Columbia University. My experience as a secondary school leader strengthened my belief in education as a social leveller and that schools and teachers are critical in supporting young people as they grow, explore and define their identities and roles in the community. My postgraduate studies focused on supporting diversity in education, reading and the social impact of education. 
+A BTPS student who is an **Empathetic Leader** will be one who leads self to make positive impact on others. This means that BTPS students should act with integrity, make responsible decisions and work collaboratively with others. As an individual of good character, the BTPS student will be able to listen actively and be aware of the impact of his/her words and actions on others. We hope that every BTPS student will embrace the diversity in our midst and work towards win-win solutions that positively impact their peers, school and community.
 
-Upon returning from studies, I led Telok Kurau Primary School. This was my first stint working with younger students and I was amazed by their joy and eagerness to learn and experience school life, even with the pandemic restrictions. The experience taught me much about communicating with a younger student profile and I valued every interaction with them.
+A **Future-Ready Citizen** would be one with the courage to learn, unlearn and relearn and the passion to pursue lifelong learning. Our BTPS students should grow into respectful communicators and active participants, contributing to the betterment of the community and Singapore.
 
-As I start my time in BTPS, I hope to get to know students, staff, parents and other stakeholders progressively over the year, so that I can understand the school culture and value-add as the school grows. In 2023, we look forward to the completion of the Indoor Sports Hall so that our students can have more space for their games and activities. Having celebrated the school’s 20th anniversary in 2022, BTPS also looks forward to strategizing for the future so that we continue to be “A school that fuels the hearts and minds to be future-ready”.
+There is no magic wand to wave to achieve all these. It will take years of planning, talking, trying out and failing, before we are aligned and seeing outcomes. Our BTPS students are already amazing. They are articulate, knowledgeable and have a love of life and learning. But as a school our role is to leverage these qualities and stetch them further, so we craft our programmes and activities and even the conversations in school to promote the qualities and competencies we want to see develop in their six years at BTPS. We want to achieve these goals intentionally and to do so, our mission is to **create a vibrant learning environment that values diversity and builds community through shared values, collaboration and innovation**.
 
-Ms Lau Wan Sze <br>
-Principal BTPS
+In the next few years, we will continue to hear our students, and other stakeholders, to unpack the different elements of our mission and vision, and even our revised values (Adaptability, Empathy, Integrity, Resilience, Respect and Responsibility). We want to spell out what these terms mean for a primary school student and how as a school, we can make it happen, through everything we plan, do and celebrate. We know this is only the beginning and we have a long way to go, and we invite you to join us to learn more about ourselves, what we value and what we want to see become reality in Bukit Timah Primary School.
+
+Ms Lau Wan Sze<br>
+2 January 2025
