@@ -5,11 +5,6 @@ description: ""
 third_nav_title: Information for Parents
 variant: markdown
 ---
-### SCHOOL CIRCULAR
-
-
-
-
 ### DSA Talk
 [DSA Talk](/files/2024/DSA_Talk_2024.pdf)
 
