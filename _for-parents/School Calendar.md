@@ -5,5 +5,5 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>School Calendar</strong><br></h4>
-<p>Click [<a href="https://outlook.office365.com/calendar/published/c5c842578e5342ee9a7174996621de50@schools.gov.sg/ba0d699fd7754e3394b2eb9dcbdb0fee4878139603796308745/calendar.html" rel="noopener nofollow" target="_blank">here</a>]
+<p>Click [<a href="https://outlook.office365.com/owa/calendar/c5c842578e5342ee9a7174996621de50@schools.gov.sg/fd9729522aea44cc8985593653ccab7211572886319908270953/calendar.html" rel="noopener nofollow" target="_blank">here</a>]
 for more details</p>
