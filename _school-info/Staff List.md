@@ -877,7 +877,7 @@ Mr Muhammad Faizal
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1"><br><img style="width:100px; border:3px solid #000000" height="auto" src="/images/Staff%20Photos/male.png">
+<td rowspan="4" colspan="1"><br><img style="width:100px; border:3px solid #000000" height="auto" src="/images/Staff%20Photos/OSO_.png">
 </td>
 <td rowspan="1" colspan="4">
 
