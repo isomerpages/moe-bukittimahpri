@@ -30,43 +30,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1_Adaptability</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Wang Lu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>350</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">
-</a></p></td></tr></tbody><tbody>
-<tr>
-<td rowspan="1" colspan="4">
-<p><strong>TEACHING STAFF</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1" width="119">
-<p><strong>CLASS</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1" width="250">
-<p><strong>NAME</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1" width="108">
-<p><strong>EXTENSION</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1" width="279">
-<p><strong>EMAIL ADDRESS</strong>
-</p>
-</td>
-</tr>
+
 <tr>
 <td rowspan="1" colspan="1">
 <p>1_Adaptability</p>
@@ -79,10 +43,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wang_lu_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_lu_a@schools.gov.sg</a></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">href="mailto:wang_lu_a@schools.gov.sg"&gt;wang_lu_a@schools.gov.sg<p></p>
 </td>
 </tr>
 <tr>
