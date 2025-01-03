@@ -41,7 +41,48 @@ variant: markdown
 <p>350</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">
+</a></p></td></tr></tbody><tbody>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>TEACHING STAFF</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" width="119">
+<p><strong>CLASS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1" width="250">
+<p><strong>NAME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1" width="108">
+<p><strong>EXTENSION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1" width="279">
+<p><strong>EMAIL ADDRESS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1_Adaptability</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wang Lu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>350</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:wang_lu_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_lu_a@schools.gov.sg</a></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">href="mailto:wang_lu_a@schools.gov.sg"&gt;wang_lu_a@schools.gov.sg<p></p>
 </td>
 </tr>
 <tr>
@@ -727,6 +768,215 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:r_rajamohan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">r_rajamohan@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+
+</tbody></table><table>
+<tbody><tr><td rowspan="1" colspan="1"><p>&nbsp;</p></td><td rowspan="1" colspan="1"><p>&nbsp;</p></td></tr><tr><td rowspan="1" colspan="2"><strong>SCHOOL ADMIN TEAM</strong></td></tr>
+<tr>
+<td rowspan="4" colspan="1"><img style="width: 100px;" height="auto" alt="" src="/images/Staff%20Photos/ae_mr_azhari.png"></td><td rowspan="1" colspan="4">
+Mr Abdul Azhari Bin Sapari</td></tr>
+<tr><td><strong>Admin Executive</strong></td></tr>
+<tr><td>Extension: 103</td></tr>
+<tr><td><a href="mailto:abdul_azahri_sapari_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_azahri_sapari_a@schools.gov.sg</a>
+</td></tr>
+<tr>
+<td rowspan="4" colspan="1"><br><img style="width:100px; border:3px solid #000000" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20marlina%20mohd%20nor.jpg">
+</td>
+<td rowspan="1" colspan="4">
+Mdm Marlina Bte Mohd Nor
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<strong>MSO</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+Extension: 102
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<a href="mailto:marlina_mohd_nor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">marlina_mohd_nor@schools.gov.sg</a>
+
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<br><img style="width:100px; border:3px solid #000000" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20nor%20junedah%20binte%20salim.jpg">
+</td>
+<td rowspan="1" colspan="4">
+Mdm Nor Junedah Binte Salim
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<strong>MSO</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+Extension: 810
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<a href="mailto:nor_junedah_salim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nor_junedah_salim@schools.gov.sg</a>
+
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1"><br><img style="width:100px; border:3px solid #000000" height="auto" src="/images/Staff%20Photos/MSO_Mdm_Amelia_Lim.png">
+</td>
+<td rowspan="1" colspan="4">
+Mdm Amelia Lim Aik Kun
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<strong>MSO</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+Extension: 802
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<a href="mailto:lim_aik_kun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_aik_kun@schools.gov.sg</a>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<br><img style="width:100px; border:3px solid #000000" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20chor%20yoon%20moy.jpg">
+</td>
+<td rowspan="1" colspan="4">
+
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+Mdm Chor Yoon Moy
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<strong>OSO</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+</td>
+</tr>
+
+<tr>
+<td rowspan="4" colspan="1">
+<br><img style="width:100px; border:3px solid #000000" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20halela%20bte%20mawardi.jpg">
+</td>
+<td rowspan="1" colspan="4">
+
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+Mdm Halela Bte Mawardi
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<strong>OSO</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+</td>
+</tr>
+
+<tr>
+<td rowspan="4" colspan="1"><br><img style="width:100px; border:3px solid #000000" height="auto" src="/images/Staff%20Photos/Mr_Faizal.jpg">
+</td>
+<td rowspan="1" colspan="4">
+
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+Mr Muhammad Faizal
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<strong>OSO</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1"><br><img style="width:100px; border:3px solid #000000" height="auto" src="/images/Staff%20Photos/male.png">
+</td>
+<td rowspan="1" colspan="4">
+
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+Mr Ahmad Azmi Abdullah
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<strong>OSO</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1"><br><img style="width:100px; border:3px solid #000000" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mr%20saufiq.jpg">
+</td>
+<td rowspan="1" colspan="4">
+
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+Mr Saufiq
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<strong>Desktop Engineer</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1"><br><img style="width:100px; border:3px solid #000000" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20irene%20chionh.jpg">
+</td>
+<td rowspan="1" colspan="4">
+
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+Mdm Irene Chioh
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<strong>Library Assistant</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
 </td>
 </tr>
 </tbody>
