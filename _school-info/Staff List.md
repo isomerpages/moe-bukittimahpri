@@ -285,7 +285,7 @@ variant: markdown
 <tr>
   <td rowspan="1" colspan="1"><p>2_Respect</p></td>
   <td rowspan="1" colspan="1"><p>Mdm Rozana Bte Hashim</p></td>
-<td rowspan="1" colspan="1"><p>338</p></td>
+<td rowspan="1" colspan="1"><p>337</p></td>
 <td rowspan="1" colspan="1"><p><a href="mailto:rozana_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rozana_hashim@schools.gov.sg</a></p></td>
 </tr>
 <tr>
@@ -413,7 +413,7 @@ variant: markdown
 <tr>
   <td rowspan="1" colspan="1"><p>4_Adaptability</p></td>
 <td rowspan="1" colspan="1"><p>Mr Daanish</p></td>
-<td rowspan="1" colspan="1"><p>337</p></td>
+<td rowspan="1" colspan="1"><p>338</p></td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamed_daanishshah_noordin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_daanishshah_noordin@schools.gov.sg</a></p>
 </td>
