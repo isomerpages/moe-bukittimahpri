@@ -38,7 +38,7 @@ sections:
       id: infopic
       button: Click Here
       url: https://www.instagram.com/bukit.timah.primary.school
-      image: /images/join-btps-on-ig-now.jpg
+      image: /images/BTPS_1G_2025.jpg
       alt: Join BTPS on IG now.
   - resources:
       title: Announcements
