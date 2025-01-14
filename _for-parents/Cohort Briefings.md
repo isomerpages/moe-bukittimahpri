@@ -4,6 +4,18 @@ permalink: /info-for-parents/cohort-briefing/
 description: ""
 variant: markdown
 ---
+<h3>Cohort Briefings for Year 2025</h3>
+
+##### P2 Level Briefing
+
+1. [MTPS-2025-P2-School-Leader-Sharing](/files/2025/01_MTPS_2025_P2_SL.pdf)
+2. [MTPS-2025-P2-Year-Head-Sharing](/files/2025/02_MTPS_2025_P2_YH.pdf)
+3. [MTPS-2025-P2-Learning-Dispositions](/files/2025/03_MTPS_2025_P2_Learning_Dispositions.pdf)
+4. [MTPS-2025-P2-Literacy](/files/2025/04_MTPS_2025_P2_Digital_Literacy.pdf)
+
+
+
+
 <h3>Cohort Briefings for Year 2024</h3>
 
 ##### Briefing on SBB
