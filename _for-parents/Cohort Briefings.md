@@ -13,6 +13,15 @@ variant: markdown
 3. [MTPS-2025-P2-Learning-Dispositions](/files/2025/03_MTPS_2025_P2_Learning_Dispositions.pdf)
 4. [MTPS-2025-P2-Digital-Literacy](/files/2025/04_MTPS_2025_P2_Digital_Literacy.pdf)
 
+##### P5 Level Briefing
+
+1. [P5_2025_MTPS-Principal-Sharing](/files/2025/01_P5_2025_MTPS_P.pdf)
+2. [P5_2025_MTPS-Year-Head-Sharing](/files/2025/01_P5_2025_MTPS_YH.pdf)
+3. [P5-2025-MTPS-Sexuality-Education](/files/2025/03_P5_2025_MTPS_Sexuality_Education.pdf) 
+4. [P5_2025_MTPS_English-Language](/files/2025/04_P5_2025_MTPS_English.pdf)
+5. [P5_2025_MTPS_Science](/files/2025/05_P5_2025_MTPS_Science.pdf)
+6. [P5_2025_MTPS_MTL](/files/2025/06_P5_2025_MTPS_MTL.pdf)
+7. [P5_2025_MTPS_Math](/files/2025/07_P5_2025_MTPS_Math.pdf)
 
 
 
@@ -21,17 +30,6 @@ variant: markdown
 ##### Briefing on SBB
 [Briefing on SBB - 28 Oct](/files/2024/Briefing_on_SBB___28_Oct.pdf)
 
-##### P2 Level Briefing
-
-1) [P2-2024-MTPS-Principal-Sharing](/files/2024/P2_2024_MTPS_Principal_Sharing.pdf)
-
-2) [P2-2024-MTPS-Year Head-Sharing](/files/2024/P2_2024_MTPS_Year_Head_Sharing.pdf)
-
-3) [P2-2024-MTPS-English-Sharing](/files/2024/P2_2024_MTPS_English_Sharing.pdf)
-
-4) [P2-2024-MTPS-Math-Sharing](/files/2024/P2_2024_MTPS_Math_Sharing.pdf)
-
-5) [P2-2024-MTPS-MT-Sharing](/files/2024/P2_2024_MTPS_MT_Sharing.pdf)
 
 ##### P3 Level Briefing
 
@@ -56,18 +54,6 @@ variant: markdown
  
 5) [P4-2024-MTPS-Science-Sharing](/files/2024/P4_2024_MTPS_Science_Sharing.pdf)
 
-##### P5 Level Briefing
-1) [P5-2024-MTPS-Principal-Year-Head-Sharing](/files/2024/P5_2024_MTPS_Principal___Year_Head_Sharing.pdf)
- 
-2) [P5-2024-MTPS-English-Language-Sharing](/files/2024/P5_2024_MTPS_English_Sharing.pdf)
- 
-3) [P5-2024-MTPS-Math-Sharing](/files/2024/P5_2024_MTPS_Math_Sharing.pdf)
- 
-4) [P5-2024-MTPS-MTL-Sharing](/files/2024/P5_2024_MTPS_MT_Sharing.pdf)
- 
-5) [P5-2024-MTPS-Science-Sharing](/files/2024/P5_2024_MTPS_Science_Sharing.pdf)
-
-6) [P5-2024-MTPS-Sexuality_Education_Sharing](/files/2024/P5_2024_MTPS_Sexuality_Education_Sharing.pdf)
 
 ##### P6 Level Briefing
 1) [P6-2024-MTPS-Principal-Year-Head-Sharing](/files/2024/P6_2024_MTPS_Principal___Year_Head_Sharing.pdf)
