@@ -23,7 +23,12 @@ variant: markdown
 6. [P5_2025_MTPS_MTL](/files/2025/06_P5_2025_MTPS_MTL.pdf)
 7. [P5_2025_MTPS_Math](/files/2025/07_P5_2025_MTPS_Math.pdf)
 
+##### P6 Level Briefing
 
+1. [MTPS_2025_P6-School-Leader-Sharing](/files/2025/01_MTPS_2025_P6_SL.pdf)
+2. [MTPS_2025_P6-Year-Head-Sharing](/files/2025/02_MTPS_2025_P6_YH.pdf)
+3. [MTPS_2025_P6-English-Language](/files/2025/03_MTPS_2025_P6_English.pdf)
+4. [MTPS_2025_P6-Academic_Support](/files/2025/04_MTPS_2025_P6_Academic_Support.pdf)
 
 <h3>Cohort Briefings for Year 2024</h3>
 
@@ -54,14 +59,3 @@ variant: markdown
  
 5) [P4-2024-MTPS-Science-Sharing](/files/2024/P4_2024_MTPS_Science_Sharing.pdf)
 
-
-##### P6 Level Briefing
-1) [P6-2024-MTPS-Principal-Year-Head-Sharing](/files/2024/P6_2024_MTPS_Principal___Year_Head_Sharing.pdf)
- 
-2) [P6-2024-MTPS-English-Language-Sharing](/files/2024/P6_2024_MTPS_English_Sharing.pdf)
- 
-3) [P6-2024-MTPS-Math-Sharing](/files/2024/P6_2024_MTPS_Math_Sharing.pdf)
- 
-4) [P6-2024-MTPS-MTL-Sharing](/files/2024/P6_2024_MTPS_MT_Sharing.pdf)
- 
-5) [P6-2024-MTPS-Science-Sharing](/files/2024/P4_2024_MTPS_Science_Sharing.pdf)
