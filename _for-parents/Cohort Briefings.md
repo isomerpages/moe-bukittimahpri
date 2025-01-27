@@ -54,4 +54,3 @@ variant: markdown
 4) [P3-2024-MTPS-MTL-Sharing](/files/2024/P3_2024_MTPS_MT_Sharing.pdf)
 
 5) [P3-2024-MTPS-Science-Sharing](/files/2024/P3_2024_MTPS_Science_Sharing.pdf)
-
