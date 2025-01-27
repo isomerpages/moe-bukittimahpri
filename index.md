@@ -17,10 +17,10 @@ sections:
           url: /quick-links/
       variant: image
   - infobar:
-      title: what our teachers and students love about our school!
+      title: What our teachers and students love about our school!
       subtitle: Learn more about
       id: infobar
-      button: Click Here
+      button: Watch our School video here!
       url: https://www.youtube.com/watch?v=yf1Jqw4ksbw
   - infopic:
       title: Instagram
