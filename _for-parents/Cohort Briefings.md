@@ -13,6 +13,13 @@ variant: markdown
 3. [MTPS-2025-P2-Learning-Dispositions](/files/2025/03_MTPS_2025_P2_Learning_Dispositions.pdf)
 4. [MTPS-2025-P2-Digital-Literacy](/files/2025/04_MTPS_2025_P2_Digital_Literacy.pdf)
 
+##### P3 Level Briefing
+1. [P3_MTPS-2025-School-Leader-Sharing](/files/2025/01_P3_MTPS_2025_P.pdf)
+2. [P3_MTPS-2025-Year-Head-Sharing](/files/2025/02_P3_MTPS_2025_YH.pdf)
+3. [P3_MTPS-2025-Assessment-Sharing](/files/2025/03_P3_MTPS_2025_Assessment.pdf)
+4. [P3_MTPS-2025-Science-Sharing](/files/2025/04_P3_MTPS_2025_Science.pdf)
+5. [P3_MTPS-2025-CCA-Sharing](/files/2025/05_P3_MTPS_2025_CCA.pdf)
+
 ##### P4 Level Briefing
 
 1. [P4_2025_MTPS-School-Leader-Sharing](/files/2025/01_P4_2025_MTPS_SL.pdf)
