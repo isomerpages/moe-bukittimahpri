@@ -50,14 +50,3 @@ variant: markdown
 [Briefing on SBB - 28 Oct](/files/2024/Briefing_on_SBB___28_Oct.pdf)
 
 
-##### P3 Level Briefing
-
-1) [P3-2024-MTPS-Principal-Year-Head-Sharing](/files/2024/P3_2024_MTPS_Principal___Year_Head_Sharing.pdf)
-
-2) [P3-2024-MTPS-EL-Sharing](/files/2024/P3_2024_MTPS_EL_Sharing.pdf)
-
-3) [P3-2024-MTPS-Math-Sharing](/files/2024/P3_2024_MTPS_Math_Sharing.pdf)
-
-4) [P3-2024-MTPS-MTL-Sharing](/files/2024/P3_2024_MTPS_MT_Sharing.pdf)
-
-5) [P3-2024-MTPS-Science-Sharing](/files/2024/P3_2024_MTPS_Science_Sharing.pdf)
