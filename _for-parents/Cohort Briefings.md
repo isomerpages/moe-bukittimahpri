@@ -48,5 +48,3 @@ variant: markdown
 
 ##### Briefing on SBB
 [Briefing on SBB - 28 Oct](/files/2024/Briefing_on_SBB___28_Oct.pdf)
-
-
