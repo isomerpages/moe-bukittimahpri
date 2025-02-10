@@ -13,6 +13,13 @@ variant: markdown
 3. [MTPS-2025-P2-Learning-Dispositions](/files/2025/03_MTPS_2025_P2_Learning_Dispositions.pdf)
 4. [MTPS-2025-P2-Digital-Literacy](/files/2025/04_MTPS_2025_P2_Digital_Literacy.pdf)
 
+##### P3 Level Briefing
+1. [P3_MTPS-2025-School-Leader-Sharing](/files/2025/01_P3_MTPS_2025_P.pdf)
+2. [P3_MTPS-2025-Year-Head-Sharing](/files/2025/02_P3_MTPS_2025_YH.pdf)
+3. [P3_MTPS-2025-Assessment-Sharing](/files/2025/03_P3_MTPS_2025_Assessment.pdf)
+4. [P3_MTPS-2025-Science-Sharing](/files/2025/04_P3_MTPS_2025_Science.pdf)
+5. [P3_MTPS-2025-CCA-Sharing](/files/2025/05_P3_MTPS_2025_CCA.pdf)
+
 ##### P4 Level Briefing
 
 1. [P4_2025_MTPS-School-Leader-Sharing](/files/2025/01_P4_2025_MTPS_SL.pdf)
@@ -41,16 +48,3 @@ variant: markdown
 
 ##### Briefing on SBB
 [Briefing on SBB - 28 Oct](/files/2024/Briefing_on_SBB___28_Oct.pdf)
-
-
-##### P3 Level Briefing
-
-1) [P3-2024-MTPS-Principal-Year-Head-Sharing](/files/2024/P3_2024_MTPS_Principal___Year_Head_Sharing.pdf)
-
-2) [P3-2024-MTPS-EL-Sharing](/files/2024/P3_2024_MTPS_EL_Sharing.pdf)
-
-3) [P3-2024-MTPS-Math-Sharing](/files/2024/P3_2024_MTPS_Math_Sharing.pdf)
-
-4) [P3-2024-MTPS-MTL-Sharing](/files/2024/P3_2024_MTPS_MT_Sharing.pdf)
-
-5) [P3-2024-MTPS-Science-Sharing](/files/2024/P3_2024_MTPS_Science_Sharing.pdf)
