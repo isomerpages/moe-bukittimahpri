@@ -166,8 +166,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
   <p>Mrs Mellissa Khoo</p>
 </td>
-<td rowspan="1" colspan="1"><p>325</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:chan_yu_fang_mellissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_yu_fang_mellissa@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -176,40 +175,35 @@ variant: markdown
 <td rowspan="1" colspan="1">
   <p>Mdm Li Yiling</p>
 </td>
-<td rowspan="1" colspan="1"><p>353</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:li_yiling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_yiling@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
   <td rowspan="1" colspan="1"><p>2_Adaptability</p></td>
 <td rowspan="1" colspan="1"> <p>Mrs Yvonne Kwan</p></td>
-<td rowspan="1" colspan="1"><p>333</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:yvonne_tan_bee_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yvonne_tan_bee_leng@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
   <td rowspan="1" colspan="1"><p>2_Empathy</p></td>
   <td rowspan="1" colspan="1"><p>Mdm Du Ying</p></td>
-<td rowspan="1" colspan="1"><p>352</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:du_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">du_ying@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
   <td rowspan="1" colspan="1"><p>2_Empathy</p></td>
   <td rowspan="1" colspan="1"><p>Mrs Goh Khai Gin</p></td>
-<td rowspan="1" colspan="1"><p>328</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:chan_khai_gin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_khai_gin@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
   <td rowspan="1" colspan="1"><p>2_Integrity</p></td>
   <td rowspan="1" colspan="1"><p>Ms Edina Yong</p></td>
-<td rowspan="1" colspan="1"><p>346</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>
   <a href="mailto:edina_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">edina_yong@schools.gov.sg</a></p>
 </td>
@@ -217,84 +211,73 @@ variant: markdown
 <tr>
   <td rowspan="1" colspan="1"><p>2_Integrity</p></td>
   <td rowspan="1" colspan="1"><p>Mdm Chng Ling Ling</p></td>
-<td rowspan="1" colspan="1"><p>368</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:chng_ling_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_ling_ling@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
   <td rowspan="1" colspan="1"><p>2_Integrity</p></td>
   <td rowspan="1" colspan="1"><p>Mdm Evelyn Nah Bee Har</p></td>
-<td rowspan="1" colspan="1"><p>329</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:nah_bee_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nah_bee_har@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
   <td rowspan="1" colspan="1"><p>2_Resilience</p></td>
   <td rowspan="1" colspan="1"><p>Mdm Tee Xin Yi</p></td>
-<td rowspan="1" colspan="1"><p>356</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:tee_xinyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tee_xinyi@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
   <td rowspan="1" colspan="1"><p>2_Resilience</p></td>
   <td rowspan="1" colspan="1"><p>Miss Teresa Chai</p></td>
-<td rowspan="1" colspan="1"><p>336</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:chai_siew_lan_teresa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chai_siew_lan_teresa@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
   <td rowspan="1" colspan="1"><p>2_Resilience</p></td>
   <td rowspan="1" colspan="1"><p>Mrs Iman - Akidah</p></td>
-<td rowspan="1" colspan="1"><p>326</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:shahidatul_akidah_mohd_suaidi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahidatul_akidah_mohd_suaidi@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
   <td rowspan="1" colspan="1"><p>2_Respect</p></td>
   <td rowspan="1" colspan="1"><p>Mr Ong Wei Ming Ernest</p></td>
-<td rowspan="1" colspan="1"><p>369</p></td>
-<td rowspan="1" colspan="1"><p><a href="mailto:ong_wei_ming_ernest@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wei_ming_ernest@schools.gov.sg</a></p></td>
+<td rowspan="1" colspan="2"><p><a href="mailto:ong_wei_ming_ernest@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wei_ming_ernest@schools.gov.sg</a></p></td>
 </tr>
 <tr>
   <td rowspan="1" colspan="1"><p>2_Respect</p></td>
   <td rowspan="1" colspan="1"><p>Mdm Rozana Bte Hashim</p></td>
-<td rowspan="1" colspan="1"><p>337</p></td>
-<td rowspan="1" colspan="1"><p><a href="mailto:rozana_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rozana_hashim@schools.gov.sg</a></p></td>
+<td rowspan="1" colspan="2"><p><a href="mailto:rozana_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rozana_hashim@schools.gov.sg</a></p></td>
 </tr>
 <tr>
   <td rowspan="1" colspan="1"><p>2_Responsiblity</p></td>
   <td rowspan="1" colspan="1"><p>Mrs Joanne Hu</p></td>
-<td rowspan="1" colspan="1"><p>302</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p> <a href="mailto:lim_xue_mei_joanne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_xue_mei_joanne@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
   <td rowspan="1" colspan="1"><p>2_Responsiblity</p></td>
 <td rowspan="1" colspan="1"><p>Ms Foo Li Wei</p></td>
-<td rowspan="1" colspan="1"><p>309</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:foo_li_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_li_wei@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
   <td rowspan="1" colspan="1"><p>3_Adaptability</p></td>
 <td rowspan="1" colspan="1"> <p>Mr Chua Peng Swee</p></td>
-<td rowspan="1" colspan="1"><p>340</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>  <a href="mailto:chua_peng_swee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_peng_swee@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
   <td rowspan="1" colspan="1"><p>3_Adaptability</p></td>
 <td rowspan="1" colspan="1"><p>Mdm Mazlinah</p></td>
-<td rowspan="1" colspan="1"><p>305</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p> <a href="mailto:mazlinah_juhari_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mazlinah_juhari_a@schools.gov.sg</a></p>
 </td>
 </tr>
