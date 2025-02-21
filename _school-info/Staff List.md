@@ -21,11 +21,7 @@ variant: markdown
 <p><strong>NAME</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1" width="108">
-<p><strong>EXTENSION</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1" width="279">
+<td rowspan="1" colspan="2" width="279">
 <p><strong>EMAIL ADDRESS</strong>
 </p>
 </td>
@@ -38,10 +34,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mdm Wang Lu</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>350</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:wang_lu_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_lu_a@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -53,10 +46,7 @@ variant: markdown
 <p>Mdm  Idayu 
   (SH/SW)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>311</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:noor_idayu_sunator@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noor_idayu_sunator@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -67,10 +57,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mrs Kimberly Tan</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>327</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:koh_ai_yong_kimberly@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_ai_yong_kimberly@schools.gov.sg</a>
 </p>
 </td>
@@ -82,8 +69,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mr Ho Boon Huat (HOD/MTL)</p>
 </td>
-<td rowspan="1" colspan="1"><p>203</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:ho_boon_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_boon_huat@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -94,8 +80,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Ms Yvonne Tong</p>
 </td>
-<td rowspan="1" colspan="1"><p>345</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:tong_chee_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tong_chee_wai@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -106,8 +91,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mdm Sangitah</p>
 </td>
-<td rowspan="1" colspan="1"><p>370</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:sangitah_k_jayaseelan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sangitah_k_jayaseelan@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -118,8 +102,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mdm Suzanah Miswari</p>
 </td>
-<td rowspan="1" colspan="1"><p>348</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:suzanah_miswari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suzanah_miswari@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -130,8 +113,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mrs Lynette Lim (SH/Aesthetics)</p>
 </td>
-<td rowspan="1" colspan="1"><p>321</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:thia_hui_shan_lynette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thia_hui_shan_lynette@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -142,8 +124,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mrs Evelyn Lee</p>
 </td>
-<td rowspan="1" colspan="1"><p>335</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:evelyn_ang_gek_shia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evelyn_ang_gek_shia@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -154,8 +135,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Miss Neo Kai Lin</p>
 </td>
-<td rowspan="1" colspan="1"><p>366</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:neo_kai_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_kai_lin@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -166,8 +146,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Ms Wang Ling</p>
 </td>
-<td rowspan="1" colspan="1"><p>354</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:wang_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_ling@schools.gov.sg</a></p>
 </td>
 </tr>
@@ -178,8 +157,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mrs Raj-Lorshenni</p>
 </td>
-<td rowspan="1" colspan="1"><p>324</p></td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><a href="mailto:lorshenni_jaya_sanger@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lorshenni_jaya_sanger@schools.gov.sg</a></p>
 </td>
 </tr>
