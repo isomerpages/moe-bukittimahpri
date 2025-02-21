@@ -734,14 +734,13 @@ variant: markdown
 </tbody></table><table>
 <tbody><tr><td rowspan="1" colspan="1"><p>&nbsp;</p></td><td rowspan="1" colspan="1"><p>&nbsp;</p></td></tr><tr><td rowspan="1" colspan="2"><strong>SCHOOL ADMIN TEAM</strong></td></tr>
 <tr>
-<td rowspan="4" colspan="1"><img style="width: 100px;" height="auto" alt="" src="/images/Staff%20Photos/ae_mr_azhari.png"></td><td rowspan="1" colspan="4">
+<td rowspan="3" colspan="1"><img style="width: 100px;" height="auto" alt="" src="/images/Staff%20Photos/ae_mr_azhari.png"></td><td rowspan="1" colspan="4">
 Mr Abdul Azhari Bin Sapari</td></tr>
 <tr><td><strong>Admin Executive</strong></td></tr>
-<tr><td>Extension: 103</td></tr>
 <tr><td><a href="mailto:abdul_azahri_sapari_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_azahri_sapari_a@schools.gov.sg</a>
 </td></tr>
 <tr>
-<td rowspan="4" colspan="1"><br><img style="width:100px; border:3px solid #000000" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20marlina%20mohd%20nor.jpg">
+<td rowspan="3" colspan="1"><br><img style="width:100px; border:3px solid #000000" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20marlina%20mohd%20nor.jpg">
 </td>
 <td rowspan="1" colspan="4">
 Mdm Marlina Bte Mohd Nor
@@ -754,17 +753,12 @@ Mdm Marlina Bte Mohd Nor
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-Extension: 102
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
 <a href="mailto:marlina_mohd_nor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">marlina_mohd_nor@schools.gov.sg</a>
 
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <br><img style="width:100px; border:3px solid #000000" height="auto" src="/images/Staff%20Photos/Organisation%20Photos/mdm%20nor%20junedah%20binte%20salim.jpg">
 </td>
 <td rowspan="1" colspan="4">
@@ -778,17 +772,12 @@ Mdm Nor Junedah Binte Salim
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-Extension: 810
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
 <a href="mailto:nor_junedah_salim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nor_junedah_salim@schools.gov.sg</a>
 
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1"><br><img style="width:100px; border:3px solid #000000" height="auto" src="/images/Staff%20Photos/MSO_Mdm_Amelia_Lim.png">
+<td rowspan="3" colspan="1"><br><img style="width:100px; border:3px solid #000000" height="auto" src="/images/Staff%20Photos/MSO_Mdm_Amelia_Lim.png">
 </td>
 <td rowspan="1" colspan="4">
 Mdm Amelia Lim Aik Kun
@@ -797,11 +786,6 @@ Mdm Amelia Lim Aik Kun
 <tr>
 <td rowspan="1" colspan="4">
 <strong>MSO</strong>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
-Extension: 802
 </td>
 </tr>
 <tr>
