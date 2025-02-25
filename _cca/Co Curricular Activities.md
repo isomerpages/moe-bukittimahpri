@@ -116,7 +116,7 @@ An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
 <p>Dance-versity</p>
 </td>
 <td rowspan="1" colspan="2">
