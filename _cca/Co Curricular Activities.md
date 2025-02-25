@@ -50,8 +50,8 @@ An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
-<p>Badminton</p>
+<td rowspan="1" colspan="1">
+<p><strong>Badminton</strong></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Girls, Singles: Tier 4, Champion</p>
@@ -61,8 +61,8 @@ An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
-<p>Basketball</p>
+<td rowspan="1" colspan="1">
+<p><strong>Basketball</strong></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Boys: Pool Round</p>
@@ -72,8 +72,8 @@ An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
-<p>Football</p>
+<td rowspan="1" colspan="1">
+<p><strong>Football</strong></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Boys: Pool Round</p>
@@ -83,8 +83,8 @@ An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
-<p>Rugby</p>
+<td rowspan="1" colspan="1">
+<p><strong>Rugby</strong></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Boys: Tier 1, 2nd</p>
@@ -100,24 +100,24 @@ An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
-<p>Brass Symphonia</p>
+<td rowspan="1" colspan="1">
+<p><strong>Brass Symphonia</strong></p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Distinction</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
-<p>Choir</p>
+<td rowspan="1" colspan="1">
+<p><strong>Choir</strong></p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Distinction</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
-<p>Dance-versity</p>
+<td rowspan="1" colspan="1">
+<p><strong>Dance-versity</strong></p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Distinction</p>
@@ -130,8 +130,8 @@ An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
-<p>Scouts</p>
+<td rowspan="1" colspan="1">
+<p><strong>Scouts</strong></p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Akela Award (Highest Achievement for Junior Scout) – 2 students</p>
