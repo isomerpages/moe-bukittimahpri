@@ -133,7 +133,8 @@ An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 <p><strong>Scouts</strong></p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Akela Award (Highest Achievement for Junior Scout) – 2 students</p>
+<p>Akela Award (Highest Achievement for Junior Scout) <br>
+– 2 students</p>
 </td>
 </tr>
 </tbody>
