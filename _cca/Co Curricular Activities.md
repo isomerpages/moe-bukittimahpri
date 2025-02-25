@@ -37,35 +37,20 @@ An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 <br>
 <br>
 </p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>CCA</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>JUNIOR BOYS / GIRLS</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>SENIOR BOYS / GIRLS</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
+<table style="border:2px solid #0A0B30">
+<tbody><tr>
+<td style="border:2px solid #0A0B30; background-color:#99FFCC; width:30%"><strong>CCA</strong>
+</td><td style="border:2px solid #0A0B30; background-color:#99FFCC; text-align: center; width:35%"><strong>JUNIOR BOYS / GIRLS</strong>
+</td><td style="border:2px solid #0A0B30; background-color:#99FFCC; text-align: center; width:30%"><strong>SENIOR BOYS / GIRLS</strong>
+ </td></tr>
+
+<tr><td rowspan="1" colspan="3">
 <p><strong>National School Games (NSG)</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
 <p>Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,7 +61,7 @@ An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
 <p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +72,7 @@ An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
 <p>Football</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,7 +83,7 @@ An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
 <p>Rugby</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -115,7 +100,7 @@ An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
 <p>Brass Symphonia</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -123,7 +108,7 @@ An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -145,7 +130,7 @@ An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
 <p>Scouts</p>
 </td>
 <td rowspan="1" colspan="2">
