@@ -44,9 +44,8 @@ An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 </td><td style="border:2px solid #0A0B30; background-color:#99FFCC; text-align: center; width:30%"><strong>SENIOR BOYS / GIRLS</strong>
  </td></tr>
 
-<tr><td rowspan="1" colspan="3">
-<p><strong>National School Games (NSG)</strong>
-</p>
+<tr><td rowspan="1" colspan="3" style="border:2px solid #0A0B30;">
+<p><strong>National School Games (NSG)</strong></p>
 </td>
 </tr>
 <tr>
@@ -94,7 +93,7 @@ An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="3" style="border:2px solid #0A0B30;">
 <p><strong>Singapore Youth Festival (SYF) Arts Presentation</strong>
 </p>
 </td>
@@ -124,7 +123,7 @@ An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="3" style="border:2px solid #0A0B30;">
 <p><strong>Uniformed Groups / Clubs &amp; Societies</strong>
 </p>
 </td>
