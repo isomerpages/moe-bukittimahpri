@@ -1,10 +1,149 @@
 ---
 title: Co Curricular Activities
 permalink: /co-curricular-activities/
-variant: tiptap
+variant: markdown
 description: ""
 ---
-<h4>Summary of CCAs Offered in Bukit Timah Primary School<br>Click on the links below to find out more about our CCAs.<br></h4>
+<h4><strong>The BTPS CCA Experience</strong></h4>
+<p><strong>Fostering Experience, Exposure and Excellence</strong>
+<br>
+<br>At BTPS, CCA is about building character and learning values through the
+3Es of Experience, Exposure and Excellence.
+<br>
+<br><strong><u>Experience</u></strong>
+<br>Students participate in a variety of experiences during CCA, allowing
+them to explore and grow beyond the classroom. Through hands-on learning,
+they grow in resilience, teamwork and leadership. The BTPS student’s CCA
+journey starts at Primary Three with the CCA Fair, where students and their
+parents learn about the different CCAs in our school. Following this, students
+can experience up to three CCA of their choice during the CCA immersion
+experience, before finally selecting a CCA.
+<br>
+<br><strong><u>Exposure</u></strong>
+<br>By participating in school and community events, performances, and competitions,
+students are exposed to different cultures, disciplines, and perspectives.
+This broadens their horizons and builds their confidence.
+<br>
+<br><strong><u>Excellence</u></strong>
+<br>We encourage students to pursue their passions with dedication, aiming
+for personal growth and mastery in their chosen CCA. With the guidance
+of dedicated teachers, instructors and coaches, they strive for excellence
+in both individual and team achievements.
+<br>
+<br>CCA is more than just activities at BTPS. They are a journey towards becoming
+An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
+<br>
+<br><strong>2024 CCA ACHIEVEMENTS</strong>
+<br>
+<br>
+</p>
+<table style="border:2px solid #0A0B30">
+<tbody><tr>
+<td style="border:2px solid #0A0B30; background-color:#99FFCC; width:30%"><strong>CCA</strong>
+</td><td style="border:2px solid #0A0B30; background-color:#99FFCC; text-align: center; width:35%"><strong>JUNIOR BOYS / GIRLS</strong>
+</td><td style="border:2px solid #0A0B30; background-color:#99FFCC; text-align: center; width:30%"><strong>SENIOR BOYS / GIRLS</strong>
+ </td></tr>
+
+<tr><td rowspan="1" colspan="3">
+<p><strong>National School Games (NSG)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls, Singles: Tier 4, Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys: Pool Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys: Pool Round</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys: League 5, 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
+<p>Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys: Pool Round</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys: League 2 Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
+<p>Rugby</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys: Tier 1, 2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys: League 2, Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Singapore Youth Festival (SYF) Arts Presentation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
+<p>Brass Symphonia</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
+<p>Dance-versity</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Uniformed Groups / Clubs &amp; Societies</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="background-color:#FFF4A9;">
+<p>Scouts</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Akela Award (Highest Achievement for Junior Scout) – 2 students</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>Summary of CCAs Offered in Bukit Timah Primary School
+<br>Click on the links below to find out more about our CCAs.
+<br>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
