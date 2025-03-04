@@ -16,7 +16,10 @@ We believe that resilience and respect are fundamental values both on and off th
 •	2024: Junior Boys, Pool Round; Senior Boys League 5, 3rd Place
 
 
-![](/images/CCA/basketball24.jpg)
-![](/images/CCA/basketball24_2.jpg)
-![](/images/CCA/basketball24_4.jpg)
-![](/images/CCA/basketball24_3.jpg)
+![](/images/CCA/basketball24.jpg)<br>
+![](/images/CCA/25_basketball_01.png)<br>
+![](/images/CCA/25_basketball_02.png)<br>
+![](/images/CCA/25_basketball_03.png)<br>
+![](/images/CCA/25_basketball_04.png)<br>
+![](/images/CCA/basketball24_4.jpg)<br>
+![](/images/CCA/basketball24_3.jpg)<br>
