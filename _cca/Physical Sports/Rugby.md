@@ -24,4 +24,3 @@ Bukit Timah Primary School’s rugby team is known as Highlanders. As a team, we
 ![](/images/CCA/25_rugby_07.png) <br>
 ![](/images/CCA/25_rugby_08.png) <br>
 ![](/images/CCA/25_rugby_09.png) <br>
-
