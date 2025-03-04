@@ -8,8 +8,6 @@ third_nav_title: Physical Sports
 <h3>FOOTBALL</h3><p align="justify">
 Our Football CCA is named the BTPS Invictus Football Club. ‘Invictus’ means unconquered in Latin. While there is always a winner and a loser in football, we remind ourselves that we are winners when we are gracious, when we give our best and when we do not give up. For every game, every practice session, we live up to our motto to “Never Surrender”. </p>
 
-![](/images/CCA/football24_2.jpg)
-
 <p align="justify">
 We instill the values of discipline, commitment, sportsmanship and camaraderie during training. We focus on building up good character in the members and ensure that our selection for the school team takes into account character and values. </p>
 <p align="justify">
