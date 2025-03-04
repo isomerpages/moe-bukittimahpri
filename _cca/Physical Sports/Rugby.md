@@ -14,6 +14,13 @@ Bukit Timah Primary School’s rugby team is known as Highlanders. As a team, we
 •	2024: National School Games – Junior Division Tier 1, 2nd  Place
 
 
-![](/images/CCA/rugby24_3.jpg)
 
-<img style="width:90%" src="/images/School%20Photos/rugby.png">
+![](/images/CCA/25_rugby_02.png) <br>
+![](/images/CCA/25_rugby_03.png) <br>
+![](/images/CCA/25_rugby_04.png) <br>
+![](/images/CCA/25_rugby_05.png) <br>
+![](/images/CCA/25_rugby_01.png) <br>
+![](/images/CCA/25_rugby_06.png) <br>
+![](/images/CCA/25_rugby_07.png) <br>
+![](/images/CCA/25_rugby_08.png) <br>
+![](/images/CCA/25_rugby_09.png) <br>
