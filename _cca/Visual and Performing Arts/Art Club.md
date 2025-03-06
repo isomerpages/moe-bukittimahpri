@@ -20,4 +20,3 @@ We believe Art is about the journey and passion behind each creation, and we fos
 ![](/images/CCA/25_art_06.png)<br>
 ![](/images/CCA/25_art_07png)<br>
 ![](/images/CCA/25_art_08.png)<br>
-
