@@ -14,8 +14,12 @@ Scouts also have opportunities to take on leadership roles through positions suc
 <p align="justify">
 Through practical skill-building, we prepare our scouts for real-life situations. Service to others fosters a sense of pride and community contribution. Additionally, recreational sports and activities provide a fun way for scouts to bond, enjoy themselves, and create lasting memories with their peers.</p>
 
-<img src="/images/CCA/scouts24.jpg">
-2024 Cub Scouts Leadership Camp
+![](/images/CCA/25_scouts_02.png)<br>
+![](/images/CCA/25_scouts_01.png)<br>
+![](/images/CCA/25_scouts_03.png)<br>
+![](/images/CCA/25_scouts_04.png)<br>
+![](/images/CCA/25_scouts_05.png)<br>
+![](/images/CCA/25_scouts_06.png)<br>
+![](/images/CCA/25_scouts_07.png)<br>
+![](/images/CCA/25_scouts_08.png)<br>
 
-<img src="/images/CCA/scouts24_3.png"> 
-Tent pitching and Laser Tag
