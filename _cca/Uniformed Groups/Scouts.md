@@ -22,4 +22,3 @@ Through practical skill-building, we prepare our scouts for real-life situations
 ![](/images/CCA/25_scouts_06.png)<br>
 ![](/images/CCA/25_scouts_07.png)<br>
 ![](/images/CCA/25_scouts_08.png)<br>
-
