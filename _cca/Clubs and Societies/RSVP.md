@@ -13,8 +13,8 @@ Members of RSVP also lead and implement environmental projects both within the s
 <p align="justify">
 RSVP collaborates with Epson Industrial Pte Ltd, our corporate partner in environmental education, to learn about eco-friendly practices and initiate changes within our school. Through these programmes, we aim to develop student leaders who are passionate about protecting the environment and are motivated to make a positive impact.</p>
 
-![](/images/CCA/rsvp24.jpg)
-
-![](/images/CCA/rsvp24_3.jpg)
-
-![](/images/CCA/rsvp24_2.jpg)
+![](/images/CCA/rsvp24.jpg)<br>
+![](/images/CCA/25_RSVP_02.png)<br>
+![](/images/CCA/25_RSVP_01.png)<br>
+![](/images/CCA/25_RSVP_03.png)<br>
+![](/images/CCA/25_RSVP_04.png)<br>
