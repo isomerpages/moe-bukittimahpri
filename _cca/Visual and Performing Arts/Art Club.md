@@ -12,12 +12,11 @@ Our students' adventurous spirit leads them to exciting projects like The Counci
 <p align="justify">
 We believe Art is about the journey and passion behind each creation, and we foster a supportive environment where resilience and exploration shape the creative thinkers of tomorrow.</p>
 
-![](/images/CCA/art24_4.jpg)
-
-![](/images/CCA/art24_2.jpg)
-
-![](/images/CCA/art24_3.jpg)
-
-![](/images/CCA/art24.jpg)
-
-![](/images/CCA/art24_5.jpg)
+![](/images/CCA/25_art_01.png)<br>
+![](/images/CCA/25_art_02.png)<br>
+![](/images/CCA/25_art_03.png)<br>
+![](/images/CCA/25_art_04.png)<br>
+![](/images/CCA/25_art_05.png)<br>
+![](/images/CCA/25_art_06.png)<br>
+![](/images/CCA/25_art_07png)<br>
+![](/images/CCA/25_art_08.png)<br>

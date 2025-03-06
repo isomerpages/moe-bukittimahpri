@@ -15,6 +15,6 @@ The Drama Club not only cultivates talent but also instils important values, tea
 
 ![](/images/CCA/drama24_ccafair.jpg)
 
-![](/images/CCA/drama24_2.jpg)
+![](/images/CCA/25_drama_02.png)
 
 ![](/images/CCA/drama24_3.jpg)
