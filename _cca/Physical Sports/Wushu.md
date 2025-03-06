@@ -16,7 +16,5 @@ In Bukit Timah Primary School, we would like to students to develop physical coo
 ![](/images/CCA/wushu01.jpg)<br>
 ![](/images/CCA/25_wushu_04.png)<br>
 ![](/images/CCA/25_wushu_01.png)<br>
-![](/images/CCA/25_wushu_02.png)<br>
-![](/images/CCA/25_wushu_03.png)<br>
 ![](/images/CCA/25_wushu_05.png)<br>
 ![](/images/CCA/25_wushu_06.png)<br>
