@@ -4,6 +4,10 @@ permalink: /info-for-parents/cohort-briefing/
 description: ""
 variant: markdown
 ---
+##### DSA Talk 2025
+Click [DSA-Talk-2025](/files/2025/DSA_Talk_2025.pdf)- to download.
+
+
 <h3>Cohort Briefings for Year 2025</h3>
 
 ##### P2 Level Briefing
