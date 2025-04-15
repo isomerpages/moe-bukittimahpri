@@ -1,6 +1,6 @@
 ---
 title: Blended Learning
-permalink: /info-for-parents/blended-learning/
+permalink: /department/ict/blended-learning/
 description: ""
 variant: markdown
 third_nav_title: ICT
