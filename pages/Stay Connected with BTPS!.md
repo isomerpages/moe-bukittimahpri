@@ -4,10 +4,8 @@ permalink: /stay-connected-with-btps/
 variant: tiptap
 description: ""
 ---
-<p><strong>Stay Connected with BTPS!</strong>
-</p>
-<p>
-<br>We warmly invite all former students of BTPS to reconnect with the school
+<h3><strong>Stay Connected with BTPS!</strong></h3>
+<p>We warmly invite all former students of BTPS to reconnect with the school
 that helped shape your earliest years. As part of our growing alumni network,
 we hope that you can share your learning journey and contribute meaningfully
 to the school. Whether it is through mentoring current students, participating
@@ -20,6 +18,6 @@ the past and the future for future BTPS students.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stay_connected_with_BTPS_.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Stay_connected_with_BTPS_.jpg">
 </div>
 <p></p>
