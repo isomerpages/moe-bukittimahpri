@@ -24,15 +24,6 @@ sections:
       url: https://forms.moe.edu.sg/forms/eDy6EE
       image: /images/2025_BTPS_Open_House_poster.jpg
       alt: BTPS OPEN HOUSE
-  - infopic:
-      title: with BTPS!
-      subtitle: Stay Connected
-      id: infopic
-      button: Click Here
-      url: //stay-connected-with-btps/
-      image: /images/Stay_connected_with_BTPS_.jpg
-      alt: Stay connected with BTPS!
-      description: Stay connected with BTPS!
   - infobar:
       title: what our teachers and students love about our school!
       subtitle: Learn more about
@@ -47,6 +38,15 @@ sections:
       url: https://www.instagram.com/bukit.timah.primary.school
       image: /images/BTPS_1G_2025.jpg
       alt: Join BTPS on IG now.
+  - infopic:
+      title: with BTPS!
+      subtitle: Stay Connected
+      id: infopic
+      button: Click Here
+      url: //stay-connected-with-btps/
+      image: /images/Stay_connected_with_BTPS_.jpg
+      alt: Stay connected with BTPS!
+      description: Stay connected with BTPS!
   - resources:
       title: Announcements
       button: More Announcements
