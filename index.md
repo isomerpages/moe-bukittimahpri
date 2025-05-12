@@ -16,6 +16,20 @@ sections:
           description: ""
           url: /quick-links/
       variant: image
+  - infopic:
+      title: BTPS OPEN HOUSE
+      subtitle: To register for
+      id: infopic
+      button: click here
+      url: https://forms.moe.edu.sg/forms/eDy6EE
+      image: /images/2025_BTPS_Open_House.jpg
+  - infopic:
+      title: with BTPS!
+      subtitle: Stay Connected
+      id: infopic
+      button: Click Here
+      url: https://www.youtube.com/watch?v=yf1Jqw4ksbw
+      image: /images/Stay_connected_with_BTPS_.jpg
   - infobar:
       title: what our teachers and students love about our school!
       subtitle: Learn more about
