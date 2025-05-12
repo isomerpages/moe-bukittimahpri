@@ -28,7 +28,7 @@ sections:
       subtitle: Stay Connected
       id: infopic
       button: Click Here
-      url: https://www.youtube.com/watch?v=yf1Jqw4ksbw
+      url: https://bukittimahpri.moe.edu.sg/stay-connected-with-btps/
       image: /images/Stay_connected_with_BTPS_.jpg
   - infobar:
       title: what our teachers and students love about our school!
