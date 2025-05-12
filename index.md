@@ -23,6 +23,7 @@ sections:
       button: click here
       url: https://forms.moe.edu.sg/forms/eDy6EE
       image: /images/2025_BTPS_Open_House.jpg
+      alt: BTPS OPEN HOUSE
   - infopic:
       title: with BTPS!
       subtitle: Stay Connected
@@ -30,6 +31,8 @@ sections:
       button: Click Here
       url: https://bukittimahpri.moe.edu.sg/stay-connected-with-btps/
       image: /images/Stay_connected_with_BTPS_.jpg
+      alt: Stay connected with BTPS!
+      description: Stay connected with BTPS!
   - infobar:
       title: what our teachers and students love about our school!
       subtitle: Learn more about
