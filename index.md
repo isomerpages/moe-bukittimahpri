@@ -30,7 +30,7 @@ sections:
       id: infopic
       button: Click Here
       url: /stay-connected-with-btps/
-      image: /images/Stay_connected_with_BTPS_.jpg
+      image: /images/2025_BTPS_Open_House_poster.jpg
       alt: Stay connected with BTPS!
       description: Stay connected with BTPS!
   - infobar:
