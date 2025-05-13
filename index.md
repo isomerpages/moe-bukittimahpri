@@ -32,7 +32,7 @@ sections:
       id: infopic
       button: Watch our School video.
       url: https://www.youtube.com/watch?v=yf1Jqw4ksbw
-      image: /images/BTPS_1G_2025.jpg
+      image: /images/btps__ig.png
       alt: Image alt text
   - infopic:
       title: with BTPS!
