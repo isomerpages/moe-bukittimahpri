@@ -24,8 +24,6 @@ sections:
       url: https://forms.moe.edu.sg/forms/eDy6EE
       image: /images/2025_BTPS_Open_House_poster.jpg
       alt: BTPS OPEN HOUSE
-  - infobar:
-      id: infobar
   - infopic:
       title: what our teachers and students love about our school!
       subtitle: Learn more about
