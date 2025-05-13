@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/btps image.gif
+      background: /images/btps___image.jpg
       key_highlights:
         - title: Info For Parents
           description: ""
@@ -16,20 +16,30 @@ sections:
           description: ""
           url: /quick-links/
       variant: image
-  - infobar:
+  - infopic:
+      title: BTPS OPEN HOUSE
+      subtitle: To register for
+      id: infopic
+      button: click here
+      url: https://forms.moe.edu.sg/forms/eDy6EE
+      image: /images/2025_BTPS_Open_House_poster.jpg
+      alt: BTPS OPEN HOUSE
+  - infopic:
       title: what our teachers and students love about our school!
       subtitle: Learn more about
-      id: infobar
-      button: Watch our School video here!
+      id: infopic
+      button: Watch our School video.
       url: https://www.youtube.com/watch?v=yf1Jqw4ksbw
+      image: /images/BTPS_1G_2025.jpg
+      alt: Image alt text
   - infopic:
-      title: Instagram
-      subtitle: JOIN US ON
+      title: with BTPS!
+      subtitle: Stay Connected
       id: infopic
       button: Click Here
-      url: https://www.instagram.com/bukit.timah.primary.school
-      image: /images/BTPS_1G_2025.jpg
-      alt: Join BTPS on IG now.
+      url: /btps-alumni/
+      image: /images/Stay_connected_with_BTPS__.jpg
+      alt: Stay connected with BTPS!
   - resources:
       title: Announcements
       button: More Announcements
