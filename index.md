@@ -28,8 +28,7 @@ sections:
       title: what our teachers and students love about our school!
       subtitle: Learn more about
       id: infopic
-      description: Watch our School video and
-      button: Join us on IG now.
+      button: Watch our School video.
       url: https://www.youtube.com/watch?v=yf1Jqw4ksbw
       image: /images/BTPS_1G_2025.jpg
       alt: Image alt text
