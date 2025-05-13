@@ -37,7 +37,7 @@ sections:
       subtitle: Stay Connected
       id: infopic
       button: Click Here
-      url: /stay-connected-with-btps/
+      url: /btps-alumni/
       image: /images/Stay_connected_with_BTPS__.jpg
       alt: Stay connected with BTPS!
   - resources:
