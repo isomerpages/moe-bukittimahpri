@@ -40,7 +40,6 @@ sections:
       url: //stay-connected-with-btps/
       image: /images/Stay_connected_with_BTPS_.jpg
       alt: Stay connected with BTPS!
-      description: Stay connected with BTPS!
   - resources:
       title: Announcements
       button: More Announcements
