@@ -25,19 +25,16 @@ sections:
       image: /images/2025_BTPS_Open_House_poster.jpg
       alt: BTPS OPEN HOUSE
   - infobar:
+      id: infobar
+  - infopic:
       title: what our teachers and students love about our school!
       subtitle: Learn more about
-      id: infobar
-      button: Watch our School video here!
-      url: https://www.youtube.com/watch?v=yf1Jqw4ksbw
-  - infopic:
-      title: Instagram
-      subtitle: JOIN US ON
       id: infopic
-      button: Click Here
-      url: https://www.instagram.com/bukit.timah.primary.school
+      description: Watch our School video and
+      button: Join us on IG now.
+      url: https://www.youtube.com/watch?v=yf1Jqw4ksbw
       image: /images/BTPS_1G_2025.jpg
-      alt: Join BTPS on IG now.
+      alt: Image alt text
   - infopic:
       title: with BTPS!
       subtitle: Stay Connected
