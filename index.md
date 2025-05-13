@@ -24,6 +24,8 @@ sections:
       url: https://forms.moe.edu.sg/forms/eDy6EE
       image: /images/2025_BTPS_Open_House_poster.jpg
       alt: BTPS OPEN HOUSE
+      description: If you are driving, please note that there is no parking within the
+        school compound.
   - infopic:
       title: what our teachers and students love about our school!
       subtitle: Learn more about
