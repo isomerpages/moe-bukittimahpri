@@ -38,7 +38,7 @@ sections:
       id: infopic
       button: Click Here
       url: /stay-connected-with-btps/
-      image: /images/Stay_connected_with_BTPS_.jpg
+      image: /images/Stay_connected_with_BTPS__.jpg
       alt: Stay connected with BTPS!
   - resources:
       title: Announcements
