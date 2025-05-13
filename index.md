@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BTPS_OpenHouse_____Flybar.jpg
+      background: /images/btps image.gif
       key_highlights:
         - title: Info For Parents
           description: ""
@@ -16,16 +16,6 @@ sections:
           description: ""
           url: /quick-links/
       variant: image
-  - infopic:
-      title: BTPS OPEN HOUSE
-      subtitle: To register for
-      id: infopic
-      button: click here
-      url: https://forms.moe.edu.sg/forms/eDy6EE
-      image: /images/2025_BTPS_Open_House_poster.jpg
-      alt: BTPS OPEN HOUSE
-      description: If you are driving, please note that there is no parking within the
-        school compound.
   - infopic:
       title: what our teachers and students love about our school!
       subtitle: Learn more about
