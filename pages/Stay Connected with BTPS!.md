@@ -19,6 +19,6 @@ the past and the future for future BTPS students.
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stay_connected_with_BTPS__.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Stay_connected_with_BTPS__.jpg">
 </div>
 <p></p>
