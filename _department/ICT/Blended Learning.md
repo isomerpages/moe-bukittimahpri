@@ -22,7 +22,7 @@ The SLS is an online platform with tools and curriculum-aligned resources for al
 
 <p>1. How can I access SLS?</p>
 
-SLS can be accessed from [https://learning.moe.edu.sg](https://learning.moe.edu.sg)
+SLS can be accessed from [https://www.learning.moe.edu.sg](https://www.learning.moe.edu.sg)
 
 <p>Log in via MIMS</p>
 Your username is your_name@students.edu.sg. If you have forgot your password, you could: 
