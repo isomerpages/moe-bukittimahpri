@@ -15,7 +15,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/
-      variant: center
+      variant: floating
   - infopic:
       title: BTPS OPEN HOUSE
       subtitle: To register for
