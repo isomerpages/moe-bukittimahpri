@@ -20,9 +20,6 @@ For more details, Click here: [Moo-O Resources for Singapore School Users](https
 
 * [Ezhishi](https://www.ezhishi.net/Contents/) <br>(Log in details provided by your Chinese Language teacher)
 
-* [National Digital Explorer (NDE) 2024](https://learn.icdlasia.org/) - for BTPS Pri 5 students only  
-Email [Mrs Joanne Hu](mailto:lim_xue_mei_joanne@moe.edu.sg) for your log in credentials.
-
 ## For parents
 * [Information for parents ](/info-for-parents/information-for-parents)
 
