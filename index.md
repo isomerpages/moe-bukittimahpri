@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BTPS_OpenHouse_____Flybar.jpg
+      background: /images/BTPS_openhouse_flybar.gif
       key_highlights:
         - title: Info For Parents
           description: ""
@@ -15,7 +15,10 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/
-      variant: image
+      variant: center
+      backgroundColor: gray
+      alignment: right
+      size: sm
   - infopic:
       title: BTPS OPEN HOUSE
       subtitle: To register for
