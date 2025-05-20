@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## For Students
 
-* [Student Learning Space (SLS)](https://learning.moe.edu.sg/) <br>
+* [Student Learning Space (SLS)](https://www.learning.moe.edu.sg/) <br>
 (Log in with MIMS credentials)
 
 * [Student iCON &amp; Google Classroom Log in](https://workspace.google.com/dashboard) <br>
@@ -19,9 +19,6 @@ KooBits General Support &amp; FAQ : (https://support.koobits.com/hc/en-gb)
 For more details, Click here: [Moo-O Resources for Singapore School Users](https://plus.moo-o.com/sgschools)
 
 * [Ezhishi](https://www.ezhishi.net/Contents/) <br>(Log in details provided by your Chinese Language teacher)
-
-* [National Digital Explorer (NDE) 2024](https://learn.icdlasia.org/) - for BTPS Pri 5 students only  
-Email [Mrs Joanne Hu](mailto:lim_xue_mei_joanne@moe.edu.sg) for your log in credentials.
 
 ## For parents
 * [Information for parents ](/info-for-parents/information-for-parents)
