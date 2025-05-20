@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## For Students
 
-* [Student Learning Space (SLS)](https://learning.moe.edu.sg/) <br>
+* [Student Learning Space (SLS)](https://www.learning.moe.edu.sg/) <br>
 (Log in with MIMS credentials)
 
 * [Student iCON &amp; Google Classroom Log in](https://workspace.google.com/dashboard) <br>
