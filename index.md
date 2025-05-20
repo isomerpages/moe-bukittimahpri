@@ -16,9 +16,9 @@ sections:
           description: ""
           url: /quick-links/
       variant: center
-      backgroundColor: white
-      alignment: left
-      size: md
+      backgroundColor: gray
+      alignment: right
+      size: sm
   - infopic:
       title: BTPS OPEN HOUSE
       subtitle: To register for
