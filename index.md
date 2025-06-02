@@ -15,7 +15,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/
-      variant: image
+      variant: center
       backgroundColor: gray
       alignment: right
       size: sm
