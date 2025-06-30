@@ -238,13 +238,6 @@ variant: markdown
 </tr>
 
 <tr>
-  <td rowspan="1" colspan="1"><p>2_Resilience</p></td>
-  <td rowspan="1" colspan="1"><p>Mrs Iman - Akidah</p></td>
-<td rowspan="1" colspan="2">
-<p><a href="mailto:shahidatul_akidah_mohd_suaidi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahidatul_akidah_mohd_suaidi@schools.gov.sg</a></p>
-</td>
-</tr>
-<tr>
   <td rowspan="1" colspan="1"><p>2_Respect</p></td>
   <td rowspan="1" colspan="1"><p>Mr Ong Wei Ming Ernest</p></td>
 <td rowspan="1" colspan="2"><p><a href="mailto:ong_wei_ming_ernest@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wei_ming_ernest@schools.gov.sg</a></p></td>
