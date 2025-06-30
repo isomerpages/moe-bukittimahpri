@@ -231,18 +231,12 @@ variant: markdown
 </tr>
 <tr>
   <td rowspan="1" colspan="1"><p>2_Resilience</p></td>
-  <td rowspan="1" colspan="1"><p>Miss Teresa Chai</p></td>
+  <td rowspan="1" colspan="1"><p>Mdm Ng Puay Choo</p></td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:chai_siew_lan_teresa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chai_siew_lan_teresa@schools.gov.sg</a></p>
+<p><a href="mailto:ng_puay_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_puay_choo@schools.gov.sg</a></p>
 </td>
 </tr>
-<tr>
-  <td rowspan="1" colspan="1"><p>2_Resilience</p></td>
-  <td rowspan="1" colspan="1"><p>Mrs Iman - Akidah</p></td>
-<td rowspan="1" colspan="2">
-<p><a href="mailto:shahidatul_akidah_mohd_suaidi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahidatul_akidah_mohd_suaidi@schools.gov.sg</a></p>
-</td>
-</tr>
+
 <tr>
   <td rowspan="1" colspan="1"><p>2_Respect</p></td>
   <td rowspan="1" colspan="1"><p>Mr Ong Wei Ming Ernest</p></td>
@@ -799,6 +793,28 @@ Mr Ahmad Azmi Abdullah
 <tr>
 <td rowspan="1" colspan="4">
 Mr Saufiq
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<strong>Desktop Engineer</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1"><br>
+<img style="width:100px; border:3px solid #000000" height="auto" src="/images/Staff%20Photos/de_mr_zuhaili.png">
+</td>
+<td rowspan="1" colspan="4">
+
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+Mr Zuhaili
 </td>
 </tr>
 <tr>
