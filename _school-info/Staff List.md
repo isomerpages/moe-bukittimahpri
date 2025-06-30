@@ -229,13 +229,7 @@ variant: markdown
 <p><a href="mailto:tee_xinyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tee_xinyi@schools.gov.sg</a></p>
 </td>
 </tr>
-<tr>
-  <td rowspan="1" colspan="1"><p>2_Resilience</p></td>
-  <td rowspan="1" colspan="1"><p>Miss Teresa Chai</p></td>
-<td rowspan="1" colspan="2">
-<p><a href="mailto:chai_siew_lan_teresa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chai_siew_lan_teresa@schools.gov.sg</a></p>
-</td>
-</tr>
+
 <tr>
   <td rowspan="1" colspan="1"><p>2_Resilience</p></td>
   <td rowspan="1" colspan="1"><p>Mrs Iman - Akidah</p></td>
