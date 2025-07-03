@@ -231,6 +231,14 @@ variant: markdown
 </tr>
 <tr>
   <td rowspan="1" colspan="1"><p>2_Resilience</p></td>
+  <td rowspan="1" colspan="1"><p>Mdm Francis</p></td>
+<td rowspan="1" colspan="2">
+<p><a href="mailto:francis_anita_chitra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">francis_anita_chitra@schools.gov.sg</a></p>
+</td>
+</tr>
+	
+<tr>
+  <td rowspan="1" colspan="1"><p>2_Resilience</p></td>
   <td rowspan="1" colspan="1"><p>Mdm Ng Puay Choo</p></td>
 <td rowspan="1" colspan="2">
 <p><a href="mailto:ng_puay_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_puay_choo@schools.gov.sg</a></p>
