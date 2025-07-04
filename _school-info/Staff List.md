@@ -378,6 +378,14 @@ variant: markdown
 </td>
 </tr>
 <tr>
+  <td rowspan="1" colspan="1"><p>4_Adaptability</p></td>
+<td rowspan="1" colspan="1"><p>Mr Haikal Eiman</p></td>
+<td rowspan="1" colspan="2">
+<p><a href="mailto:haikal_eiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">haikal_eiman@schools.gov.sg</a><br>
+</p>
+</td>
+</tr>
+<tr>
   <td rowspan="1" colspan="1"><p>4_Empathy</p></td>
   <td rowspan="1" colspan="1"><p>Miss Cheng May Ling</p></td>
 <td rowspan="1" colspan="2">
