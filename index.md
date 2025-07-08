@@ -20,16 +20,6 @@ sections:
       alignment: right
       size: sm
   - infopic:
-      title: BTPS OPEN HOUSE
-      subtitle: To register for
-      id: infopic
-      description: If you are driving, please note that there is no parking within the
-        school compound.
-      button: CLICK HERE
-      url: https://forms.moe.edu.sg/forms/eDy6EE
-      image: /images/2025_BTPS_Open_House_poster.jpg
-      alt: BTPS OPEN HOUSE
-  - infopic:
       title: what our teachers and students love about our school!
       subtitle: Learn more about
       id: infopic
