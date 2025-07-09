@@ -73,7 +73,7 @@ Mr Effandi Jasman
 <a href="mailto:effandi_jasman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">effandi_jasman@schools.gov.sg</a>
 </td>
 </tr>
-<tr><td rowspan="1" colspan="2"><strong>HEADS OF DEPARTMENT (HOD)</strong></td></tr><tr><td rowspan="3." colspan="1"><img style="width: 100px;" height="auto" alt="" src="/images/Staff%20Photos/female.png"></td>
+<tr><td rowspan="1" colspan="2"><strong>HEADS OF DEPARTMENT (HOD)</strong></td></tr><tr><td rowspan="3." colspan="1"><img style="width: 100px;" height="auto" alt="" src="/images/Staff%20Photos/HOD_EL_Mdm_Francis_Anita_Chitra.jpg"></td>
 <td rowspan="1" colspan="1">Mdm Francis</td></tr>
 <tr><td rowspan="1" colspan="1"><strong>HOD/English Language (EL)</strong></td></tr>
 <tr><td rowspan="1" colspan="1"><a href="mailto:Francis_Anita_Chitra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Francis_Anita_Chitra@schools.gov.sg</a></td></tr><tr><td rowspan="3" colspan="1"><img style="width: 100px;" height="auto" alt="" src="/images/Staff Photos/Organisation Photos/hod_math.png"></td><td rowspan="1" colspan="1">Mrs Karin Gan</td></tr><tr><td rowspan="1" colspan="1"><strong>HOD/Mathematics</strong></td></tr>
