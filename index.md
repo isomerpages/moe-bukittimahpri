@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/btpsflybar.jpg
+      background: /images/btpsflybar2.jpg
       key_highlights:
         - title: Info For Parents
           description: ""
