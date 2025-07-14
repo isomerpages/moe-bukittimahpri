@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BTPS_openhouse_flybar.gif
+      background: /images/btpsflybar2.jpg
       key_highlights:
         - title: Info For Parents
           description: ""
@@ -18,7 +18,7 @@ sections:
       variant: center
       backgroundColor: gray
       alignment: right
-      size: sm
+      size: md
   - infopic:
       title: what our teachers and students love about our school!
       subtitle: Learn more about
