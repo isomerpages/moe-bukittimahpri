@@ -29,12 +29,12 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p>Chen Num Sing Dept Store</p>
-<p>Blk 413 Bukit Batok West Ave 4</p>
-<p>#01-206, Singapore 650413</p>
-<p>Business Hours:</p>
-<p>10:00am-7:00pm (Tue-Sun)</p>
-<p>or from KH Uniform official website - <a href="https://khuniform.com/" rel="noopener noreferrer nofollow" target="_blank">https://khuniform.com/</a>
-</p>
+Blk 413 Bukit Batok West Ave 4
+#01-206, Singapore 650413<p></p>
+<p>Business Hours:
+10:00am-7:00pm (Tue-Sun)</p>
+or from KH Uniform official website - <a href="https://khuniform.com/" rel="noopener noreferrer nofollow" target="_blank">https://khuniform.com/</a>
+
 </td>
 <td rowspan="1" colspan="1">
 <p>Sch Uniform</p>
