@@ -32,9 +32,8 @@ variant: tiptap
 <p>Blk 413 Bukit Batok West Ave 4</p>
 <p>#01-206, Singapore 650413</p>
 <p>Business Hours:</p>
-<p>10:00am-7:00pm (Tue-Sun)
-<br>
-<br>or from KH Uniform official website - <a href="https://khuniform.com/" rel="noopener noreferrer nofollow" target="_blank">https://khuniform.com/</a>
+<p>10:00am-7:00pm (Tue-Sun)</p>
+<p>or from KH Uniform official website - <a href="https://khuniform.com/" rel="noopener noreferrer nofollow" target="_blank">https://khuniform.com/</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
