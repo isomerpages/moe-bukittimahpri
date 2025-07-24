@@ -28,7 +28,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chen Num Sing (Agent)</p>
+<p>Chen Num Sing Dept Store</p>
+<p>Blk 413 Bukit Batok West Ave 4</p>
+<p>#01-206, Singapore 650413</p>
+<p>Business Hours:</p>
+<p>10:00am-7:00pm (Tue-Sun)
+<br>
+<br>or from KH Uniform official website - <a href="https://khuniform.com/" rel="noopener noreferrer nofollow" target="_blank">https://khuniform.com/</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sch Uniform</p>
@@ -37,12 +44,12 @@ variant: tiptap
 <p>NIL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65658961</p>
+<p>NIL</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/2021%20Name%20Tag%20BTPS.pdf" rel="noopener noreferrer" target="_blank">Uniform Name Tags Order Form</a></strong>
+<p>Uniform Tag order - <a href="https://khuniform.com/btpsnametag/" rel="noopener noreferrer nofollow" target="_blank">https://khuniform.com/btpsnametag/</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
