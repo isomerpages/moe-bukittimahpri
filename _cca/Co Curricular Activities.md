@@ -31,7 +31,7 @@ of dedicated teachers, instructors and coaches, they strive for excellence
 in both individual and team achievements.
 <br>
 <br>CCA is more than just activities at BTPS. They are a journey towards becoming
-An Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
+Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 <br>
 <br><strong>2024 CCA ACHIEVEMENTS</strong>
 <br>
