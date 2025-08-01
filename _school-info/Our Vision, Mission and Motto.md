@@ -16,7 +16,7 @@ The blue background symbolises depth of learning while gold represents the richn
 <strong>STRIVE FOR THE BEST</strong>
 
 <h2>Our Vision</h2><br>
-An Adaptive Learner, Empathetic Leader and Future-Ready Citizen
+Adaptive Learner, Empathetic Leader and Future-Ready Citizen
 
 
 <h2>Our Mission</h2> <br>
