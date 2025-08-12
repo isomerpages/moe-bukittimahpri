@@ -29,7 +29,7 @@ Through Cyber Wellness education in CCE, students learn to be respectful, safe, 
 
 Cyber Wellness week is organised annually to heighten awareness and spread Cyber Wellness messages. These messages are promoted through posters, quizzes and hands-on activities.</p><center><img src="/images/School%20Photos/cyberwellness_week.png">
 
-<b>Assembly Talk</b> on Netiquette by Kingmaker and students’ voice on the importance of Cyber Wellness.</center>
+<b>Assembly Talk</b> on Netiquette by Kingmaker and students’ voice <br> on the importance of Cyber Wellness.</center>
 
 <h3><u>Cyber Wellness Workshop</u></h3>
 
