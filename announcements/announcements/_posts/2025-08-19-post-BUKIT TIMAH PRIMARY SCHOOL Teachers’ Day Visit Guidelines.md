@@ -20,14 +20,14 @@ everyone:
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="text-align: justify;" rowspan="1" colspan="1">    
 <p><strong>1. Arranging Your Visit: </strong>Please check if your teachers
 are available on the day and make arrangements directly with them. Upon
 arrival, meet your teachers at the school gate.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="text-align: justify;" rowspan="1" colspan="1">
 <p>2. <strong>Visit Timing</strong>: Visits are scheduled from <strong>11.00 a.m. to 12.30 p.m.</strong> If
 you arrive before 11.00 a.m., please wait without blocking the school entrances
 or interfering with the dismissal process. We also request that you keep
@@ -35,7 +35,7 @@ your visits brief to allow teachers time to rest after the morning’s celebrati
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="text-align: justify;" rowspan="1" colspan="1">
 <p>3. <strong>Designated Areas</strong>: For the convenience and safety of
 all, please limit your visit to the ground-floor areas only.</p>
 </td>
