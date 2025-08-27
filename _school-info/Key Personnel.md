@@ -391,8 +391,7 @@ variant: tiptap
 <p>Mdm Xu Aili</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ST/Chinese Language</strong>
-</p>
+<p>ST/Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xu_ai_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>xu_ai_li@schools.gov.sg</u></a>
@@ -404,8 +403,7 @@ variant: tiptap
 <p>Mdm Rozana Bte Hashim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ST/English Language</strong>
-</p>
+<p>ST/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rozana_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rozana_hashim@schools.gov.sg</u></a>
@@ -417,8 +415,7 @@ variant: tiptap
 <p>Mdm Junaida Bte Jasman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ST/Mathematics</strong>
-</p>
+<p>ST/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:junaida_jasman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>junaida_jasman@schools.gov.sg</u></a>
@@ -430,11 +427,70 @@ variant: tiptap
 <p>Mrs Josephine Kek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ST/Music</strong>
-</p>
+<p>ST/Music</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Ho_Hui_Suan_Josephine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ho_Hui_Suan_Josephine@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>SCHOOL ADMIN TEAM (SAT)</strong><br></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurhayati Bte Rahmat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurhayati_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurhayati_rahmat@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Desmond Goh Ngian Wa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_ngian_wa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_ngian_wa@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Lin Shu Rui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_shu_rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_shu_rui@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
