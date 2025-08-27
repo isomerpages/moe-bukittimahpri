@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/btps___fly___bar___.png
+      background: /images/btps_fly__bar_.png
       key_highlights:
         - title: Info For Parents
           description: ""
@@ -15,7 +15,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/
-      variant: image
+      variant: center
       backgroundColor: gray
       alignment: right
       size: md
