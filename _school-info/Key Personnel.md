@@ -436,7 +436,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>SCHOOL ADMIN TEAM (SAT)</strong><br></h4>
+<h4><strong>SCHOOL ADMIN TEAM (SAT)</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
