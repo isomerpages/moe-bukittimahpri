@@ -3,10 +3,10 @@ url: https://bukittimahpri.moe.edu.sg
 favicon: /images/bukittimahpslogo.png
 colors:
   primary-color: "#294a74"
-  secondary-color: "#f3c97a"
+  secondary-color: "#7aa4f3"
   media-colors:
     - title: media-color-one
-      color: "#2d2974"
+      color: "#f3c97a"
     - title: media-color-two
       color: "#7aa4f3"
     - title: media-color-three
