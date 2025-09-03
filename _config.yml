@@ -2,8 +2,8 @@ title: Bukit Timah Primary School
 url: https://bukittimahpri.moe.edu.sg
 favicon: /images/bukittimahpslogo.png
 colors:
-  primary-color: "#e6b800"
-  secondary-color: "#32174d"
+  primary-color: "#321174"
+  secondary-color: "#e6b800"
   media-colors:
     - title: media-color-one
       color: "#232247"
