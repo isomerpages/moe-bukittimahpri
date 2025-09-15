@@ -80,7 +80,7 @@ Tissue Culture (PTC).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p align="justify">Through this program, we aim to instill in children the character strengths
+<p align="justify">Through this programme, we aim to instill in children the character strengths
 of Perseverance and Teamwork. Students will have the chance to work as
 scientists, applying the Science concepts and process skills they learn
 in school. Additionally, students will gain insights into the post-PTC
