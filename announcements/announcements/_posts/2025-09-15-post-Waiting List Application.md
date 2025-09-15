@@ -15,4 +15,4 @@ formSG and attached all the supporting documents - <a href="https://go.gov.sg/bt
 <p>Please take note that the submission of the form does not guarantee a
 place in the school. Acceptance is subject to availability of vacancies
 as well as meeting the primary education criteria set by the Ministry of
-Education (MOE</p>
+Education (MOE).</p>
