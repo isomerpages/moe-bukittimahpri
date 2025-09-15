@@ -2,6 +2,7 @@
 title: Physical Education
 permalink: /department/physical-education/
 description: ""
+variant: markdown
 ---
 # PHYSICAL EDUCATION
 
@@ -32,7 +33,7 @@ description: ""
 
 <img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/p5%20adventure%20camp%20@%20dairy%20farm.jfif">
 
-<p align="justify">To further develop our pupils holistically, pupils will undergo these programs throughout their years at Bukit Timah Primary School:</p>
+<p align="justify">To further develop our pupils holistically, pupils will undergo these programmes throughout their years at Bukit Timah Primary School:</p>
 
 
 <h3>Leadership through PE</h3>
@@ -65,7 +66,7 @@ description: ""
 <td style="border:2px solid #0A0B30; vertical-align: middle;">
 • Lower Primary Games Day (P1, P2)<br>
 •	Games Carnival (P3 – P6)<br>
-•	Sports Education Program (SEP)<br>
+•	Sports Education Programme (SEP)<br>
 •	National Physical Fitness Award Test <br>(NAPFA) (P4 &amp; P6)<br>
 •	Residential Camp<br>
 •	P5 Adventure Camp<br>
