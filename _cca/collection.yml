@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
-      - Physical Sports/Netball.md
       - Physical Sports/.keep
       - Physical Sports/Badminton.md
       - Physical Sports/Basketball.md
       - Physical Sports/Football.md
+      - Physical Sports/Netball.md
       - Physical Sports/Rugby.md
       - Physical Sports/Wushu.md
       - Uniformed Groups/.keep
