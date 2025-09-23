@@ -22,9 +22,6 @@ As a new CCA, we can only participate in competitions or external events when we
 <p align="justify">
 BTPS netballers are encouraged to think critically, communicate effectively, and support one another through challenges. Every training session is designed to build not just skill, but also character—instilling resilience and encouraging each player to be her best self. With a strong focus on values and a supportive community, BTPS Netball offers more than just sport!</p>
 
-![](/images/CCA/25_badminton_01.png)<br>
-![](/images/CCA/25_badminton_02.png)<br>
-![](/images/CCA/25_badminton_03.png)<br>
-![](/images/CCA/25_badminton_04.png)<br>
-![](/images/CCA/25_badminton_05.png)<br>
-![](/images/CCA/25_badminton_06.png)<br>
+![](/images/CCA/25_netball_04.png)<br>
+![](/images/CCA/25_netball_01.png)<br>
+![](/images/CCA/25_netball_03.png)<br>
