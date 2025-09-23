@@ -16,7 +16,7 @@ As a new CCA, we can only participate in competitions or external events when we
 • Builds strong foundations in core skills and team strategies.<br>
 • Provides meaningful opportunities for players to train, compete, and grow.<br>
 • Develops confidence, adaptability, and leadership on and off the court.<br>
-•	Fosters a culture of respect—for teammates, opponents, referees, and the game.
+•	Fosters a culture of respect—for teammates, opponents, referees, and the game.<br>
 •	Inspires a lasting love for sport and active, healthy living.
 
 <p align="justify">
