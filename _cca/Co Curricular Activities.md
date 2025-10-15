@@ -223,7 +223,7 @@ Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bukittimahpri.moe.edu.sg/cca/physical-sports/rugby/" rel="noopener nofollow" target="_blank">Rugby</a>
+<p><a href="https://www.bukittimahpri.moe.edu.sg/netball/" rel="noopener nofollow" target="_blank">Netball</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,7 +239,7 @@ Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bukittimahpri.moe.edu.sg/wushu/" rel="noopener nofollow" target="_blank">Wushu</a>
+<p><a href="https://www.bukittimahpri.moe.edu.sg/cca/physical-sports/rugby/" rel="noopener nofollow" target="_blank">Rugby</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -247,6 +247,11 @@ Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.bukittimahpri.moe.edu.sg/cca/visual-and-performing-arts/drama-club/" rel="noopener nofollow" target="_blank">Drama Club</a>
+</p>
+</td>
+</tr><tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.bukittimahpri.moe.edu.sg/wushu/" rel="noopener nofollow" target="_blank">Wushu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
