@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Information for Parents/P1 Orientation.md
       - Information for Parents/.keep
       - Information for Parents/Information.md
       - School Calendar.md
