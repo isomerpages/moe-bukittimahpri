@@ -13,7 +13,7 @@ sections:
           description: ""
           url: /info-for-parents/information-for-parents
         - title: P1 Orientation
-          description: Key Highlight description
+          description: ""
           url: https://bukittimahpri.moe.edu.sg/p1-orientation/
         - title: Quick Links
           description: ""
