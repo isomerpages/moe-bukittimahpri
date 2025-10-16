@@ -14,7 +14,7 @@ sections:
           url: /info-for-parents/information-for-parents
         - title: P1 Orientation
           description: ""
-          url: https://bukittimahpri.moe.edu.sg/p1-orientation/
+          url: /p1-orientation/
         - title: Quick Links
           description: ""
           url: /quick-links/
