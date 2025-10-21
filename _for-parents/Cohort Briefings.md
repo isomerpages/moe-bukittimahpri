@@ -32,7 +32,7 @@ Click [DSA-Talk-2025](/files/2025/DSA_Talk_2025.pdf)- to download.
 4. [P4_2025_MTPS-MTL-Sharing](/files/2025/04_P4_2025_MTPS_Mother_Tongue_Languages.pdf)
 
 ##### Briefing on SBB
-[Briefing on SBB - 17 Oct](/files/Briefing_on_SBB___17_Oct.pdf) 
+[[Briefing on SBB - 17 Oct]](/files/Briefing_on_SBB___17_Oct.pdf) 
 
 ##### P5 Level Briefing
 
