@@ -31,6 +31,9 @@ Click [DSA-Talk-2025](/files/2025/DSA_Talk_2025.pdf)- to download.
 3. [P4_2025_MTPS-Math-Sharing](/files/2025/03_P4_2025_MTPS_Math.pdf)
 4. [P4_2025_MTPS-MTL-Sharing](/files/2025/04_P4_2025_MTPS_Mother_Tongue_Languages.pdf)
 
+##### Briefing on SBB
+[[Briefing on SBB - 17 Oct]](/files/Briefing_on_SBB___17_Oct.pdf) 
+
 ##### P5 Level Briefing
 
 1. [P5_2025_MTPS-Principal-Sharing](/files/2025/01_P5_2025_MTPS_P.pdf)
@@ -48,7 +51,4 @@ Click [DSA-Talk-2025](/files/2025/DSA_Talk_2025.pdf)- to download.
 3. [MTPS_2025_P6-English-Language](/files/2025/03_MTPS_2025_P6_English.pdf)
 4. [MTPS_2025_P6-Academic_Support](/files/2025/04_MTPS_2025_P6_Academic_Support.pdf)
 
-<h3>Cohort Briefings for Year 2024</h3>
-
-##### Briefing on SBB
-[Briefing on SBB - 28 Oct](/files/2024/Briefing_on_SBB___28_Oct.pdf)
+<h3>Cohort Briefings for Year 2025</h3>
