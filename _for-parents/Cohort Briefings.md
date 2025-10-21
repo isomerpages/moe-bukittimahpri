@@ -51,4 +51,3 @@ Click [DSA-Talk-2025](/files/2025/DSA_Talk_2025.pdf)- to download.
 3. [MTPS_2025_P6-English-Language](/files/2025/03_MTPS_2025_P6_English.pdf)
 4. [MTPS_2025_P6-Academic_Support](/files/2025/04_MTPS_2025_P6_Academic_Support.pdf)
 
-<h3>Cohort Briefings for Year 2025</h3>
