@@ -35,7 +35,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1_Adaptability</p>
+<p>1 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wang Lu</p>
@@ -47,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1_Adaptability</p>
+<p>1 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Idayu (SH/SW)</p>
@@ -59,7 +59,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1_Empathy</p>
+<p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Kimberly Tan</p>
@@ -71,7 +71,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1_Empathy</p>
+<p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ho Boon Huat (HOD/MTL)</p>
@@ -83,7 +83,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1_Integrity</p>
+<p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yvonne Tong</p>
@@ -95,7 +95,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1_Integrity</p>
+<p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sangitah</p>
@@ -107,7 +107,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1_Resilience</p>
+<p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Suzanah Miswari</p>
@@ -119,7 +119,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1_Resilience</p>
+<p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lynette Lim (SH/Aesthetics)</p>
@@ -131,7 +131,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1_Respect</p>
+<p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Evelyn Lee</p>
@@ -143,7 +143,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1_Respect</p>
+<p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Neo Kai Lin</p>
@@ -155,7 +155,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1_Responsiblity</p>
+<p>1 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wang Ling</p>
@@ -167,7 +167,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1_Responsiblity</p>
+<p>1 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Raj-Lorshenni</p>
@@ -179,7 +179,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2_Adaptability</p>
+<p>2 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Mellissa Khoo</p>
@@ -191,7 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2_Adaptability</p>
+<p>2 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Li Yiling</p>
@@ -203,7 +203,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2_Adaptability</p>
+<p>2 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Yvonne Kwan</p>
@@ -215,7 +215,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2_Empathy</p>
+<p>2 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Du Ying</p>
@@ -227,7 +227,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2_Empathy</p>
+<p>2 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Goh Khai Gin</p>
@@ -239,7 +239,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2_Integrity</p>
+<p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Edina Yong</p>
@@ -251,7 +251,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2_Integrity</p>
+<p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chng Ling Ling</p>
@@ -263,7 +263,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2_Integrity</p>
+<p>2 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Evelyn Nah Bee Har</p>
@@ -275,7 +275,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2_Resilience</p>
+<p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tee Xin Yi</p>
@@ -287,7 +287,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2_Resilience</p>
+<p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Anita Francis</p>
@@ -299,7 +299,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2_Resilience</p>
+<p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Puay Choo</p>
@@ -311,7 +311,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2_Respect</p>
+<p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ong Wei Ming Ernest</p>
@@ -323,7 +323,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2_Respect</p>
+<p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rozana Bte Hashim</p>
@@ -335,7 +335,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2_Responsiblity</p>
+<p>2 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Joanne Hu</p>
@@ -347,7 +347,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2_Responsiblity</p>
+<p>2 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Foo Li Wei</p>
@@ -359,7 +359,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3_Adaptability</p>
+<p>3 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chua Peng Swee</p>
@@ -371,7 +371,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3_Adaptability</p>
+<p>3 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Mazlinah</p>
@@ -383,7 +383,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3_Empathy</p>
+<p>3 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Idris</p>
@@ -395,7 +395,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3_Empathy</p>
+<p>3 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Johnathan Ng</p>
@@ -407,7 +407,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3_Empathy</p>
+<p>3 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Jeannette Yeo</p>
@@ -419,7 +419,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3_Integrity</p>
+<p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chua Khoon Sia Raymond</p>
@@ -431,7 +431,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3_Integrity</p>
+<p>3 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Koh Beng Li</p>
@@ -443,7 +443,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3_Resilience</p>
+<p>3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Euodia Tay</p>
@@ -455,7 +455,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3_Resilience</p>
+<p>3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Julian Siew</p>
@@ -467,7 +467,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3_Resilience</p>
+<p>3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Siok Hui</p>
@@ -479,7 +479,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3_Respect</p>
+<p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Serene Tear</p>
@@ -491,7 +491,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3_Respect</p>
+<p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Suzanna Bte Mohamaed Isnin</p>
@@ -503,7 +503,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4_Adaptability</p>
+<p>4 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ong Kai Chun</p>
@@ -515,7 +515,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4_Adaptability</p>
+<p>4 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Daanish</p>
@@ -527,7 +527,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4_Adaptability</p>
+<p>4 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Haikal Eiman</p>
@@ -540,7 +540,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4_Empathy</p>
+<p>4 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Cheng May Ling</p>
@@ -552,7 +552,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4_Empathy</p>
+<p>4 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Zaini</p>
@@ -564,7 +564,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4_Integrity</p>
+<p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Sim Yingru</p>
@@ -576,7 +576,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4_Integrity</p>
+<p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Subahshini</p>
@@ -589,7 +589,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4_Integrity</p>
+<p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Daphne Ho</p>
@@ -601,7 +601,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4_Resilience</p>
+<p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Donald Tan</p>
@@ -613,7 +613,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4_Resilience</p>
+<p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Samantha Er</p>
@@ -625,7 +625,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4_Resilience</p>
+<p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zhou Yuyan</p>
@@ -637,7 +637,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4_Respect</p>
+<p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chua Teck Yong</p>
@@ -649,7 +649,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4_Respect</p>
+<p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fidyyana</p>
@@ -664,7 +664,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5_Adaptability</p>
+<p>5 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chitra</p>
@@ -676,7 +676,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5_Adaptability</p>
+<p>5 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Josephine Kek</p>
@@ -688,7 +688,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5_Empathy</p>
+<p>5 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Pang Liew Chin</p>
@@ -700,7 +700,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5_Empathy</p>
+<p>5 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Solomon Tan</p>
@@ -712,7 +712,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5_Integrity</p>
+<p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jasmine Yap</p>
@@ -724,7 +724,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5_Integrity</p>
+<p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Christopher Khoo</p>
@@ -736,7 +736,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5_Resilience</p>
+<p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kenny Chin</p>
@@ -748,7 +748,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5_Resilience</p>
+<p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Xu Ai Li</p>
@@ -760,7 +760,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5_Respect</p>
+<p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Lee Yan Ying</p>
@@ -772,7 +772,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5_Respect</p>
+<p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Indira d/o Raghavan Pillai</p>
@@ -784,7 +784,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5_Responsiblity</p>
+<p>5 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jesu</p>
@@ -796,7 +796,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5_Responsiblity</p>
+<p>5 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Annabelle Chua Wen Xin</p>
@@ -808,7 +808,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6_Adaptability</p>
+<p>6 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Edna Phong</p>
@@ -820,7 +820,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6_Adaptability</p>
+<p>6 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Durgadevi</p>
@@ -832,7 +832,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6_Adaptability</p>
+<p>6 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Shafur</p>
@@ -844,7 +844,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6_Empathy</p>
+<p>6 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Iris Lim</p>
@@ -856,7 +856,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6_Empathy</p>
+<p>6 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sharmini</p>
@@ -868,7 +868,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6_Integrity</p>
+<p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Namira</p>
@@ -880,7 +880,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6_Integrity</p>
+<p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Wong Yu Pei</p>
@@ -892,7 +892,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6_Resilience</p>
+<p>6 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Junaida Bte Jasman</p>
@@ -904,7 +904,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6_Resilience</p>
+<p>6 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ernest Choon</p>
