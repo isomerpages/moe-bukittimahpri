@@ -131,7 +131,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1_Respect</p>
+<p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Evelyn Lee</p>
@@ -143,7 +143,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1_Respect</p>
+<p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Neo Kai Lin</p>
@@ -179,7 +179,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2_Adaptability</p>
+<p>2 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Mellissa Khoo</p>
@@ -625,7 +625,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4_Resilience</p>
+<p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zhou Yuyan</p>
