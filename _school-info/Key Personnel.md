@@ -125,7 +125,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>HEADS OF DEPARTMENT (HOD)</strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
