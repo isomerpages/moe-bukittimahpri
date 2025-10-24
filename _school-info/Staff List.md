@@ -20,15 +20,15 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="width:25%" rowspan="1" colspan="1">
 <p><strong>CLASS</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="width:25%" rowspan="1" colspan="1">
 <p><strong>NAME</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td style="width:50%" rowspan="1" colspan="2">
 <p><strong>EMAIL ADDRESS</strong>
 </p>
 </td>
