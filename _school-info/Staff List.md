@@ -969,7 +969,7 @@ variant: markdown
 <p><strong>SCHOOL ADMIN TEAM</strong>
 <br>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
 <col>
 <col>
@@ -977,7 +977,7 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="minwidth:35%" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
