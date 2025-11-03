@@ -20,11 +20,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="minwidth:25%" rowspan="1" colspan="1">
 <p><strong>CLASS</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="minwidth:35%" rowspan="1" colspan="1">
 <p><strong>NAME</strong>
 </p>
 </td>
@@ -969,7 +969,7 @@ variant: tiptap
 <p><strong>SCHOOL ADMIN TEAM</strong>
 <br>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
 <col>
 <col>
@@ -977,7 +977,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="minwidth:35%" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
