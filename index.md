@@ -32,6 +32,16 @@ sections:
       image: /images/PAT.jpg
       alt: Image alt text
   - infopic:
+      title: Outstanding Youth in Education Award (OYEA)
+      id: infopic
+      description: Nominate teachers aged 35 & below in 2026 who show exceptional
+        passion, energy, and commitment in inspiring students. Submit your
+        nominations today!
+      button: go.gov.sg/oyea2026
+      url: https://go.gov.sg/oyea2026
+      image: /images/OYEA.jpg
+      alt: Image alt text
+  - infopic:
       title: what our teachers and students love about our school!
       subtitle: Learn more about
       id: infopic
