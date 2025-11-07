@@ -29,7 +29,7 @@ sections:
         awards in recognition of their good work here.
       button: go.gov.sg/pat2026
       url: https://go.gov.sg/pat2026
-      image: /images/PAT.jpg
+      image: /images/PAT_Banner2.jpg
       alt: Image alt text
   - infopic:
       title: Outstanding Youth in Education Award (OYEA)
