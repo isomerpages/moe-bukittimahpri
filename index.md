@@ -25,8 +25,9 @@ sections:
   - infopic:
       title: President’s Award for Teachers (PAT)
       id: infopic
-      description: We strongly encourage you to nominate deserving teachers for these
-        awards in recognition of their good work here.
+      description: Honours experienced teachers who shape the nation’s future with
+        passion, dedication and impact. Nominate a deserving teacher who
+        embodies these qualities today!
       button: go.gov.sg/pat2026
       url: https://go.gov.sg/pat2026
       image: /images/PAT_Banner.jpg
@@ -34,9 +35,9 @@ sections:
   - infopic:
       title: Outstanding Youth in Education Award (OYEA)
       id: infopic
-      description: Nominate teachers aged 35 & below in 2026 who show exceptional
-        passion, energy, and commitment in inspiring students. Submit your
-        nominations today!
+      description: Celebrates young teachers (35 & below in 2026) who inspire with
+        passion, energy & commitment. Nominate a deserving teacher who embodies
+        these qualities today!
       button: go.gov.sg/oyea2026
       url: https://go.gov.sg/oyea2026
       image: /images/OYEA_Banner.jpg
