@@ -23,6 +23,15 @@ sections:
       alignment: right
       size: md
   - infopic:
+      title: President’s Award for Teachers (PAT)
+      id: infopic
+      description: We strongly encourage you to nominate deserving teachers for these
+        awards in recognition of their good work here.
+      button: go.gov.sg/pat2026
+      url: https://go.gov.sg/pat2026
+      image: /images/PAT.jpg
+      alt: Image alt text
+  - infopic:
       title: what our teachers and students love about our school!
       subtitle: Learn more about
       id: infopic
