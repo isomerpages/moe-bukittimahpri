@@ -39,7 +39,7 @@ sections:
         nominations today!
       button: go.gov.sg/oyea2026
       url: https://go.gov.sg/oyea2026
-      image: /images/OYEA.jpg
+      image: /images/OYEA_Banner.jpg
       alt: Image alt text
   - infopic:
       title: what our teachers and students love about our school!
