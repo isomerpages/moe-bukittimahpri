@@ -15,7 +15,7 @@ Bukit Timah Primary School</strong></h2>
 
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
-<td style="border:2px solid #0A0B30"><b>BTPS Opening Hours 2023</b> </td><td style="border:2px solid #0A0B30"><b>Term Time</b> </td><td style="border:2px solid #0A0B30"><b>School Holidays</b> </td></tr><tr>
+<td style="border:2px solid #0A0B30"><b>BTPS Opening Hours 2025</b> </td><td style="border:2px solid #0A0B30"><b>Term Time</b> </td><td style="border:2px solid #0A0B30"><b>School Holidays</b> </td></tr><tr>
 <td style="border:2px solid #0A0B30">School </td><td style="border:2px solid #0A0B30">
 6am – 7pm</td><td style="border:2px solid #0A0B30">7am - 7pm </td></tr><tr>
 <td style="border:2px solid #0A0B30">General Office</td><td style="border:2px solid #0A0B30">7am – 530pm (Mon to Thur)<br>
