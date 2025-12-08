@@ -17,40 +17,40 @@ Email: sayguants@yahoo.com.sg<br><br>
 
 
 
- <table>
+ <table style="border:2px solid #0A0B30">
  <tbody>
  <tr>
-            <td>Distance Range Category</td>
-            <td colspan="2">Up to 15-seater</td>
-            <td colspan="2">&gt;15-Seater</td>
+            <td style="border:2px solid #0A0B30">Distance Range Category</td>
+            <td style="border:2px solid #0A0B30" colspan="2">Up to 15-seater</td>
+            <td style="border:2px solid #0A0B30" colspan="2">&gt;15-Seater</td>
         </tr>
         <tr>
-            <td></td>
-            <td>1-way</td>
-            <td>2-ways</td>
-            <td>1-way</td>
-            <td>2-ways</td>
+            <td style="border:2px solid #0A0B30"></td>
+            <td style="border:2px solid #0A0B30">1-way</td>
+            <td style="border:2px solid #0A0B30">2-ways</td>
+            <td style="border:2px solid #0A0B30">1-way</td>
+            <td style="border:2px solid #0A0B30">2-ways</td>
         </tr>
         <tr>
-            <td>Up to 2km</td>
-            <td>$146</td>
-            <td>$156</td>
-            <td>$126</td>
-            <td>$136</td>
+            <td style="border:2px solid #0A0B30">Up to 2km</td>
+            <td style="border:2px solid #0A0B30">$146</td>
+            <td style="border:2px solid #0A0B30">$156</td>
+            <td style="border:2px solid #0A0B30">$126</td>
+            <td style="border:2px solid #0A0B30">$136</td>
         </tr>
         <tr>
-            <td>&gt;2 - 4km</td>
-            <td>$187</td>
-            <td>$197</td>
-            <td>$155</td>
-            <td>$165</td>
+            <td style="border:2px solid #0A0B30">&gt;2 - 4km</td>
+            <td style="border:2px solid #0A0B30">$187</td>
+            <td style="border:2px solid #0A0B30">$197</td>
+            <td style="border:2px solid #0A0B30">$155</td>
+            <td style="border:2px solid #0A0B30">$165</td>
         </tr>
         <tr>
-            <td>&gt;4 - 6km</td>
-            <td>$299</td>
-            <td>$239</td>
-            <td>$197</td>
-            <td>$207</td>
+            <td style="border:2px solid #0A0B30">&gt;4 - 6km</td>
+            <td style="border:2px solid #0A0B30">$299</td>
+            <td style="border:2px solid #0A0B30">$239</td>
+            <td style="border:2px solid #0A0B30">$197</td>
+            <td style="border:2px solid #0A0B30">$207</td>
         </tr>
     </tbody>
 </table>
