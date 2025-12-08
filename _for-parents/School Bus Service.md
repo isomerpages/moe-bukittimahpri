@@ -20,12 +20,11 @@ Email: sayguants@yahoo.com.sg<br><br>
  <table style="border:2px solid #0A0B30">
  <tbody>
  <tr>
-            <td style="border:2px solid #0A0B30">Distance Range Category</td>
+            <td rowspan="2">Distance Range Category</td>
             <td style="border:2px solid #0A0B30" colspan="2">Up to 15-seater</td>
             <td style="border:2px solid #0A0B30" colspan="2">&gt;15-Seater</td>
         </tr>
         <tr>
-            <td style="border:2px solid #0A0B30"></td>
             <td style="border:2px solid #0A0B30">1-way</td>
             <td style="border:2px solid #0A0B30">2-ways</td>
             <td style="border:2px solid #0A0B30">1-way</td>
