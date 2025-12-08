@@ -17,8 +17,21 @@ Email: sayguants@yahoo.com.sg<br><br>
 
 
 
+   
 
-    <title>5x5 Table</title>
+
+    <title>Styled Table</title>
+    <style>
+        table {
+            border-collapse: collapse; /* prevents double borders */
+            width: 100%;               /* optional: makes table full width */
+        }
+        td, th {
+            border: 2px solid #0A0B30; /* consistent dark border */
+            text-align: center;        /* centers text */
+            padding: 8px;              /* adds spacing inside cells */
+        }
+    </style>
 
 
     <table>
@@ -27,7 +40,7 @@ Email: sayguants@yahoo.com.sg<br><br>
             <td>Up to 15-seater</td>
             <td></td>
             <td>Row 1, Col 4</td>
-            <td border="1">Row 1, Col 5</td>
+            <td></td>
         </tr>
         <tr>
             <td>Row 2, Col 1</td>
