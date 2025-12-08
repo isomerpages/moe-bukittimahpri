@@ -17,60 +17,43 @@ Email: sayguants@yahoo.com.sg<br><br>
 
 
 
-   
-
-
-    <title>Styled Table</title>
-    <style>
-        table {
-            border-collapse: collapse; /* prevents double borders */
-            width: 100%;               /* optional: makes table full width */
-        }
-        td, th {
-            border: 2px solid #0A0B30; /* consistent dark border */
-            text-align: center;        /* centers text */
-            padding: 8px;              /* adds spacing inside cells */
-        }
-    </style>
-
-
-    <table>
-        <tbody><tr>
+ <table>
+ <tbody>
+ <tr>
             <td>Distance Range Category</td>
-            <td>Up to 15-seater</td>
+            <td colspan="2">Up to 15-seater</td>
+            <td colspan="2">&gt;15-Seater</td>
+        </tr>
+        <tr>
             <td></td>
-            <td>Row 1, Col 4</td>
-            <td></td>
+            <td>1-way</td>
+            <td>2-ways</td>
+            <td>1-way</td>
+            <td>2-ways</td>
         </tr>
         <tr>
-            <td>Row 2, Col 1</td>
-            <td>Row 2, Col 2</td>
-            <td>Row 2, Col 3</td>
-            <td>Row 2, Col 4</td>
-            <td>Row 2, Col 5</td>
+            <td>Up to 2km</td>
+            <td>$146</td>
+            <td>$156</td>
+            <td>$126</td>
+            <td>$136</td>
         </tr>
         <tr>
-            <td>Row 3, Col 1</td>
-            <td>Row 3, Col 2</td>
-            <td>Row 3, Col 3</td>
-            <td>Row 3, Col 4</td>
-            <td>Row 3, Col 5</td>
+            <td>&gt;2 - 4km</td>
+            <td>$187</td>
+            <td>$197</td>
+            <td>$155</td>
+            <td>$165</td>
         </tr>
         <tr>
-            <td>Row 4, Col 1</td>
-            <td>Row 4, Col 2</td>
-            <td>Row 4, Col 3</td>
-            <td>Row 4, Col 4</td>
-            <td>Row 4, Col 5</td>
+            <td>&gt;4 - 6km</td>
+            <td>$299</td>
+            <td>$239</td>
+            <td>$197</td>
+            <td>$207</td>
         </tr>
-        <tr>
-            <td>Row 5, Col 1</td>
-            <td>Row 5, Col 2</td>
-            <td>Row 5, Col 3</td>
-            <td>Row 5, Col 4</td>
-            <td>Row 5, Col 5</td>
-        </tr>
-    </tbody></table>
+    </tbody>
+</table>
 
 
 
