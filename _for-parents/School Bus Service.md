@@ -54,8 +54,3 @@ Email: sayguants@yahoo.com.sg<br><br>
         </tr>
     </tbody>
 </table>
-
-
-
-
-![](/images/school_bus_fees.jpg)
