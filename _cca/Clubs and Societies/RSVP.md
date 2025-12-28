@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Clubs and Societies
 ---
-# RSVP (Respect, Save &amp; Value Our Planet)
+<h3>RSVP (Respect, Save &amp; Value Our Planet)</h3>
 <p align="justify">
 RSVP is a Science and Environmental Club that nurtures students’ curiosity about the world around them and encourages responsible care for the environment. Members take part in hands-on science experiments, STEM-based activities, and environmental initiatives that allow them to explore scientific concepts and apply their learning to real-world contexts.&nbsp;</p>
 <p align="justify">
