@@ -4,35 +4,50 @@ permalink: /co-curricular-activities/
 variant: markdown
 description: ""
 ---
-<h4><strong>The BTPS CCA Experience</strong></h4>
-<p><strong>Fostering Experience, Exposure and Excellence</strong>
+<h4><strong>The BTPS Co-Curricular Activities (CCA) Experience </strong></h4>
+<p><strong>Fostering Experience, Exposure and Excellence  </strong>
 <br>
-<br>At BTPS, CCA is about building character and learning values through the
-3Es of Experience, Exposure and Excellence.
+<br>At BTPS, CCA is about building character and learning values through the 3Es of Experience, Exposure and Excellence.
 <br>
 <br><strong><u>Experience</u></strong>
-<br>Students participate in a variety of experiences during CCA, allowing
-them to explore and grow beyond the classroom. Through hands-on learning,
-they grow in resilience, teamwork and leadership. The BTPS student’s CCA
-journey starts at Primary Three with the CCA Fair, where students and their
-parents learn about the different CCAs in our school. Following this, students
-can experience up to three CCA of their choice during the CCA immersion
-experience, before finally selecting a CCA.
+<br>Students participate in a variety of experiences during CCA, allowing them to explore and grow beyond the classroom. Through hands-on learning, they grow in&nbsp;resilience, teamwork, and leadership skills.&nbsp;The BTPS CCA journey starts at Primary Three with the CCA Fair, where students and their parents learn about the different CCAs in our school. Following this, students can experience up to three CCA of their choice during the immersion experience, before finally selecting&nbsp;one.
 <br>
 <br><strong><u>Exposure</u></strong>
-<br>By participating in school and community events, performances, and competitions,
-students are exposed to different cultures, disciplines, and perspectives.
-This broadens their horizons and builds their confidence.
+<br>Depending on the nature of the CCA and capacity of the CCA members, students are provided with opportunities to participate in competitions, performances and events beyond weekly CCA sessions. These experiences broaden horizons and build confidence.
 <br>
 <br><strong><u>Excellence</u></strong>
-<br>We encourage students to pursue their passions with dedication, aiming
-for personal growth and mastery in their chosen CCA. With the guidance
-of dedicated teachers, instructors and coaches, they strive for excellence
-in both individual and team achievements.
+<br>All Primary 3 to 6 students are strongly encouraged to participate in a school-based CCA. While students may be selected to represent the school in the National School Games (NSG) for sports, the Singapore Youth Festival (SYF) and other competitions and performances, students are encouraged to aim for personal growth and mastery in the CCA. Striving for excellence and persisting in their chosen CCA supports their journey towards becoming Adaptive Learners, Empathetic Leaders and Future-Ready Citizens. 
 <br>
-<br>CCA is more than just activities at BTPS. They are a journey towards becoming
-Adaptive Learner, Empathetic Leader and Future-Ready Citizen.
 <br>
+<br><strong>CCA Policy</strong>
+<br>CCAs play an important role in nurturing well-rounded students through character development, teamwork, leadership, and resilience. The following policy outlines the school’s approach to CCA participation and allocation. 
+<br>
+<br>
+<br><strong><u>CCA&nbsp;Participation</u></strong><br>
+1. <strong>Primary 3 Students</strong><br>
+Primary 3 students are encouraged to join one CCA. This marks the beginning of their formal CCA journey, and students are encouraged to make thoughtful choices and commit to the allocated CCA.
+<br>
+<br>
+2. <strong>Primary 4 and Primary 5 Students&nbsp;</strong><br>
+Primary 4 and Primary 5 students who did not&nbsp;participate&nbsp;in any CCA in the&nbsp;previous&nbsp;academic year may apply for a CCA, subject to availability.
+<br>
+<br>
+3. <strong>New Students to Bukit Timah Primary School </strong><br>
+Students who transfer from other schools to Bukit Timah Primary School between Primary 3 and Primary 6, either before or during the academic year, may apply for a CCA. 
+*Prior CCA experience may be taken into consideration. *
+<br>
+<br>
+4. <strong>CCA Transfer Requests&nbsp;</strong><br>
+Primary 4 and Primary 5 students who wish to explore a different CCA may&nbsp;submit&nbsp;a transfer request, subject to vacancies and suitability, within a stipulated period.&nbsp;Primary 6 students are to remain in their current CCA&nbsp;for continuity as CCA stands down for graduating students after Term 2.
+<br>
+<br><strong><u>CCA&nbsp;Choice and&nbsp;Placement</u></strong>
+<br>CCA placements are&nbsp;determined&nbsp;based on available vacancies, suitability, and the need to&nbsp;maintain&nbsp;balanced and sustainable CCA group sizes. Where demand exceeds capacity, the school will put&nbsp;appropriate processes&nbsp;in place&nbsp;to ensure fair and&nbsp;equitable&nbsp;allocation.
+<br>
+<br>
+<br><strong><u>Commitment and Responsibility</u></strong>
+<br>Students are expected to&nbsp;demonstrate&nbsp;responsibility and commitment once they are&nbsp;allocated&nbsp;to&nbsp;a CCA. Regular attendance and active participation are essential for meaningful learning and personal growth.
+<br><br>
+BTPS&nbsp;encourages students and parents to work in partnership with the school to support students in making informed CCA choices and sustaining their commitment throughout the year.
 <br><strong>2024 CCA ACHIEVEMENTS</strong>
 <br>
 <br>
