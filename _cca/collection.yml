@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Co Curricular Activities.md
+      - The BTPS CCA Experience.md
       - Physical Sports/.keep
       - Physical Sports/Badminton.md
       - Physical Sports/Basketball.md
