@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# Scouts
+<h3>Scouts</h3>
 <p align="justify">
 Guided by the Scout Promise and Law, Scouting at BTPS provides students with opportunities to develop character, responsibility, and care for others. Through hands-on activities such as First Aid, outdoor cooking, camping, and community service, scouts build practical life skills while learning to contribute positively to their school and the wider community.&nbsp;</p>
 <p align="justify">
