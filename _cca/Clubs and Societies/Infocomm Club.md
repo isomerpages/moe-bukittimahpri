@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Clubs and Societies
 ---
-## INFOCOMM CLUB
+## Infocomm&nbsp;Club
 <p align="justify">
 The&nbsp;Infocomm&nbsp;Club provides students with opportunities to explore computing and digital creativity through hands-on learning experiences. Members take part in activities such as coding projects and collaborative problem-solving tasks, which help to develop logical thinking, creativity, and teamwork.&nbsp;</p>
 <p align="justify">
