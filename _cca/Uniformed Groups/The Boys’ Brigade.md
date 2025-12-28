@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# The Boys’ Brigade (56J Company) 
+<h3>The Boys’ Brigade (56J Company) </h3>
 
 <p align="justify">The Boys’ Brigade at BTPS&nbsp;(sponsored by the Church of Singapore,&nbsp;Bukit Timah)&nbsp;seeks&nbsp;to nurture boys to serve and lead, grounded in Christian values and&nbsp;with&nbsp;a strong emphasis on character development and&nbsp;sense of&nbsp;responsibility. The 56J Company provides a structured and supportive environment where boys grow through regular parades, drills, First Aid training, and participation in brigade-wide activities such as Character Quest and camps.&nbsp;</p>
 <p align="justify">
