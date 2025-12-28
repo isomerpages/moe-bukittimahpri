@@ -7,12 +7,11 @@ third_nav_title: Uniformed Groups
 ---
 # Scouts
 <p align="justify">
-Guided by the Scout Law and Promise, scouting at our school offers a stimulating environment that develops both intellectual and physical skills. Scouts learn essential life skills such as First Aid, outdoor cooking, and camping. Our weekly sessions focus on character building, aiming to cultivate disciplined, adaptable, and resilient team players.</p>
-
+Guided by the Scout Promise and Law, Scouting at BTPS provides students with opportunities to develop character, responsibility, and care for others. Through hands-on activities such as First Aid, outdoor cooking, camping, and community service, scouts build practical life skills while learning to contribute positively to their school and the wider community.&nbsp;</p>
 <p align="justify">
-Scouts also have opportunities to take on leadership roles through positions such as Sixer or Assistant Sixer, leading teams of six members. In recognition of their exceptional leadership and contributions, two of our scout leaders were honored with the Akela Award in 2024, the highest accolade for Cub Scouts in Singapore.</p>
+Weekly sessions help students develop discipline, adaptability, and resilience as they work together in teams and respond to challenges. Scouts learn to support one another, take initiative, and&nbsp;grow in&nbsp;confidence through shared experiences and outdoor learning.&nbsp;</p>
 <p align="justify">
-Through practical skill-building, we prepare our scouts for real-life situations. Service to others fosters a sense of pride and community contribution. Additionally, recreational sports and activities provide a fun way for scouts to bond, enjoy themselves, and create lasting memories with their peers.</p>
+Leadership responsibilities within the troop&nbsp;provide&nbsp;opportunities for students to guide and support their peers, strengthening their sense of responsibility and empathy. Through Scouting, students are nurtured to become&nbsp;confident&nbsp;team players who lead with care and purpose.</p>
 
 ![](/images/CCA/25_scouts_02.png)<br>
 ![](/images/CCA/25_scouts_01.png)<br>
