@@ -5,11 +5,11 @@ variant: markdown
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-<h3>DANCE-VERSITY</h3><p align="justify">
-At Dance-Versity, our students embody the core school values of respect, resilience, compass, and adaptability. Through a diverse range of dance styles, our members learn to respect different cultures and traditions, while resilience is cultivated through rigorous training and practice. The compass guides them to make ethical choices and stay true to their values, and adaptability allows them to thrive in the ever-changing world of performing arts.</p>
-
-<h4>Achievements:</h4>
-•	2024: SYF Arts Presentation, Certificate of Distinction.
+<h3>International&nbsp;Dance (Dance-Versity)</h3>
+<p align="justify">
+Dance-Versity&nbsp;is a vibrant CCA where students explore a variety of dance styles and express themselves creatively through movement. Through structured dance training and performance opportunities, students learn to be adaptable as they try new choreography, collaborate with different teammates, and respond confidently to challenges. This supports the school’s vision of developing Adaptive Learners who think flexibly and embrace new experiences.&nbsp;</p>
+<p align="justify">
+Students also build discipline, teamwork, and confidence as they work towards improving their dance techniques. They learn to coordinate as a group, listen to feedback, and perform with pride. Over time, students grow in creativity and responsibility,&nbsp;demonstrating&nbsp;respect for one another during training sessions and performances while developing&nbsp;a strong sense&nbsp;of commitment to the CCA.</p>
 
 ![](/images/CCA/dance24_7.jpg)
 
