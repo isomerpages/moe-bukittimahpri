@@ -19,20 +19,20 @@ Students participate in a variety of experiences during CCA, allowing them to 
 <br>CCAs play an important role in nurturing well-rounded students through character development, teamwork, leadership, and resilience. The following policy outlines the school’s approach to CCA participation and allocation. </p>
 <br>
 <p align="justify"><strong><u>CCA&nbsp;Participation</u></strong><br>
-1. <strong>Primary 3 Students</strong><br>
+1. <strong><font color="#4b0082">Primary 3 Students</font></strong><br>
 Primary 3 students are encouraged to join one CCA. This marks the beginning of their formal CCA journey, and students are encouraged to make thoughtful choices and commit to the allocated CCA.
 <br>
 <br>
-2. <strong>Primary 4 and Primary 5 Students&nbsp;</strong><br>
+2. <strong><font color="#4b0082">Primary 4 and Primary 5 Students&nbsp;</font></strong><br>
 Primary 4 and Primary 5 students who did not&nbsp;participate&nbsp;in any CCA in the&nbsp;previous&nbsp;academic year may apply for a CCA, subject to availability.
 <br>
 <br>
-3. <strong>New Students to Bukit Timah Primary School </strong><br>
+3. <strong><font color="#4b0082">New Students to Bukit Timah Primary School</font> </strong><br>
 Students who transfer from other schools to Bukit Timah Primary School between Primary 3 and Primary 6, either before or during the academic year, may apply for a CCA. 
-*Prior CCA experience may be taken into consideration. *
+<i>Prior CCA experience may be taken into consideration. </i>
 <br>
 <br>
-4. <strong>CCA Transfer Requests&nbsp;</strong><br>
+4. <strong><font color="#4b0082">CCA Transfer Requests</font></strong><br>
 Primary 4 and Primary 5 students who wish to explore a different CCA may&nbsp;submit&nbsp;a transfer request, subject to vacancies and suitability, within a stipulated period.&nbsp;Primary 6 students are to remain in their current CCA&nbsp;for continuity as CCA stands down for graduating students after Term 2.
 <br>
 </p><p align="justify"><strong><u>CCA&nbsp;Choice and&nbsp;Placement</u></strong>
