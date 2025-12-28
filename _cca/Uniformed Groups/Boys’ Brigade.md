@@ -5,10 +5,13 @@ variant: markdown
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# Boys’ Brigade 
+# The Boys’ Brigade (56J Company) 
 
-<p align="justify">The Boys’ Brigade mission is to nuture youth, based on Christian values, to serve and lead. 56J Company achieved the Distinction Award for the prestigious JM Fraser Award for Excellence for Year of Assessment 2023. Besides learning badge work such as drills and First Aid, our boys are also challenged to participate in Brigade-wide competitions such as Character Quest and get the opportunity to fellowship with Boys from other schools through a Combined camp.</p>
-<p align="justify">Boys learn leadership skills through exposure in weekly parades that include overnight camps, outings and activities to help foster parent-child bonding. Boys learn many different values like teamwork, respect and resilience and we hope they will live out the BB moto to be “Sure and Steadfast”.  </p>
+<p align="justify">The Boys’ Brigade at BTPS&nbsp;(sponsored by the Church of Singapore,&nbsp;Bukit Timah)&nbsp;seeks&nbsp;to nurture boys to serve and lead, grounded in Christian values and&nbsp;with&nbsp;a strong emphasis on character development and&nbsp;sense of&nbsp;responsibility. The 56J Company provides a structured and supportive environment where boys grow through regular parades, drills, First Aid training, and participation in brigade-wide activities such as Character Quest and camps.&nbsp;</p>
+<p align="justify">
+Through teamwork, outdoor activities, and shared experiences, boys develop resilience, empathy, and respect for others. Opportunities for collaboration and parent-child bonding further strengthen relationships and encourage boys to make responsible decisions as part of a community.&nbsp;</p>
+<p align="justify">
+Guided by the Boys’ Brigade motto, “Sure and Steadfast,” members are supported in building confidence, leadership skills, and a steadfast character that guides them in their learning journey. </p>
 
 ![](/images/CCA/BB24_6.jpg)
 
@@ -19,4 +22,3 @@ third_nav_title: Uniformed Groups
 ![](/images/CCA/BB24_5.jpg)
 
 ![](/images/CCA/bb24_4.jpg)
-
