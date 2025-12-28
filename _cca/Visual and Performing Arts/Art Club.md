@@ -5,12 +5,11 @@ variant: markdown
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-<h3>ART CLUB</h3><p align="justify">
-The Art Club is a vibrant and inclusive community within our school, dedicated to nurturing the creative spirit of our students. It provides a platform for students to explore various art forms, express themselves, and develop their artistic skills beyond what is offered in the curriculum. Students engage in a range of activities such as painting, drawing, sculpture, and mixed media. Alongside technical proficiency, we strive to instill important values such as creativity, imagination, teamwork, and self-expression. </p>
+<h3>Art Club</h3>
 <p align="justify">
-Our students' adventurous spirit leads them to exciting projects like The Council for Third Age (C3A) Intergenerational Learning Programme, road safety messages with Land Transport Authority (LTA), and Singapore Youth Festival (SYF) Arts Exhibition. </p>
+In Art Club, students explore their creativity through painting, drawing, sculpture, and mixed-media art in an inclusive and supportive setting. They are given opportunities to embark on learning journeys and&nbsp;participate&nbsp;in masterclasses with local artists, gaining inspiration and deeper insights into different artistic practices. Through creative challenges, students develop resilience as they experiment with ideas and push their artistic boundaries.&nbsp;</p>
 <p align="justify">
-We believe Art is about the journey and passion behind each creation, and we foster a supportive environment where resilience and exploration shape the creative thinkers of tomorrow.</p>
+Within a collaborative environment, students learn to appreciate diverse artistic expressions and work meaningfully with others. They&nbsp;demonstrate&nbsp;responsibility by taking ownership of their artistic journey, while showing adaptability as they explore a range of techniques and mediums across different projects.</p>
 
 ![](/images/CCA/25_art_01.png)<br>
 ![](/images/CCA/25_art_02.png)<br>
