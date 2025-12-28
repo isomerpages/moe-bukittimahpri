@@ -5,13 +5,14 @@ variant: markdown
 description: ""
 third_nav_title: Clubs and Societies
 ---
-# RSVP
+# RSVP (Respect, Save &amp; Value Our Planet)
 <p align="justify">
-RSVP, which stands for Respect Save Value our Planet, is a science and environmental club dedicated to fostering a deep appreciation for the environment and scientific inquiry. In RSVP, students engage in a variety of hands-on science experiments and investigations, exploring new ideas, conducting experiments, and gathering evidence to understand and validate scientific theories.</p>
+RSVP is a Science and Environmental Club that nurtures students’ curiosity about the world around them and encourages responsible care for the environment. Members take part in hands-on science experiments, STEM-based activities, and environmental initiatives that allow them to explore scientific concepts and apply their learning to real-world contexts.&nbsp;</p>
 <p align="justify">
-Members of RSVP also lead and implement environmental projects both within the school and in the broader community. For example, they have given assembly presentations and organized activities during recess and in the library to educate their peers about plastic recycling. Additionally, they manage a weekly collection of plastic recyclables for the school. Students have the opportunity to attend environmental workshops organized by secondary schools and the NEA to stay informed about current environmental issues.</p>
+Through investigations and projects related to topics such as recycling and sustainability, students learn to think critically and take ownership of their learning. Opportunities to engage with external partners and&nbsp;participate&nbsp;in workshops further broaden students’ understanding of environmental issues and eco-friendly practices.&nbsp;</p>
 <p align="justify">
-RSVP collaborates with Epson Industrial Pte Ltd, our corporate partner in environmental education, to learn about eco-friendly practices and initiate changes within our school. Through these programmes, we aim to develop student leaders who are passionate about protecting the environment and are motivated to make a positive impact.</p>
+By contributing to school-wide initiatives and outreach efforts, RSVP members develop a growing sense of responsibility towards their community and the environment. Through these experiences, students become more confident, reflective, and motivated learners who are committed to making positive contributions to a sustainable future.</p>
+
 
 ![](/images/CCA/rsvp24.jpg)<br>
 ![](/images/CCA/25_RSVP_02.png)<br>
