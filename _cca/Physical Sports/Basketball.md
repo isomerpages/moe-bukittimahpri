@@ -5,16 +5,11 @@ variant: markdown
 description: ""
 third_nav_title: Physical Sports
 ---
-<h3>BASKETBALL</h3><p align="justify">
-<strong>BTPS Basketball</strong> is a dynamic CCA dedicated to fostering resilience, respect, and passion for the sports and the game of Basketball. Officially established in 2022, the CCA has  attracted students seeking a supportive and growth-oriented sporting experience. We pride ourselves on creating an inclusive environment where players of all backgrounds and skill levels can thrive. With the school’s new Indoor Sports Hall, we provide an exceptional space for learning and playing.
-
-</p>
+<h3>Basketball&nbsp;(Boys)</h3>
 <p align="justify">
-We believe that resilience and respect are fundamental values both on and off the court. Our players are encouraged to develop mental toughness, perseverance, and the ability to overcome challenges. Through rigorous training sessions, intense competitions, and a supportive team environment, we instill a resilient mindset that helps our students reach their full potential. Respect is emphasized in all aspects of the game, as our players are taught to respect their coaches, teammates, opponents, referees, and the game itself.</p>
-<h4>Achievements:</h4>
-•	2023: Junior Boys Tier 3 Group Champion<br>
-•	2024: Junior Boys, Pool Round; Senior Boys League 5, 3rd Place
-
+BTPS Basketball provides students with opportunities to learn and play the sport in a supportive team environment. The CCA welcomes students of different skill levels and focuses on building fundamental basketball skills, game awareness, and teamwork through training and match play.&nbsp;</p>
+<p align="justify">
+Through regular training, students learn to stay focused, adapt to challenges, and persevere during demanding situations. They develop discipline, teamwork, and sportsmanship as they work together to improve their performance and understanding of the game. These experiences help students grow in confidence and resilience, supporting their overall development as learners and team players.</p>
 
 ![](/images/CCA/basketball24.jpg)<br>
 ![](/images/CCA/25_basketball_01.png)<br>
