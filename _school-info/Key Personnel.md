@@ -103,9 +103,9 @@ variant: markdown
 <p>Mrs Angeline Teo
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/angeline.png">
-</div>
+<a href="https://www.bukittimahpri.moe.edu.sg/">
+    <img alt="Mrs Angeline Teo" src="/images/Staff Photos/angeline.png">
+</a>
 </td>
 <td rowspan="1" colspan="1">
 <p>YH/Pri 4 and Pri 5</p>
