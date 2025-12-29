@@ -199,135 +199,34 @@ Platinum Award<br>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30; background-color:#FFF4A9;">
 <p><strong>Scouts</strong></p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Akela Award (Highest Achievement for Junior Scout) <br>
-– 2 students</p>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>Akela Award</strong><br>
+*   Ooi Charlotte Jia Hui&nbsp;<br>
+*   David&nbsp;Nursalim
+</p>
+</td>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30; background-color:#d9d9d9;"> 
+<p></p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30; background-color:#FFF4A9;">
+<p><strong>Boys’ Brigade</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30; background-color:#d9d9d9;"> 
 <p>
-<br>Summary of CCAs Offered in Bukit Timah Primary School
-<br>Click on the links below to find out more about our CCAs.
-<br>
-</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Physical Sports</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Uniformed Groups</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Visual &amp; Performing Arts</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Clubs &amp; Societies</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.bukittimahpri.moe.edu.sg/cca/physical-sports/badminton/" rel="noopener nofollow" target="_blank">Badminton</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.bukittimahpri.moe.edu.sg/cca/uniformed-groups/boys-brigade/" rel="noopener nofollow" target="_blank">Boys' Brigade</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.bukittimahpri.moe.edu.sg/cca/visual-and-performing-arts/art-club/" rel="noopener nofollow" target="_blank">Art Club</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.bukittimahpri.moe.edu.sg/cca/clubs-and-societies/infocomm-club/" rel="noopener nofollow" target="_blank">Infocomm Club</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.bukittimahpri.moe.edu.sg/cca/physical-sports/basketball/" rel="noopener nofollow" target="_blank">Basketball</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.bukittimahpri.moe.edu.sg/cca/uniformed-groups/scouts/" rel="noopener nofollow" target="_blank">Scouts</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.bukittimahpri.moe.edu.sg/cca/visual-and-performing-arts/brass-symphonia/" rel="noopener nofollow" target="_blank">Brass Symphonia</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.bukittimahpri.moe.edu.sg/cca/clubs-and-societies/rsvp/" rel="noopener nofollow" target="_blank">RSVP</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.bukittimahpri.moe.edu.sg/cca/physical-sports/football/" rel="noopener nofollow" target="_blank">Football</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.bukittimahpri.moe.edu.sg/cca/visual-and-performing-arts/choir/" rel="noopener nofollow" target="_blank">Choir</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.bukittimahpri.moe.edu.sg/netball/" rel="noopener nofollow" target="_blank">Netball</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.bukittimahpri.moe.edu.sg/cca/visual-and-performing-arts/dance-versity/" rel="noopener nofollow" target="_blank">Dance Versity</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.bukittimahpri.moe.edu.sg/cca/physical-sports/rugby/" rel="noopener nofollow" target="_blank">Rugby</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.bukittimahpri.moe.edu.sg/cca/visual-and-performing-arts/drama-club/" rel="noopener nofollow" target="_blank">Drama Club</a>
-</p>
-</td>
-</tr><tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.bukittimahpri.moe.edu.sg/wushu/" rel="noopener nofollow" target="_blank">Wushu</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+</p></td>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>J.M. Fraser Award for Excellence</strong>
+Distinction</p>
 </td>
 </tr>
 </tbody>
 </table>
+
+
+
 <p></p>
