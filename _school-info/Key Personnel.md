@@ -100,7 +100,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Angeline Teo</p>
+<p>Mrs Angeline Teo
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos/angeline.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>YH/Pri 4 and Pri 5</p>
@@ -133,7 +138,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th style="minwidth: 40%" rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
@@ -257,7 +262,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>LEVEL HEAD (LH) | SUBJECT HEAD (SH)</strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -265,7 +270,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th style="minwidth: 40%" rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
