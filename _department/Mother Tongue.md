@@ -4,52 +4,29 @@ permalink: /department/mother-tongue/
 description: ""
 variant: markdown
 ---
-<h3><u>Our Vision</u></h3><p align="justify">
-The Mother Tongue Language (MTL) Department strives to develop BTPS students to become confident communicators and active learners of MTL, who are effectively bilingual and rooted in traditional culture.</p>
+<p align="justify"><strong>Overview:&nbsp;&nbsp;</strong>Our MTL&nbsp;curriculum and&nbsp;programme&nbsp;seek&nbsp;to inspire a love for learning through fun, engaging and student-centered experiences that develop confident communicators, empathetic&nbsp;leaders&nbsp;and adaptive learners. By integrating pedagogies such as EdTech, Differentiated Instruction (DI), Inquiry-Based Learning through the Thinking Routine (IBL-TR), experiential&nbsp;learning&nbsp;and gamification, we create authentic and meaningful learning experiences. Students explore language through real-world contexts, collaborative discussions, and interactive digital tools that cater to their diverse learning needs. These approaches not only strengthen their language&nbsp;proficiency&nbsp;but also deepen their cultural appreciation, enabling them to connect with their heritage, value cultural diversity, and thrive as future-ready global citizens.</p>
 
-<h3><u>Our Mission</u></h3><p align="justify">
-Our mission is to enthuse pupils through fun and engaging teaching pedagogies while learning Mother Tongue.</p>
+<strong><font color="#4b0082">Our Key Programmes</font></strong>
+<table>
+<tbody><tr><td style="background-color: #7C71AD;"><strong><font color="ffffff">The Math Journal (TOM): Where Ideas Take Shape</font></strong></td></tr>
+<tr><td><p align="justify">Mathematics journalling provides students with opportunities to reflect on ;their learning, explain their reasoning, and make meaningful connections between mathematical ideas. Across all levels, students are guided to reason logically, explore different strategies, and develop metacognitive abilities as they reflect on their learning journey. Through regular journal entries supported by thinking routines, students learn to communicate their thinking clearly using mathematical language, diagrams, and examples. These routines deepen reflection and help students articulate what they notice, wonder, and understand. </p>
+<p align="justify">
+The journalling process strengthens critical thinking as students justify their approaches, builds adaptive thinking as they revise strategies based on new insights, and encourages inventive thinking as they explore alternative methods or create their own representations. Over time, journalling nurtures confident and thoughtful learners who take ownership of their learning and see Mathematics as a dynamic and connected discipline.</p></td></tr>
 
-<h3><u>Our Belief</u></h3><p align="justify">
-We believe that every child can learn. The BTPS MT teachers sees every BTPS pupil as a flower bud. They will all bloom but at their own pace. Our role as teachers is to nurture each bud patiently and diligently so that they will blossom eventually.</p>
-<h2>Key Programmes</h2>
-<h3><u>Reading Programme</u></h3><p align="justify">
-We aim to build a strong foundation and nurture the love of Mother Tongue in our students through reading. Our Reading Programme includes “Visit the Library”, “School Based Reading Activities” and “SLS Reading Mums &amp; Dads”. Every year, students will be introduced to the new books in the school library collection. </p><p></p>
-<center><img src="/images/School%20Photos/reading_programme.png"></center>
-<p align="justify">“SLS Reading Mums &amp; Dads” is a collaboration between parents and teachers where our supportive Reading Mums and Reading Dads will read Chinese story books to our students online. Teachers will create online activities like Kahoot and Drawing to further stimulate the interest of our students.</p>
-<h3><u>World Book Day</u></h3>
-
-<p align="justify">In conjunction with World Book Day, we organised a series of activities to encourage our students to discover the pleasure of reading. Activities include visiting the MOLLY bus by National Library Board, picture book introduction and presentation by a renowned local author and performances put up by teachers.<br><img style="width:80%" src="/images/School%20Photos/world_book_day_in_2023.png">Students engage in classroom activities to create their own books and Malay students get to dress up as their favourite characters from the book. Our school also hosted a book fair from a local publisher. </p>
-
-
-<h3><u>Mother Tongue Learning Fortnight</u></h3><p align="justify">
-</p><p align="justify">We aim to create an immersive environment for the learning of Mother Tongue languages and appreciation of Singapore’s unique culture. In 2023, the theme is  “Kampong Spirit”. Our pupils will get to enjoy various performances and activities which allow them to enjoy Kampong life.  </p>
-
-<h3>MTLF Closing 2023</h3>
-<iframe src="https://www.youtube.com/embed/MlVe5N9YPMQ" height="400" width="500">
-</iframe>
-<h3>Parent Child Video Making CL</h3>
-<iframe src="https://www.youtube.com/embed/kRSWvFL7skM" height="400" width="500">
-</iframe>
-<h3>Parent Child Video Making ML</h3>
-<iframe src="https://www.youtube.com/embed/DYwN82f7BQ8" height="400" width="500">
-</iframe>
-<h3>Parent Child Video Making TL</h3>
-<iframe src="https://www.youtube.com/embed/m5pR2UjpHE" height="400" width="500">
-</iframe>
-<h3><u>Learning Journeys</u></h3><p align="justify">On 9th May 2023, our Primary Four students visited  SINGAPORE HOKKIEN HUAY KUAN CULTURAL ACADEMY  for a live drama experience  where they were immersed  in a thought-provoking performance put up by a local theatre company. </p><center>
-<img style="border:2px solid #0A0B30;width:360px;height:200px;" src="/images/p004lj.png"><br><img style="border:2px solid #0A0B30;width:360px;height:280px;" src="/images/lj0002.jpeg"><strong>Primary 4 Learning Journey to Singapore Hokkien Huay Kwan Cultural Academy</strong> </center>
-
-<h2>Competitions</h2>
-<h3><u>Goodtalk “Global Village” Children &amp; Youth Bilingual Speech Convention</u></h3><p align="justify">We aim to cultivate student appreciation of their Mother Tongue through positive experiences. In order to provide these experiences, for the third year in a row, our school has participated in the Goodtalk “Global Village” Children &amp; Youth Bilingual Speech Convention.
-This competition cum convention is a semi-official activity organised by China in collaboration with countries like Australia, the United States, Denmark, Japan and Singapore. It aims to promote Chinese and English language among young second language users. Through speech competitions and exchange activities, it also serves to deepen the learning and understanding of each other’s cultures.
- </p>
-<center><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/good%20talk.jpeg"><br><img style="border:2px solid #0A0B30;width:360px;height:200px;" src="/images/good%20talk%201.jpeg"><strong>14th Goodtalk “Global Village” Children &amp; Youth Bilingual Speech Convention</strong></center>
-
-
-<h3><u>Pongalo Pongal 2023</u></h3>
-<p align="justify">In conjunction with the celebration of the harvest festival by Tamil commmunity, Pongal, our Tamil pupils took part in “Pongalo Pongal 2023” - a series of competitions for primary school Tamil pupils organised  by Mediacorp Seithi.
- </p>
-<p align="justify">Dhakshanya from 5 Compassion took part in the competition. As part of the competition, she wrote a letter to a friend sharing information about Pongal. Her entry won the Top 6 entries nationwide and was published on the Mediacorp Seithi’s website. Dhakshanya  wrote about the four days of Pongal celebration, namely ‘Bhogi’ (when old things in the house are disposed by burning), ‘Surya Pongal’ (when Pongal rice is cooked in a pot. As it boils over, the celebrants shout ‘Pongalo Pongal’ representing the ushering in of new beginnings and blessings), ‘Maattu Pongal’ (when cows are revered and honoured for their role in farming) and ‘Kaanum Pongal’ (when relatives visit each other and receive blessings from their elders). Her drawing of sugarcanes and the Pongal pot at the end of the letter enhanced her written entry.</p>
-
-<center><img style="border:2px solid #0A0B30;width:360px;height:300px;" src="/images/letter%20written%20by%20dhakshanya.jpg"><strong>Winning entry by Dhakshanya</strong></center>
+<tr><td style="background-color: #f48470;"><strong><font color="ffffff">Future-Makers: Math Through Financial Literacy &amp; STEM </font></strong></td></tr>
+<tr><td><p align="justify">Through financial literacy tasks and STEM-based challenges, students experience Mathematics as a practical, useful and creative subject. They learn to budget, analyse information, make informed choices and design simple solutions. These experiences show them how mathematical thinking supports everyday decisions and drives many of today’s innovations. </p>
+<p align="justify">
+As students work together to explore ideas, test prototypes and reflect on their learning, they become more confident in tackling unfamiliar problems and more comfortable thinking critically and creatively. These experiences encourage them to ask questions, consider alternatives and use Mathematics to make sense of real-life situations. </p>
+<p align="justify">
+By connecting mathematical concepts to everyday decisions and emerging technologies, the programme nurtures habits that prepare students to be future-ready — adaptable in new situations, thoughtful in their choices, and equipped with the reasoning skills needed to thrive in a world shaped by innovation and change.</p>
+</td></tr>
+<tr><td style="background-color: #74cdd7;"><strong><font color="ffffff">Math Enrichment Lab: Extending Ideas and Challenges</font></strong></td></tr>
+<tr><td><p align="justify">Our Enrichment Programme offers selected Primary 4 to 6 students opportunities to go beyond the standard curriculum and explore Mathematics at greater depth. Through platforms such as Math Olympiad Training, E2K and MathExpert@Work, students engage with complex, non-routine problems that require flexible thinking, creative reasoning and strategic problem-solving.</p> 
+<p align="justify">
+These experiences nurture adaptive learners who can adjust their approaches when faced with unfamiliar challenges, consider alternative strategies and persist through difficulty. As students explore advanced concepts, they learn to embrace uncertainty, refine their thinking, and see mistakes as part of the learning process. 
+</p>
+<p align="justify">
+By engaging in collaborative investigations and Olympiad competitions, students build confidence, strengthen ;higher-order thinking skills and experience the excitement of uncovering mathematical ideas in new and meaningful ways. The programme not only deepens their appreciation for Mathematics, but also equips them with the adaptability and resilience needed to thrive in more complex learning environments.</p>
+<p></p>
+</td></tr>
+</tbody></table>
