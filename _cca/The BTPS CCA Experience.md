@@ -110,28 +110,43 @@ BTPS&nbsp;encourages students and parents to work in partnership with the school
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1" style="border:2px solid #0A0B30; background-color:#FFF4A9;">
 <p><strong>Rugby</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Boys: Tier 1, 2nd</p>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>Junior&nbsp;Boys</strong><br>Tier 1, 2nd</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Boys: League 2, Champion</p>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>Junior&nbsp;Boys</strong><br>Pool Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>Senior Boys</strong><br>League 2 Champion</p>
+</td>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>Senior Boys</strong><br>Pool Round</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3" style="border:2px solid #0A0B30;">
-<p><strong>Singapore Youth Festival (SYF) Arts Presentation</strong>
+<p><strong>Visual &amp; Performing Arts</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Brass Symphonia</strong></p>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30; background-color:#FFF4A9;">
+<p><strong>Art Club</strong></p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Distinction</p>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30; background-color:#d9d9d9;"> 
+<p></p>
+</td>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>SYF Art Exhibition</strong><br>
+<strong>Category B</strong>&nbsp;<br>
+Certificate of Recognition&nbsp;&nbsp;<br>
+<strong>Category C</strong>&nbsp;<br>
+Certificate of Recognition (Special Mention)</p>
 </td>
 </tr>
 <tr>
