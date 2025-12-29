@@ -25,7 +25,7 @@ Primary 4 and Primary 5 students who did not participate in any CCA in the previ
 <br>
 <br>
 3. <strong><font color="#4b0082">New Students to Bukit Timah Primary School</font></strong><br>
-Students who transfer from other schools to Bukit Timah Primary School between Primary 3 and Primary 6, either before or during the academic year, may apply for a CCA. 
+Students who transfer from other schools to Bukit Timah Primary School between Primary 3 and Primary 6, either before or during the academic year, may apply for a CCA. <br>
 <i>Prior CCA experience may be taken into consideration. </i>
 <br>
 <br>
