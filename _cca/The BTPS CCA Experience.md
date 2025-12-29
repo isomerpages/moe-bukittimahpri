@@ -43,9 +43,9 @@ BTPS&nbsp;encourages students and parents to work in partnership with the school
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
 <td rowspan="2" colspan="5" style="border:2px solid #0A0B30; text-align: center;"><strong>Category</strong></td>
-<td rowspan="2" style="border:2px solid #0A0B30; width:20% text-align: center;"><strong>CCA</strong></td>
-<td colspan="2" style="border:2px solid #0A0B30; width:20% text-align: center;"><strong>Training Schedule</strong></td>
-<td rowspan="2" style="border:2px solid #0A0B30; width:20% text-align: center;"><strong>Venue</strong></td>
+<td rowspan="2" style="border:2px solid #0A0B30; text-align: center;"><strong>CCA</strong></td>
+<td colspan="2" style="border:2px solid #0A0B30; text-align: center;"><strong>Training Schedule</strong></td>
+<td rowspan="2" style="border:2px solid #0A0B30; text-align: center;"><strong>Venue</strong></td>
 </tr>
 <tr>
 <td style="border:2px solid #0A0B30; text-align: center;"><strong>Tuesday</strong>
