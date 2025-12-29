@@ -4,61 +4,43 @@ permalink: /department/science/
 description: ""
 variant: markdown
 ---
-# SCIENCE
+<p align="justify"><strong>Overview:</strong><br>The Science Department at Bukit Timah Primary School promotes inquiry-based learning to spark curiosity, develop thinking, and connect science to life. Through hands-on investigations and real-world applications, students learn to ask questions, explore possibilities, and reason scientifically. Our programmes emphasise inventive and adaptive thinking, while fostering a strong sense of responsibility toward the environment and community. Values-based science tasks and sustainability themes provide meaningful opportunities for students to reflect on their impact and make ethical decisions. By engaging in collaborative, reflective, and exploratory learning, our students grow as confident science learners who are prepared to apply scientific knowledge purposefully in everyday life.</p>
 
-<p align="justify">At BTPS, we treat every pupil as an inquirer of Science. Our vision is <strong>‘Curious Minds, Engaged Science Learners’</strong>. We believe that all pupils are curious about the world around us. We want to tap into this curiosity and engage them in the meaningful learning of Science. <br><br>
-Through our lessons and programmes, we aim to develop our pupils into curious learners with the knowledge and skills to explore and understand the world around them. </p>
+<p align="justify"><strong>Department mission:</strong><br>
+To design inquiry-based learning experiences that spark curiosity, develop thinking, and connect science to life.
+</p>
 
+<strong>Objectives:</strong>
+<ul>
+<li>Develop students’ curiosity,&nbsp;adaptability&nbsp;and resilience through scientific inquiry and hands-on exploration.&nbsp;</li>
+<li>Strengthen conceptual understanding and thinking skills by constructing their own understanding through inquiry-based learning.&nbsp;</li>
+<li>Cultivate critical thinking,&nbsp;collaboration&nbsp;and responsibility by applying the “Ways of Thinking and Doing in Science” — Investigating, Evaluating, Reasoning and Developing Solutions.</li>
+<li>Nurture appreciation of&nbsp;Science&nbsp;by connecting concepts to daily living, ethical decision-making&nbsp;and real-world relevance.</li>
+</ul>
 
-<b><u>Through our Science programme, BTPS pupils will: </u></b><br>
-•	 Construct their own understanding about Science topics.<br>
-•	 Connect scientific concepts to daily living and decision making.<br>
-• 	Demonstrate “Ways of Thinking and Doing in Science” through Investigating, Evaluating, Reasoning and Developing and Evaluating Solutions. <br>
-•	 Develop the character strength of Resilience.
-
-<p align="justify">
-Through the SAM journal, our pupils form a deeper understanding of what they learn and develop skills of critical thinking. It is essential that pupils do not become proficient ‘regurgitators’ of information but rather individuals capable of applying, innovating and constructing new knowledge from what they have learnt.</p>
-
-# <u> OUR KEY PROGRAMMES</u>
-<table><tbody><tr><td style="background-color:#ef3e6a;"><strong><font color="#ffffff">SAM JOURNAL (CREATIVE EXPRESSIONS OF LEARNING)</font></strong></td></tr>
-<tr><td><p align="justify">
-Journaling allows pupils to make their thinking visible and express themselves in their preferred styles. Through the SAM (Science Around Me) journal, we actively support each child to take charge of their own learning. Journaling tasks can take on different forms, including poster design, investigative experiment, observation record, mind map generation and the application of Thinking Routines (TR).  </p></td></tr></tbody></table>
-
-<p align="justify">
-<u><b>The use of Thinking Routines challenges our pupils to:</b></u><br>
-• 	Reflect and pose questions about their learning. <br>
-• 	Actively look for answers in their observations. <br>
-• 	Explain and rationalise their thinking.<br>
-• 	Link their learning to the world around them. <br></p><p></p>
-
-<p align="justify">
-Through the SAM journal, our pupils <strong>form a deeper understanding of what they learn and develop skills of critical thinking</strong>. It is essential that pupils do not become proficient ‘regurgitators’ of information but rather <strong>individuals capable of applying, innovating and constructing new knowledge</strong> from what they have learnt.</p><img src="/images/School%20Photos/science1.png"><img src="/images/School%20Photos/science2.png">
-<table><tbody><tr><td style="background-color:#7c58a5;"><strong><font color="#ffffff">
-SCIENCE EXPLORATION DAY (ENCOURAGING CURIOSITY AND LOVE OF LEARNING)</font></strong></td></tr></tbody></table>
-<p align="justify">
-Science Exploration Day lets pupils showcase their Science projects or research results. Pupils have the opportunity to apply and explore their understanding of Science. 
-Science teachers guide pupils to align their projects to the practices of good scientific research.</p><img style="border:2px solid #0A0B30; width:300px;height:360px;" src="/images/sci006.jpg"><br><img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/sci005.jpg"><br>
-
-<p align="justify">Pupils then present their work, strengthening their communication and public speaking skills. This builds up their confidence and develops them as confident practitioners of Science. </p>
-
-<table><tbody><tr><td style="background-color:#ffeb36;">
-	<strong>LEARNING GARDEN @ BTPS (SCIENCE AROUND US)</strong></td></tr></tbody></table><p align="justify">
-The Learning Garden is where pupils can observe a large variety of organisms. Sharp-eyed pupils may be quick to spot butterflies, dragonflies and even the occasional Oriental Garden Lizard on a lucky day. </p>
-<img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/sci007.jpg">
-<p align="justify">
-The experience of collecting and observing real-life data excites pupils. Teachers make use of the garden to support the understanding of concepts in Life Science lessons – Diversity, Cycles, Reproduction of plants and animals. Observation tasks in the garden makes learning meaningful as students are encouraged to draw connections between knowledge learnt in class and what they experience personally.  </p><img style="border:2px solid #0A0B30; width:360px;height:200px;" src="/images/sci008.jpg"><br><img style="border:2px solid #0A0B30; width:360px;height:200px;" src="/images/sci009.jpg"><br><img style="border:2px solid #0A0B30; width:360px;height:200px;" src="/images/sci010.jpg"><br>
+<strong><font color="#4b0082">Our Key Programmes</font></strong>
 <table>
-<tbody><tr><td style="background-color:#74cdd7;">
-<strong>SUPPORT PROGRAMMES (BUILDING CONFIDENCE)</strong></td></tr></tbody></table>
-
+<tbody><tr><td style="background-color: #7C71AD;"><strong><font color="ffffff">Science Journaling: Science Around Me (SAM)</font></strong>br</td></tr>
+<tr><td><p align="justify">The SAM journal makes students’ thinking visible and empowers them to take ownership of learning. It allows for expression in varied forms — such as poster designs, investigations, observation logs, mind maps, and Thinking Routines (TR) —&nbsp;catering to diverse learning styles.&nbsp;</p>
 <p align="justify">
-These programmes are customised for pupils who need additional support in the learning of Science. This supports pupils in developing strong conceptual understanding of the various topics, clarifies learning misconceptions and lets them experience success in learning. 
-Activities are scaffolded to aid pupils in the understanding and application of scientific concepts. This is usually carried out in the form of After-School Classes (P4 to 6) or Pull-out lessons.</p>
+Through TRs, students reflect, question, explain their reasoning, and relate science to their everyday lives. This strengthens their ability to&nbsp;observe,&nbsp;analyse&nbsp;and construct understanding meaningfully.&nbsp;</p>
+<p align="justify">
+SAM journaling deepens conceptual grasp and nurtures critical thinkers who go beyond&nbsp;memorisation. Students learn to apply, innovate, and build new knowledge, growing into confident learners who engage actively and thoughtfully with science.</p>
+</td></tr>
 
-<table>
-<tbody><tr><td style="background-color:#86c659;">
-<strong>
-COMPETITIONS (STRETCHING POTENTIAL) </strong><br></td></tr></tbody></table>
-• 	Raffles Science Olympiad <br>
-• 	Singapore Primary Science Olympiad<br>
-• 	West Zone Junior Science Whiz Challenge
+<tr><td style="background-color: #f48470;"><strong><font color="ffffff">Science Enrichment: Learning Plots&nbsp;and&nbsp;Work Like a Scientist</font></strong></td></tr>
+<tr><td><p align="justify"></p><ol>
+<li><p align="justify"></p><h6>Learning Plots: Growing Local, Thinking Sustainable
+<p align="justify">This programme engages Primary 3 and 4 students in hands-on learning through traditional planting and hydroponics. By exploring Singapore’s food sustainability efforts and the “30 by 30” vision, students&nbsp;observe&nbsp;plant growth, investigate farming methods, and understand the challenges of food security in a land-scarce nation. The use of Inquiry-Based Learning (IBL) and Thinking Routines (TR) nurtures curiosity, environmental responsibility, and real-world scientific application.</p></h6></li>
+<li>
+<h6>Work Like a Scientist (WLAS)&nbsp;
+<p align="justify">Targeted at selected Primary 5&nbsp;students who show interest in scientific inquiry, WLAS provides open inquiry experiences through plant tissue culture (PTC) conducted in the school’s PTC lab. Students learn how new plants are cultivated from tissue samples, mirroring how scientists explore and refine ideas. Through IBL and TR, they apply scientific process skills in authentic contexts while developing perseverance, collaboration, and a deeper understanding of&nbsp;Science&nbsp;beyond the classroom.</p></h6></li></ol><p></p></td></tr>
+
+<tr><td style="background-color: #74cdd7;"><strong><font color="ffffff">Science Exploration Day&nbsp;(Encouraging Curiosity and Love of Learning)</font></strong></td></tr>
+<tr><td><p align="justify">Science Exploration Day provides a platform for students to choose and&nbsp;showcase&nbsp;Science projects based on their interests. With guidance from teachers, they plan and conduct investigations aligned with good scientific practices, applying what they have learnt in meaningful and creative ways.&nbsp;</p>
+<p align="justify">
+Students present their work to peers across&nbsp;different levels, sparking curiosity and dialogue within the wider school community. This experience strengthens their communication and presentation skills while building confidence as young scientific thinkers.&nbsp;</p>
+<p align="justify">
+By offering students autonomy in their project topics, the programme promotes ownership of learning, celebrates student voice, and nurtures a love for&nbsp;Science&nbsp;through purposeful exploration.</p> 
+<p></p>
+</td></tr></tbody></table>
