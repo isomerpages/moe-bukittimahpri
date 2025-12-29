@@ -48,7 +48,6 @@ BTPS&nbsp;encourages students and parents to work in partnership with the school
 </td><td style="border:2px solid #0A0B30; background-color:#99FFCC; text-align: center; width:35%"><strong>2024</strong>
 </td><td style="border:2px solid #0A0B30; background-color:#99FFCC; text-align: center; width:30%"><strong>2025</strong>
  </td></tr>
-
 <tr><td rowspan="1" colspan="3" style="border:2px solid #0A0B30;">
 <p><strong>Physical Sports</strong></p>
 </td>
@@ -58,18 +57,18 @@ BTPS&nbsp;encourages students and parents to work in partnership with the school
 <p><strong>Badminton</strong></p>
 </td>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
-<p><strong>NSG&nbsp;Junior&nbsp;Girls</strong><br>Singles: Tier 4, Champion</p>
+<p><strong>NSG&nbsp;Junior&nbsp;Girls&nbsp;</strong><br>Singles: Tier 4, Champion</p>
 </td>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
-<p><strong>NSG Junior Boys </strong><br>Doubles: Tier 4, Champion</p>
+<p><strong>NSG Junior Boys&nbsp;</strong><br>Doubles: Tier 4, Champion</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
-<p><strong>NSG&nbsp;Junior&nbsp;Girls</strong><br>Singles: Tier 4, Champion</p>
+<p><strong>NSG&nbsp;Senior Boys</strong><br>Pool Round</p>
 </td>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
-<p><strong>NSG Junior Boys </strong><br>Doubles: Tier 4, Champion</p>
+<p><strong>NSG Senior Boys</strong><br>League 4 Round</p>
 </td>
 </tr>
 <tr>
