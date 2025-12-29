@@ -70,16 +70,23 @@ BTPS&nbsp;encourages students and parents to work in partnership with the school
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
 <p><strong>NSG Senior Boys</strong><br>League 4 Round</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</tr><tr>
+<td rowspan="2" colspan="1" style="border:2px solid #0A0B30; background-color:#FFF4A9;">
 <p><strong>Basketball</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Boys: Pool Round</p>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>Junior&nbsp;Boys</strong><br>Pool Round</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Boys: League 5, 3rd</p>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>Junior&nbsp;Boys</strong><br>Pool Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>Senior Boys</strong><br>Pool Round</p>
+</td>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>NSG Senior Boys</strong><br>League 4 Round</p>
 </td>
 </tr>
 <tr>
