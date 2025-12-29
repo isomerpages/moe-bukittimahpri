@@ -42,16 +42,23 @@ BTPS&nbsp;encourages students and parents to work in partnership with the school
 <strong>List of CCAs Offered and Training Schedule</strong>
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
-<td rowspan="2" colspan="5" style="border:2px solid #0A0B30; text-align: center;"><strong>Category</strong></td>
+<td rowspan="2" colspan="1" style="border:2px solid #0A0B30; text-align: center;"><strong>Category</strong></td>
 <td rowspan="2" style="border:2px solid #0A0B30; text-align: center;"><strong>CCA</strong></td>
 <td colspan="2" style="border:2px solid #0A0B30; text-align: center;"><strong>Training Schedule</strong></td>
 <td rowspan="2" style="border:2px solid #0A0B30; text-align: center;"><strong>Venue</strong></td>
 </tr>
 <tr>
-<td style="border:2px solid #0A0B30; text-align: center;"><strong>Tuesday</strong>
-12.30pm – 3.00pm<br>(includes 30min lunch break)</td>
-<td style="border:2px solid #0A0B30; text-align: center;"><strong>Friday</strong><br>
-2.00pm – 4.00pm/5.00pm</td>
+<td style="border:2px solid #0A0B30; text-align: center;"><strong>Tuesday<br>
+<font color="#4b0082">12.30pm – 3.00pm</font></strong><br>(includes 30min lunch break)</td>
+<td style="border:2px solid #0A0B30; text-align: center;"><strong>Friday<br>
+<font color="#4b0082">2.00pm – 4.00pm/5.00pm</font></strong></td>
+</tr>
+<tr>
+<td rowspan="2" style="border:2px solid #0A0B30;"><strong>Clubs &amp; Societies</strong></td>
+<td style="border:2px solid #0A0B30;">Infocomm&nbsp;Club</td>
+<td style="border:2px solid #0A0B30; text-align: center;"><strong>✔</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"></td>
+<td style="border:2px solid #0A0B30;">Computer Lab</td>
 </tr>
 </tbody></table>
 <br><strong>CCA Achievements</strong>
