@@ -57,10 +57,10 @@ BTPS&nbsp;encourages students and parents to work in partnership with the school
 <p><strong>Badminton</strong></p>
 </td>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
-<p><strong>NSG&nbsp;Senior Boys</strong><br>Pool Round</p>
+<p><strong>NSG&nbsp;Junior&nbsp;Girls</strong><br>Singles: Tier 4, Champion</p>
 </td>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
-<p><strong>NSG Senior Boys</strong><br>League 4 Round</p>
+<p><strong>NSG Junior Boys</strong><br>Doubles: Tier 4, Champion</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,8 @@ BTPS&nbsp;encourages students and parents to work in partnership with the school
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
 <p><strong>NSG Senior Boys</strong><br>League 4 Round</p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td rowspan="2" colspan="1" style="border:2px solid #0A0B30; background-color:#FFF4A9;">
 <p><strong>Basketball</strong></p>
 </td>
@@ -90,14 +91,22 @@ BTPS&nbsp;encourages students and parents to work in partnership with the school
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1" style="border:2px solid #0A0B30; background-color:#FFF4A9;">
 <p><strong>Football</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Boys: Pool Round</p>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>Junior&nbsp;Boys</strong><br>Pool Round</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Boys: League 2 Champion</p>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>Junior&nbsp;Boys</strong><br>Pool Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>Senior Boys</strong><br>League 2 Champion</p>
+</td>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>Senior Boys</strong><br>Pool Round</p>
 </td>
 </tr>
 <tr>
