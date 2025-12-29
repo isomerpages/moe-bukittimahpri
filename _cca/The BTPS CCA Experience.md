@@ -30,9 +30,8 @@ Students who transfer from other schools to Bukit Timah Primary School between P
 <br>
 <br>
 4. <strong><font color="#4b0082">CCA Transfer Requests</font></strong><br>
-Primary 4 and Primary 5 students who wish to explore a different CCA may&nbsp;submit&nbsp;a transfer request, subject to vacancies and suitability, within a stipulated period.&nbsp;Primary 6 students are to remain in their current CCA&nbsp;for continuity as CCA stands down for graduating students after Term 2.
-<br>
-</p><p align="justify"><strong><u>CCA&nbsp;Choice and&nbsp;Placement</u></strong>
+Primary 4 and Primary 5 students who wish to explore a different CCA may&nbsp;submit&nbsp;a transfer request, subject to vacancies and suitability, within a stipulated period.&nbsp;Primary 6 students are to remain in their current CCA&nbsp;for continuity as CCA stands down for graduating students after Term 2.</p>
+<p align="justify"><strong><u>CCA&nbsp;Choice and&nbsp;Placement</u></strong>
 <br>CCA placements are&nbsp;determined&nbsp;based on available vacancies, suitability, and the need to&nbsp;maintain&nbsp;balanced and sustainable CCA group sizes. Where demand exceeds capacity, the school will put&nbsp;appropriate processes&nbsp;in place&nbsp;to ensure fair and&nbsp;equitable&nbsp;allocation.</p>
 <br>
 <p align="justify"><strong><u>Commitment and Responsibility</u></strong>
