@@ -15,7 +15,7 @@ description: ""
 <br>All Primary 3 to 6 students are strongly encouraged to participate in a school-based CCA. While students may be selected to represent the school in the National School Games (NSG) for sports, the Singapore Youth Festival (SYF) and other competitions and performances, students are encouraged to aim for personal growth and mastery in the CCA. Striving for excellence and persisting in their chosen CCA supports their journey towards becoming Adaptive Learners, Empathetic Leaders and Future-Ready Citizens. </p>
 <p align="justify"><strong>CCA Policy</strong>
 <br>CCAs play an important role in nurturing well-rounded students through character development, teamwork, leadership, and resilience. The following policy outlines the school’s approach to CCA participation and allocation. </p>
-<p align="justify"><strong><u>CCA&nbsp;Participation</u></strong><br>
+<p align="justify"><strong><u>CCA Participation</u></strong><br>
 1. <strong><font color="#4b0082">Primary 3 Students</font></strong><br>
 Primary 3 students are encouraged to join one CCA. This marks the beginning of their formal CCA journey, and students are encouraged to make thoughtful choices and commit to the allocated CCA.
 <br>
@@ -30,13 +30,13 @@ Students who transfer from other schools to Bukit Timah Primary School between P
 <br>
 <br>
 4. <strong><font color="#4b0082">CCA Transfer Requests</font></strong><br>
-Primary 4 and Primary 5 students who wish to explore a different CCA may&nbsp;submit&nbsp;a transfer request, subject to vacancies and suitability, within a stipulated period.&nbsp;Primary 6 students are to remain in their current CCA&nbsp;for continuity as CCA stands down for graduating students after Term 2.</p>
-<p align="justify"><strong><u>CCA&nbsp;Choice and&nbsp;Placement</u></strong>
-<br>CCA placements are&nbsp;determined&nbsp;based on available vacancies, suitability, and the need to&nbsp;maintain&nbsp;balanced and sustainable CCA group sizes. Where demand exceeds capacity, the school will put&nbsp;appropriate processes&nbsp;in place&nbsp;to ensure fair and&nbsp;equitable&nbsp;allocation.</p>
+Primary 4 and Primary 5 students who wish to explore a different CCA may submit a transfer request, subject to vacancies and suitability, within a stipulated period. Primary 6 students are to remain in their current CCA for continuity as CCA stands down for graduating students after Term 2.</p>
+<p align="justify"><strong><u>CCA Choice and Placement</u></strong>
+<br>CCA placements are determined based on available vacancies, suitability, and the need to maintain balanced and sustainable CCA group sizes. Where demand exceeds capacity, the school will put&nbsp;appropriate processes&nbsp;in place&nbsp;to ensure fair and&nbsp;equitable&nbsp;allocation.</p>
 <p align="justify"><strong><u>Commitment and Responsibility</u></strong>
-<br>Students are expected to&nbsp;demonstrate&nbsp;responsibility and commitment once they are&nbsp;allocated&nbsp;to&nbsp;a CCA. Regular attendance and active participation are essential for meaningful learning and personal growth.</p>
+<br>Students are expected to demonstrate responsibility and commitment once they are allocated to a CCA. Regular attendance and active participation are essential for meaningful learning and personal growth.</p>
 <p align="justify">
-BTPS&nbsp;encourages students and parents to work in partnership with the school to support students in making informed CCA choices and sustaining their commitment throughout the year.</p>
+BTPS encourages students and parents to work in partnership with the school to support students in making informed CCA choices and sustaining their commitment throughout the year.</p>
 <strong>List of CCAs Offered and Training Schedule</strong>
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
