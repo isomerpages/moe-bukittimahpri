@@ -45,8 +45,8 @@ BTPS&nbsp;encourages students and parents to work in partnership with the school
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
 <td style="border:2px solid #0A0B30; background-color:#99FFCC; width:30%"><strong>CCA</strong>
-</td><td style="border:2px solid #0A0B30; background-color:#99FFCC; text-align: center; width:35%"><strong>2024</strong>
-</td><td style="border:2px solid #0A0B30; background-color:#99FFCC; text-align: center; width:30%"><strong>2025</strong>
+</td><td style="border:2px solid #0A0B30; background-color:#99FFCC; width:40%"><strong>2024</strong>
+</td><td style="border:2px solid #0A0B30; background-color:#99FFCC; width:40%"><strong>2025</strong>
  </td></tr>
 <tr><td rowspan="1" colspan="3" style="border:2px solid #0A0B30;">
 <p><strong>Physical Sports</strong></p>
@@ -154,14 +154,42 @@ Certificate of Recognition <br>(Special Mention)</p>
 <p><strong>Brass Symphonia</strong></p>
 </td>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
-<p></p>
+<p><strong>SYF Arts Presentation&nbsp;</strong>
+Certificate of Distinction<br>
+</p>
 </td>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30; background-color:#d9d9d9;"> 
-<p><strong>SYF Art Exhibition</strong><br>
-<strong><font color="#4b0082">Category B</font></strong>&nbsp;<br>
-Certificate of Recognition&nbsp;&nbsp;<br>
-<strong><font color="#4b0082">Category C</font></strong><br>
-Certificate of Recognition <br>(Special Mention)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30; background-color:#FFF4A9;">
+<p><strong>Choir</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>SYF Arts Presentation&nbsp;</strong>
+Certificate of Distinction<br>
+</p>
+</td>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30; background-color:#d9d9d9;"> 
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30; background-color:#FFF4A9;">
+<p><strong>Dance-Versity</strong></p>
+</td>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>SYF Arts Presentation&nbsp;
+</strong>
+Certificate of Distinction<br>
+</p>
+</td>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>Super 24 (Dance Competition)&nbsp;
+</strong>
+Platinum Award<br>
+</p>
 </td>
 </tr>
 <tr>
