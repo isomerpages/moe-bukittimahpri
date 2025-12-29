@@ -143,26 +143,25 @@ BTPS&nbsp;encourages students and parents to work in partnership with the school
 </td>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
 <p><strong>SYF Art Exhibition</strong><br>
-<strong>Category B</strong>&nbsp;<br>
+<strong><font color="#4b0082">Category B</font></strong>&nbsp;<br>
 Certificate of Recognition&nbsp;&nbsp;<br>
-<strong>Category C</strong>&nbsp;<br>
-Certificate of Recognition (Special Mention)</p>
+<strong><font color="#4b0082">Category C</font></strong><br>
+Certificate of Recognition <br>(Special Mention)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Choir</strong></p>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30; background-color:#FFF4A9;">
+<p><strong>Brass Symphonia</strong></p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Distinction</p>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p></p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Dance-versity</strong></p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Distinction</p>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30; background-color:#d9d9d9;"> 
+<p><strong>SYF Art Exhibition</strong><br>
+<strong><font color="#4b0082">Category B</font></strong>&nbsp;<br>
+Certificate of Recognition&nbsp;&nbsp;<br>
+<strong><font color="#4b0082">Category C</font></strong><br>
+Certificate of Recognition <br>(Special Mention)</p>
 </td>
 </tr>
 <tr>
