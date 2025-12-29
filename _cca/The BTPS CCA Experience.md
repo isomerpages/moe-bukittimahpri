@@ -285,14 +285,14 @@ Certificate of Distinction<br>
 <p><strong>Dance-Versity</strong></p>
 </td>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
-<p><strong>SYF Arts Presentation&nbsp;
+<p><strong>SYF Arts Presentation
 </strong>
 Certificate of Distinction<br>
 </p>
 </td>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
-<p><strong>Super 24 (Dance Competition)&nbsp;
-</strong>
+<p><strong>Super 24 (Dance Competition)
+</strong><br>
 Platinum Award<br>
 </p>
 </td>
@@ -325,7 +325,7 @@ Platinum Award<br>
 <p>
 </p></td>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
-<p><strong>J.M. Fraser Award for Excellence</strong>
+<p><strong>J.M. Fraser Award for Excellence</strong><br>
 Distinction</p>
 </td>
 </tr>
