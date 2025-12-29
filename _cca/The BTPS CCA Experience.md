@@ -60,6 +60,48 @@ BTPS&nbsp;encourages students and parents to work in partnership with the school
 <td style="border:2px solid #0A0B30;  background-color:#d9d9d9"></td>
 <td style="border:2px solid #0A0B30;">Computer Lab</td>
 </tr>
+<tr>
+<td style="border:2px solid #0A0B30;">RSVP Club</td>
+<td style="border:2px solid #0A0B30; text-align: center;"><strong>✔</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"></td>
+<td style="border:2px solid #0A0B30;">Science Lab</td>
+</tr>
+<tr>
+<td rowspan="6" style="border:2px solid #0A0B30;"><strong>Physical Sports</strong></td>
+<td style="border:2px solid #0A0B30;">Badminton (Boys &amp; Girls) </td>
+<td style="border:2px solid #0A0B30; text-align: center;"><strong>✔</strong></td>
+<td style="border:2px solid #0A0B30;"><strong>School Team</strong><br>2.00pm – 4.00pm</td>
+<td style="border:2px solid #0A0B30;">Indoor Sports Hall</td>
+</tr>
+<tr>
+<td style="border:2px solid #0A0B30;">Basketball (Boys)</td>
+<td style="border:2px solid #0A0B30; text-align: center;"><strong>✔</strong></td>
+<td style="border:2px solid #0A0B30;"><strong>School Team</strong><br>2.00pm – 5.00pm</td>
+<td style="border:2px solid #0A0B30;">Indoor Sports Hall</td></tr>
+<tr>
+<td style="border:2px solid #0A0B30;">Football (Boys)</td>
+<td style="border:2px solid #0A0B30; text-align: center;"><strong>✔</strong></td>
+<td style="border:2px solid #0A0B30;"><strong>School Team</strong><br>2.00pm – 4.00pm</td>
+<td style="border:2px solid #0A0B30;">Field</td>
+</tr>
+<tr>
+<td style="border:2px solid #0A0B30;">Netball (Girls)</td>
+<td style="border:2px solid #0A0B30; text-align: center;"><strong>✔</strong></td>
+<td style="border:2px solid #0A0B30;"><strong>School Team</strong><br>2.00pm – 4.00pm</td>
+<td style="border:2px solid #0A0B30;">Indoor Sports Hall</td>
+</tr>
+<tr>
+<td style="border:2px solid #0A0B30;">Rugby&nbsp;(Boys)</td>
+<td style="border:2px solid #0A0B30; text-align: center;"><strong>Wednesday</strong><br>2.00pm – 4.00pm</td>
+<td style="border:2px solid #0A0B30;"><strong>School Team</strong><br>2.00pm – 4.00pm</td>
+<td style="border:2px solid #0A0B30;">Field</td>
+</tr>
+<tr>
+<td style="border:2px solid #0A0B30;">Wushu&nbsp;(Boys &amp; Girls)</td>
+<td style="border:2px solid #0A0B30; text-align: center;"><strong>✔</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"></td>
+<td style="border:2px solid #0A0B30;">School Hall</td>
+</tr>
 </tbody></table>
 <br><strong>CCA Achievements</strong>
 
