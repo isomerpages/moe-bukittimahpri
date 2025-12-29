@@ -42,30 +42,29 @@ Primary 4 and Primary 5 students who wish to explore a different CCA may&nbsp;su
 <br>Students are expected to&nbsp;demonstrate&nbsp;responsibility and commitment once they are&nbsp;allocated&nbsp;to&nbsp;a CCA. Regular attendance and active participation are essential for meaningful learning and personal growth.</p>
 <p align="justify">
 BTPS&nbsp;encourages students and parents to work in partnership with the school to support students in making informed CCA choices and sustaining their commitment throughout the year.</p>
-<br><strong>2024 CCA ACHIEVEMENTS</strong>
-<br>
+<br><strong>CCA Achievements</strong>
 <br>
 <p></p>
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
 <td style="border:2px solid #0A0B30; background-color:#99FFCC; width:30%"><strong>CCA</strong>
-</td><td style="border:2px solid #0A0B30; background-color:#99FFCC; text-align: center; width:35%"><strong>JUNIOR BOYS / GIRLS</strong>
-</td><td style="border:2px solid #0A0B30; background-color:#99FFCC; text-align: center; width:30%"><strong>SENIOR BOYS / GIRLS</strong>
+</td><td style="border:2px solid #0A0B30; background-color:#99FFCC; text-align: center; width:35%"><strong>2024</strong>
+</td><td style="border:2px solid #0A0B30; background-color:#99FFCC; text-align: center; width:30%"><strong>2025</strong>
  </td></tr>
 
 <tr><td rowspan="1" colspan="3" style="border:2px solid #0A0B30;">
-<p><strong>National School Games (NSG)</strong></p>
+<p><strong>Physical Sports</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;">
 <p><strong>Badminton</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Girls, Singles: Tier 4, Champion</p>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>NSG&nbsp;Junior&nbsp;Girls</strong><br>Singles: Tier 4, Champion</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Boys: Pool Round</p>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>NSG Junior Boys </strong><br>Doubles: Tier 4, Champion</p>
 </td>
 </tr>
 <tr>
