@@ -291,7 +291,7 @@ Certificate of Distinction<br>
 </p>
 </td>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
-<p><strong>Super 24 (Dance Competition)
+<p><strong>Super 24<br> (Dance Competition)
 </strong><br>
 Platinum Award<br>
 </p>
