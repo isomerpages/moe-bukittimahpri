@@ -20,11 +20,11 @@ description: ""
 Primary 3 students are encouraged to join one CCA. This marks the beginning of their formal CCA journey, and students are encouraged to make thoughtful choices and commit to the allocated CCA.
 <br>
 <br>
-2. <strong><font color="#4b0082">Primary 4 and Primary 5 Students&nbsp;</font></strong><br>
-Primary 4 and Primary 5 students who did not&nbsp;participate&nbsp;in any CCA in the&nbsp;previous&nbsp;academic year may apply for a CCA, subject to availability.
+2. <strong><font color="#4b0082">Primary 4 and Primary 5 Students</font></strong><br>
+Primary 4 and Primary 5 students who did not participate in any CCA in the previous academic year may apply for a CCA, subject to availability.
 <br>
 <br>
-3. <strong><font color="#4b0082">New Students to Bukit Timah Primary School</font> </strong><br>
+3. <strong><font color="#4b0082">New Students to Bukit Timah Primary School</font></strong><br>
 Students who transfer from other schools to Bukit Timah Primary School between Primary 3 and Primary 6, either before or during the academic year, may apply for a CCA. 
 <i>Prior CCA experience may be taken into consideration. </i>
 <br>
