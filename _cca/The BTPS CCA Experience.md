@@ -7,17 +7,14 @@ description: ""
 <h4><strong>The BTPS Co-Curricular Activities (CCA) Experience </strong></h4><br>
 <strong>Fostering Experience, Exposure and Excellence  </strong>
 <p align="justify">At BTPS, CCA is about building character and learning values through the 3Es of Experience, Exposure and Excellence.</p>
-<br><p align="justify"><strong><u>Experience</u></strong><br>
-Students participate in a variety of experiences during CCA, allowing them to explore and grow beyond the classroom. Through hands-on learning, they grow in&nbsp;resilience, teamwork, and leadership skills.&nbsp;The BTPS CCA journey starts at Primary Three with the CCA Fair, where students and their parents learn about the different CCAs in our school. Following this, students can experience up to three CCA of their choice during the immersion experience, before finally selecting one.
-<br>
-</p><p align="justify"><strong><u>Exposure</u></strong>
+<p align="justify"><strong><u>Experience</u></strong>
+<br>Students participate in a variety of experiences during CCA, allowing them to explore and grow beyond the classroom. Through hands-on learning, they grow in&nbsp;resilience, teamwork, and leadership skills.&nbsp;The BTPS CCA journey starts at Primary Three with the CCA Fair, where students and their parents learn about the different CCAs in our school. Following this, students can experience up to three CCA of their choice during the immersion experience, before finally selecting one.</p>
+<p align="justify"><strong><u>Exposure</u></strong>
 <br>Depending on the nature of the CCA and capacity of the CCA members, students are provided with opportunities to participate in competitions, performances and events beyond weekly CCA sessions. These experiences broaden horizons and build confidence.</p>
 <p align="justify"><strong><u>Excellence</u></strong>
 <br>All Primary 3 to 6 students are strongly encouraged to participate in a school-based CCA. While students may be selected to represent the school in the National School Games (NSG) for sports, the Singapore Youth Festival (SYF) and other competitions and performances, students are encouraged to aim for personal growth and mastery in the CCA. Striving for excellence and persisting in their chosen CCA supports their journey towards becoming Adaptive Learners, Empathetic Leaders and Future-Ready Citizens. </p>
-<br>
 <p align="justify"><strong>CCA Policy</strong>
 <br>CCAs play an important role in nurturing well-rounded students through character development, teamwork, leadership, and resilience. The following policy outlines the school’s approach to CCA participation and allocation. </p>
-<br>
 <p align="justify"><strong><u>CCA&nbsp;Participation</u></strong><br>
 1. <strong><font color="#4b0082">Primary 3 Students</font></strong><br>
 Primary 3 students are encouraged to join one CCA. This marks the beginning of their formal CCA journey, and students are encouraged to make thoughtful choices and commit to the allocated CCA.
