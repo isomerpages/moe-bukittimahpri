@@ -309,9 +309,12 @@ Platinum Award<br>
 </td>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
 <p><strong>Akela Award</strong><br>
-*   Ooi Charlotte Jia Hui&nbsp;<br>
-*   David&nbsp;Nursalim
-</p>
+</p><ul>
+  <li>Ooi Charlotte Jia Hui</li>
+  <li>David Nursalim</li>
+</ul>
+
+<p></p>
 </td>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30; background-color:#d9d9d9;"> 
 <p></p>
