@@ -68,30 +68,30 @@ BTPS&nbsp;encourages students and parents to work in partnership with the school
 <td rowspan="6" style="border:2px solid #0A0B30;"><strong>Physical Sports</strong></td>
 <td style="border:2px solid #0A0B30;">Badminton (Boys &amp; Girls) </td>
 <td style="border:2px solid #0A0B30; text-align: center;"><strong>✔</strong></td>
-<td style="border:2px solid #0A0B30;"><strong>School Team</strong><br>2.00pm – 4.00pm</td>
+<td style="border:2px solid #0A0B30; text-align: center;"><strong>School Team</strong><br>2.00pm – 4.00pm</td>
 <td style="border:2px solid #0A0B30;">Indoor Sports Hall</td>
 </tr>
 <tr>
 <td style="border:2px solid #0A0B30;">Basketball (Boys)</td>
 <td style="border:2px solid #0A0B30; text-align: center;"><strong>✔</strong></td>
-<td style="border:2px solid #0A0B30;"><strong>School Team</strong><br>2.00pm – 5.00pm</td>
+<td style="border:2px solid #0A0B30; text-align: center;"><strong>School Team</strong><br>2.00pm – 5.00pm</td>
 <td style="border:2px solid #0A0B30;">Indoor Sports Hall</td></tr>
 <tr>
 <td style="border:2px solid #0A0B30;">Football<br>(Boys)</td>
 <td style="border:2px solid #0A0B30; text-align: center;"><strong>✔</strong></td>
-<td style="border:2px solid #0A0B30;"><strong>School Team</strong><br>2.00pm – 4.00pm</td>
+<td style="border:2px solid #0A0B30; text-align: center;"><strong>School Team</strong><br>2.00pm – 4.00pm</td>
 <td style="border:2px solid #0A0B30;">Field</td>
 </tr>
 <tr>
 <td style="border:2px solid #0A0B30;">Netball<br>(Girls)</td>
 <td style="border:2px solid #0A0B30; text-align: center;"><strong>✔</strong></td>
-<td style="border:2px solid #0A0B30;"><strong>School Team</strong><br>2.00pm – 4.00pm</td>
+<td style="border:2px solid #0A0B30; text-align: center;"><strong>School Team</strong><br>2.00pm – 4.00pm</td>
 <td style="border:2px solid #0A0B30;">Indoor Sports Hall</td>
 </tr>
 <tr>
 <td style="border:2px solid #0A0B30;">Rugby<br>(Boys)</td>
 <td style="border:2px solid #0A0B30; text-align: center;"><strong>Wednesday</strong><br>2.00pm – 4.00pm</td>
-<td style="border:2px solid #0A0B30;"><strong>School Team</strong><br>2.00pm – 4.00pm</td>
+<td style="border:2px solid #0A0B30; text-align: center;"><strong>School Team</strong><br>2.00pm – 4.00pm</td>
 <td style="border:2px solid #0A0B30;">Field</td>
 </tr>
 <tr>
