@@ -54,9 +54,17 @@ BTPS&nbsp;encourages students and parents to work in partnership with the school
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;">
+<td rowspan="2" colspan="1" style="border:2px solid #0A0B30; background-color:#FFF4A9;">
 <p><strong>Badminton</strong></p>
 </td>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>NSG&nbsp;Junior&nbsp;Girls</strong><br>Singles: Tier 4, Champion</p>
+</td>
+<td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
+<p><strong>NSG Junior Boys </strong><br>Doubles: Tier 4, Champion</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
 <p><strong>NSG&nbsp;Junior&nbsp;Girls</strong><br>Singles: Tier 4, Champion</p>
 </td>
