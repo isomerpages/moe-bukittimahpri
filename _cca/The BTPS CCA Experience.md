@@ -39,14 +39,28 @@ Primary 4 and Primary 5 students who wish to explore a different CCA may&nbsp;su
 <br>Students are expected to&nbsp;demonstrate&nbsp;responsibility and commitment once they are&nbsp;allocated&nbsp;to&nbsp;a CCA. Regular attendance and active participation are essential for meaningful learning and personal growth.</p>
 <p align="justify">
 BTPS&nbsp;encourages students and parents to work in partnership with the school to support students in making informed CCA choices and sustaining their commitment throughout the year.</p>
-<br><strong>CCA Achievements</strong>
-<br>
-<p></p>
+<strong>List of CCAs Offered and Training Schedule</strong>
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
-<td style="border:2px solid #0A0B30; background-color:#99FFCC; width:30%"><strong>CCA</strong>
-</td><td style="border:2px solid #0A0B30; background-color:#99FFCC; width:40%"><strong>2024</strong>
-</td><td style="border:2px solid #0A0B30; background-color:#99FFCC; width:40%"><strong>2025</strong>
+<td rowspan="2" colspan="5" style="border:2px solid #0A0B30; text-align: center;"><strong>Category</strong></td>
+<td rowspan="2" style="border:2px solid #0A0B30; width:20% text-align: center;"><strong>CCA</strong></td>
+<td colspan="2" style="border:2px solid #0A0B30; width:20% text-align: center;"><strong>Training Schedule</strong></td>
+<td rowspan="2" style="border:2px solid #0A0B30; width:20% text-align: center;"><strong>Venue</strong></td>
+</tr>
+<tr>
+<td style="border:2px solid #0A0B30; text-align: center;"><strong>Tuesday</strong>
+12.30pm – 3.00pm<br>(includes 30min lunch break)</td>
+<td style="border:2px solid #0A0B30; text-align: center;"><strong>Friday</strong><br>
+2.00pm – 4.00pm/5.00pm</td>
+</tr>
+</tbody></table>
+<br><strong>CCA Achievements</strong>
+
+<table style="border:2px solid #0A0B30">
+<tbody><tr>
+<td style="border:2px solid #0A0B30; background-color:#99FFCC; width:26%"><strong>CCA</strong>
+</td><td style="border:2px solid #0A0B30; background-color:#99FFCC; width:38%"><strong>2024</strong>
+</td><td style="border:2px solid #0A0B30; background-color:#99FFCC; width:38%"><strong>2025</strong>
  </td></tr>
 <tr><td rowspan="1" colspan="3" style="border:2px solid #0A0B30;">
 <p><strong>Physical Sports</strong></p>
