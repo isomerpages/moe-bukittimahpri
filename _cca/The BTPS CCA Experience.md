@@ -57,10 +57,10 @@ BTPS&nbsp;encourages students and parents to work in partnership with the school
 <p><strong>Badminton</strong></p>
 </td>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
-<p><strong>NSG&nbsp;Junior&nbsp;Girls&nbsp;</strong><br>Singles: Tier 4, Champion</p>
+<p><strong>NSG&nbsp;Senior Boys</strong><br>Pool Round</p>
 </td>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
-<p><strong>NSG Junior Boys&nbsp;</strong><br>Doubles: Tier 4, Champion</p>
+<p><strong>NSG Senior Boys</strong><br>League 4 Round</p>
 </td>
 </tr>
 <tr>
@@ -83,10 +83,10 @@ BTPS&nbsp;encourages students and parents to work in partnership with the school
 </tr>
 <tr>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
-<p><strong>Senior Boys</strong><br>Pool Round</p>
+<p><strong>Senior Boys</strong><br>League 5, 3rd</p>
 </td>
 <td rowspan="1" colspan="1" style="border:2px solid #0A0B30;"> 
-<p><strong>NSG Senior Boys</strong><br>League 4 Round</p>
+<p><strong>Senior Boys</strong><br>Pool Round</p>
 </td>
 </tr>
 <tr>
