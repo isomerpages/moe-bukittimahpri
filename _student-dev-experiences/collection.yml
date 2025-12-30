@@ -2,4 +2,5 @@ collections:
   student-dev-experiences:
     output: true
     order:
+      - Empathetic Leader.md
       - Adaptive Learner.md
