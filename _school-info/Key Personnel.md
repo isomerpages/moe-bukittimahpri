@@ -249,7 +249,7 @@ variant: markdown
 <p>Mrs Lynette Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Aesthetics (covering HOD/CCA)</p>
+<p>SH/Aesthetics <br> (covering HOD/CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thia_hui_shan_lynette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>thia_hui_shan_lynette@schools.gov.sg</u></a>
