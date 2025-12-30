@@ -14,18 +14,18 @@ description: ""
 		<td rowspan="2">
 			<img alt="" height="144" width="24" src="/images/Information%20Photos/Picture1_02.gif" id="Picture1_02"></td>
 		<td rowspan="2">
-<a height="144" width="188" href="/adaptive-learner/"> 
+<a height="144" width="188" href="//student-dev-experiences/adaptive-learner/"> 
     <img src="/images/Information%20Photos/Picture1_03.gif">
 </a>
 		</td>
 		<td rowspan="2">
-<a height="144" width="179" href="/empathetic-leader/"> 
+<a height="144" width="179" href="//student-dev-experiences/empathetic-leader/"> 
     <img src="/images/Information%20Photos/Picture1_04.gif">
 			</a></td>
 		<td rowspan="2">
 			<img alt="" height="144" width="8" src="/images/Information%20Photos/Picture1_05.gif" id="Picture1_05"></td>
 		<td>
-<a height="139" width="169" href="/future-ready-citizen/"> 
+<a height="139" width="169" href="//student-dev-experiences/future-ready-citizens/"> 
     <img src="/images/Information%20Photos/Picture1_06.gif">
 		</a></td>
 		<td rowspan="2">
@@ -43,7 +43,9 @@ description: ""
 		<td colspan="2">
 			<img alt="" height="192" width="212" src="/images/Information%20Photos/Picture1_10.gif" id="Picture1_10"></td>
 		<td colspan="2">
-			<img alt="" height="192" width="187" src="/images/Information%20Photos/Picture1_11.gif" id="Picture1_11"></td>
+<a height="192" width="187" href="//student-dev-experiences/character-development-structure/"> 
+<img src="/images/Information%20Photos/Picture1_11.gif"></a>
+			</td>
 		<td colspan="2">
 			<img alt="" height="192" width="204" src="/images/Information%20Photos/Picture1_12.gif" id="Picture1_12"></td>
 	</tr>
