@@ -2,5 +2,6 @@ collections:
   student-dev-experiences:
     output: true
     order:
+      - Future Ready Citizens.md
       - Empathetic Leader.md
       - Adaptive Learner.md
