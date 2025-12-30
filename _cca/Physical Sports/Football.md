@@ -5,12 +5,12 @@ variant: markdown
 description: ""
 third_nav_title: Physical Sports
 ---
-<h3>FOOTBALL</h3><p align="justify">
-Our Football CCA is named the BTPS Invictus Football Club. ‘Invictus’ means unconquered in Latin. While there is always a winner and a loser in football, we remind ourselves that we are winners when we are gracious, when we give our best and when we do not give up. For every game, every practice session, we live up to our motto to “Never Surrender”. </p>
-
+<h3>Football&nbsp;(Boys)</h3>
 <p align="justify">
-We instill the values of discipline, commitment, sportsmanship and camaraderie during training. We focus on building up good character in the members and ensure that our selection for the school team takes into account character and values. </p>
+The BTPS Football CCA, Invictus,&nbsp;emphasises&nbsp;discipline, coordination, and purposeful teamwork as&nbsp;students&nbsp;develop&nbsp;ball control&nbsp;and&nbsp;positioning&nbsp;skills, and game awareness.&nbsp;</p>
 <p align="justify">
-This year, our Senior and Junior boys team participated in the National School Games. Our Senior team played in the Qualifying round of the West Zone competition and made it to the 2nd round. They achieved 8th position. They also participated in the Assumption English School Challenge Cup where they came in second. Our Junior boys played in the National School Games and qualified for Tier 1 and eventually came in second in the group at the end of the tournament. </p>
+CCA practices&nbsp;focus on effort, consistency, and responsibility. Students work on improving their skills and fitness while learning to apply&nbsp;game&nbsp;tactics, make decisions under pressure, and support one another during training and match situations. Through these experiences, students develop resilience and learn to respond positively to challenges.&nbsp;</p>
+<p align="justify">
+Through&nbsp;football, students learn to be committed&nbsp;team&nbsp;players who respect others and take responsibility for their actions. These experiences help them develop confidence and perseverance that extend beyond&nbsp;sport.</p>
 
 ![](/images/CCA/football24.jpg)

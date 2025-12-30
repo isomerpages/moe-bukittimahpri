@@ -2,7 +2,7 @@
 title: Key Personnel
 permalink: /staff/key-personnel/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>SCHOOL LEADERS</strong></h3>
 <table style="minWidth: 75px">
@@ -91,7 +91,7 @@ variant: tiptap
 <p>Mrs Shirley Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH/Pri 1 and Pri 3</p>
+<p><strong>Year Head</strong><br>(P1 &amp; P2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:low_yin_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_yin_choo@schools.gov.sg</a>
@@ -100,25 +100,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Angeline Teo</p>
+<p>Mdm Maslinda Masod</p>
+<br>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH/Pri 4 and Pri 5</p>
+<p><strong>Year Head</strong><br>(P3 &amp; P4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_swee_ling_angeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_swee_ling_angeline@schools.gov.sg</a>
+<p><a href="mailto:maslinda_masod@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maslinda_masod@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Effandi Jasman</p>
+<p>Mrs Angeline Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH/Pri 2 and Pri 6</p>
+<p><strong>Year Head</strong><br>(P5 &amp; P6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:effandi_jasman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">effandi_jasman@schools.gov.sg</a>
+<p><a href="mailto:low_swee_ling_angeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_swee_ling_angeline@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -133,7 +135,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th style="minwidth: 40%" rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
@@ -220,13 +222,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Suzanna Bte Mohd Isnin</p>
+<p>Ms Vanessa Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ School Staff Developer (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:suzanna_mohamed_isnin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>suzanna_mohamed_isnin@schools.gov.sg</u></a>
+<p><a href="mailto:tan_bee_choo_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_bee_choo_b@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -247,7 +249,7 @@ variant: tiptap
 <p>Mrs Lynette Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Aesthetics (covering HOD/CCA)</p>
+<p>SH/Aesthetics <br> (covering HOD/CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thia_hui_shan_lynette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>thia_hui_shan_lynette@schools.gov.sg</u></a>
@@ -257,7 +259,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>LEVEL HEAD (LH) | SUBJECT HEAD (SH)</strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -265,7 +267,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th style="minwidth: 40%" rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
@@ -278,18 +280,7 @@ variant: tiptap
 </p>
 </th>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Wong-Chong Yu Pei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH/Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chong_yu_pei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chong_yu_pei@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
+
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Sangitah k Jayaseelan</p>
@@ -385,18 +376,6 @@ variant: tiptap
 <p><strong>Email Address</strong>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Xu Aili</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST/Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:xu_ai_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>xu_ai_li@schools.gov.sg</u></a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

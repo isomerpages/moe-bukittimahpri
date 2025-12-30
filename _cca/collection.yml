@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Co Curricular Activities.md
+      - The BTPS CCA Experience.md
       - Physical Sports/.keep
       - Physical Sports/Badminton.md
       - Physical Sports/Basketball.md
@@ -11,13 +11,13 @@ collections:
       - Physical Sports/Rugby.md
       - Physical Sports/Wushu.md
       - Uniformed Groups/.keep
-      - Uniformed Groups/Boys’ Brigade.md
+      - Uniformed Groups/The Boys’ Brigade.md
       - Uniformed Groups/Scouts.md
       - Visual and Performing Arts/.keep
       - Visual and Performing Arts/Art Club.md
-      - Visual and Performing Arts/Brass Symphonia.md
+      - Visual and Performing Arts/Brass Band.md
       - Visual and Performing Arts/Choir.md
-      - Visual and Performing Arts/Dance Versity.md
+      - Visual and Performing Arts/International Dance.md
       - Visual and Performing Arts/Drama Club.md
       - Clubs and Societies/.keep
       - Clubs and Societies/Infocomm Club.md

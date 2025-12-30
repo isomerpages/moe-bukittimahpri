@@ -4,62 +4,41 @@ permalink: /department/mathematics/
 description: ""
 variant: markdown
 ---
-# **OUR VISION**
-<img style="border:2px solid #0A0B30" src="/images/btpsmath1.jpeg">
-<p align="justify">Our Vision: Every BTPS student, a creative problem-solver with a passion for Mathematics. 
-Guided by the principles of <strong><i>“Love, Enjoy, and Think Mathematics”</i></strong>, our students are engaged through holistic mathematics programmes which nurture, promote, and sharpen conceptual understanding, skill proficiencies and thinking skills across a meaningful and enriching 6-year learning journey.</p>
-<h3><u>Develop the Love for Mathematics</u></h3>
-<p align="justify">Math lessons for the lower primary students are designed to be fun, practical, and interactive. There are many hands-on activities to help students acquire basic concepts of Mathematics. </p>
-<table><tbody><tr><td width="50%"><img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/btpsmath2.jpeg"></td><td><p align="justify">Engaging mathematics interactive games are also introduced to reinforce their learning. As the lower primary students are in the early stages of learning mathematics, the lessons are infused with many hands-on activities to keep learning of mathematics fun and practical and at the same time, ensure acquisition of basic concepts. </p></td></tr></tbody></table><p align="justify">Students are also exposed to mathematics interactive games to reinforce their learning in an engaging manner.</p>
-<h3><u>Enjoy and Understand Mathematics Logically</u></h3>
-<img style="border:2px solid #0A0B30; width:300px;height:360px;" src="/images/btpsmath3.jpeg">
-<p align="justify">In middle primary, the focus is on deepening the students’ conceptual knowledge and applying them in their daily lives. This is achieved through presenting students with both standard curriculum topics and challenging real-world math problems to encourage higher-order thinking skills. <br>
-As the lower primary students are in the early stages of learning mathematics, the lessons are infused with many hands-on activities to keep learning of mathematics fun and practical and at the same time, ensure acquisition of basic concepts. Students are also exposed to mathematics interactive games to reinforce their learning in an engaging manner.
- </p>
-<h3><u>Think and Master Mathematics</u> </h3>
-<img style="border:2px solid #0A0B30; width:300px;height:360px;" src="/images/btpsmath4.jpeg">
-<p align="justify">In upper primary, we consolidate and reinforce Students’ learning through complex tasks that require them to investigate, connect, and apply mathematical concepts learnt to solve complicated real-life problems. Opportunities would be provided for students to reflect on their learning and make connections to deepen their understanding of various mathematics ideas.</p>
-<h2>Key Programmes</h2>
-<h3>1. Mathematics Journaling – Thinking of Mathematics (TOM)</h3>
-<p align="justify">
-<img style="border:2px solid #0A0B30; width:300px;height:400px;" src="/images/btpsmath5.jpg">
-</p><p align="justify">TOM is a learning log for students to record their mathematics thinking and learning. It tracks the development of their thinking process and allows them space to reflect on their learning. It is also a platform for students to develop creative and critical thinking in problem solving, as well as reasoning and communication skills.</p>
-<h3>2. Problem Solving and Heuristics</h3>
-<p align="justify">
-Heuristics and methods of problem solving are taught to students to sharpen their mathematics skills. With a systematic spiral approach, students acquire different methods of problem solving every year and become more confident in problem solving.</p>
-<img style="border:2px solid #0A0B30" src="/images/btpsmath6.jpg"><br>
-<h3>3. Mathematics Learning Day</h3>
-<p align="justify">
-Students are given opportunity to experience application of Mathematics concepts and skills through experiential and realistic learning at Mathematics stations around the school. Through this programme, students can better relate mathematics to real life and work collaboratively to solve problems together.</p>
-<img style="width:80%" src="/images/School%20Photos/math_learning_day.png">
-<br>
-<table style="border:2px solid #0A0B30">
-<tbody><tr>
-<td style="border:2px solid #0A0B30">Lower Primary </td><td style="border:2px solid #0A0B30">Upper Primary </td></tr><tr>
-<td>Learning Support for Mathematics (LSM) </td><td style="border:2px solid #0A0B30">Pull-out Lessons
-<br>After-School Classes
- </td></tr></tbody></table>
-<h2><i>Enrichment Programmes</i></h2>
-<h3>1. Excellence 2000 (E2K) Programme (Primary 4 to 6)</h3><p align="justify">
-E2K is a 3-year enrichment programme which aims to engage students in investigations involving advanced Mathematics concepts. The programme is conducted during curriculum hours for selected classes. The selection is based on students’ achievement in Mathematics.</p>
+<p align="justify"><strong>Overview:</strong><br>At Bukit Timah Primary School, we believe every child can enjoy and succeed in Mathematics. Our Mathematics Department nurtures curious and confident problem-solvers who approach challenges with adaptability and resilience. We design meaningful learning experiences that spark inquiry, collaboration and reflection, helping students see the relevance of Mathematics in their daily lives. Through engaging lessons, hands-on exploration, and open discussions, students build strong understanding, logical thinking, and clear communication. By encouraging perseverance and curiosity, we aim to help every learner experience the joy of mathematical discovery and grow into adaptive thinkers who are ready to take on future challenges. </p>
 
-<h3>2. Mathematics Olympiad Training Programme (Primary 4 to 6)</h3>
+<p align="justify"><strong>Department mission:</strong><br>
+To design meaningful experiences that engage students in problem solving through inquiry, collaboration and reflection, grounded in real-world applications.
+</p>
+
+<strong>Objectives:</strong>
+<ul>
+<li>Develop students’ confidence, adaptability,and resilience in mathematical problem solving.</li>
+<li>Strengthen conceptual understanding and procedural fluency through inquiry-based learning.</li>
+<li>Cultivate logical reasoning, clear communication, and reflective thinking.</li>
+<li>Nurture positive attitudes towards Mathematics and appreciation of its real-world relevance.</li>
+</ul>
+
+<strong><font color="#4b0082">Our Key Programmes</font></strong>
+<table>
+<tbody><tr><td style="background-color: #7C71AD;"><strong><font color="ffffff">The Math Journal (TOM): Where Ideas Take Shape</font></strong></td></tr>
+<tr><td><p align="justify">Mathematics journalling provides students with opportunities to reflect on ;their learning, explain their reasoning, and make meaningful connections between mathematical ideas. Across all levels, students are guided to reason logically, explore different strategies, and develop metacognitive abilities as they reflect on their learning journey. Through regular journal entries supported by thinking routines, students learn to communicate their thinking clearly using mathematical language, diagrams, and examples. These routines deepen reflection and help students articulate what they notice, wonder, and understand. </p>
 <p align="justify">
-Every year, BTPS organises the Math Olympiad Training Programme to stretch students who have a passion for Mathematics. The programme provides a platform for students to develop problem solving abilities like analytical and creative thinking as they explore beyond the primary curriculum. This programme targeted at Primary 4 to 6 students who are in the top 15%-20% of their cohort.</p><img style="border:2px solid #0A0B30; width:360px;height:300px;" src="/images/btpsmath8.jpeg">
-<br>
-<table style="border:2px solid #0A0B30">
-<tbody><tr>
-<td style="border:2px solid #0A0B30"><b>Competition</b> </td><td style="border:2px solid #0A0B30"><b>Organising school</b> </td><td style="border:2px solid #0A0B30"><b>Level/s involved</b> </td></tr><tr>
-<td style="border:2px solid #0A0B30">Singapore Mathematical Olympiad for Primary Schools (SMOPS) </td><td style="border:2px solid #0A0B30">Hwa Chong Institution
- </td><td style="border:2px solid #0A0B30" rowspan="3">Primary 6
- </td></tr><tr>
-<td style="border:2px solid #0A0B30">River Valley High Mathematics Challenge </td><td style="border:2px solid #0A0B30">River Valley High
- </td></tr><tr>
-<td style="border:2px solid #0A0B30">Raffles Institution Primary Mathematics World Contest (RIPMWC)</td><td style="border:2px solid #0A0B30">Raffles Institution
- </td></tr><tr>
-<td style="border:2px solid #0A0B30">National Mathematical Olympiad of Singapore (NMOS)</td><td style="border:2px solid #0A0B30">NUS High
- </td><td style="border:2px solid #0A0B30">Primary 5 and 6
- </td></tr><tr>
-<td style="border:2px solid #0A0B30">Mathlympics </td><td style="border:2px solid #0A0B30">ACSI
- </td><td style="border:2px solid #0A0B30">Primary 4 and 5
- </td></tr></tbody></table>
+The journalling process strengthens critical thinking as students justify their approaches, builds adaptive thinking as they revise strategies based on new insights, and encourages inventive thinking as they explore alternative methods or create their own representations. Over time, journalling nurtures confident and thoughtful learners who take ownership of their learning and see Mathematics as a dynamic and connected discipline.</p></td></tr>
+
+<tr><td style="background-color: #f48470;"><strong><font color="ffffff">Future-Makers: Math Through Financial Literacy &amp; STEM </font></strong></td></tr>
+<tr><td><p align="justify">Through financial literacy tasks and STEM-based challenges, students experience Mathematics as a practical, useful and creative subject. They learn to budget, analyse information, make informed choices and design simple solutions. These experiences show them how mathematical thinking supports everyday decisions and drives many of today’s innovations. </p>
+<p align="justify">
+As students work together to explore ideas, test prototypes and reflect on their learning, they become more confident in tackling unfamiliar problems and more comfortable thinking critically and creatively. These experiences encourage them to ask questions, consider alternatives and use Mathematics to make sense of real-life situations. </p>
+<p align="justify">
+By connecting mathematical concepts to everyday decisions and emerging technologies, the programme nurtures habits that prepare students to be future-ready — adaptable in new situations, thoughtful in their choices, and equipped with the reasoning skills needed to thrive in a world shaped by innovation and change.</p>
+</td></tr>
+<tr><td style="background-color: #74cdd7;"><strong><font color="ffffff">Math Enrichment Lab: Extending Ideas and Challenges</font></strong></td></tr>
+<tr><td><p align="justify">Our Enrichment Programme offers selected Primary 4 to 6 students opportunities to go beyond the standard curriculum and explore Mathematics at greater depth. Through platforms such as Math Olympiad Training, E2K and MathExpert@Work, students engage with complex, non-routine problems that require flexible thinking, creative reasoning and strategic problem-solving.</p> 
+<p align="justify">
+These experiences nurture adaptive learners who can adjust their approaches when faced with unfamiliar challenges, consider alternative strategies and persist through difficulty. As students explore advanced concepts, they learn to embrace uncertainty, refine their thinking, and see mistakes as part of the learning process. 
+</p>
+<p align="justify">
+By engaging in collaborative investigations and Olympiad competitions, students build confidence, strengthen ;higher-order thinking skills and experience the excitement of uncovering mathematical ideas in new and meaningful ways. The programme not only deepens their appreciation for Mathematics, but also equips them with the adaptability and resilience needed to thrive in more complex learning environments.</p>
+<p></p>
+</td></tr>
+</tbody></table>

@@ -5,15 +5,13 @@ variant: markdown
 description: ""
 third_nav_title: Physical Sports
 ---
-<h3>RUGBY</h3><p align="justify">
-Rugby is a dynamic sport where two teams compete to score points by carrying, passing, and kicking the ball towards their opponent's goal line. It's a game known for its intense physicality, strategic play, and teamwork.</p>
+<h3>Rugby&nbsp;(Boys)</h3>
 <p align="justify">
-Bukit Timah Primary School’s rugby team is known as Highlanders. As a team, we aim to not only develop strength and skill but also quick thinking and coordination on the field. The Highlanders have had opportunities to learn about the values of resilience, teamwork and discipline through training sessions and during competitions. </p>
-<h4>Achievements:</h4>
-•	2024: National School Games – Senior Division Tier 2, 1st Place<br>
-•	2024: National School Games – Junior Division Tier 1, 2nd  Place
-
-
+Members of the BTPS Rugby CCA, the Highlanders,&nbsp;are passionate about Rugby,&nbsp;a physically demanding team sport that requires strength, awareness, and teamwork as they run, pass, and contest possession to advance play.&nbsp;</p>
+<p align="justify">
+In recent years, the CCA has grown stronger through the determination and commitment of its&nbsp;members. Their perseverance has helped to sustain and strengthen the team, reflecting the resilience needed in rugby training and match play. Through participation, students develop physical endurance, quick decision-making, and mental toughness.&nbsp;</p>
+<p align="justify">
+Rugby also&nbsp;emphasises&nbsp;respect and responsibility, as students learn to support one another and uphold fair play on and off the field. Working together through challenges, the Highlanders&nbsp;have built&nbsp;a strong sense&nbsp;of unity and pride in their team.</p>
 
 ![](/images/CCA/25_rugby_02.png) <br>
 ![](/images/CCA/25_rugby_03.png) <br>
