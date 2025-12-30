@@ -14,18 +14,18 @@ description: ""
 		<td rowspan="2">
 			<img alt="" height="144" width="24" src="/images/Information%20Photos/Picture1_02.gif" id="Picture1_02"></td>
 		<td rowspan="2">
-<a height="144" width="188" href="//adaptive-learner/"> 
+<a height="144" width="188" href="/adaptive-learner/"> 
     <img src="/images/Information%20Photos/Picture1_03.gif">
 </a>
 		</td>
 		<td rowspan="2">
-<a height="144" width="179" href="//empathetic-leader/"> 
+<a height="144" width="179" href="/empathetic-leader/"> 
     <img src="/images/Information%20Photos/Picture1_04.gif">
 			</a></td>
 		<td rowspan="2">
 			<img alt="" height="144" width="8" src="/images/Information%20Photos/Picture1_05.gif" id="Picture1_05"></td>
 		<td>
-<a height="139" width="169" href="//future-ready-citizen/"> 
+<a height="139" width="169" href="/future-ready-citizen/"> 
     <img src="/images/Information%20Photos/Picture1_06.gif">
 		</a></td>
 		<td rowspan="2">
