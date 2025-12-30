@@ -15,8 +15,10 @@ To design inquiry-based learning experiences that spark curiosity, develop think
 <li>Develop students’ curiosity,&nbsp;adaptability&nbsp;and resilience through scientific inquiry and hands-on exploration.&nbsp;</li>
 <li>Strengthen conceptual understanding and thinking skills by constructing their own understanding through inquiry-based learning.&nbsp;</li>
 <li>Cultivate critical thinking,&nbsp;collaboration&nbsp;and responsibility by applying the “Ways of Thinking and Doing in Science” — Investigating, Evaluating, Reasoning and Developing Solutions.</li>
-<li>Nurture appreciation of&nbsp;Science&nbsp;by connecting concepts to daily living, ethical decision-making&nbsp;and real-world relevance.</li></ul><strong><font color="#4b0082">Our Key Programmes</font></strong>
-<br><br><br><table>
+<li>Nurture appreciation of&nbsp;Science&nbsp;by connecting concepts to daily living, ethical decision-making&nbsp;and real-world relevance.</li></ul>
+
+<strong><font color="#4b0082">Our Key Programmes</font></strong>
+<table>
 <tbody><tr><td style="background-color: #7C71AD;"><strong><font color="ffffff">Science Journaling: Science Around Me (SAM)</font></strong>br</td></tr>
 <tr><td><p align="justify">The SAM journal makes students’ thinking visible and empowers them to take ownership of learning. It allows for expression in varied forms — such as poster designs, investigations, observation logs, mind maps, and Thinking Routines (TR) —&nbsp;catering to diverse learning styles.&nbsp;</p>
 <p align="justify">
