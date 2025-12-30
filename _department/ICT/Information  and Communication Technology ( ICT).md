@@ -37,7 +37,7 @@ As part of our school’s Digital Literacy&nbsp;Curriculum,&nbsp;<strong>Code th
 <tbody><tr>
 <td rowspan="1" colspan="3" style="border:2px solid #0A0B30;  background-color:#156082"></td></tr>
 <tr>
-<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Explore &amp; Code (P1–P2)</font></strong><br><strong>
+<td width="33%" style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Explore &amp; Code (P1–P2)</font></strong><br><strong>
 Our youngest learners begin their coding journey with tactile, hands-on experiences that strengthen foundational computational thinking.</strong></td>
 <td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Design &amp; Code (P3–P4)&nbsp;</font></strong><br><strong>
 As students gain confidence, they transition to screen-based environments where they can design, build, and refine digital creations.</strong></td>
@@ -48,10 +48,10 @@ Students apply their knowledge to more complex, real-world contexts involving ad
 <td style="border:2px solid #0A0B30"><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P1: Indi Car Coding 
 </font><br>
 Students explore sequencing, directionality, and simple problem-solving using colour-coded programming with Indi Cars, making coding playful and intuitive. </li>
-<font color="#4b0082"><li>P2: KUBO Robotic<br>
-Using KUBO’s tag-tile system, students deepen their understanding of sequencing, loops, and basic debugging through screenless, puzzle-like robotics challenges.</li></font></ul><font color="#4b0082">
+<font color="#4b0082"></font><li><font color="#4b0082">P2: KUBO Robotic</font><br>
+Using KUBO’s tag-tile system, students deepen their understanding of sequencing, loops, and basic debugging through screenless, puzzle-like robotics challenges.</li></ul><font color="#4b0082">
 </font></td>
-<td style="border:2px solid #0A0B30"><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P3 &amp; P4: Scratch &amp; Minecraft Coding 
+<td width="33%" style="border:2px solid #0A0B30"><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P3 &amp; P4: Scratch &amp; Minecraft Coding 
 </font><br>
 Within Scratch &amp; Minecraft Education, students use block-based coding to control agents, automate tasks, and create purposeful digital artefacts. This stage strengthens logical thinking, creativity, and collaboration</li></ul></td>
 <td style="border:2px solid #0A0B30"><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P5: Code for Fun&nbsp; 
@@ -72,9 +72,38 @@ Through this&nbsp;spiral approach,&nbsp;students&nbsp;progress from exploration 
 <p align="justify">
 By applying technology in authentic contexts such as communicating ideas, analysing information, simulating scenarios, and creating multimodal representations, students deepen understanding while strengthening critical thinking and communication skills. These experiences nurture responsible and adaptable digital learners who can transfer their skills across disciplines and contexts. </p>
 </td></tr>
-
-
 </tbody></table>
-
 <img width="1600" src="/images/Information%20Photos/ict.png">
+<br>
+<table>
+<tbody><tr>
+<td></td>
+<td><strong>Level</strong></td>
+<td><strong>ICT Baseline Skills</strong></td>
+<td><strong>Integration of ICT</strong></td>
+</tr>
+<tr>
+<td rowspan="2"><br><strong>Level 1:&nbsp;</strong><br>Basic touch-typing</td>
+<td><br><strong>P1</strong></td>
+<td><br>
 
+* MIMS Login<br>
+* Using Singapore Student Learning Space (SLS)<br>
+* Touch-typing lessons
+</td>
+<td rowspan="3"><br><strong>Lower Primary</strong>  
+SLS <br>
+Koobits (Math) <br>
+Moo-O (EL reading  <br>
+programme) <br></td>
+</tr><tr>
+<td><br><strong>P2</strong></td>
+<td><br>
+
+* Touch-typing lessons – Chinese&nbsp;Characters&nbsp; <br>
+* Basic use of MS Word<br>
+</td>
+
+
+</tr>
+</tbody></table>
