@@ -76,4 +76,5 @@ By applying technology in authentic contexts such as communicating ideas, analys
 
 </tbody></table>
 
-<img src="/images/Information%20Photos/ict.png">
+<img width="1600" src="/images/Information%20Photos/ict.png">
+
