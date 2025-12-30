@@ -91,7 +91,7 @@ variant: markdown
 <p>Mrs Shirley Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH/Pri 1 and Pri 2</p>
+<p><strong>Year Head</strong><br>(P1 &amp; P2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:low_yin_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_yin_choo@schools.gov.sg</a>
@@ -105,7 +105,7 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH/Pri 3 and Pri 4</p>
+<p><strong>Year Head</strong><br>(P3 &amp; P4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:maslinda_masod@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maslinda_masod@schools.gov.sg</a>
@@ -117,7 +117,7 @@ variant: markdown
 <p>Mrs Angeline Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH/Pri 5 and Pri 6</p>
+<p><strong>Year Head</strong><br>(P5 &amp; P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:low_swee_ling_angeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_swee_ling_angeline@schools.gov.sg</a>
