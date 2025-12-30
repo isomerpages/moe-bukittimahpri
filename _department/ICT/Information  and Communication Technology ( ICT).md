@@ -83,9 +83,9 @@ By applying technology in authentic contexts such as communicating ideas, analys
 <td><strong>Integration of ICT</strong></td>
 </tr>
 <tr>
-<td rowspan="2"><br><strong>Level 1:&nbsp;</strong><br>Basic touch-typing</td>
+<td rowspan="2"><br><strong>Level 1:</strong><br>Basic touch-typing</td>
 <td><br><strong>P1</strong></td>
-<td><br>
+<td>
 
 * MIMS Login<br>
 * Using Singapore Student Learning Space (SLS)<br>
@@ -98,12 +98,34 @@ Moo-O (EL reading  <br>
 programme) <br></td>
 </tr><tr>
 <td><br><strong>P2</strong></td>
+<td>
+* Touch-typing lessons – Chinese Characters <br>
+* Basic use of MS Word<br>
+</td></tr>
+
+<tr>
+<td rowspan="2"><br><strong>Level 2:&nbsp;</strong><br>Create a presentation with text and Graphics</td>
+<td><br><strong>P3</strong></td>
 <td><br>
 
-* Touch-typing lessons – Chinese&nbsp;Characters&nbsp; <br>
-* Basic use of MS Word<br>
+* Basic use of PowerPoint<br>
+* Touch-typing lessons – Tamil fonts<br>
 </td>
-
-
+<td></td>
+</tr><tr>
+<td><br><strong>P4</strong></td>
+<td><br>
+* Introduction to Google Apps<br>&nbsp;    
+* Intermediate use of MS Word &amp; PowerPoint<br>   
+* Touch-typing lessons – Tamil fonts<br>&nbsp;&nbsp;    
+* Use of Excel spreadsheet<br>
+</td>
+<td rowspan="3"><strong>Upper Primary</strong>&nbsp;<br>
+SLS&nbsp;<br>
+Creating E-Books (ML)&nbsp;<br>
+Koobits&nbsp;(Math)&nbsp;<br>
+Mobile Photography&nbsp;<br>
+Stop Motion animation&nbsp;<br>
+Garage Band</td>
 </tr>
 </tbody></table>
