@@ -27,44 +27,46 @@ Prepare students to apply digital skills meaningfully in everyday life as future
 <tr><td><p align="justify">Our whole-school Digital Literacy Curriculum provides a coherent and progressive framework that develops the skills, knowledge, attitudes, and values students need to navigate an increasingly digital world. Across levels, students learn to create and use digital content, collaborate effectively, and apply computational thinking to real-world challenges. </p>
 <p align="justify">
 Students from P1 to P6: <br>
-1.  Create and use digital content across various tools and platforms.&nbsp;<br>
-2.  Learn independently and collaboratively,&nbsp;demonstrating&nbsp;21st-century skills.&nbsp;<br> 
-3.  Apply computational thinking and problem-solving to real-world challenges.<br></p>
+1.  Create and use digital content across various tools and platforms.<br>
+2.  Learn independently and collaboratively,&nbsp;demonstrating&nbsp;21st-century skills.<br> 
+3.  Apply computational thinking and problem-solving to real-world challenges.</p>
  
-As part of our school’s Digital Literacy&nbsp;Curriculum,&nbsp;<strong>Code the Future (CTF)</strong>&nbsp;introduces coding through a structured spiral progression, ensuring students build digital competencies in an&nbsp;age-appropriate&nbsp;and meaningful way. Each stage of learning is aligned to a key programme theme:&nbsp;<strong>Explore &amp; Code,&nbsp;Design &amp; Code</strong> , and&nbsp;<strong>Innovate &amp; Code</strong>.
+<p align="justify">As part of our school’s Digital Literacy Curriculum,<strong>Code the Future (CTF)</strong> introduces coding through a structured spiral progression, ensuring students build digital competencies in an&nbsp;age-appropriate&nbsp;and meaningful way. Each stage of learning is aligned to a key programme theme: <strong>Explore &amp; Code, Design &amp; Code</strong> , and <strong>Innovate &amp; Code</strong>.</p>
 
 <table>
 <tbody><tr>
 <td rowspan="1" colspan="3" style="border:2px solid #0A0B30;  background-color:#156082"></td></tr>
 <tr>
-<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Explore &amp; Code (P1–P2)</font></strong><br><strong>
+<td width="33%" style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Explore &amp; Code (P1–P2)</font><br>
 Our youngest learners begin their coding journey with tactile, hands-on experiences that strengthen foundational computational thinking.</strong></td>
-<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Design &amp; Code (P3–P4)&nbsp;</font></strong><br><strong>
+<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Design &amp; Code (P3–P4)</font>
+<br>
 As students gain confidence, they transition to screen-based environments where they can design, build, and refine digital creations.</strong></td>
-<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Innovate &amp; Code (P5–P6) </font></strong><br><strong>
+<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Innovate &amp; Code (P5–P6) </font>
+<br>
 Students apply their knowledge to more complex, real-world contexts involving advanced coding and emerging technologies. </strong></td>
 </tr>
 <tr>
 <td style="border:2px solid #0A0B30"><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P1: Indi Car Coding 
 </font><br>
 Students explore sequencing, directionality, and simple problem-solving using colour-coded programming with Indi Cars, making coding playful and intuitive. </li>
-<font color="#4b0082"><li>P2: KUBO Robotic<br>
-Using KUBO’s tag-tile system, students deepen their understanding of sequencing, loops, and basic debugging through screenless, puzzle-like robotics challenges.</li></font></ul><font color="#4b0082">
+<font color="#4b0082"></font><li><font color="#4b0082">P2: KUBO Robotic</font><br>
+Using KUBO’s tag-tile system, students deepen their understanding of sequencing, loops, and basic debugging through screenless, puzzle-like robotics challenges.</li></ul><font color="#4b0082">
 </font></td>
-<td style="border:2px solid #0A0B30"><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P3 &amp; P4: Scratch &amp; Minecraft Coding 
+<td width="33%" style="border:2px solid #0A0B30"><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P3 &amp; P4: Scratch &amp; Minecraft Coding 
 </font><br>
 Within Scratch &amp; Minecraft Education, students use block-based coding to control agents, automate tasks, and create purposeful digital artefacts. This stage strengthens logical thinking, creativity, and collaboration</li></ul></td>
-<td style="border:2px solid #0A0B30"><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P5: Code for Fun&nbsp; 
+<td style="border:2px solid #0A0B30"><ul><font color="#4b0082"></font><li><font color="#4b0082">P5: Code for Fun 
 </font><br>
 Students work with more advanced computational concepts and may begin using text-based or hybrid coding tools. They learn to design, test, and improve solutions, building&nbsp;resilience&nbsp;and critical thinking.</li>
-<font color="#4b0082"></font><li><font color="#4b0082">P6: AI for Fun<br></font>
+<font color="#4b0082"></font><li><font color="#4b0082">P6: AI for Fun</font><br>
 Students explore artificial intelligence through age-appropriate platforms, understanding how AI works, where it is applied, and how to use it responsibly as future-ready digital citizens.</li></ul>
 </td>
 </tr>
 
 </tbody></table>
 
-Through this&nbsp;spiral approach,&nbsp;students&nbsp;progress from exploration to creation and innovation, with each level reinforcing and expanding their skills. By the end of&nbsp;Code&nbsp;the Future (CTF), learners are equipped with strong computational thinking abilities, creativity, and the confidence to navigate and shape an increasingly digital world.
+<p align="justify">Through this spiral approach, students progress from exploration to creation and innovation, with each level reinforcing and expanding their skills. By the end of Code the Future (CTF), learners are equipped with strong computational thinking abilities, creativity, and the confidence to navigate and shape an increasingly digital world.</p>
 
 <p></p>
 </td></tr><tr><td style="background-color: #f48470;"><strong><font color="ffffff">Enhanced Inquiry&nbsp;Based Learning&nbsp;Supported by&nbsp;Thinking Routine&nbsp;(E-IBLTR)</font></strong></td></tr>
@@ -72,8 +74,78 @@ Through this&nbsp;spiral approach,&nbsp;students&nbsp;progress from exploration 
 <p align="justify">
 By applying technology in authentic contexts such as communicating ideas, analysing information, simulating scenarios, and creating multimodal representations, students deepen understanding while strengthening critical thinking and communication skills. These experiences nurture responsible and adaptable digital learners who can transfer their skills across disciplines and contexts. </p>
 </td></tr>
-
-
 </tbody></table>
+<img width="1600" src="/images/Information%20Photos/ict.png">
+<br>
+<table width="100%">
+<tbody><tr>
+<td style="border:2px solid #0A0B30;  background-color:#99ffcc"></td>
+<td style="border:2px solid #0A0B30;  background-color:#99ffcc"><strong>Level</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#99ffcc"><strong>ICT Baseline Skills</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#99ffcc"><strong>Integration of ICT</strong></td>
+</tr>
+<tr>
+<td rowspan="2" style="border:2px solid #0A0B30;  background-color:#d9d9d9"><p align="justify"><br><strong>Level 1:</strong><br>Basic touch-typing</p></td>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><br><strong>P1</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9">
+<ul><li>MIMS Login</li>
+	<li>Using Singapore Student Learning Space (SLS)</li>
+<li>Touch-typing lessons</li>
+</ul></td>
+<td rowspan="3" style="border:2px solid #0A0B30;  background-color:#ffffff"><br><strong>Lower Primary</strong>  
+SLS <br>
+Koobits (Math) <br>
+Moo-O (EL reading<br>
+programme) </td>
+</tr>
+<tr>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><br><strong>P2</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9">
+<ul><li>Touch-typing lessons – Chinese Characters</li>
+<li>Basic use of MS Word</li></ul>
+</td></tr>
 
-<img src="/images/Information%20Photos/ict.png">
+<tr>
+<td rowspan="2" style="border:2px solid #0A0B30;  background-color:#fff4a9"><br><p align="justify"><strong>Level 2: </strong><br>Create a presentation with text and Graphics</p></td>
+<td style="border:2px solid #0A0B30;  background-color:#fff4a9"><br><strong>P3</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#fff4a9">
+<ul>
+<li>Basic use of PowerPoint</li>
+<li>Touch-typing lessons – Tamil fonts</li></ul>
+</td>
+<td></td>
+</tr><tr>
+<td style="border:2px solid #0A0B30;  background-color:#fff4a9"><br><strong>P4</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#fff4a9"><br>
+<ul><li>Introduction to Google Apps</li>   
+<li>Intermediate use of MS Word &amp; PowerPoint</li>   
+<li>Touch-typing lessons – Tamil fonts</li>   
+<li>Use of Excel spreadsheet</li>
+</ul></td>
+<td rowspan="3" style="border:2px solid #0A0B30;  background-color:#ffffff"><br><strong>Upper Primary</strong><br>
+SLS<br>
+Creating E-Books (ML)<br>
+Koobits&nbsp;(Math)<br>
+Mobile Photography<br>
+Stop Motion animation<br>
+Garage Band</td>
+</tr>
+
+<tr>
+<td rowspan="2" style="border:2px solid #0A0B30;  background-color:#caedfb"><p align="justify"><br><strong>Level 3: </strong><br>Learning with Multimedia, communication tools, data collection tools and Spreadsheet </p></td>
+<td style="border:2px solid #0A0B30;  background-color:#caedfb"><br><strong>P5</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#caedfb"><br>
+<ul>
+<li>Sending emails with attachment (MS Word)</li>
+<li>Advanced use of MS 365 Word &amp; PowerPoint </li></ul>
+</td>
+<td></td>
+</tr><tr>
+<td style="border:2px solid #0A0B30;  background-color:#caedfb"><br><strong>P6</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#caedfb"><br>
+<ul><li>Canva slides</li><br>    
+<li>Creating and editing videos</li>   
+<li>MS Teams</li>   
+</ul></td>
+</tr>
+</tbody></table>
