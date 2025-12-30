@@ -35,27 +35,26 @@ As part of our school’s Digital Literacy&nbsp;Curriculum,&nbsp;<strong>Code th
 
 <table>
 <tbody><tr>
-<td colspan="3" style=""></td>
-<td><strong><font color="#4b0082">Explore &amp; Code (P1–P2)&nbsp;</font></strong><br><strong>
+<td rowspan="1" colspan="3" style="border:2px solid #0A0B30 background-color: #c1e4f5;"></td></tr>
+<tr>
+<td style="border:2px solid #0A0B30"><strong><font color="#4b0082">Explore &amp; Code (P1–P2)</font></strong><br><strong>
 Our youngest learners begin their coding journey with tactile, hands-on experiences that strengthen foundational computational thinking.</strong></td>
-<td><strong><font color="#4b0082">&nbsp;Design &amp; Code (P3–P4)&nbsp;</font></strong><br><strong>
+<td style="border:2px solid #0A0B30;"><strong><font color="#4b0082">&nbsp;Design &amp; Code (P3–P4)&nbsp;</font></strong><br><strong>
 As students gain confidence, they transition to screen-based environments where they can design, build, and refine digital creations.</strong></td>
-<td><strong><font color="#4b0082">Innovate &amp; Code (P5–P6) </font></strong><br><strong>
+<td style="border:2px solid #0A0B30"><strong><font color="#4b0082">Innovate &amp; Code (P5–P6) </font></strong><br><strong>
 Students apply their knowledge to more complex, real-world contexts involving advanced coding and emerging technologies. </strong></td>
 </tr>
 <tr>
-<td colspan="3" style=""></td>
-
-<td><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P1: Indi Car Coding 
+<td style="border:2px solid #0A0B30"><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P1: Indi Car Coding 
 </font><br>
 Students explore sequencing, directionality, and simple problem-solving using colour-coded programming with Indi Cars, making coding playful and intuitive. </li>
 <font color="#4b0082"><li>P2: KUBO Robotic<br>
 Using KUBO’s tag-tile system, students deepen their understanding of sequencing, loops, and basic debugging through screenless, puzzle-like robotics challenges.</li></font></ul><font color="#4b0082">
 </font></td>
-<td><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P3 &amp; P4: Scratch &amp; Minecraft Coding 
+<td style="border:2px solid #0A0B30"><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P3 &amp; P4: Scratch &amp; Minecraft Coding 
 </font><br>
 Within Scratch &amp; Minecraft Education, students use block-based coding to control agents, automate tasks, and create purposeful digital artefacts. This stage strengthens logical thinking, creativity, and collaboration</li></ul></td>
-<td><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P5: Code for Fun&nbsp; 
+<td style="border:2px solid #0A0B30"><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P5: Code for Fun&nbsp; 
 </font><br>
 Students work with more advanced computational concepts and may begin using text-based or hybrid coding tools. They learn to design, test, and improve solutions, building&nbsp;resilience&nbsp;and critical thinking.</li>
 <font color="#4b0082"></font><li><font color="#4b0082">P6: AI for Fun<br></font>
