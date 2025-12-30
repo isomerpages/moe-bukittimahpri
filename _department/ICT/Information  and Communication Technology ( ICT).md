@@ -43,6 +43,26 @@ As students gain confidence, they transition to screen-based environments where 
 <td><strong><font color="#4b0082">Innovate &amp; Code (P5–P6) </font></strong><br><strong>
 Students apply their knowledge to more complex, real-world contexts involving advanced coding and emerging technologies. </strong></td>
 </tr>
+<tr>
+<td colspan="3" style=""></td>
+
+<td><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P1: Indi Car Coding 
+</font><br>
+Students explore sequencing, directionality, and simple problem-solving using colour-coded programming with Indi Cars, making coding playful and intuitive. </li>
+<font color="#4b0082"><li>P2: KUBO Robotic<br>
+Using KUBO’s tag-tile system, students deepen their understanding of sequencing, loops, and basic debugging through screenless, puzzle-like robotics challenges.</li></font></ul><font color="#4b0082">
+</font></td>
+<td><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P3 &amp; P4: Scratch &amp; Minecraft Coding 
+</font><br>
+Within Scratch &amp; Minecraft Education, students use block-based coding to control agents, automate tasks, and create purposeful digital artefacts. This stage strengthens logical thinking, creativity, and collaboration</li></ul></td>
+<td><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P5: Code for Fun&nbsp; 
+</font><br>
+Students work with more advanced computational concepts and may begin using text-based or hybrid coding tools. They learn to design, test, and improve solutions, building&nbsp;resilience&nbsp;and critical thinking.</li>
+<font color="#4b0082"></font><li><font color="#4b0082">P6: AI for Fun<br></font>
+Students explore artificial intelligence through age-appropriate platforms, understanding how AI works, where it is applied, and how to use it responsibly as future-ready digital citizens.</li></ul>
+</td>
+</tr>
+
 </tbody></table>
 
 Through this&nbsp;spiral approach,&nbsp;students&nbsp;progress from exploration to creation and innovation, with each level reinforcing and expanding their skills. By the end of&nbsp;Code&nbsp;the Future (CTF), learners are equipped with strong computational thinking abilities, creativity, and the confidence to navigate and shape an increasingly digital world.
