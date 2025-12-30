@@ -20,11 +20,15 @@ description: ""
 </a>
 		</td>
 		<td rowspan="2">
-			<img alt="" height="144" width="179" src="/images/Information%20Photos/Picture1_04.gif" id="Picture1_04"></td>
+<a height="144" width="179" href="https://bukittimahpri.moe.edu.sg/empathetic-leader/"> 
+    <img src="/images/Information%20Photos/Picture1_04.gif">
+			</a></td>
 		<td rowspan="2">
 			<img alt="" height="144" width="8" src="/images/Information%20Photos/Picture1_05.gif" id="Picture1_05"></td>
 		<td>
-			<img alt="" height="139" width="169" src="/images/Information%20Photos/Picture1_06.gif" id="Picture1_06"></td>
+<a height="139" width="169" href="https://bukittimahpri.moe.edu.sg/future-ready-citizen/"> 
+    <img src="/images/Information%20Photos/Picture1_06.gif">
+		</a></td>
 		<td rowspan="2">
 			<img alt="" height="144" width="35" src="/images/Information%20Photos/Picture1_07.gif" id="Picture1_07"></td>
 	</tr>
