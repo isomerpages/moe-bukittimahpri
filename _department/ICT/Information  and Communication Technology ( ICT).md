@@ -34,7 +34,16 @@ Students from P1 to P6: <br>
 As part of our school’s Digital Literacy&nbsp;Curriculum,&nbsp;<strong>Code the Future (CTF)</strong>&nbsp;introduces coding through a structured spiral progression, ensuring students build digital competencies in an&nbsp;age-appropriate&nbsp;and meaningful way. Each stage of learning is aligned to a key programme theme:&nbsp;<strong>Explore &amp; Code,&nbsp;Design &amp; Code</strong> , and&nbsp;<strong>Innovate &amp; Code</strong>.
 
 <table>
-</table>
+<tbody><tr>
+<td colspan="3" style=""></td>
+<td><strong><font color="#4b0082">Explore &amp; Code (P1–P2)&nbsp;</font></strong><br><strong>
+Our youngest learners begin their coding journey with tactile, hands-on experiences that strengthen foundational computational thinking.</strong></td>
+<td><strong><font color="#4b0082">&nbsp;Design &amp; Code (P3–P4)&nbsp;</font></strong><br><strong>
+As students gain confidence, they transition to screen-based environments where they can design, build, and refine digital creations.</strong></td>
+<td><strong><font color="#4b0082">Innovate &amp; Code (P5–P6) </font></strong><br><strong>
+Students apply their knowledge to more complex, real-world contexts involving advanced coding and emerging technologies. </strong></td>
+</tr>
+</tbody></table>
 
 Through this&nbsp;spiral approach,&nbsp;students&nbsp;progress from exploration to creation and innovation, with each level reinforcing and expanding their skills. By the end of&nbsp;Code&nbsp;the Future (CTF), learners are equipped with strong computational thinking abilities, creativity, and the confidence to navigate and shape an increasingly digital world.
 
