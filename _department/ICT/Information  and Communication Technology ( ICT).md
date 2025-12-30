@@ -77,7 +77,7 @@ By applying technology in authentic contexts such as communicating ideas, analys
 </tbody></table>
 <img width="1600" src="/images/Information%20Photos/ict.png">
 <br>
-<table>
+<table width="100%">
 <tbody><tr>
 <td style="border:2px solid #0A0B30;  background-color:#99ffcc"></td>
 <td style="border:2px solid #0A0B30;  background-color:#99ffcc"><strong>Level</strong></td>
@@ -88,46 +88,64 @@ By applying technology in authentic contexts such as communicating ideas, analys
 <td rowspan="2" style="border:2px solid #0A0B30;  background-color:#d9d9d9"><br><strong>Level 1:</strong><br>Basic touch-typing</td>
 <td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><strong>P1</strong></td>
 <td style="border:2px solid #0A0B30;  background-color:#d9d9d9">
-<ul><li>MIMS Login</li><br>
-	<li>Using Singapore Student Learning Space (SLS)</li><br>
+<ul><li>MIMS Login</li>
+	<li>Using Singapore Student Learning Space (SLS)</li>
 <li>Touch-typing lessons</li>
 </ul></td>
 <td rowspan="3" style="border:2px solid #0A0B30;  background-color:#ffffff"><br><strong>Lower Primary</strong>  
 SLS <br>
 Koobits (Math) <br>
 Moo-O (EL reading<br>
-programme) <br></td>
+programme) </td>
 </tr>
 <tr>
 <td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><br><strong>P2</strong></td>
 <td style="border:2px solid #0A0B30;  background-color:#d9d9d9">
-<ul><li>Touch-typing lessons – Chinese Characters</li><br>
+<ul><li>Touch-typing lessons – Chinese Characters</li>
 <li>Basic use of MS Word</li></ul>
 </td></tr>
 
 <tr>
 <td rowspan="2" style="border:2px solid #0A0B30;  background-color:#fff4a9"><br><strong>Level 2: </strong><br>Create a presentation with text and Graphics</td>
-<td style="border:2px solid #0A0B30;  background-color:#fff4a9"><br><strong>P3</strong></td>
-<td style="border:2px solid #0A0B30;  background-color:#fff4a9"><br>
-
-* Basic use of PowerPoint<br>
-* Touch-typing lessons – Tamil fonts<br>
+<td style="border:2px solid #0A0B30;  background-color:#fff4a9"><strong>P3</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#fff4a9">
+<ul>
+<li>Basic use of PowerPoint</li>
+<li>Touch-typing lessons – Tamil fonts</li></ul>
 </td>
 <td></td>
 </tr><tr>
 <td style="border:2px solid #0A0B30;  background-color:#fff4a9"><br><strong>P4</strong></td>
 <td style="border:2px solid #0A0B30;  background-color:#fff4a9"><br>
-<ul><li>Introduction to Google Apps</li><br>    
-<li>Intermediate use of MS Word &amp; PowerPoint</li> <br>   
-<li>Touch-typing lessons – Tamil fonts</li><br>   
-<li>Use of Excel spreadsheet</li><br>
+<ul><li>Introduction to Google Apps</li>   
+<li>Intermediate use of MS Word &amp; PowerPoint</li>   
+<li>Touch-typing lessons – Tamil fonts</li>   
+<li>Use of Excel spreadsheet</li>
 </ul></td>
-<td style="border:2px solid #0A0B30;  rowspan="><strong>Upper Primary</strong><br>
-SLS&nbsp;<br>
+<td rowspan="3" style="border:2px solid #0A0B30;  background-color:#ffffff"><br><strong>Upper Primary</strong><br>
+SLS<br>
 Creating E-Books (ML)<br>
 Koobits&nbsp;(Math)<br>
 Mobile Photography<br>
 Stop Motion animation<br>
 Garage Band</td>
+</tr>
+
+<tr>
+<td rowspan="2" style="border:2px solid #0A0B30;  background-color:#caedfb"><br><strong>Level 3: </strong><br>Learning with Multimedia, communication tools, data collection tools and Spreadsheet </td>
+<td style="border:2px solid #0A0B30;  background-color:#caedfb"><br><strong>P5</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#caedfb"><br>
+<ul>
+<li>Sending emails with attachment (MS Word)</li>
+<li>Advanced use of MS 365 Word &amp; PowerPoint </li></ul>
+</td>
+<td></td>
+</tr><tr>
+<td style="border:2px solid #0A0B30;  background-color:#caedfb"><br><strong>P6</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#caedfb"><br>
+<ul><li>Canva slides</li><br>    
+<li>Creating and editing videos</li>   
+<li>MS Teams</li>   
+</ul></td>
 </tr>
 </tbody></table>
