@@ -66,7 +66,7 @@ Students explore artificial intelligence through age-appropriate platforms, unde
 
 </tbody></table>
 
-<p align="justify">Through this&nbsp;spiral approach,&nbsp;students&nbsp;progress from exploration to creation and innovation, with each level reinforcing and expanding their skills. By the end of&nbsp;Code&nbsp;the Future (CTF), learners are equipped with strong computational thinking abilities, creativity, and the confidence to navigate and shape an increasingly digital world.</p>
+<p align="justify">Through this spiral approach, students progress from exploration to creation and innovation, with each level reinforcing and expanding their skills. By the end of Code the Future (CTF), learners are equipped with strong computational thinking abilities, creativity, and the confidence to navigate and shape an increasingly digital world.</p>
 
 <p></p>
 </td></tr><tr><td style="background-color: #f48470;"><strong><font color="ffffff">Enhanced Inquiry&nbsp;Based Learning&nbsp;Supported by&nbsp;Thinking Routine&nbsp;(E-IBLTR)</font></strong></td></tr>
@@ -85,7 +85,7 @@ By applying technology in authentic contexts such as communicating ideas, analys
 <td style="border:2px solid #0A0B30;  background-color:#99ffcc"><strong>Integration of ICT</strong></td>
 </tr>
 <tr>
-<td rowspan="2" style="border:2px solid #0A0B30;  background-color:#d9d9d9"><br><strong>Level 1:</strong><br>Basic touch-typing</td>
+<td rowspan="2" style="border:2px solid #0A0B30;  background-color:#d9d9d9"><p align="justify"><br><strong>Level 1:</strong><br>Basic touch-typing</p></td>
 <td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><br><strong>P1</strong></td>
 <td style="border:2px solid #0A0B30;  background-color:#d9d9d9">
 <ul><li>MIMS Login</li>
@@ -106,8 +106,8 @@ programme) </td>
 </td></tr>
 
 <tr>
-<td rowspan="2" style="border:2px solid #0A0B30;  background-color:#fff4a9"><br><strong>Level 2: </strong><br>Create a presentation with text and Graphics</td>
-<td style="border:2px solid #0A0B30;  background-color:#fff4a9"><strong>P3</strong></td>
+<td rowspan="2" style="border:2px solid #0A0B30;  background-color:#fff4a9"><br><p align="justify"><strong>Level 2: </strong><br>Create a presentation with text and Graphics</p></td>
+<td style="border:2px solid #0A0B30;  background-color:#fff4a9"><br><strong>P3</strong></td>
 <td style="border:2px solid #0A0B30;  background-color:#fff4a9">
 <ul>
 <li>Basic use of PowerPoint</li>
@@ -132,7 +132,7 @@ Garage Band</td>
 </tr>
 
 <tr>
-<td rowspan="2" style="border:2px solid #0A0B30;  background-color:#caedfb"><br><strong>Level 3: </strong><br>Learning with Multimedia, communication tools, data collection tools and Spreadsheet </td>
+<td rowspan="2" style="border:2px solid #0A0B30;  background-color:#caedfb"><p align="justify"><br><strong>Level 3: </strong><br>Learning with Multimedia, communication tools, data collection tools and Spreadsheet </p></td>
 <td style="border:2px solid #0A0B30;  background-color:#caedfb"><br><strong>P5</strong></td>
 <td style="border:2px solid #0A0B30;  background-color:#caedfb"><br>
 <ul>
