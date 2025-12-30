@@ -35,13 +35,13 @@ As part of our school’s Digital Literacy&nbsp;Curriculum,&nbsp;<strong>Code th
 
 <table>
 <tbody><tr>
-<td rowspan="1" colspan="3" style="border:2px solid #0A0B30 background-color: #c1e4f5;"></td></tr>
+<td rowspan="1" colspan="3" style="border:2px solid #0A0B30;  background-color:#156082"></td></tr>
 <tr>
-<td style="border:2px solid #0A0B30"><strong><font color="#4b0082">Explore &amp; Code (P1–P2)</font></strong><br><strong>
+<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Explore &amp; Code (P1–P2)</font></strong><br><strong>
 Our youngest learners begin their coding journey with tactile, hands-on experiences that strengthen foundational computational thinking.</strong></td>
-<td style="border:2px solid #0A0B30;"><strong><font color="#4b0082">&nbsp;Design &amp; Code (P3–P4)&nbsp;</font></strong><br><strong>
+<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Design &amp; Code (P3–P4)&nbsp;</font></strong><br><strong>
 As students gain confidence, they transition to screen-based environments where they can design, build, and refine digital creations.</strong></td>
-<td style="border:2px solid #0A0B30"><strong><font color="#4b0082">Innovate &amp; Code (P5–P6) </font></strong><br><strong>
+<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Innovate &amp; Code (P5–P6) </font></strong><br><strong>
 Students apply their knowledge to more complex, real-world contexts involving advanced coding and emerging technologies. </strong></td>
 </tr>
 <tr>
