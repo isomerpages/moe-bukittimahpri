@@ -15,7 +15,7 @@ description: ""
 		<td rowspan="2">
 			<img alt="" height="144" width="24" src="/images/Information%20Photos/Picture1_02.gif" id="Picture1_02"></td>
 		<td rowspan="2">
-<a height="144" width="188" href="destination_url_here"> 
+<a height="144" width="188" href="https://bukittimahpri.moe.edu.sg/adaptive-learner/"> 
     <img src="/images/Information%20Photos/Picture1_03.gif">
 </a>
 		</td>
