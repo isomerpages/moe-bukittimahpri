@@ -12,15 +12,15 @@ To design inquiry-based learning experiences that spark curiosity, develop think
 
 <strong>Objectives:</strong>
 <ul>
-<li>Develop students’ curiosity,&nbsp;adaptability&nbsp;and resilience through scientific inquiry and hands-on exploration.&nbsp;</li>
-<li>Strengthen conceptual understanding and thinking skills by constructing their own understanding through inquiry-based learning.&nbsp;</li>
-<li>Cultivate critical thinking,&nbsp;collaboration&nbsp;and responsibility by applying the “Ways of Thinking and Doing in Science” — Investigating, Evaluating, Reasoning and Developing Solutions.</li>
-<li>Nurture appreciation of&nbsp;Science&nbsp;by connecting concepts to daily living, ethical decision-making&nbsp;and real-world relevance.</li></ul>
+<li>Develop students’ curiosity, adaptability and resilience through scientific inquiry and hands-on exploration.</li>
+<li>Strengthen conceptual understanding and thinking skills by constructing their own understanding through inquiry-based learning.</li>
+<li>Cultivate critical thinking, collaboration and responsibility by applying the “Ways of Thinking and Doing in Science” — Investigating, Evaluating, Reasoning and Developing Solutions.</li>
+<li>Nurture appreciation of Science by connecting concepts to daily living, ethical decision-making&nbsp;and real-world relevance.</li></ul>
 
 <strong><font color="#4b0082">Our Key Programmes</font></strong>
 <table>
-<tbody><tr><td style="background-color: #7C71AD;"><strong><font color="ffffff">Science Journaling: Science Around Me (SAM)</font></strong>br</td></tr>
-<tr><td><p align="justify">The SAM journal makes students’ thinking visible and empowers them to take ownership of learning. It allows for expression in varied forms — such as poster designs, investigations, observation logs, mind maps, and Thinking Routines (TR) —&nbsp;catering to diverse learning styles.&nbsp;</p>
+<tbody><tr><td style="background-color: #7C71AD;"><strong><font color="ffffff">Science Journaling: Science Around Me (SAM)</font></strong></td></tr>
+<tr><td><p align="justify">The SAM journal makes students’ thinking visible and empowers them to take ownership of learning. It allows for expression in varied forms — such as poster designs, investigations, observation logs, mind maps, and Thinking Routines (TR) —&nbsp;catering to diverse learning styles.</p>
 <p align="justify">
 Through TRs, students reflect, question, explain their reasoning, and relate science to their everyday lives. This strengthens their ability to&nbsp;observe,&nbsp;analyse&nbsp;and construct understanding meaningfully.&nbsp;</p>
 <p align="justify">
@@ -40,5 +40,4 @@ Targeted at selected Primary 5 ;students who show interest in scientific inquiry
 Students present their work to peers across&nbsp;different levels, sparking curiosity and dialogue within the wider school community. This experience strengthens their communication and presentation skills while building confidence as young scientific thinkers.&nbsp;</p>
 <p align="justify">
 By offering students autonomy in their project topics, the programme promotes ownership of learning, celebrates student voice, and nurtures a love for&nbsp;Science&nbsp;through purposeful exploration.</p> 
-
 </td></tr></tbody></table>
