@@ -86,7 +86,7 @@ By applying technology in authentic contexts such as communicating ideas, analys
 </tr>
 <tr>
 <td rowspan="2" style="border:2px solid #0A0B30;  background-color:#d9d9d9"><br><strong>Level 1:</strong><br>Basic touch-typing</td>
-<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><strong>P1</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><br><strong>P1</strong></td>
 <td style="border:2px solid #0A0B30;  background-color:#d9d9d9">
 <ul><li>MIMS Login</li>
 	<li>Using Singapore Student Learning Space (SLS)</li>
