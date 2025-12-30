@@ -4,10 +4,7 @@ permalink: /student-development-experiences-btps/
 variant: markdown
 description: ""
 ---
-<a height="402" width="502" href="//student-dev-experiences/adaptive-learner/"> 
-    <img src="/images/Information%20Photos/Picture1_03.gif">
-
-<table cellspacing="0" cellpadding="0" border="0" width="1600" id="Table_01">
+<table cellspacing="0" cellpadding="0" border="0" color="#FFFFFF" id="Table_01">
 	<tbody><tr>
 		<td colspan="4">
 			<img alt="" height="101" width="1600" src="/images/Information%20Photos/SDE2_01.gif" id="SDE2_01"></td>
@@ -42,4 +39,4 @@ description: ""
 		<td>
 			<img alt="" height="344" width="536" src="/images/Information%20Photos/SDE2_10.gif" id="SDE2_10"></td>
 	</tr>
-</tbody></table></a>
+</tbody></table>
