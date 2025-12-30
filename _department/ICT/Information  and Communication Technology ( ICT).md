@@ -27,21 +27,23 @@ Prepare students to apply digital skills meaningfully in everyday life as future
 <tr><td><p align="justify">Our whole-school Digital Literacy Curriculum provides a coherent and progressive framework that develops the skills, knowledge, attitudes, and values students need to navigate an increasingly digital world. Across levels, students learn to create and use digital content, collaborate effectively, and apply computational thinking to real-world challenges. </p>
 <p align="justify">
 Students from P1 to P6: <br>
-1.  Create and use digital content across various tools and platforms.&nbsp;<br>
-2.  Learn independently and collaboratively,&nbsp;demonstrating&nbsp;21st-century skills.&nbsp;<br> 
-3.  Apply computational thinking and problem-solving to real-world challenges.<br></p>
+1.  Create and use digital content across various tools and platforms.<br>
+2.  Learn independently and collaboratively,&nbsp;demonstrating&nbsp;21st-century skills.<br> 
+3.  Apply computational thinking and problem-solving to real-world challenges.</p>
  
-As part of our school’s Digital Literacy&nbsp;Curriculum,&nbsp;<strong>Code the Future (CTF)</strong>&nbsp;introduces coding through a structured spiral progression, ensuring students build digital competencies in an&nbsp;age-appropriate&nbsp;and meaningful way. Each stage of learning is aligned to a key programme theme:&nbsp;<strong>Explore &amp; Code,&nbsp;Design &amp; Code</strong> , and&nbsp;<strong>Innovate &amp; Code</strong>.
+As part of our school’s Digital Literacy Curriculum,<strong>Code the Future (CTF)</strong> introduces coding through a structured spiral progression, ensuring students build digital competencies in an&nbsp;age-appropriate&nbsp;and meaningful way. Each stage of learning is aligned to a key programme theme: <strong>Explore &amp; Code, Design &amp; Code</strong> , and <strong>Innovate &amp; Code</strong>.
 
 <table>
 <tbody><tr>
 <td rowspan="1" colspan="3" style="border:2px solid #0A0B30;  background-color:#156082"></td></tr>
 <tr>
-<td width="33%" style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Explore &amp; Code (P1–P2)</font></strong><br><strong>
+<td width="33%" style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Explore &amp; Code (P1–P2)</font><br>
 Our youngest learners begin their coding journey with tactile, hands-on experiences that strengthen foundational computational thinking.</strong></td>
-<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Design &amp; Code (P3–P4)&nbsp;</font></strong><br><strong>
+<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Design &amp; Code (P3–P4)</font>
+<br>
 As students gain confidence, they transition to screen-based environments where they can design, build, and refine digital creations.</strong></td>
-<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Innovate &amp; Code (P5–P6) </font></strong><br><strong>
+<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Innovate &amp; Code (P5–P6) </font>
+<br>
 Students apply their knowledge to more complex, real-world contexts involving advanced coding and emerging technologies. </strong></td>
 </tr>
 <tr>
@@ -54,10 +56,10 @@ Using KUBO’s tag-tile system, students deepen their understanding of sequencin
 <td width="33%" style="border:2px solid #0A0B30"><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P3 &amp; P4: Scratch &amp; Minecraft Coding 
 </font><br>
 Within Scratch &amp; Minecraft Education, students use block-based coding to control agents, automate tasks, and create purposeful digital artefacts. This stage strengthens logical thinking, creativity, and collaboration</li></ul></td>
-<td style="border:2px solid #0A0B30"><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P5: Code for Fun&nbsp; 
+<td style="border:2px solid #0A0B30"><ul><font color="#4b0082"></font><li><font color="#4b0082">P5: Code for Fun 
 </font><br>
 Students work with more advanced computational concepts and may begin using text-based or hybrid coding tools. They learn to design, test, and improve solutions, building&nbsp;resilience&nbsp;and critical thinking.</li>
-<font color="#4b0082"></font><li><font color="#4b0082">P6: AI for Fun<br></font>
+<font color="#4b0082"></font><li><font color="#4b0082">P6: AI for Fun</font><br>
 Students explore artificial intelligence through age-appropriate platforms, understanding how AI works, where it is applied, and how to use it responsibly as future-ready digital citizens.</li></ul>
 </td>
 </tr>
@@ -77,55 +79,55 @@ By applying technology in authentic contexts such as communicating ideas, analys
 <br>
 <table>
 <tbody><tr>
-<td></td>
-<td><strong>Level</strong></td>
-<td><strong>ICT Baseline Skills</strong></td>
-<td><strong>Integration of ICT</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#99ffcc"></td>
+<td style="border:2px solid #0A0B30;  background-color:#99ffcc"><strong>Level</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#99ffcc"><strong>ICT Baseline Skills</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#99ffcc"><strong>Integration of ICT</strong></td>
 </tr>
 <tr>
-<td rowspan="2"><br><strong>Level 1:</strong><br>Basic touch-typing</td>
-<td><br><strong>P1</strong></td>
-<td>
-
-* MIMS Login<br>
-* Using Singapore Student Learning Space (SLS)<br>
-* Touch-typing lessons
-</td>
-<td rowspan="3"><br><strong>Lower Primary</strong>  
+<td rowspan="2" style="border:2px solid #0A0B30;  background-color:#d9d9d9"><br><strong>Level 1:</strong><br>Basic touch-typing</td>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><strong>P1</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9">
+<ul><li>MIMS Login</li><br>
+	<li>Using Singapore Student Learning Space (SLS)</li><br>
+<li>Touch-typing lessons</li>
+</ul></td>
+<td rowspan="3" style="border:2px solid #0A0B30;  background-color:#ffffff"><br><strong>Lower Primary</strong>  
 SLS <br>
 Koobits (Math) <br>
-Moo-O (EL reading  <br>
+Moo-O (EL reading<br>
 programme) <br></td>
-</tr><tr>
-<td><br><strong>P2</strong></td>
-<td>
-* Touch-typing lessons – Chinese Characters <br>
-* Basic use of MS Word<br>
+</tr>
+<tr>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><br><strong>P2</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9">
+<ul><li>Touch-typing lessons – Chinese Characters</li><br>
+<li>Basic use of MS Word</li></ul>
 </td></tr>
 
 <tr>
-<td rowspan="2"><br><strong>Level 2:&nbsp;</strong><br>Create a presentation with text and Graphics</td>
-<td><br><strong>P3</strong></td>
-<td><br>
+<td rowspan="2" style="border:2px solid #0A0B30;  background-color:#fff4a9"><br><strong>Level 2: </strong><br>Create a presentation with text and Graphics</td>
+<td style="border:2px solid #0A0B30;  background-color:#fff4a9"><br><strong>P3</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#fff4a9"><br>
 
 * Basic use of PowerPoint<br>
 * Touch-typing lessons – Tamil fonts<br>
 </td>
 <td></td>
 </tr><tr>
-<td><br><strong>P4</strong></td>
-<td><br>
-* Introduction to Google Apps<br>&nbsp;    
-* Intermediate use of MS Word &amp; PowerPoint<br>   
-* Touch-typing lessons – Tamil fonts<br>&nbsp;&nbsp;    
-* Use of Excel spreadsheet<br>
-</td>
-<td rowspan="3"><strong>Upper Primary</strong>&nbsp;<br>
+<td style="border:2px solid #0A0B30;  background-color:#fff4a9"><br><strong>P4</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#fff4a9"><br>
+<ul><li>Introduction to Google Apps</li><br>    
+<li>Intermediate use of MS Word &amp; PowerPoint</li> <br>   
+<li>Touch-typing lessons – Tamil fonts</li><br>   
+<li>Use of Excel spreadsheet</li><br>
+</ul></td>
+<td style="border:2px solid #0A0B30;  rowspan="><strong>Upper Primary</strong><br>
 SLS&nbsp;<br>
-Creating E-Books (ML)&nbsp;<br>
-Koobits&nbsp;(Math)&nbsp;<br>
-Mobile Photography&nbsp;<br>
-Stop Motion animation&nbsp;<br>
+Creating E-Books (ML)<br>
+Koobits&nbsp;(Math)<br>
+Mobile Photography<br>
+Stop Motion animation<br>
 Garage Band</td>
 </tr>
 </tbody></table>
