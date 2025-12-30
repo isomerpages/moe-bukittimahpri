@@ -6,6 +6,8 @@ links:
     collection: key-programmes
   - title: Department
     collection: department
+  - title: Student Dev Experiences
+    collection: student-dev-experiences
   - title: CCA
     collection: cca
   - title: For Parents
