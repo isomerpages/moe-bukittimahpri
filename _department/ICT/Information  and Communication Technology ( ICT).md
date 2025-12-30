@@ -31,7 +31,7 @@ Students from P1 to P6: <br>
 2.  Learn independently and collaboratively,&nbsp;demonstrating&nbsp;21st-century skills.<br> 
 3.  Apply computational thinking and problem-solving to real-world challenges.</p>
  
-As part of our school’s Digital Literacy Curriculum,<strong>Code the Future (CTF)</strong> introduces coding through a structured spiral progression, ensuring students build digital competencies in an&nbsp;age-appropriate&nbsp;and meaningful way. Each stage of learning is aligned to a key programme theme: <strong>Explore &amp; Code, Design &amp; Code</strong> , and <strong>Innovate &amp; Code</strong>.
+<p align="justify">As part of our school’s Digital Literacy Curriculum,<strong>Code the Future (CTF)</strong> introduces coding through a structured spiral progression, ensuring students build digital competencies in an&nbsp;age-appropriate&nbsp;and meaningful way. Each stage of learning is aligned to a key programme theme: <strong>Explore &amp; Code, Design &amp; Code</strong> , and <strong>Innovate &amp; Code</strong>.</p>
 
 <table>
 <tbody><tr>
@@ -66,7 +66,7 @@ Students explore artificial intelligence through age-appropriate platforms, unde
 
 </tbody></table>
 
-Through this&nbsp;spiral approach,&nbsp;students&nbsp;progress from exploration to creation and innovation, with each level reinforcing and expanding their skills. By the end of&nbsp;Code&nbsp;the Future (CTF), learners are equipped with strong computational thinking abilities, creativity, and the confidence to navigate and shape an increasingly digital world.
+<p align="justify">Through this&nbsp;spiral approach,&nbsp;students&nbsp;progress from exploration to creation and innovation, with each level reinforcing and expanding their skills. By the end of&nbsp;Code&nbsp;the Future (CTF), learners are equipped with strong computational thinking abilities, creativity, and the confidence to navigate and shape an increasingly digital world.</p>
 
 <p></p>
 </td></tr><tr><td style="background-color: #f48470;"><strong><font color="ffffff">Enhanced Inquiry&nbsp;Based Learning&nbsp;Supported by&nbsp;Thinking Routine&nbsp;(E-IBLTR)</font></strong></td></tr>
