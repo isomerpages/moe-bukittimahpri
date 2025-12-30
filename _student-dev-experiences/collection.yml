@@ -1,4 +1,5 @@
 collections:
   student-dev-experiences:
     output: true
-    order: []
+    order:
+      - Adaptive Learner.md
