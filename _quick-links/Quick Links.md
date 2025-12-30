@@ -26,8 +26,6 @@ For more details, Click here: [Moo-O Resources for Singapore School Users](https
 * [MOE Website](https://www.moe.gov.sg/primary/)
 
 * [Parents Gateway](/files/Annex%20B.pdf)<br>
-<iframe src="https://www.youtube.com/embed/29H_d-l5H0s" height="415" width="500">
-</iframe>
 
 * [Parent Kit](https://www.moe.gov.sg/parentkit/)
 
