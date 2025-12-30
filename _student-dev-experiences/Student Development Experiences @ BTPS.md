@@ -7,13 +7,18 @@ description: ""
 <table cellspacing="0" cellpadding="0" border="0" width="603" id="Table_01">
 	<tbody><tr>
 		<td colspan="6">
-			<img alt="" height="96" width="603" src="/images/Information%20Photos/Picture1_01.gif" id="Picture1_01"></td>
+			<a height="96" width="603" href="destination_url_here"> 
+    <img src="/images/Information%20Photos/Picture1_01.gif">
+</a></td>
 	</tr>
 	<tr>
 		<td rowspan="2">
 			<img alt="" height="144" width="24" src="/images/Information%20Photos/Picture1_02.gif" id="Picture1_02"></td>
 		<td rowspan="2">
-			<img alt="" height="144" width="188" src="/images/Information%20Photos/Picture1_03.gif" id="Picture1_03"></td>
+<a height="144" width="188" href="destination_url_here"> 
+    <img src="/images/Information%20Photos/Picture1_03.gif">
+</a>
+		</td>
 		<td rowspan="2">
 			<img alt="" height="144" width="179" src="/images/Information%20Photos/Picture1_04.gif" id="Picture1_04"></td>
 		<td rowspan="2">
