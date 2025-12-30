@@ -40,5 +40,5 @@ Targeted at selected Primary 5 ;students who show interest in scientific inquiry
 Students present their work to peers across&nbsp;different levels, sparking curiosity and dialogue within the wider school community. This experience strengthens their communication and presentation skills while building confidence as young scientific thinkers.&nbsp;</p>
 <p align="justify">
 By offering students autonomy in their project topics, the programme promotes ownership of learning, celebrates student voice, and nurtures a love for&nbsp;Science&nbsp;through purposeful exploration.</p> 
-<p></p>
+
 </td></tr></tbody></table>
