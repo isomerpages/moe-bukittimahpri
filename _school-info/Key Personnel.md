@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <h3><strong>SCHOOL LEADERS</strong></h3>
-<table style="minWidth: 75px">
+<table>
 <colgroup>
 <col>
 <col>
@@ -13,11 +13,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="width:200px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="width:200px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
@@ -65,7 +65,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>YEAR HEADS</strong></h4>
-<table style="minWidth: 75px">
+<table style="Width: 100%">
 <colgroup>
 <col>
 <col>
@@ -73,11 +73,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="Width: 350px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="Width: 350px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
@@ -127,7 +127,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>HEADS OF DEPARTMENT (HOD)</strong></h4>
-<table style="minWidth: 75px">
+<table style="Width: 100%">
 <colgroup>
 <col>
 <col>
@@ -135,11 +135,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="width:350px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="width:350px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
@@ -153,7 +153,7 @@ variant: markdown
 <p>Mdm Anita Francis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ English Language (EL)</p>
+<p>HOD/ English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Francis_Anita_Chitra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Francis_Anita_Chitra@schools.gov.sg</u></a>
@@ -201,7 +201,7 @@ variant: markdown
 <p>Mrs Nicole Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Character and Citizenship Education (CCE)</p>
+<p>HOD/ Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yap_xue_li_nicole@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yap_xue_li_nicole@schools.gov.sg</u></a>
@@ -213,7 +213,7 @@ variant: markdown
 <p>Miss Goh Xue Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Pupil Managment</p>
+<p>HOD/ Student Managment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_xue_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_xue_yi@schools.gov.sg</u></a>
@@ -225,7 +225,7 @@ variant: markdown
 <p>Mrs Vanessa Tang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ School Staff Developer (SSD)</p>
+<p>HOD/ School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_bee_choo_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_bee_choo_b@schools.gov.sg</u></a>
@@ -237,7 +237,7 @@ variant: markdown
 <p>Mr Ernest Choon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ ICT</p>
+<p>HOD/ Information and Communications Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:choon_guoxiang_ernest@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>choon_guoxiang_ernest@schools.gov.sg</u></a>
@@ -259,7 +259,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>LEVEL HEAD (LH) | SUBJECT HEAD (SH)</strong></h4>
-<table style="minWidth: 75px">
+<table style="Width: 100%">
 <colgroup>
 <col>
 <col>
@@ -267,11 +267,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="width:350px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="width:350px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
@@ -286,7 +286,7 @@ variant: markdown
 <p>Mdm Sangitah k Jayaseelan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/ Character and Citizenship Education (CCE)</p>
+<p>SH/ Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sangitah_k_jayaseelan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sangitah_k_jayaseelan@schools.gov.sg</u></a>
@@ -310,7 +310,7 @@ variant: markdown
 <p>Mdm Durgadevi d/o Tamil Selvam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/ ICT</p>
+<p>SH/ Information and Communications Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:durgadevi_tamil_selvam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>durgadevi_tamil_selvam@schools.gov.sg</u></a>
@@ -334,7 +334,7 @@ variant: markdown
 <p>Ms Sharmini d/o Jaya Kumaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH/  English Language (EL) &amp; Social Studies</p>
+<p>LH/  English Language &amp; Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sharmini_jaya_kumaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sharmini_jaya_kumaran@schools.gov.sg</u></a>
@@ -356,7 +356,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>SENIOR TEACHERS (ST)</strong></h4>
-<table style="minWidth: 75px">
+<table style="Width: 100%">
 <colgroup>
 <col>
 <col>
@@ -364,7 +364,7 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="width:350px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
@@ -416,7 +416,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>SCHOOL ADMIN TEAM (SAT)</strong></h4>
-<table style="minWidth: 75px">
+<table style="Width: 100%">
 <colgroup>
 <col>
 <col>
@@ -424,11 +424,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="width:350px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="width:350px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
