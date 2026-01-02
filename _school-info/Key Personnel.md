@@ -125,7 +125,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>HEADS OF DEPARTMENT (HOD)</strong></h4>
-<table style="Width: 100%">
+<table>
 <colgroup>
 <col>
 <col>
@@ -133,11 +133,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th style="width: 30%" rowspan="1" colspan="1">
+<th style="width: 350px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th style="width: 50%" rowspan="1" colspan="1">
+<th style="width: 350px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
@@ -257,7 +257,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>LEVEL HEAD (LH) | SUBJECT HEAD (SH)</strong></h4>
-<table style="Width: 100%">
+<table>
 <colgroup>
 <col>
 <col>
@@ -265,11 +265,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th style="width: 30%" rowspan="1" colspan="1">
+<th style="width: 350px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th style="width: 50%" rowspan="1" colspan="1">
+<th style="width: 350px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
@@ -362,11 +362,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th style="width: 30%" rowspan="1" colspan="1">
+<th style="width: 350px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th style="width: 50%" rowspan="1" colspan="1">
+<th style="width: 350px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
@@ -414,7 +414,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>SCHOOL ADMIN TEAM (SAT)</strong></h4>
-<table style="Width: 100%">
+<table>
 <colgroup>
 <col>
 <col>
