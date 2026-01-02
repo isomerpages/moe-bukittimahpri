@@ -135,11 +135,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th style="width:300px" rowspan="1" colspan="1">
+<th style="width:200px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th style="width:600px" rowspan="1" colspan="1">
+<th style="width:350px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
@@ -259,7 +259,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>LEVEL HEAD (LH) | SUBJECT HEAD (SH)</strong></h4>
-<table style="minWidth: 75px">
+<table style="width:1600px">
 <colgroup>
 <col>
 <col>
@@ -267,11 +267,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="width:200px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="width:350px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
