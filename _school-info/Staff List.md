@@ -8,7 +8,7 @@ variant: markdown
 <br>
 <br>
 </p>
-<p></p><p></p><table style="minWidth: 75px">
+<p></p><p></p><table style="Width: 1600px">
 <colgroup>
 <col>
 <col>
@@ -16,11 +16,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<td width="20%" rowspan="1" colspan="1">
+<td style="Width: 150px" rowspan="1" colspan="1">
 <p><strong>CLASS</strong>
 </p>
 </td>
-<td width="30%" rowspan="1" colspan="1">
+<td width="300px" rowspan="1" colspan="1">
 <p><strong>NAME</strong>
 </p>
 </td>
