@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <h3><strong>SCHOOL LEADERS</strong></h3>
-<table style="width:1600px">
+<table style="width:800px">
 <colgroup>
 <col>
 <col>
