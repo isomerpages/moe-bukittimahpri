@@ -134,7 +134,7 @@ variant: markdown
 
 <p>Mdm Li Yiling</p>
 </td>
-<td rowspan="1" colspan="1"><a href="mailto:li_yiling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_yiling@schools.gov.sg</a><p></p>
+<td rowspan="1" colspan="1"><p><a href="mailto:li_yiling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_yiling@schools.gov.sg</a></p><p></p>
 </td>
 </tr>
 <tr>
