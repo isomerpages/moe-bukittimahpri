@@ -91,7 +91,7 @@ variant: markdown
 <p>Mrs Shirley Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (P1 &amp; P2)</p>
+<p>YH (P1 &amp; P2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:low_yin_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_yin_choo@schools.gov.sg</a>
@@ -103,7 +103,7 @@ variant: markdown
 <p>Mdm Maslinda Masod</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (P3 &amp; P4)</p>
+<p>YH (P3 &amp; P4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:maslinda_masod@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maslinda_masod@schools.gov.sg</a>
@@ -115,7 +115,7 @@ variant: markdown
 <p>Mrs Angeline Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (P5 &amp; P6)</p>
+<p>YH (P5 &amp; P6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:low_swee_ling_angeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_swee_ling_angeline@schools.gov.sg</a>
