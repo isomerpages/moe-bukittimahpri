@@ -8,7 +8,7 @@ variant: markdown
 <br>
 <br>
 </p>
-<p></p><p></p><table style="Width: 1600px">
+<p></p><p></p><table style="Width: 1200px">
 <colgroup>
 <col>
 <col>
