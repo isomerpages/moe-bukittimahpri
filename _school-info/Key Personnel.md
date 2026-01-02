@@ -101,8 +101,6 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Maslinda Masod</p>
-<br>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Year Head</strong><br>(P3 &amp; P4)</p>
