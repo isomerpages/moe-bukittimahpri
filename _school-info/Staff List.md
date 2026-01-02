@@ -16,11 +16,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td width="20%" rowspan="1" colspan="1">
 <p><strong>CLASS</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td width="30%" rowspan="1" colspan="1">
 <p><strong>NAME</strong>
 </p>
 </td>
@@ -30,9 +30,11 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1 Adaptability</p>
 </td>
+
+
 <td rowspan="1" colspan="1">
 <p>Mdm Chng Ling Ling</p>
 </td>
@@ -42,21 +44,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chng Ling Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chng_ling_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_ling_ling@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+
 <td rowspan="1" colspan="1">
 <p>Mrs Yvonne Kwan</p>
 </td>
@@ -66,20 +54,18 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ong Wei Ming Ernest</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_wei_ming_ernest@schools.gov.sg</p>
+<p><a href="mailto:ong_wei_ming_ernest@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_wei_ming_ernest@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Foo Li Wei</p>
 </td>
@@ -89,7 +75,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,30 +89,24 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Rosna Hussien</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rosna_hussien@schools.gov.sg</p>
+<a href="mailto:rosna_hussien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rosna_hussien@schools.gov.sg</a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rozana Bte Hashim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rozana_hashim@schools.gov.sg</p>
+<a href="mailto:rozana_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rozana_hashim@schools.gov.sg</a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Pang Liew Chin</p>
 <p></p>
@@ -137,44 +117,38 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
+
 <p>Mrs Goh Khai Gin</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chan_khai_gin@schools.gov.sg</p>
+<a href="mailto:chan_khai_gin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_khai_gin@schools.gov.sg</a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+
 <p>Mdm Li Yiling</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>li_yiling@schools.gov.sg</p>
+<td rowspan="1" colspan="1"><a href="mailto:li_yiling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_yiling@schools.gov.sg</a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Euodia Tay</p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>sia_mei_ling_euodia@schools.gov.sg</p>
+<td rowspan="1" colspan="1"><p><a href="mailto:sia_mei_ling_euodia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sia_mei_ling_euodia@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Namira</p>
 </td>
