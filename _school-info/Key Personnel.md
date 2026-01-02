@@ -127,7 +127,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>HEADS OF DEPARTMENT (HOD)</strong></h4>
-<table style="Width: 100%">
+<table style="width: 100%">
 <colgroup>
 <col>
 <col>
@@ -368,7 +368,7 @@ variant: markdown
 <p><strong>Name</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="width:350px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
