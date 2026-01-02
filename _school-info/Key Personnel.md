@@ -153,7 +153,7 @@ variant: markdown
 <p>Mdm Anita Francis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/English Language (EL)</p>
+<p>HOD/ English Language (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Francis_Anita_Chitra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Francis_Anita_Chitra@schools.gov.sg</u></a>
@@ -165,7 +165,7 @@ variant: markdown
 <p>Mrs Karin Gan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Mathematics</p>
+<p>HOD/ Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_lei_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yeo_lei_teng@schools.gov.sg</u></a>
@@ -249,7 +249,7 @@ variant: markdown
 <p>Mrs Lynette Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Aesthetics <br> (covering HOD/CCA)</p>
+<p>SH/ Aesthetics <br> (covering HOD/ CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thia_hui_shan_lynette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>thia_hui_shan_lynette@schools.gov.sg</u></a>
@@ -286,7 +286,7 @@ variant: markdown
 <p>Mdm Sangitah k Jayaseelan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/CCE</p>
+<p>SH/ Character and Citizenship Education (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sangitah_k_jayaseelan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sangitah_k_jayaseelan@schools.gov.sg</u></a>
@@ -298,7 +298,7 @@ variant: markdown
 <p>Mdm Chng Ling Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Chinese Language</p>
+<p>SH/ Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chng_ling_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chng_ling_ling@schools.gov.sg</u></a>
@@ -310,7 +310,7 @@ variant: markdown
 <p>Mdm Durgadevi d/o Tamil Selvam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/ICT</p>
+<p>SH/ ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:durgadevi_tamil_selvam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>durgadevi_tamil_selvam@schools.gov.sg</u></a>
@@ -322,7 +322,7 @@ variant: markdown
 <p>Mdm Noor Idayu Bte Sunator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Well-Being</p>
+<p>SH/ Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:noor_idayu_sunator@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>noor_idayu_sunator@schools.gov.sg</u></a>
@@ -334,7 +334,7 @@ variant: markdown
 <p>Ms Sharmini d/o Jaya Kumaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH/EL &amp; SS</p>
+<p>LH/  English Language (EL) &amp; Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sharmini_jaya_kumaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sharmini_jaya_kumaran@schools.gov.sg</u></a>
@@ -346,7 +346,7 @@ variant: markdown
 <p>Mr Chua Peng Swee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/PE</p>
+<p>SH/ Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_peng_swee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_peng_swee@schools.gov.sg</u></a>
@@ -382,7 +382,7 @@ variant: markdown
 <p>Mdm Rozana Bte Hashim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST/English Language</p>
+<p>ST/ English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rozana_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rozana_hashim@schools.gov.sg</u></a>
@@ -394,7 +394,7 @@ variant: markdown
 <p>Mdm Junaida Bte Jasman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST/Mathematics</p>
+<p>ST/ Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:junaida_jasman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>junaida_jasman@schools.gov.sg</u></a>
@@ -406,7 +406,7 @@ variant: markdown
 <p>Mrs Josephine Kek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST/Music</p>
+<p>ST/ Music</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Ho_Hui_Suan_Josephine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ho_Hui_Suan_Josephine@schools.gov.sg</u></a>
