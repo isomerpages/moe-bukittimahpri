@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <h3><strong>SCHOOL LEADERS</strong></h3>
-<table style="minWidth: 75px">
+<table style="width:1600px">
 <colgroup>
 <col>
 <col>
@@ -13,11 +13,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="width:200px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="width:200px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
@@ -65,7 +65,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>YEAR HEADS</strong></h4>
-<table style="minWidth: 75px">
+<table style="width:1600px">
 <colgroup>
 <col>
 <col>
@@ -73,11 +73,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="width:200px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="width:200px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
@@ -213,7 +213,7 @@ variant: markdown
 <p>Miss Goh Xue Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Pupil Managment</p>
+<p>HOD/ Student Managment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_xue_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_xue_yi@schools.gov.sg</u></a>
