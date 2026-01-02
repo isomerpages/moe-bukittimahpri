@@ -20,7 +20,7 @@ variant: markdown
 <p><strong>CLASS</strong>
 </p>
 </td>
-<td width="300px" rowspan="1" colspan="1">
+<td width="320px" rowspan="1" colspan="1">
 <p><strong>NAME</strong>
 </p>
 </td>
