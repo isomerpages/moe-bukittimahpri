@@ -259,7 +259,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>LEVEL HEAD (LH) | SUBJECT HEAD (SH)</strong></h4>
-<table style="width:1600px">
+<table style="Width: 100%">
 <colgroup>
 <col>
 <col>
@@ -356,7 +356,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>SENIOR TEACHERS (ST)</strong></h4>
-<table style="minWidth: 75px">
+<table style="Width: 100%">
 <colgroup>
 <col>
 <col>
@@ -416,7 +416,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>SCHOOL ADMIN TEAM (SAT)</strong></h4>
-<table>
+<table style="Width: 100%">
 <colgroup>
 <col>
 <col>
