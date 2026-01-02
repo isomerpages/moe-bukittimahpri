@@ -199,7 +199,7 @@ variant: markdown
 <p>Mrs Nicole Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Character and Citizenship Education</p>
+<p>HOD/ Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yap_xue_li_nicole@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yap_xue_li_nicole@schools.gov.sg</u></a>
@@ -235,7 +235,7 @@ variant: markdown
 <p>Mr Ernest Choon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Information and Communications Technology</p>
+<p>HOD/ Information &amp; Communications Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:choon_guoxiang_ernest@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>choon_guoxiang_ernest@schools.gov.sg</u></a>
@@ -247,7 +247,7 @@ variant: markdown
 <p>Mrs Lynette Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/ Aesthetics <br> (covering HOD/ CCA)</p>
+<p>SH/ Aesthetics <br> (covering HOD/ Co-Curricular Activities)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thia_hui_shan_lynette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>thia_hui_shan_lynette@schools.gov.sg</u></a>
@@ -285,7 +285,7 @@ variant: markdown
 <p>Mdm Sangitah k Jayaseelan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/ Character and Citizenship Education</p>
+<p>SH/ Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sangitah_k_jayaseelan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sangitah_k_jayaseelan@schools.gov.sg</u></a>
@@ -309,7 +309,7 @@ variant: markdown
 <p>Mdm Durgadevi d/o Tamil Selvam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/ Information and Communications Technology</p>
+<p>SH/ Information &amp; Communications Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:durgadevi_tamil_selvam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>durgadevi_tamil_selvam@schools.gov.sg</u></a>
