@@ -6,9 +6,8 @@ variant: markdown
 ---
 <p><strong>TEACHING STAFFS</strong>
 <br>
-<br>
 </p>
-<p></p><p></p><table style="Width: 100%">
+<p></p><p></p><table style="max-width: 100%">
 <colgroup>
 <col>
 <col>
@@ -16,11 +15,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<td style="Width: 200px" rowspan="1" colspan="1">
+<td style="max-width: 30%" rowspan="1" colspan="1">
 <p><strong>CLASS</strong>
 </p>
 </td>
-<td style="Width: 320px" rowspan="1" colspan="1">
+<td style="max-width: 30%" rowspan="1" colspan="1">
 <p><strong>NAME</strong>
 </p>
 </td>
@@ -791,7 +790,7 @@ variant: markdown
 <br><strong>SCHOOL ADMIN TEAM</strong>
 <br>
 </p>
-<table style="minWidth: 75px">
+<table style="max-width: 100%">
 <colgroup>
 <col>
 <col>
@@ -799,11 +798,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="max-width: 30%" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="max-width: 30%" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
