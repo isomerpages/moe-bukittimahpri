@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <h3><strong>SCHOOL LEADERS</strong></h3>
-<table style="width:800px">
+<table>
 <colgroup>
 <col>
 <col>
@@ -65,7 +65,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>YEAR HEADS</strong></h4>
-<table style="width:1600px">
+<table>
 <colgroup>
 <col>
 <col>
@@ -125,7 +125,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>HEADS OF DEPARTMENT (HOD)</strong></h4>
-<table style="width:1600px">
+<table>
 <colgroup>
 <col>
 <col>
@@ -258,7 +258,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>LEVEL HEAD (LH) | SUBJECT HEAD (SH)</strong></h4>
-<table style="width:1600px">
+<table>
 <colgroup>
 <col>
 <col>
@@ -355,7 +355,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>SENIOR TEACHERS (ST)</strong></h4>
-<table style="width:1600px">
+<table>
 <colgroup>
 <col>
 <col>
@@ -415,7 +415,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>SCHOOL ADMIN TEAM (SAT)</strong></h4>
-<table style="width:1600px">
+<table>
 <colgroup>
 <col>
 <col>
