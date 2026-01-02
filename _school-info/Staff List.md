@@ -171,7 +171,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Idayu (SH/SW)</p>
+<p>Mdm Idayu <br>SH/Student Well-Being</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1"><p><a href="mailto:noor_idayu_sunator@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noor_idayu_sunator@schools.gov.sg</a></p>
@@ -213,7 +213,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sangitah</p>
+<p>Mdm Sangitah<br>SH/CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sangitah_k_jayaseelan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sangitah_k_jayaseelan@schools.gov.sg</a>
