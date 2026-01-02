@@ -297,7 +297,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vanessa Tan
+<p>Mrs Vanessa Tang
 </p>
 </td>
 <td rowspan="1" colspan="1"><p><a href="mailto:tan_bee_choo_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_bee_choo_b@schools.gov.sg</a></p>
