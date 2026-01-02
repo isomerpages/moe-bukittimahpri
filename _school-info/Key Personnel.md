@@ -133,11 +133,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<td style="max-width: 40%" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="max-width: 40%">
 <p><strong>Name</strong>
 </p>
 </td>
-<td style="max-width: 40%" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1" style="max-width: 40%">
 <p><strong>Designation</strong>
 </p>
 </td>
@@ -256,6 +256,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+
 <h4><strong>LEVEL HEAD (LH) | SUBJECT HEAD (SH)</strong></h4>
 <table style="max-width: 100%">
 <colgroup>
