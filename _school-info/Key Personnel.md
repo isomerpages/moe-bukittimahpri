@@ -73,11 +73,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th style="Width: 200px" rowspan="1" colspan="1">
+<th style="width:350px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th style="Width: 200px" rowspan="1" colspan="1">
+<th style="width:350px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
@@ -101,8 +101,6 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Maslinda Masod</p>
-<br>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Year Head</strong><br>(P3 &amp; P4)</p>
@@ -135,11 +133,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th style="width:200px" rowspan="1" colspan="1">
+<th style="width:400px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th style="width:200px" rowspan="1" colspan="1">
+<th style="width:400px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
@@ -237,7 +235,8 @@ variant: markdown
 <p>Mr Ernest Choon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Information and Communications Technology</p>
+<p>HOD/ Information and Communications Technology
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:choon_guoxiang_ernest@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>choon_guoxiang_ernest@schools.gov.sg</u></a>
@@ -259,7 +258,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>LEVEL HEAD (LH) | SUBJECT HEAD (SH)</strong></h4>
-<table style="width:1600px">
+<table style="Width: 100%">
 <colgroup>
 <col>
 <col>
@@ -267,11 +266,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th style="width:200px" rowspan="1" colspan="1">
+<th style="width:400px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th style="width:350px" rowspan="1" colspan="1">
+<th style="width:400px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
@@ -356,7 +355,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>SENIOR TEACHERS (ST)</strong></h4>
-<table style="minWidth: 75px">
+<table style="Width: 100%">
 <colgroup>
 <col>
 <col>
@@ -364,11 +363,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="width:400px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="width:400px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
@@ -416,7 +415,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>SCHOOL ADMIN TEAM (SAT)</strong></h4>
-<table style="minWidth: 75px">
+<table style="Width: 100%">
 <colgroup>
 <col>
 <col>
@@ -424,11 +423,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="width:300px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="width:200px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
