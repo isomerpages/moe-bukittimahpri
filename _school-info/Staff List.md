@@ -8,7 +8,7 @@ variant: markdown
 <br>
 <br>
 </p>
-<p></p><p></p><table style="Width: 1200px">
+<p></p><p></p><table style="Width: 100%">
 <colgroup>
 <col>
 <col>
@@ -20,7 +20,7 @@ variant: markdown
 <p><strong>CLASS</strong>
 </p>
 </td>
-<td width="320px" rowspan="1" colspan="1">
+<td style="Width: 320px" rowspan="1" colspan="1">
 <p><strong>NAME</strong>
 </p>
 </td>
@@ -36,7 +36,7 @@ variant: markdown
 
 
 <td rowspan="1" colspan="1">
-<p>Mdm Chng Ling Ling<br>SH/Chinese Language</p>
+<p>Mdm Chng Ling Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chng_ling_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_ling_ling@schools.gov.sg</a>
@@ -171,7 +171,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Idayu <br>SH/Student Well-Being</p>
+<p>Mdm Idayu </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1"><p><a href="mailto:noor_idayu_sunator@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noor_idayu_sunator@schools.gov.sg</a></p>
@@ -192,7 +192,7 @@ variant: markdown
 <tr>
 
 <td rowspan="1" colspan="1">
-<p>Mr Ho Boon Huat <br>HOD/MTL</p>
+<p>Mr Ho Boon Huat </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_boon_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_boon_huat@schools.gov.sg</a>
@@ -213,7 +213,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sangitah<br>SH/CCE</p>
+<p>Mdm Sangitah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sangitah_k_jayaseelan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sangitah_k_jayaseelan@schools.gov.sg</a>
@@ -234,7 +234,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lynette Lim <br>SH/Aesthetics</p>
+<p>Mrs Lynette Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thia_hui_shan_lynette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thia_hui_shan_lynette@schools.gov.sg</a>
@@ -297,8 +297,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vanessa Tan
-<br>HOD/ School Staff Developer (SSD)</p>
+<p>Mrs Vanessa Tang
+</p>
 </td>
 <td rowspan="1" colspan="1"><p><a href="mailto:tan_bee_choo_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_bee_choo_b@schools.gov.sg</a></p>
 </td>
@@ -371,7 +371,7 @@ variant: markdown
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Durgadevi<br>SH/ICT</p>
+<p>Mdm Durgadevi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:durgadevi_tamil_selvam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">durgadevi_tamil_selvam@schools.gov.sg</a>
@@ -393,7 +393,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Nicole Chan
-<br>HOD/ Character and Citizenship Education (CCE)</p>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yap_xue_li_nicole@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yap_xue_li_nicole@schools.gov.sg</u></a>
@@ -456,7 +456,7 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ernest Choon<br>HOD/ ICT</p>
+<p>Mr Ernest Choon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:choon_guoxiang_ernest@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choon_guoxiang_ernest@schools.gov.sg</a>
@@ -562,7 +562,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sharmini<br>LH/EL &amp; SS</p>
+<p>Ms Sharmini</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sharmini_jaya_kumaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharmini_jaya_kumaran@schools.gov.sg</a>
@@ -604,7 +604,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Peng Swee<br>SH/PE</p>
+<p>Mr Chua Peng Swee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_peng_swee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_peng_swee@schools.gov.sg</a>
@@ -647,7 +647,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Anita Francis
-<br>HOD/English Language (EL)</p>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Francis_Anita_Chitra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Francis_Anita_Chitra@schools.gov.sg</u></a>
@@ -659,7 +659,7 @@ variant: markdown
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Christopher Khoo<br>HOD/ Science</p>
+<p>Mr Christopher Khoo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:khoo_kian_kiong_christopher@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_christopher@schools.gov.sg</a>
