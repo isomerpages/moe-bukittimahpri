@@ -354,7 +354,7 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>SENIOR TEACHERS (ST)</strong></h4>
-<table style="Width: 100%">
+<table>
 <colgroup>
 <col>
 <col>
