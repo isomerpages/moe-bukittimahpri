@@ -135,11 +135,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th style="width:350px" rowspan="1" colspan="1">
+<th style="Width: 400px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th style="width:350px" rowspan="1" colspan="1">
+<th style="Width: 400px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
@@ -364,11 +364,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th style="width:350px" rowspan="1" colspan="1">
+<th style="width: 350px" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </th>
-<th style="width:350px" rowspan="1" colspan="1">
+<th style="width: 350px" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
