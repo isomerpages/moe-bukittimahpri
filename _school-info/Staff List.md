@@ -16,7 +16,7 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<td style="Width: 150px" rowspan="1" colspan="1">
+<td style="Width: 200px" rowspan="1" colspan="1">
 <p><strong>CLASS</strong>
 </p>
 </td>
