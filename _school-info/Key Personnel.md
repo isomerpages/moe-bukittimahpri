@@ -133,11 +133,11 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1" style="max-width: 40%">
+<td style="max-width: 40%" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1" style="max-width: 40%">
+<td style="max-width: 40%" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </td>
