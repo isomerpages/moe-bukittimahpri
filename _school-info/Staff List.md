@@ -518,9 +518,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+
 <td rowspan="1" colspan="1">
 <p>Mdm Junaida Bte Jasman</p>
 </td>
@@ -530,7 +528,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -543,9 +541,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Daphne Ho</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -554,7 +549,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -567,9 +562,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Sharmini</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -578,7 +570,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -591,9 +583,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Iris Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -602,7 +591,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -615,9 +604,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Chua Peng Swee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -626,7 +612,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>6 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -639,9 +625,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Mellissa Khoo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -650,7 +633,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>6 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -663,9 +646,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Anita Francis
 <br>HOD/English Language (EL)</p>
 </td>
@@ -675,7 +655,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -688,9 +668,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Jasmine Yap</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -699,7 +676,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>6 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -712,9 +689,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Evelyn Nah Bee Har</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -723,7 +697,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -736,9 +710,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Miss Lee Yan Ying</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -747,7 +718,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>6 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -759,9 +730,6 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Jesu</p>
 </td>
