@@ -103,7 +103,7 @@ variant: markdown
 <p>Mdm Rozana Bte Hashim</p>
 </td>
 <td rowspan="1" colspan="1">
-<a href="mailto:rozana_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rozana_hashim@schools.gov.sg</a><p></p>
+<p><a href="mailto:rozana_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rozana_hashim@schools.gov.sg</a></p><p></p>
 </td>
 </tr>
 <tr>
@@ -192,7 +192,7 @@ variant: markdown
 <tr>
 
 <td rowspan="1" colspan="1">
-<p>Mr Ho Boon Huat (HOD/MTL)</p>
+<p>Mr Ho Boon Huat <br>HOD/MTL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_boon_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_boon_huat@schools.gov.sg</a>
@@ -234,7 +234,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lynette Lim (SH/Aesthetics)</p>
+<p>Mrs Lynette Lim <br>SH/Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thia_hui_shan_lynette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thia_hui_shan_lynette@schools.gov.sg</a>
@@ -832,7 +832,7 @@ variant: markdown
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rowena_sulaiman@schools.gov.sg</p>
+<p><a href="mailto:rowena_sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rowena_sulaiman@schools.gov.sg</a></p>
 </td>
 </tr>
 <tr>
