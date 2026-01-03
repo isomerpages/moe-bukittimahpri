@@ -122,7 +122,7 @@ variant: markdown
 <td style="max-width: 45%">
 <p><strong>Designation</strong></p>
 </td>
-<td>
+<td style="max-width: 10%">
 <p><strong>Email Address</strong></p>
 </td>
 </tr>
