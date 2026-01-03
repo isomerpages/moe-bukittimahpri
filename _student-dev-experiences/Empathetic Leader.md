@@ -67,4 +67,3 @@ Insert MOE CW framework&nbsp;(S://.......ICT/Cyberwellness)
 <p align="justify">As part of our school-wide approach, Cyber Wellness messages are meaningfully integrated across platforms such as Form Teacher Guidance Period (FTGP) lessons and school-wide assemblies. Through scenario-based discussions, reflective activities, and authentic stories, students develop digital empathy, understand online safety, practise balanced screen-time habits, and learn to make thoughtful and responsible choices in the digital world. </p>
 </td></tr>
 </tbody></table>
-
