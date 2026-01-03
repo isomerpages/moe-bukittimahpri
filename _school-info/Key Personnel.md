@@ -164,7 +164,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Boon Huat</p>
+<p>Mr Ho<br>Boon Huat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ Mother Tongue Languages</p>
@@ -188,7 +188,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Goh Xue Yi</p>
+<p>Miss Goh<br>Xue Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ Student Managment</p>
@@ -254,7 +254,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sangitah k Jayaseelan</p>
+<p>Mdm Sangitah<br>k Jayaseelan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/ Character &amp; Citizenship Education</p>
@@ -266,7 +266,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chng Ling Ling</p>
+<p>Mdm Chng<br>Ling Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/ Chinese Language</p>
@@ -290,7 +290,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Noor Idayu Bte Sunator</p>
+<p>Mdm Noor Idayu<br>Bte Sunator</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/ Student Well-Being</p>
@@ -302,7 +302,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sharmini d/o Jaya Kumaran</p>
+<p>Ms Sharmini<br>d/o Jaya Kumaran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH/  English Language &amp; Social Studies</p>
@@ -314,7 +314,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Peng Swee</p>
+<p>Mr Chua<br>Peng Swee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/ Physical Education</p>
@@ -344,7 +344,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rozana Bte Hashim</p>
+<p>Mdm Rozana<br>Bte Hashim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST/ English Language</p>
@@ -356,7 +356,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Junaida Bte Jasman</p>
+<p>Mdm Junaida<br>Bte Jasman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST/ Mathematics</p>
@@ -399,7 +399,7 @@ variant: markdown
 </td></tr>
 <tr>
 <td>
-<p>Mdm Nurhayati Bte Rahmat</p>
+<p>Mdm Nurhayati<br>Bte Rahmat</p>
 </td>
 <td>
 <p>Admin Manager</p>
@@ -411,7 +411,7 @@ variant: markdown
 </tr>
 <tr>
 <td>
-<p>Mr Desmond Goh Ngian Wa</p>
+<p>Mr Desmond Goh<br>Ngian Wa</p>
 </td>
 <td>
 <p>Operations Manager</p>
