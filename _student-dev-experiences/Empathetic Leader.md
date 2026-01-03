@@ -43,7 +43,7 @@ Small portraits (waist-up) of 2–3 AL leads with 1-liners:
 <li><strong>Self</strong>&nbsp;– Learn to take responsibility for one’s own actions and well-being.</li>
 <li><strong>Peers</strong> – Show empathy, respect, and support towards classmates. </li>
 <li><strong>School Environment</strong> – Take ownership in caring for shared spaces and routines. </li>
-<li><strong>Wider Community</strong>&nbsp;– Contribute positively to the community beyond the school. </li></ul><img width="800px" src="/images/Students%20Activities%20Photos/viaframework.png">
+<li><strong>Wider Community</strong>&nbsp;– Contribute positively to the community beyond the school. </li></ul>
 
 <p align="justify"><i><strong>“”</strong><br>
  —  </i></p>
