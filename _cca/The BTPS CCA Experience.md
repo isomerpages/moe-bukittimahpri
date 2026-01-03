@@ -91,7 +91,7 @@ BTPS encourages students and parents to work in partnership with the school to s
 <tr>
 <td style="border:2px solid #0A0B30;">Rugby<br>(Boys)</td>
 <td style="border:2px solid #0A0B30; text-align: center;"><strong>Wednesday</strong><br>2.00pm – 4.00pm</td>
-<td style="border:2px solid #0A0B30; text-align: center;"><strong>School Team</strong><br>2.00pm – 4.00pm</td>
+<td style="border:2px solid #0A0B30; text-align: center;"><strong>School Team</strong><br>2.00pm – 4.30pm</td>
 <td style="border:2px solid #0A0B30;">Field</td>
 </tr>
 <tr>
