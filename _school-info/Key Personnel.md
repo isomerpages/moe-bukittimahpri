@@ -187,7 +187,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Goh Xue Yi</p>
+<p>Miss Goh<br>Xue Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ Student Managment</p>
