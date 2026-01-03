@@ -131,7 +131,7 @@ variant: markdown
 <p>Mdm Anita Francis</p>
 </td>
 <td>
-<p>HOD/ English Language</p>
+HOD/ English Language
 </td>
 <td>
 <p><a href="mailto:Francis_Anita_Chitra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Francis_Anita_Chitra@schools.gov.sg</u></a>
