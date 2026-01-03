@@ -57,7 +57,7 @@ Insert MOE CW framework&nbsp;(S://.......ICT/Cyberwellness)
 
 <p align="justify">As part of our school-wide approach, Cyber Wellness messages are meaningfully integrated across platforms such as Form Teacher Guidance Period (FTGP) lessons and school-wide assemblies. Through scenario-based discussions, reflective activities, and authentic stories, students develop digital empathy, understand online safety, practise balanced screen-time habits, and learn to make thoughtful and responsible choices in the digital world. </p>
 </td></tr>
-<tr><td style="background-color: #74cdd7;"><strong><font color="ffffff">Student&nbsp;Leadership&nbsp;Development</font></strong></td></tr>
+<tr><td style="background-color: #fff4a9;"><strong><font color="#000000">Student&nbsp;Leadership&nbsp;Development</font></strong></td></tr>
 
 <tr><td><p align="justify">At Bukit Timah Primary School, our Cyber Wellness (CW) programme is anchored in the Cyber Wellness Framework, which provides a holistic and progressive education tailored to our students’ developmental needs and school context. </p>
 <p align="justify">Guided by the three key principles —<strong> Respect for Self and Others, Safe and Responsible Use</strong>, and <strong>Positive Peer Influence</strong> — the programme nurtures students to become respectful, safe, and responsible digital citizens who use technology wisely and promote positive online behaviour within their communities. 
