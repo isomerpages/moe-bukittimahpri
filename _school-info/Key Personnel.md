@@ -6,118 +6,107 @@ variant: markdown
 ---
 <h3><strong>SCHOOL LEADERS</strong></h3>
 <table style="max-width: 100%">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<td style="max-width: 40%" rowspan="1" colspan="1">
+<td style="max-width: 40%">
 <p><strong>Name</strong>
 </p>
 </td>
-<td style="max-width: 40%" rowspan="1" colspan="1">
+<td style="max-width: 40%">
 <p><strong>Designation</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p><strong>Email Address</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="max-width: 40%">
 <p>Ms Lau Wan Sze</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="max-width: 40%">
 <p>Principal</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p><a href="mailto:lau_wan_sze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_wan_sze@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="max-width: 40%">
 <p>Mdm Jan Lin</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="max-width: 40%">
 <p>Vice Principal</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p><a href="mailto:lin_shihua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_shihua@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="max-width: 40%">
 <p>Mrs Shirlyn Seah</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="max-width: 40%">
 <p>Vice Principal</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p><a href="mailto:koh_lee_kun_shirlyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_lee_kun_shirlyn@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>YEAR HEADS</strong></h4>
+<h4><strong>YEAR HEADS (YH)</strong></h4>
 <table style="max-width: 100%">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th style="max-width: 40%" rowspan="1" colspan="1">
+<tbody><tr>
+<td style="max-width: 40%">
 <p><strong>Name</strong>
 </p>
-</th>
-<th style="max-width: 40%" rowspan="1" colspan="1">
+</td>
+<td style="max-width: 40%">
 <p><strong>Designation</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td>
 <p><strong>Email Address</strong>
 </p>
-</th>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="max-width: 40%">
 <p>Mrs Shirley Ong</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="max-width: 40%">
 <p>YH (P1 &amp; P2)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p><a href="mailto:low_yin_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_yin_choo@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="max-width: 40%">
 <p>Mdm Maslinda Masod</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="max-width: 40%">
 <p>YH (P3 &amp; P4)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p><a href="mailto:maslinda_masod@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maslinda_masod@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="max-width: 40%">
 <p>Mrs Angeline Teo</p>
 </td>
-<td rowspan="1" colspan="1">
+<td style="max-width: 40%">
 <p>YH (P5 &amp; P6)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p><a href="mailto:low_swee_ling_angeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_swee_ling_angeline@schools.gov.sg</a>
 </p>
 </td>
@@ -126,43 +115,33 @@ variant: markdown
 </table>
 <h4><strong>HEADS OF DEPARTMENT (HOD)</strong></h4>
 <table style="max-width: 100%">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td style="max-width: 40%" rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
+<tbody><tr>
+<td style="max-width: 45%">
+<p><strong>Name</strong></p>
 </td>
-<td style="max-width: 40%" rowspan="1" colspan="1">
-<p><strong>Designation</strong>
-</p>
+<td style="max-width: 45%">
+<p><strong>Designation</strong></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Email Address</strong>
-</p>
+<td style="max-width: 10%">
+<p><strong>Email Address</strong></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td>
 <p>Mdm Anita Francis</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>HOD/ English Language</p>
+<td><p>HOD/ English Language</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Francis_Anita_Chitra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Francis_Anita_Chitra@schools.gov.sg</u></a>
+<td>
+<p><a href="mailto:francis_anita_chitra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>francis_anita_chitra@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td>
 <p>Mrs Karin Gan</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>HOD/ Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -184,7 +163,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Boon Huat</p>
+<p>Mr Ho<br>Boon Huat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ Mother Tongue Languages</p>
@@ -208,7 +187,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Goh Xue Yi</p>
+<p>Miss Goh<br>Xue Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ Student Managment</p>
@@ -256,33 +235,25 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-
 <h4><strong>LEVEL HEAD (LH) | SUBJECT HEAD (SH)</strong></h4>
 <table style="max-width: 100%">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th style="max-width: 40%" rowspan="1" colspan="1">
+<tbody><tr>
+<td style="max-width: 40%">
 <p><strong>Name</strong>
 </p>
-</th>
-<th style="max-width: 40%" rowspan="1" colspan="1">
+</td>
+<td style="max-width: 40%">
 <p><strong>Designation</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td>
 <p><strong>Email Address</strong>
 </p>
-</th>
+</td>
 </tr>
-
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sangitah k Jayaseelan</p>
+<p>Mdm Sangitah<br>k Jayaseelan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/ Character &amp; Citizenship Education</p>
@@ -294,7 +265,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chng Ling Ling</p>
+<p>Mdm Chng<br>Ling Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/ Chinese Language</p>
@@ -318,7 +289,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Noor Idayu Bte Sunator</p>
+<p>Mdm Noor Idayu<br>Bte Sunator</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/ Student Well-Being</p>
@@ -330,7 +301,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sharmini d/o Jaya Kumaran</p>
+<p>Ms Sharmini<br>d/o Jaya Kumaran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH/  English Language &amp; Social Studies</p>
@@ -342,7 +313,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Peng Swee</p>
+<p>Mr Chua<br>Peng Swee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/ Physical Education</p>
@@ -356,29 +327,23 @@ variant: markdown
 </table>
 <h4><strong>SENIOR TEACHERS (ST)</strong></h4>
 <table style="max-width: 100%">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td style="max-width: 40%" rowspan="1" colspan="1">
+<tbody><tr>
+<td style="max-width: 40%">
 <p><strong>Name</strong>
 </p>
 </td>
-<td style="max-width: 40%" rowspan="1" colspan="1">
+<td style="max-width: 40%">
 <p><strong>Designation</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p><strong>Email Address</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rozana Bte Hashim</p>
+<p>Mdm Rozana<br>Bte Hashim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST/ English Language</p>
@@ -390,7 +355,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Junaida Bte Jasman</p>
+<p>Mdm Junaida<br>Bte Jasman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST/ Mathematics</p>
@@ -408,7 +373,7 @@ variant: markdown
 <p>ST/ Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ho_Hui_Suan_Josephine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ho_Hui_Suan_Josephine@schools.gov.sg</u></a>
+<p><a href="mailto:ho_hui_suan_josephine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ho_hui_suan_josephine@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -416,62 +381,56 @@ variant: markdown
 </table>
 <h4><strong>SCHOOL ADMIN TEAM (SAT)</strong></h4>
 <table style="max-width: 100%">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
-<th style="max-width: 40%" rowspan="1" colspan="1">
+<td style="max-width: 40%">
 <p><strong>Name</strong>
 </p>
-</th>
-<th style="max-width: 40%" rowspan="1" colspan="1">
+
+</td><td style="max-width: 40%">
 <p><strong>Designation</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+
+</td><td>
 <p><strong>Email Address</strong>
 </p>
-</th>
-</tr>
+
+</td></tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nurhayati Bte Rahmat</p>
+<td>
+<p>Mdm Nurhayati<br>Bte Rahmat</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>Admin Manager</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p><a href="mailto:nurhayati_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurhayati_rahmat@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Desmond Goh Ngian Wa</p>
+<td>
+<p>Mr Desmond Goh<br>Ngian Wa</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>Operations Manager</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p><a href="mailto:goh_ngian_wa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_ngian_wa@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td>
 <p>Mrs Lin Shu Rui</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p>ICT Manager</p>
 </td>
-<td rowspan="1" colspan="1">
+<td>
 <p><a href="mailto:tan_shu_rui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_shu_rui@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
