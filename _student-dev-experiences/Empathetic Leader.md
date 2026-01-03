@@ -6,15 +6,15 @@ description: ""
 ---
 <p align="justify"><strong>Overview:</strong><br>
 </p><ul>
-<li>Mood/Focus: Purposeful, outward-looking. Service, awareness, contribution.</li>
-<li>Suggested setting for banner photo: Classroom where students carry out duties, Eco-Defenders carrying out their recycling duties, student leaders morning assembly </li>
+<li>Mood/Focus:Calm, inclusive, thoughtful. Care and empathy. </li>
+<li>Suggested setting for banner photo: Friendship Corner at Canteen, students listening or helping peers.</li>
 </ul>
 
-At Bukit Timah Primary School, we nurture Future-Ready Citizens who ;are informed, responsible, and adaptable, and who contribute meaningfully to their community. Students learn to make thoughtful decisions, embrace diversity, and take ownership of their actions in an increasingly complex and connected world. 
+Empathetic Leaders understand themselves and others. They show care, respect, and integrity in their actions, and make responsible choices that positively impact those around them. By listening, including, and encouraging others, they help create a caring and enabling school community where everyone feels valued and supported. 
 <p align="justify">
-Through <strong>National Education (NE)</strong>, <strong>Values in Action (VIA)</strong> programmes, and <strong>Cyber Wellness</strong> education, students develop civic mindedness and a sense of identity and an understanding of their role as Singaporeans. They learn to appreciate different perspectives, act responsibly both online and offline, and work collaboratively to build a better future. </p>
+Through our <strong>Learning for Life Programme (LLP), Peer Support Programmes</strong>, and <strong>Student Leadership Development</strong>, students develop empathy and moral courage to lead by example. </p>
 <p align="justify">
-These experiences help students to grow into confident and ethical individuals who are prepared to navigate change, use technology responsibly and contribute positively to society.</p>
+Care and Support initiatives such as&nbsp;<strong>NEMO</strong>&nbsp;and&nbsp;<strong>SuSo</strong>&nbsp;further nurture a sense of belonging, offering&nbsp;additional&nbsp;guidance for students who need more support or confidence to connect, grow, and shine.</p>
 
 <strong><font color="#4b0082">Our Key Programmes</font></strong>
 
@@ -22,17 +22,18 @@ These experiences help students to grow into confident and ethical individuals w
 
 <tbody><tr><td style="background-color: #7C71AD;"><strong><font color="ffffff">Learning for Life Programme (LLP) – Music for Everyone</font></strong></td></tr>
 
-<tr><td><p align="justify">National Education helps students understand Singapore’s story and their place within it. Through shared experiences and meaningful engagement, students develop identity, empathy, and a strong sense of belonging within our diverse BTPS community — where locals, new citizens, and international students learn and grow together.</p>
+<tr><td><p align="justify">Owner to update &amp; add photos&nbsp;
+At Bukit Timah Primary School, we believe that music is a universal language that connects hearts and minds, nurturing&nbsp;empathy&nbsp;and resilience in our students. Through music, they learn to listen, collaborate, and express themselves creatively — qualities that prepare them to be&nbsp;<i>empathetic leaders&nbsp;and&nbsp;future-ready citizens.</i></p>
 <p align="justify">
-Through National Education, students develop a <strong>sense of belonging</strong>, a <strong>sense of reality</strong>, and a <strong>sense of hope</strong>, which together culminate in the <strong>will to act</strong>. These dispositions are nurtured through the intentional integration of Citizenship Dispositions in our NE Commemorative Events, Social Studies curriculum, and Learning Journeys, helping students grow into informed, concerned, and participative citizens who contribute meaningfully to their school, community, and nation.
-</p>	
-<p align="justify"><strong>NE Commemorative Events</strong><br>
-Our students commemorate Total Defence Day, International Friendship Day, Racial Harmony Day, and National Day through storytelling, exhibitions, and student-led activities. Each event strengthens appreciation for Singapore’s resilience and diversity, helping students connect national values to daily actions.</p><br>
-Insert photos/videos: IFD booths, National Day celebrations<br>
-<br>
-<p align="justify"><i>Our BTPS family celebrating unity in diversity.</i><br>
-<i><strong>"National Education should move beyond knowledge to lived belonging, where every child matters, contributes meaningfully, and takes responsibility for our shared future.”</strong><br>
-— Mrs Nicole Chan, HOD&nbsp;Character and Citizenship Education</i></p>
+Our Learning for Life Programme (LLP) fosters a vibrant musical culture through diverse and engaging experiences. Students develop musical understanding, creativity, and critical thinking as they perform, create, and analyse music. They also learn to improvise with their voices and instruments, exercising imagination and teamwork in the process. </p>	
+<p align="justify">
+School-wide programmes and performances further enrich this musical environment, offering platforms for students to explore their interests and&nbsp;showcase&nbsp;their talents. Over six years, every student discovers joy and confidence in music — nurturing a lifelong appreciation for the arts.&nbsp;</p>
+
+Small portraits (waist-up) of 2–3 AL leads with 1-liners:
+
+<p align="justify"><i><strong>“Every student’s voice matters in music.”</strong><br>
+—&nbsp;Mrs Lynette Lim, HOD Aesthetics</i></p>
+
 </td></tr>
 <tr><td style="background-color: #f48470;"><strong><font color="ffffff">Peer Support Relationship</font></strong></td></tr>
 <tr><td><p align="justify">At Bukit Timah Primary School, our Values-in-Action (VIA) programme believes that character is not only learned but lived. VIA provides every student with opportunities to understand, practice, and demonstrate values through meaningful action. </p>
@@ -57,7 +58,7 @@ Insert MOE CW framework&nbsp;(S://.......ICT/Cyberwellness)
 
 <p align="justify">As part of our school-wide approach, Cyber Wellness messages are meaningfully integrated across platforms such as Form Teacher Guidance Period (FTGP) lessons and school-wide assemblies. Through scenario-based discussions, reflective activities, and authentic stories, students develop digital empathy, understand online safety, practise balanced screen-time habits, and learn to make thoughtful and responsible choices in the digital world. </p>
 </td></tr>
-<tr><td style="background-color: #fff4a9;"><strong><font color="#000000">Student&nbsp;Leadership&nbsp;Development</font></strong></td></tr>
+<tr><td style="background-color: #fff4a9;"><strong><font color="#000000">Care &amp; Support Initiatives</font></strong></td></tr>
 
 <tr><td><p align="justify">At Bukit Timah Primary School, our Cyber Wellness (CW) programme is anchored in the Cyber Wellness Framework, which provides a holistic and progressive education tailored to our students’ developmental needs and school context. </p>
 <p align="justify">Guided by the three key principles —<strong> Respect for Self and Others, Safe and Responsible Use</strong>, and <strong>Positive Peer Influence</strong> — the programme nurtures students to become respectful, safe, and responsible digital citizens who use technology wisely and promote positive online behaviour within their communities. 
