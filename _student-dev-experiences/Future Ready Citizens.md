@@ -10,11 +10,11 @@ description: ""
 <li>Suggested setting for banner photo: Classroom where students carry out duties, Eco-Defenders carrying out their recycling duties, student leaders morning assembly </li>
 </ul>
 
-At Bukit Timah Primary School, we nurture&nbsp;Future-Ready Citizens&nbsp;who&nbsp;are informed, responsible, and adaptable, and&nbsp;who contribute meaningfully to their&nbsp;community.&nbsp;Students learn to&nbsp;make thoughtful decisions,&nbsp;embrace diversity, and&nbsp;take ownership of their actions in an increasingly complex and connected world.&nbsp;&nbsp;<p></p>
+At Bukit Timah Primary School, we nurture Future-Ready Citizens who ;are informed, responsible, and adaptable, and who contribute meaningfully to their community. Students learn to make thoughtful decisions, embrace diversity, and take ownership of their actions in an increasingly complex and connected world. 
 <p align="justify">
-Through&nbsp;<strong>National Education (NE)</strong>,&nbsp;<strong>Values in Action (VIA)</strong>&nbsp;programmes, and&nbsp;<strong>Cyber&nbsp;Wellness</strong>&nbsp;education, students develop civic mindedness and a sense of&nbsp;identity and an understanding of their role as&nbsp;Singaporeans. They learn to appreciate different perspectives, act responsibly both online and offline, and work&nbsp;collaboratively&nbsp;to build a better future.&nbsp;&nbsp;</p>
+Through <strong>National Education (NE)</strong>, <strong>Values in Action (VIA)</strong> programmes, and <strong>Cyber Wellness</strong> education, students develop civic mindedness and a sense of identity and an understanding of their role as Singaporeans. They learn to appreciate different perspectives, act responsibly both online and offline, and work collaboratively to build a better future. </p>
 <p align="justify">
-These experiences&nbsp;help students to&nbsp;grow into&nbsp;confident and ethical individuals who are prepared to navigate change, use technology&nbsp;responsibly&nbsp;and contribute positively to society.</p>
+These experiences help students to grow into confident and ethical individuals who are prepared to navigate change, use technology responsibly and contribute positively to society.</p>
 
 <strong><font color="#4b0082">Our Key Programmes</font></strong>
 
