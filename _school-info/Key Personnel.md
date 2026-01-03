@@ -64,7 +64,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<h4><strong>YEAR HEADS</strong></h4>
+<h4><strong>YEAR HEADS (YH)</strong></h4>
 <table style="max-width: 100%">
 <colgroup>
 <col>
@@ -133,18 +133,18 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<td style="max-width: 40%" rowspan="1" colspan="1">
+<th style="max-width: 40%" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
-</td>
-<td style="max-width: 40%" rowspan="1" colspan="1">
+</th>
+<th style="max-width: 40%" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Email Address</strong>
 </p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
