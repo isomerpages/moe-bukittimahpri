@@ -119,7 +119,7 @@ variant: markdown
 <td style="max-width: 40%">
 <p><strong>Name</strong></p>
 </td>
-<td style="max-width: 40%">
+<td style="max-width: 45%">
 <p><strong>Designation</strong></p>
 </td>
 <td>
@@ -127,10 +127,10 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td style="max-width: 40%">
+<td>
 <p>Mdm Anita Francis</p>
 </td>
-<td style="max-width: 40%">
+<td>
 <p>HOD/ English Language</p>
 </td>
 <td>
@@ -139,10 +139,10 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td style="width: 40%">
+<td>
 <p>Mrs Karin Gan</p>
 </td>
-<td style="width: 40%">
+<td>
 <p>HOD/ Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -188,7 +188,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Goh<br>Xue Yi</p>
+<p>Miss Goh Xue Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ Student Managment</p>
