@@ -36,35 +36,35 @@ Small portraits (waist-up) of 2–3 AL leads with 1-liners:
 
 </td></tr>
 <tr><td style="background-color: #f48470;"><strong><font color="ffffff">Peer Support Relationship</font></strong></td></tr>
-<tr><td><p align="justify">At Bukit Timah Primary School, our Values-in-Action (VIA) programme believes that character is not only learned but lived. VIA provides every student with opportunities to understand, practice, and demonstrate values through meaningful action. </p>
-<p align="justify">Our VIA framework is <strong>progressive and developmentally aligned</strong>, guiding students to recognize and expand their circle of care over time:</p><br>
-Our VIA progression guides students to widen their circle of care: <br>
+<tr><td><p align="justify"></p>
+<p align="justify"></p><br>
+<br>
 <ul>
 <li><strong>Self</strong>&nbsp;– Learn to take responsibility for one’s own actions and well-being.</li>
 <li><strong>Peers</strong> – Show empathy, respect, and support towards classmates. </li>
 <li><strong>School Environment</strong> – Take ownership in caring for shared spaces and routines. </li>
 <li><strong>Wider Community</strong>&nbsp;– Contribute positively to the community beyond the school. </li></ul><img width="800px" src="/images/Students%20Activities%20Photos/viaframework.png">
 
-<p align="justify"><i><strong>“Values are not mere words on a poster – we live them through our consistent actions, shaping who we become.”</strong><br>
- —  Year Head, Mdm Mas’linda Mas’od </i></p>
+<p align="justify"><i><strong>“”</strong><br>
+ —  </i></p>
 </td></tr>
 
 <tr><td style="background-color: #74cdd7;"><strong><font color="ffffff">Student&nbsp;Leadership&nbsp;Development</font></strong></td></tr>
 
-<tr><td><p align="justify">At Bukit Timah Primary School, our Cyber Wellness (CW) programme is anchored in the Cyber Wellness Framework, which provides a holistic and progressive education tailored to our students’ developmental needs and school context. </p>
-<p align="justify">Guided by the three key principles —<strong> Respect for Self and Others, Safe and Responsible Use</strong>, and <strong>Positive Peer Influence</strong> — the programme nurtures students to become respectful, safe, and responsible digital citizens who use technology wisely and promote positive online behaviour within their communities. 
+<tr><td><p align="justify"></p>
+<p align="justify">
 </p>
-Insert MOE CW framework&nbsp;(S://.......ICT/Cyberwellness)
 
-<p align="justify">As part of our school-wide approach, Cyber Wellness messages are meaningfully integrated across platforms such as Form Teacher Guidance Period (FTGP) lessons and school-wide assemblies. Through scenario-based discussions, reflective activities, and authentic stories, students develop digital empathy, understand online safety, practise balanced screen-time habits, and learn to make thoughtful and responsible choices in the digital world. </p>
+
+<p align="justify"></p>
 </td></tr>
 <tr><td style="background-color: #fff4a9;"><strong><font color="#000000">Care &amp; Support Initiatives</font></strong></td></tr>
 
-<tr><td><p align="justify">At Bukit Timah Primary School, our Cyber Wellness (CW) programme is anchored in the Cyber Wellness Framework, which provides a holistic and progressive education tailored to our students’ developmental needs and school context. </p>
-<p align="justify">Guided by the three key principles —<strong> Respect for Self and Others, Safe and Responsible Use</strong>, and <strong>Positive Peer Influence</strong> — the programme nurtures students to become respectful, safe, and responsible digital citizens who use technology wisely and promote positive online behaviour within their communities. 
+<tr><td><p align="justify"></p>
+<p align="justify">
 </p>
-Insert MOE CW framework&nbsp;(S://.......ICT/Cyberwellness)
 
-<p align="justify">As part of our school-wide approach, Cyber Wellness messages are meaningfully integrated across platforms such as Form Teacher Guidance Period (FTGP) lessons and school-wide assemblies. Through scenario-based discussions, reflective activities, and authentic stories, students develop digital empathy, understand online safety, practise balanced screen-time habits, and learn to make thoughtful and responsible choices in the digital world. </p>
+
+<p align="justify"></p>
 </td></tr>
 </tbody></table>
