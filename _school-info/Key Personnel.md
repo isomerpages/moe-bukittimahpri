@@ -137,7 +137,7 @@ variant: markdown
 <p><strong>Name</strong>
 </p>
 </th>
-<th style="max-width: 40%" rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </th>
