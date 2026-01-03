@@ -134,7 +134,7 @@ variant: markdown
 HOD/ English Language
 </td>
 <td>
-<p><a href="mailto:Francis_Anita_Chitra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Francis_Anita_Chitra@schools.gov.sg</u></a>
+<p><a href="mailto:francis_anita_chitra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>francis_anita_chitra@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -374,7 +374,7 @@ HOD/ English Language
 <p>ST/ Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ho_Hui_Suan_Josephine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ho_Hui_Suan_Josephine@schools.gov.sg</u></a>
+<p><a href="mailto:ho_hui_suan_josephine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ho_hui_suan_josephine@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
