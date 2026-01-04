@@ -56,63 +56,93 @@ Insert MOE CW framework&nbsp;(S://.......ICT/Cyberwellness)
 
 <p align="justify">As part of our school-wide approach, Cyber Wellness messages are meaningfully integrated across platforms such as Form Teacher Guidance Period (FTGP) lessons and school-wide assemblies. Through scenario-based discussions, reflective activities, and authentic stories, students develop digital empathy, understand online safety, practise balanced screen-time habits, and learn to make thoughtful and responsible choices in the digital world. </p>
 </td></tr>
-</tbody></table>
-
-<table>
+</tbody></table><table>
 <tbody><tr>
-<td>Name /Photo</td>
-<td>Link</td>
+<td width="33%" style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong>Name /Photo<br>
+</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong>Link</strong></td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">National Cyber Wellness Competition 2025</td>
-<td>[Be Smart Online!](https://sites.google.com/moe.edu.sg/ncw2025/home)</td>
+<td style="border:2px solid #0A0B30">National Cyber Wellness Competition 2025<br></td>
+<td width="33%" style="border:2px solid #0A0B30">
+<a rel="noopener" target="_blank" href="https://sites.google.com/moe.edu.sg/ncw2025/home">Be Smart Online!</a><br>
+Certificate of participation&nbsp;Insert&nbsp;Pictures\_Competition&nbsp;Posters entries&nbsp;(S://.......ICT/Cyberwellness)
+</td>
 </tr>
 <tr>
-<td>Certificate of participation&nbsp;Insert&nbsp;Pictures\_Competition&nbsp;Posters entries&nbsp;(S://.......ICT/Cyberwellness)</td>
+<td style="border:2px solid #0A0B30">Singapore Schools Cyber Wellness Challenge 2024<br></td>
+<td width="33%" style="border:2px solid #0A0B30">
+<a rel="noopener" target="_blank" href="https://www.yiochukangsec.moe.edu.sg/sscwc/sscwc2024/">  Singapore Schools Cyber Wellness Challenge (SSCWC)</a><br>
+Certificate of participation&nbsp;Insert&nbsp;Video\_Team&nbsp;17 Video Submission&nbsp;(S://.......ICT/Cyberwellness)
+</td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">Singapore Schools Cyber Wellness Challenge 2024</td>
-<td>[Singapore Schools Cyber Wellness Challenge (SSCWC)](https://www.yiochukangsec.moe.edu.sg/sscwc/sscwc2024/)</td>
+<td style="border:2px solid #0A0B30">National Cyber Wellness Advocacy Challenge (NCAC) 2023<br></td>
+<td width="33%" style="border:2px solid #0A0B30">
+<a rel="noopener" target="_blank" href="https://www.crescent.edu.sg/cradle/ncac/">  About National Cyberwellness Advocacy Challenge (NCAC)</a><br>
+
+<p align="justify">A group of Peer Support Ambassadors (PSAs) participated in the National Cyber Wellness Advocacy Challenge (NCAC) 2023 and received a Silver Award. The theme for this year's challenge was 'Fake News'. The students were tasked with designing engaging and relevant content to advocate within the school.</p>
+
+Insert Pictures&nbsp;7,8,9,10&nbsp;(S://.......ICT/Cyberwellness)
+</td>
 </tr>
 <tr>
-<td>Certificate of participation&nbsp;Insert&nbsp;Video\_Team&nbsp;17 Video Submission&nbsp;(S://.......ICT/Cyberwellness)</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">National Cyber Wellness Advocacy Challenge (NCAC) 2023</td>
-<td>[About National&nbsp;Cyberwellness&nbsp;Advocacy Challenge (NCAC)](https://www.crescent.edu.sg/cradle/ncac/)</td>
-</tr>
-<tr>
-<td><p align="justify">A group of Peer Support Ambassadors (PSAs)&nbsp;participated&nbsp;in the National Cyber Wellness Advocacy Challenge (NCAC) 2023 and received a Silver Award. The theme for this year's challenge was 'Fake News'. The students were tasked with designing engaging and relevant content to advocate within the school.&nbsp;&nbsp;</p>
+<td style="border:2px solid #0A0B30"><strong>Useful resources from MOE</strong></td>
+<td style="border:2px solid #0A0B30">
+<ul>
+  <li>
+    <a rel="noopener" target="_blank" href="https://www.schoolbag.edu.sg/story/children-and-their-devices-how-to-strike-the-right-balance/">
+      Children and their devices: How to strike the right balance
+    </a>
+  </li>
 
-Insert Pictures&nbsp;7,8,9,10&nbsp;(S://.......ICT/Cyberwellness)</td>
-</tr>
-<tr>
-<td><strong>Useful resources from MOE</strong></td>
-<td>
-*   [Children and their devices: How to strike the right balance](https://www.schoolbag.edu.sg/story/children-and-their-devices-how-to-strike-the-right-balance/)&nbsp;
-    
+  <li>
+    <a rel="noopener" target="_blank" href="https://www.schoolbag.edu.sg/story/future-tense-keeping-kids-grounded-while-tech-turns-the-world-upside-down/">
+      Future tense: Keeping kids grounded while tech turns the world upside down
+    </a>
+  </li>
 
-*   [Future tense: Keeping kids grounded while tech turns the world upside down](https://www.schoolbag.edu.sg/story/future-tense-keeping-kids-grounded-while-tech-turns-the-world-upside-down/)&nbsp;
-    
+  <li>
+    <a rel="noopener" target="_blank" href="https://www.schoolbag.edu.sg/story/what-does-a-students-ai-enhanced-day-look-like-heres-a-peek/">
+      What does a student’s AI-enhanced day look like? Here’s a peek
+    </a>
+  </li>
 
-*   [What does a student’s AI-enhanced day look like? Here’s a peek](https://www.schoolbag.edu.sg/story/what-does-a-students-ai-enhanced-day-look-like-heres-a-peek/)&nbsp;
-    
+  <li>
+    <a rel="noopener" target="_blank" href="https://www.schoolbag.edu.sg/story/are-you-struggling-with-your-child-s-excessive-device-use">
+      Are you struggling with your child’s excessive device use?
+    </a>
+  </li>
 
-*   [Are you struggling with your child’s excessive device use?](https://www.schoolbag.edu.sg/story/are-you-struggling-with-your-child-s-excessive-device-use)&nbsp;
-    
+  <li>
+    <a rel="noopener" target="_blank" href="https://go.gov.sg/7-things-every-parent-can-do-to-keep-kids-cyber-safe-a-tech-dads-special">
+      7 things every parent can do to keep kids cyber-safe: A tech dad’s special
+    </a>
+  </li>
 
-*   [7 things every parent can do to keep kids cyber-safe: A tech dads special](https://go.gov.sg/7-things-every-parent-can-do-to-keep-kids-cyber-safe-a-tech-dads-special)&nbsp;
-    
+  <li>
+    <a rel="noopener" target="_blank" href="https://www.schoolbag.edu.sg/story/the-future-looks-rosy-why-this-dad-isn-t-afraid-of-the-rise-of-ai">
+      “The future looks rosy”: why this dad isn’t afraid of the rise of AI
+    </a>
+  </li>
 
-*   [The future looks rosy’: why this dad isn’t afraid of the rise of AI](https://www.schoolbag.edu.sg/story/the-future-looks-rosy-why-this-dad-isn-t-afraid-of-the-rise-of-ai)&nbsp;
-    
+  <li>
+    <a rel="noopener" target="_blank" href="https://go.gov.sg/sbarticle-keeping-kids-safe-online">
+      Keeping kids safe online – A community effort
+    </a>
+  </li>
 
-*   [Keeping kids safe online – A community effort](https://go.gov.sg/sbarticle-keeping-kids-safe-online)&nbsp;
-    
+  <li>
+    <a rel="noopener" target="_blank" href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf">
+      Parent Kit – Raising a Digitally Smart Child (PDF)
+    </a>
+  </li>
 
-*   [Parent Kit – Raising A Digitally Smart Child](https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf)&nbsp;
-    
-
-*   [Parent Kit - Experiencing Blended Learning with Our Children](https://www.moe.gov.sg/-/media/files/parent-kit/experiencing-blended-learning.pdf)</td>
-</tr>
-</tbody></table>
+  <li>
+    <a rel="noopener" target="_blank" href="https://www.moe.gov.sg/-/media/files/parent-kit/experiencing-blended-learning.pdf">
+      Parent Kit – Experiencing Blended Learning with Our Children (PDF)
+    </a>
+  </li>
+</ul>
+</td>
+</tr></tbody></table>
