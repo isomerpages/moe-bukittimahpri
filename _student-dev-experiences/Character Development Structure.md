@@ -67,22 +67,22 @@ Focus: <br>Decision-making &amp; Choices, Influencing others positively, Buildin
 <td width="33%" style="border:2px solid #0A0B30">
 <u></u><p align="justify"><u><strong>Self-Awareness &amp; Self-Management</strong></u>
 </p><ul>
-<p></p><li>I will apply my strengths to achieve my goals. (I Can - strategies)</li>
+<li>I will apply my strengths to achieve my goals. (I Can - strategies)</li>
 <li>I can overcome challenges. (I Am – positive attitude)</li>
 </ul><p></p>
 <u></u><p align="justify"><u><strong>Social Awareness &amp; Relationship Management </strong></u>
 </p><ul>
 <li> I will influence others positively.</li>
 <li> I will value diversity as opportunities to learn.</li>
-<li>I have the support from others to overcome challenges. (I Have – caring &amp; supportive env)</li>
+<li>I have the support from others to overcome challenges. (I Have – caring &amp; supportive env)</li><p></p>
 </ul>
 <u></u><p align="justify"><u><strong>Responsible Decision-Making</strong></u>
 </p><ul>
 <li> I will always uphold integrity.</li>
 <li> I will be responsible for my decisions and actions.</li>
 <li>I will take care of the environment.</li>
-<li>I will be an upstander.  </li>
-</ul><p></p>
+<li>I will be an upstander.  </li><p></p>
+</ul>
 </td>
 </tr>	
 </tbody></table>
