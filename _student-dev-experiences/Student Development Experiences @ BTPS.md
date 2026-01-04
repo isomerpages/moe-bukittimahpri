@@ -14,13 +14,13 @@ description: ""
 <tr>
 <td style="padding:0; margin:0; border:none;" rowspan="4">
 <img style="display:block; border:none;" height="2394" width="731" src="/images/Information%20Photos/SDE/sde2sde_02.png"></td>
-<td style="padding:0; margin:0; border:none;" colspan="2">
+<td style="padding:0; margin:0; border:none; display:block;" colspan="2">
 <a height="770" width="1026" href="/student-dev-experiences/adaptive-learner/"> 
 <img style="display:block; border:none;" height="770" width="1026" src="/images/Information%20Photos/SDE/sde2sde_03.png" id="sde2sde_03"></a></td>
 <td style="padding:0; margin:0; border:none;">
 <a height="770" width="979" href="/student-dev-experiences/empathetic-leader/">
 <img style="display:block; border:none;" height="770" width="979" src="/images/Information%20Photos/SDE/sde2sde_04.png"></a></td>
-<td style="padding:0; margin:0; border:none;">
+<td style="padding:0; margin:0; border:none; display:block;">
 <a height="770" width="941" href="/student-dev-experiences/future-ready-citizens/">
 <img style="display:block; border:none;" height="770" width="941" src="/images/Information%20Photos/SDE/sde2sde_05.png"></a></td>
 <td style="padding:0; margin:0; border:none;" rowspan="4">
