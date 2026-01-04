@@ -62,4 +62,30 @@ Focus: <br>Teamwork, Care for others, Social skills, Resilience</td>
 </ul><p></p>
 </td>
 </tr>
+<tr>
+<td style="border:2px solid #0A0B30"><font color="#4b0082"></font>Upper Primary Motto:<br><strong>Lead and Inspire</strong><br><br>
+Focus: <br>Decision-making &amp; Choices, Influencing others positively, Building positive relationships, Resilience </td>
+<td width="33%" style="border:2px solid #0A0B30">
+<u><strong>Self-Awareness &amp; Self-Management</strong></u>
+<ul><p align="justify">
+</p><li>I will apply my strengths to achieve my goals. (I Can - strategies)</li>
+<li>I can overcome challenges. (I Am – positive attitude)</li>
+</ul><p></p><br>
+<u><strong>Social Awareness &amp; Relationship Management </strong></u>
+<ul><p align="justify">
+</p><li> I will influence others positively.</li>
+<li> I will value diversity as opportunities to learn.</li>
+<li>I have the support from others to overcome challenges. (I Have – caring &amp; supportive env)</li>
+</ul>
+<u><strong>Responsible Decision-Making</strong></u>
+<ul><p align="justify">
+</p><li> I will always uphold integrity.</li>
+<li> I will be responsible for my decisions and actions.</li>
+<li>I will take care of the environment.</li>
+<li>I will be an upstander.  </li>
+</ul><p></p>
+</td>
+</tr>	
 </tbody></table>
+<i><strong>“Every child can learn and thrive when given the right support and a nurturing environment.”</strong><br>
+— Mrs Shirley Ong, Year Head Lower Primary</i>
