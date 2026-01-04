@@ -36,7 +36,7 @@ description: ""
 <td style="padding:0; margin:0; border:none;" rowspan="1" colspan="2">
 <a height="427" width="1026" href="/student-dev-experiences/character-development-structure/">
 <img style="display:block; border:none;" height="427" width="1026" src="/images/Information%20Photos/SDE/sde2sde_09.png"></a></td>
-<td style="padding:0; margin:0; border:none;">
+<td style="padding:0; margin:0; border:none;" rowspan="1" colspan="1">
 <img style="display:block; border:none;" height="427" width="941" src="/images/Information%20Photos/SDE/sde2sde_10.png"></td>
 </tr>
 <tr>
