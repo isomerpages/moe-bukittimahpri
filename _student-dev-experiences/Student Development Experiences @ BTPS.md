@@ -16,7 +16,8 @@ description: ""
 <img style="display:block; border:none;" height="2394" width="731" src="/images/Information%20Photos/SDE/sde2sde_02.png"></td>
 <td style="padding:0; margin:0; border:none;" rowspan="1" colspan="2">
 <a href="/student-dev-experiences/adaptive-learner/"> 
-<img style="display:block; border:none;" height="770" width="1026" src="/images/Information%20Photos/SDE/sde2sde_03.png" id="sde2sde_03"></a></td>
+<img style="display:block; border:none;" height="770" width="1026" src="/images/Information%20Photos/SDE/sde2sde_03.png"></a></td>
+
 <td style="padding:0; margin:0; border:none;">
 <a height="770" width="979" href="/student-dev-experiences/empathetic-leader/">
 <img style="display:block; border:none;" height="770" width="979" src="/images/Information%20Photos/SDE/sde2sde_04.png"></a></td>
