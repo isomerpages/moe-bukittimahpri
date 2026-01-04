@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <center><h3>Student Development Experiences @ BTPS</h3></center>
-<table style="border-collapse: collapse; border: none; width: 100%;" cellspacing="0" cellpadding="0">
+<table style="border-collapse: collapse; border: none;" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td style="padding:0; margin:0; border:none;" colspan="6">
 <img style="display:block; border:none;" height="513" width="4488" src="/images/Information%20Photos/SDE/sde2sde_01.png" id="sde2sde_01"></td>
