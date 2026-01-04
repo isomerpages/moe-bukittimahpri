@@ -144,5 +144,3 @@ Interdisciplinary Project Work (IPW) provides students with an authentic avenue 
 Insert PSR framework (S://.......SDT/PSR)
 
 Insert CHEER Poster (S://.......SDT/PSR)
-
-
