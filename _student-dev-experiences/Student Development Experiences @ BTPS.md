@@ -9,15 +9,13 @@ description: ""
 <table style="border-collapse: collapse; border: none; width: 100%;" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td style="padding:0; margin:0; border:none;" colspan="6">
-			<img style="display:block; border:none;" height="513" width="4488" src="/images/Information%20Photos/SDE/sdesde_01.png" id="sdesde_01"></td>
-	</tr>
+			<img style="display:block; border:none;" height="513" width="4488" src="/images/Information%20Photos/SDE/sdesde_01.png" id="sdesde_01"></td></tr>
 	<tr>
 		<td style="padding:0; margin:0; border:none;" rowspan="4">
 			<img style="display:block; border:none;" height="2394" width="731" src="/images/Information%20Photos/SDE/sdesde_02.png" id="sdesde_02"></td>
 		<td colspan="2" style="padding:0; margin:0; border:none;">
-<a height="770" width="1026" href="//student-dev-experiences/adaptive-learner/">
-    <img style="display:block; border:none;" height="770" width="1026" src="/images/Information%20Photos/SDE/sdesde_03.png" id="sdesde_03">
-</a></td>			
+<a height="770" width="1026" href="//student-dev-experiences/empathetic-leader/">
+    <img style="display:block; border:none;" height="770" width="979" src="/images/Information%20Photos/SDE/sdesde_03.png" id="sdesde_03"></a></td>
 		<td style="padding:0; margin:0; border:none;">
 <a height="770" width="979" href="//student-dev-experiences/empathetic-leader/">
     <img style="display:block; border:none;" height="770" width="979" src="/images/Information%20Photos/SDE/sdesde_04.png" id="sdesde_04"></a></td>
@@ -32,8 +30,7 @@ description: ""
 			<img style="display:block; border:none;" height="171" width="2946" src="/images/Information%20Photos/SDE/sdesde_07.png" id="sdesde_07"></td>
 	</tr>
 	<tr>
-		<td style="padding:0; margin:0; border:none;" rowspan="2">
-			<img style="display:block; border:none;" height="1453" width="979" src="/images/Information%20Photos/SDE/sdesde_08.png" id="sdesde_08"></td>
+		<td style="padding:0; margin:0; border:none;" rowspan="2"><img style="display:block; border:none;" height="1453" width="979" src="/images/Information%20Photos/SDE/sdesde_08.png" id="sdesde_08"></td>
 		<td style="padding:0; margin:0; border:none;" colspan="2">
 <a height="427" width="1026" href="//student-dev-experiences/charcter-development-structure/">
     <img style="display:block; border:none;" height="427" width="1026" src="/images/Information%20Photos/SDE/sdesde_09.png" id="sdesde_09">
