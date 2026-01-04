@@ -14,13 +14,13 @@ description: ""
 		<td style="padding:0; margin:0; border:none;" rowspan="4">
 			<img style="display:block; border:none;" height="2394" width="731" src="/images/Information%20Photos/SDE/sdesde_02.png" id="sdesde_02"></td>
 		<td colspan="2" style="padding:0; margin:0; border:none;">
-<a height="770" width="1026" href="//student-dev-experiences/adaptive-learner/">
+<a height="770" width="1026" href="/student-dev-experiences/adaptive-learner/">
     <img style="display:block; border:none;" height="770" width="979" src="/images/Information%20Photos/SDE/sdesde_03.png" id="sdesde_03"></a></td>
 		<td style="padding:0; margin:0; border:none;">
-<a height="770" width="979" href="//student-dev-experiences/empathetic-leader/">
+<a height="770" width="979" href="/student-dev-experiences/empathetic-leader/">
     <img style="display:block; border:none;" height="770" width="979" src="/images/Information%20Photos/SDE/sdesde_04.png" id="sdesde_04"></a></td>
 		<td style="padding:0; margin:0; border:none;">
-<a height="770" width="941" href="//student-dev-experiences/future-ready-citizens/">
+<a height="770" width="941" href="/student-dev-experiences/future-ready-citizens/">
     <img style="display:block; border:none;" height="770" width="941" src="/images/Information%20Photos/SDE/sdesde_05.png" id="sdesde_05"></a></td>
 		<td style="padding:0; margin:0; border:none;" rowspan="4">
 			<img style="display:block; border:none;" height="2394" width="811" src="/images/Information%20Photos/SDE/sdesde_06.png" id="sdesde_06"></td>
@@ -32,7 +32,7 @@ description: ""
 	<tr>
 		<td style="padding:0; margin:0; border:none;" rowspan="2"><img style="display:block; border:none;" height="1453" width="979" src="/images/Information%20Photos/SDE/sdesde_08.png" id="sdesde_08"></td>
 		<td colspan="2" style="padding:0; margin:0; border:none;">
-<a height="427" width="1026" href="//student-dev-experiences/future-ready-citizens/">
+<a height="427" width="1026" href="/student-dev-experiences/character-development-structure/">
     <img style="display:block; border:none;" height="427" width="1026" src="/images/Information%20Photos/SDE/sdesde_09.png" id="sdesde_09"></a></td>
 		<td style="padding:0; margin:0; border:none;" rowspan="2">
 			<img style="display:block; border:none;" height="1453" width="941" src="/images/Information%20Photos/SDE/sdesde_10.png" id="sdesde_10"></td>
