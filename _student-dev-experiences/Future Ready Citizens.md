@@ -35,7 +35,7 @@ Insert photos/videos: IFD booths, National Day celebrations<br>
 — Mrs Nicole Chan, HOD&nbsp;Character and Citizenship Education</i></p>
 </td></tr><tr><td style="background-color: #f48470;"><strong><font color="ffffff">Values-in-Action (VIA)</font></strong></td></tr>
 <tr><td><p align="justify">At Bukit Timah Primary School, our Values-in-Action (VIA) programme believes that character is not only learned but lived. VIA provides every student with opportunities to understand, practice, and demonstrate values through meaningful action. </p>
-<p align="justify">Our VIA framework is <strong>progressive and developmentally aligned</strong>, guiding students to recognize and expand their circle of care over time:</p><br>
+<p align="justify">Our VIA framework is <strong>progressive and developmentally aligned</strong>, guiding students to recognize and expand their circle of care over time.</p><br>
 <p align="justify">Our VIA progression guides students to widen their circle of care: <br>
 </p><ul>
 <li><strong>Self</strong>&nbsp;– Learn to take responsibility for one’s own actions and well-being.</li>
