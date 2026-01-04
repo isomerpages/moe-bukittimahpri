@@ -41,7 +41,7 @@ Our VIA progression guides students to widen their circle of care: <br>
 <li><strong>Self</strong>&nbsp;– Learn to take responsibility for one’s own actions and well-being.</li>
 <li><strong>Peers</strong> – Show empathy, respect, and support towards classmates. </li>
 <li><strong>School Environment</strong> – Take ownership in caring for shared spaces and routines. </li>
-<li><strong>Wider Community</strong>&nbsp;– Contribute positively to the community beyond the school. </li></ul><img style="width:80%; max-width:800px; height:auto;" src="/images/Students%20Activities%20Photos/viaframework.png">
+<li><strong>Wider Community</strong>&nbsp;– Contribute positively to the community beyond the school. </li></ul><img style="width:60%; max-width:800px; height:auto;" src="/images/Students%20Activities%20Photos/viaframework.png">
 
 <p align="justify"><i><strong>“Values are not mere words on a poster – we live them through our consistent actions, shaping who we become.”</strong><br>
  —  Year Head, Mdm Mas’linda Mas’od </i></p>
