@@ -22,17 +22,17 @@ To support this developmental journey, Level Mottos are used to anchor character
 <td style="border:2px solid #0A0B30"><p align="justify">Lower Primary Motto:  <br><strong>Start It Right!</strong><br><br>
 Focus: <br>Routines, Readiness, Attitudes</p></td>
 <td width="33%" style="border:2px solid #0A0B30">
-<u><strong>Self-Awareness &amp; Self-Management</strong></u>
-<ul><p align="justify">
-</p><li>I will be present and on time for school and school-related activities.</li>
+<u></u><p align="justify"><u><strong>Self-Awareness &amp; Self-Management</strong></u>
+</p><ul>
+<li>I will be present and on time for school and school-related activities.</li>
 <li>I will organize my personal belongings and be ready for lessons. </li>
 <li>I will write down homework and reminders in my BT Kit and complete them on time.</li>
 <li>I will participate and do my best for all schoolwork and activities.</li>
 <li>I can recognise my emotions and know when to seek help from a trusted adult.</li>
-</ul><p></p><br>
-<u><strong>Social Awareness</strong></u>
-<ul><p align="justify">
-</p><li>I will listen to my peers.</li>
+</ul><p></p>
+<u></u><p align="justify"><u><strong>Social Awareness</strong></u>
+</p><ul>
+<li>I will listen to my peers.</li>
 <li>I will greet others respectfully.</li>
 <li>I will use kind words and actions.</li>
 <li>I will apologise when I am in the wrong.</li>
@@ -44,16 +44,16 @@ Focus: <br>Routines, Readiness, Attitudes</p></td>
 <td style="border:2px solid #0A0B30"><p align="justify">Middle Primary Motto:  <br><strong>Appreciate and Care</strong><br><br>
 Focus: <br>Teamwork, Care for others, Social skills, Resilience</p></td>
 <td width="33%" style="border:2px solid #0A0B30">
-<u><strong>Self-Awareness &amp; Self-Management</strong></u>
-<ul><p align="justify">
-</p><li> I know my strengths and weaknesses and will tap on my strengths to overcome challenges. </li>
+<u></u><p align="justify"><u><strong>Self-Awareness &amp; Self-Management</strong></u>
+</p><ul>
+<li> I know my strengths and weaknesses and will tap on my strengths to overcome challenges. </li>
 <li>I will listen attentively to feedback and suggestions.</li>
 <li>I use appropriate words and actions to handle disagreements and peer pressure.</li>
 <li>I will think of ways to improve a situation.</li>
-</ul><p></p><br>
-<u><strong>Social Awareness &amp; Relationship Management</strong></u>
-<ul><p align="justify">
-</p><li>I respect that everyone is different and will be inclusive. </li>
+</ul><p></p>
+<u></u><p align="justify"><u><strong>Social Awareness &amp; Relationship Management</strong></u>
+</p><ul>
+<li>I respect that everyone is different and will be inclusive. </li>
 <li>I will listen to others’ points of view without expressing judgement.</li>
 <li>I will take care of others.</li>
 <li>I will recognise my peers’ efforts.</li>
@@ -65,20 +65,20 @@ Focus: <br>Teamwork, Care for others, Social skills, Resilience</p></td>
 <td style="border:2px solid #0A0B30"><p align="justify">Upper Primary Motto:<br><strong>Lead and Inspire</strong><br><br>
 Focus: <br>Decision-making &amp; Choices, Influencing others positively, Building positive relationships, Resilience </p></td>
 <td width="33%" style="border:2px solid #0A0B30">
-<u><strong>Self-Awareness &amp; Self-Management</strong></u>
-<ul><p align="justify">
-</p><li>I will apply my strengths to achieve my goals. (I Can - strategies)</li>
+<u></u><p align="justify"><u><strong>Self-Awareness &amp; Self-Management</strong></u>
+</p><ul>
+<p></p><li>I will apply my strengths to achieve my goals. (I Can - strategies)</li>
 <li>I can overcome challenges. (I Am – positive attitude)</li>
-</ul><p></p><br>
-<u><strong>Social Awareness &amp; Relationship Management </strong></u>
-<ul><p align="justify">
-</p><li> I will influence others positively.</li>
+</ul><p></p>
+<u></u><p align="justify"><u><strong>Social Awareness &amp; Relationship Management </strong></u>
+</p><ul>
+<li> I will influence others positively.</li>
 <li> I will value diversity as opportunities to learn.</li>
 <li>I have the support from others to overcome challenges. (I Have – caring &amp; supportive env)</li>
 </ul>
-<u><strong>Responsible Decision-Making</strong></u>
-<ul><p align="justify">
-</p><li> I will always uphold integrity.</li>
+<u></u><p align="justify"><u><strong>Responsible Decision-Making</strong></u>
+</p><ul>
+<li> I will always uphold integrity.</li>
 <li> I will be responsible for my decisions and actions.</li>
 <li>I will take care of the environment.</li>
 <li>I will be an upstander.  </li>
