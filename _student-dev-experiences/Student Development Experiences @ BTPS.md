@@ -42,3 +42,7 @@ description: ""
 			<img style="display:block; border:none;" height="1026" width="1026" src="/images/Information%20Photos/SDE/sdesde_11.png" id="sdesde_11"></td>
 	</tr>
 </tbody></table>
+
+<p align="justify"><strong><i>“Every student grows through meaningful experiences—where learning, relationships, and shared challenges allow values to take root, confidence to build, and character to be shaped for life.”</i></strong><i><br>
+
+— Mr Chua Peng Swee,&nbsp;SH Physical Education&nbsp;&amp; Co-curricular Activities</i></p>
