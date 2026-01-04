@@ -116,26 +116,92 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 
 <p align="justify"><i><strong>“Every child is capable of success when we believe in them and create spaces where they can shine.”</strong><br>
 —&nbsp;Mrs Angeline Teo, Year Head Upper Primary</i></p>
+
+
 <table>
-</table><p align="justify">
-Interdisciplinary Project Work (IPW) provides students with an authentic avenue to explore real-world issues, make connections across subjects, and develop meaningful solutions. Using the 3I Problem-Solving Framework – Inquire, Initiate, Inspire – students learn to ask thoughtful questions, investigate deeply, and take purposeful action through a structured yet creative inquiry process. </p><table>
 <tbody><tr><td style="background-color: #f48470;">
 <strong><font color="ffffff">Interdisciplinary Project Work (IPW)</font></strong></td></tr>
-
-
+<tr><td>
+<p align="justify">
+Interdisciplinary Project Work (IPW) provides students with an authentic avenue to explore real-world issues, make connections across subjects, and develop meaningful solutions. Using the 3I Problem-Solving Framework – Inquire, Initiate, Inspire – students learn to ask thoughtful questions, investigate deeply, and take purposeful action through a structured yet creative inquiry process. </p>
+<p align="justify">
+As part of the post-PSLE programme, our Primary 6 students experience this process firsthand. Guided by an inquiry question, they embark on a learning trail to gather insights from the community through interviews, observations, and data collection. Back in school, they analyse their findings, research further and collaborate to generate ideas before creating a prototype that address their chosen issue. They also have the valuable opportunity to present their initial concepts to an expert panel make refinements and finally showcase their solutions to their juniors. This journey not only strengthens their critical thinking and creativity but also helps them grow in confidence as they communicate ideas that contribute towards a positive impact. </p>
+<p align="justify"><i><strong>“When students inquire with curiosity, they create with purpose.”</strong><br>
+— Mdm Sharmini, LH English </i></p>
+</td></tr>
 
 </tbody></table>
 
 <table>
 <tbody><tr><td style="background-color: #74cdd7;">
 <strong><font color="ffffff">Applied Learning Programme (ALP): <br>Inquiry-Based Learning supported by Thinking Routines (IBL-TR)</font></strong></td>
-
-
-
-
 </tr>
 </tbody></table> 
-Interdisciplinary Project Work (IPW) provides students with an authentic avenue to explore real-world issues, make connections across subjects, and develop meaningful solutions. Using the 3I Problem-Solving Framework – Inquire, Initiate, Inspire – students learn to ask thoughtful questions, investigate deeply, and take purposeful action through a structured yet creative inquiry process. 
-Insert PSR framework (S://.......SDT/PSR)
+<p align="justify">At Bukit Timah Primary School, our ALP develops&nbsp;<strong>adaptive learners</strong>&nbsp;who can think critically, collaborate effectively, and navigate complexity with confidence. Our IBL-TR approach combines&nbsp;<i>Inquiry-Based Learning (IBL)&nbsp;with&nbsp;Thinking Routines (TR)</i>&nbsp;to help pupils ask meaningful questions, explore multiple perspectives, and reflect deeply on their learning experiences.</p>
+<p align="justify">
+Through guided inquiry, pupils make their thinking visible, build confidence and resilience, and learn to adapt to&nbsp;new ideas&nbsp;and challenges. Teachers act as facilitators, encouraging pupils to take ownership of their learning, embrace uncertainty, and learn from mistakes — key habits of an adaptive, self-directed learner.</p>
+<h3>Inquiry-Based Learning through the 5E Learning Cycle</h3>
+<p align="justify">
+Using the <strong>5E Learning Cycle</strong> (<em>Engage, Explore, Explain, Elaborate, Evaluate</em>), pupils:
+</p>
+<p align="justify">
+</p><ul>
+  <li>Pose meaningful questions</li>
+  <li>Actively seek answers</li>
+  <li>Explain their thinking clearly</li>
+  <li>Connect learning to real-life contexts</li>
+  <li>Reflect and grow over time</li>
+</ul><p></p>
+<p align="justify">
+<strong>IBL-TR</strong> nurtures learners who are curious, open-minded, and ready to 
+learn, unlearn, and relearn — essential traits for thriving in a fast-changing world.
+</p>
+<h3>Key ALP Programmes</h3>
 
-Insert CHEER Poster (S://.......SDT/PSR)
+<p align="justify"><strong>1. Journaling Across English-Medium Subjects</strong><br>
+Across all English-medium subjects, pupils use Thinking Routines to reflect on and
+consolidate their learning. They draw, write, and record their ideas in journals,
+helping them slow down, think deeply, and make their thinking visible. Over time,
+journaling strengthens independence, clarity of expression, and ownership of learning.
+</p>
+<p align="justify"><strong>2. Learning Plots (Traditional Planting &amp; Hydroponics)</strong><br>
+Through Learning Plots, pupils experience how food is grown using traditional
+soil-based methods (P3) and hydroponics (P4). They observe plant growth, ask questions,
+and document their findings through IBL-TR. This authentic experience helps pupils
+appreciate food production, sustainability, and the relevance of science to daily life.
+</p>
+<p align="justify"><strong>
+3. STEM Programme (Strawbees, Micro:bits and Sensors)</strong><br>
+The STEM programme provides hands-on learning through design challenges, coding, and
+simple robotics. Pupils build structures with Strawbees, create prototypes, and
+programme Micro:bits with sensor inputs. These experiences strengthen problem-solving,
+computational thinking, and creativity, while helping pupils apply Science concepts in
+meaningful, real-world contexts.</p>
+<p align="justify"><strong>4. LiFE – Literature for Everyone</strong><br>
+Each level explores one key text—<em>Queen of the Sky</em> (P3),
+<em>House on Silat Road</em> (P4), and <em>The Mudskipper</em> (P5).
+Through discussions, reflections, and inquiry into themes and characters, pupils learn
+to interpret stories, appreciate diverse perspectives, and express their views with
+empathy, clarity, and confidence.</p>
+<p align="justify"><strong>5. Lower Primary Exploration</strong><br>
+Using STELLAR units such as <em>A Butterfly is Born</em> and
+<em>Antz in a Hurry</em>, young learners are encouraged to observe their surroundings,
+pose questions, and express ideas through drawing, writing, and simple investigations.
+This early exposure to inquiry builds foundational curiosity and strengthens thinking
+and communication skills.</p>
+<p align="justify"><strong>6. Super Journaling Team (SJT)</strong><br>
+The Super Journaling Team brings together P4 and P5 pupils with a strong interest in
+reflective writing. Through termly masterclasses, pupils explore issues from multiple
+perspectives, use routines such as Connect–Extend–Challenge, and support their ideas
+with evidence. They deepen their inquiry skills and extend their journaling to connect
+with the community and the wider world.
+</p>
+<p align="justify"><strong>7. Work Like a Scientist (WLAS)</strong><br>
+WLAS immerses pupils in authentic scientific inquiry through hands-on Plant Tissue
+Culture (PTC) sessions in the school’s PTC Lab. Pupils learn how plants can be grown from
+small tissue samples and observe their development over time. They practise collecting
+evidence, refining ideas, and reflecting like real scientists, building perseverance,
+curiosity, and confidence.
+</p>
+<p align="justify"><i><strong>“Give children space to question, think, and try — and you’ll see how naturally they grow into confident, adaptable learners.”</strong><br>
+— Mr Christopher Khoo, HOD Science</i></p>
