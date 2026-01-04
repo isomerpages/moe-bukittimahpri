@@ -49,10 +49,6 @@ Insert CHEER Poster (S://.......SDT/PSR)
 <i><strong>“Together, we build a school where every voice is heard, every friend is valued, and every child belongs.”&nbsp;</strong><br>
 —&nbsp;Mdm Noor Idayu, SH Student Well-being</i>
 
-
-
-<p align="justify"><i><strong>“”</strong><br>
- —  </i></p>
 </td></tr>
 
 <tr><td style="background-color: #74cdd7;"><strong><font color="ffffff">Student&nbsp;Leadership&nbsp;Development</font></strong></td></tr>
