@@ -14,7 +14,7 @@ Empathetic Leaders understand themselves and others. They show care, respect, an
 <p align="justify">
 Through our <strong>Learning for Life Programme (LLP), Peer Support Programmes</strong>, and <strong>Student Leadership Development</strong>, students develop empathy and moral courage to lead by example. </p>
 <p align="justify">
-Care and Support initiatives such as&nbsp;<strong>NEMO</strong> and <strong>SuSo</strong> further nurture a sense of belonging, offering additional guidance for students who need more support or confidence to connect, grow, and shine.</p>
+Care and Support initiatives such as <strong>NEMO</strong> and <strong>SuSo</strong> further nurture a sense of belonging, offering additional guidance for students who need more support or confidence to connect, grow, and shine.</p>
 
 <strong><font color="#4b0082">Our Key Programmes</font></strong>
 
@@ -46,10 +46,8 @@ Insert CHEER Poster (S://.......SDT/PSR)
 <p align="justify">Through key platforms such as school-wide;assembly, class-based PSR activities, the Back-to-School Programme,Exploration Weekand enhanced FTGP lessons, students progressively acquire and practise peer support skills in a spiral approach from Primary 1 to Primary 6. This approach ensures that as students mature, their understanding of peer bonding, empathy, and peer helping deepens — empowering them to take ownership of their relationships and contribute actively to a caring school culture.</p>
 <br>
 <p align="justify">PSR activities/initiatives(S://.......SDT/PSR)<br> Insert picture 1, 2, 3 (In progress), 4 (in progress)<br>Insert picture5(Wellbeing corner)Insert picture6(Friendship corner – in progress)</p><br>
-<p align="justify"><i><strong>““Together, we build a school where every voice is heard, every friend is valued, and every child belongs.”</strong><br>
-— Mdm Noor Idayu, SH Student Well-being</i>
-
-</p></td></tr>
+<p align="justify"><i><strong>“Together, we build a school where every voice is heard, every friend is valued, and every child belongs.”</strong><br>
+— Mdm Noor Idayu, SH Student Well-being</i></p></td></tr>
 
 <tr><td style="background-color: #74cdd7;"><strong><font color="ffffff">Student&nbsp;Leadership&nbsp;Development</font></strong></td></tr>
 
