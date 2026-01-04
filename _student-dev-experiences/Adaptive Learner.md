@@ -26,7 +26,7 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 </tbody></table>
 <table>
 <tbody><tr>
-<td width="33%" style="border:2px solid #0A0B30;  background-color:#c1e4f5"><p align="justify"><strong>Level<br></strong></p></td>
+<td width="12%" style="border:2px solid #0A0B30;  background-color:#c1e4f5"><p align="justify"><strong>Level<br></strong></p></td>
 <td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><p align="justify"><strong>Level Signature Programmes</strong></p></td>
 <td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong>Focus</strong></td>
 </tr>
@@ -121,9 +121,9 @@ School-wide programmes and performances further enrich this musical environment,
 —&nbsp;Mrs Angeline Teo, Year Head Upper Primary</i></p>
 
 
-<strong><font color="ffffff">Interdisciplinary Project Work (IPW)</font></strong>
-<p align="justify"><strong>Peer Support Relationship (PSR) Programme</strong><br> 
-At Bukit Timah Primary School, the Peer Support Relationship (PSR) programme is a key part of our commitment to nurturing students’ holistic development and well-being — ensuring that every child feels safe, valued, and connected within our school community. Guided by the belief that <i>“Everyone is a Peer Supporter,”</i> the programme fosters a culture of care and belonging, where students support one another socially and emotionally. </p>
+<strong><font color="ffffff"> </font><p align="justify"><font color="ffffff">Interdisciplinary Project Work (IPW)</font></p></strong>
+<strong>Peer Support Relationship (PSR) Programme</strong><br> 
+Interdisciplinary Project Work (IPW) provides students with an authentic avenue to explore real-world issues, make connections across subjects, and develop meaningful solutions. Using the 3I Problem-Solving Framework – Inquire, Initiate, Inspire – students learn to ask thoughtful questions, investigate deeply, and take purposeful action through a structured yet creative inquiry process. <p></p>
 <p align="justify">Aligned with the MOE PSR Framework and the “CHEER” model, our PSR initiatives equip students with both practical and emotional strategies to care for their peers and promote positive relationships. Through these efforts, students learn to stay calm, listen empathetically, encourage help-seeking, and refer peers to trusted adults when needed — strengthening the foundation of a caring and connected school culture.</p>
 Insert PSR framework (S://.......SDT/PSR)
 
