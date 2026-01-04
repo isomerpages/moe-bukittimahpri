@@ -6,7 +6,7 @@ description: ""
 ---
 <center><h3>Student Development Experiences @ BTPS</h3></center>
 
-<table>
+<table style="border-collapse: collapse; border: none; width: 100%;" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td style="padding:0; margin:0; border:none;" colspan="6">
 			<img style="display:block; border:none;" height="513" width="4488" src="/images/Information%20Photos/SDE/sdesde_01.png" id="sdesde_01"></td>
@@ -23,8 +23,7 @@ description: ""
     <img style="display:block; border:none;" height="770" width="979" src="/images/Information%20Photos/SDE/sdesde_04.png" id="sdesde_04"></a></td>
 		<td style="padding:0; margin:0; border:none;">
 <a height="770" width="941" href="//student-dev-experiences/future-ready-citizens/">
-    <img style="display:block; border:none;" height="770" width="941" src="/images/Information%20Photos/SDE/sdesde_05.png" id="sdesde_05">
-</a></td>
+    <img style="display:block; border:none;" height="770" width="941" src="/images/Information%20Photos/SDE/sdesde_05.png" id="sdesde_05"></a></td>
 		<td style="padding:0; margin:0; border:none;" rowspan="4">
 			<img style="display:block; border:none;" height="2394" width="811" src="/images/Information%20Photos/SDE/sdesde_06.png" id="sdesde_06"></td>
 	</tr>
