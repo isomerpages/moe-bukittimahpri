@@ -36,14 +36,20 @@ Small portraits (waist-up) of 2–3 AL leads with 1-liners:
 
 </td></tr>
 <tr><td style="background-color: #f48470;"><strong><font color="ffffff">Peer Support Relationship</font></strong></td></tr>
-<tr><td><p align="justify"></p>
-<p align="justify"></p><br>
+<tr><td><p align="justify"><strong>Peer Support Relationship (PSR) Programme</strong><br> 
+At Bukit Timah Primary School, the Peer Support Relationship (PSR) programme is a key part of our commitment to nurturing students’ holistic development and well-being — ensuring that every child feels safe, valued, and connected within our school community. Guided by the belief that <i>“Everyone is a Peer Supporter,”</i> the programme fosters a culture of care and belonging, where students support one another socially and emotionally. </p>
+<p align="justify">Aligned with the MOE PSR Framework and the “CHEER” model, our PSR initiatives equip students with both practical and emotional strategies to care for their peers and promote positive relationships. Through these efforts, students learn to stay calm, listen empathetically, encourage help-seeking, and refer peers to trusted adults when needed — strengthening the foundation of a caring and connected school culture.</p>
+Insert PSR framework (S://.......SDT/PSR)&nbsp;
+
+Insert CHEER Poster (S://.......SDT/PSR)
 <br>
-<ul>
-<li><strong>Self</strong>&nbsp;– Learn to take responsibility for one’s own actions and well-being.</li>
-<li><strong>Peers</strong> – Show empathy, respect, and support towards classmates. </li>
-<li><strong>School Environment</strong> – Take ownership in caring for shared spaces and routines. </li>
-<li><strong>Wider Community</strong>&nbsp;– Contribute positively to the community beyond the school. </li></ul>
+<p align="justify">Through key platforms such as&nbsp;school-wide&nbsp;assembly, class-based PSR activities, the Back-to-School Programme,&nbsp;Exploration Week&nbsp;and enhanced FTGP lessons, students progressively&nbsp;acquire&nbsp;and&nbsp;practise&nbsp;peer support skills in a spiral approach from Primary 1 to Primary 6. This approach ensures that as students mature, their understanding of peer bonding, empathy, and peer helping deepens — empowering them to take ownership of their relationships and contribute actively to a caring school culture.</p>
+<br>
+<p align="justify">PSR activities/initiatives&nbsp;(S://.......SDT/PSR)<br>&nbsp;Insert picture 1, 2, 3 (In progress), 4 (in progress)&nbsp;<br>Insert picture&nbsp;5&nbsp;(Wellbeing corner)&nbsp;&nbsp;Insert picture&nbsp;6&nbsp;(Friendship corner – in progress)</p><br>
+<i><strong>“Together, we build a school where every voice is heard, every friend is valued, and every child belongs.”&nbsp;</strong><br>
+—&nbsp;Mdm Noor Idayu, SH Student Well-being</i>
+
+
 
 <p align="justify"><i><strong>“”</strong><br>
  —  </i></p>
@@ -51,20 +57,33 @@ Small portraits (waist-up) of 2–3 AL leads with 1-liners:
 
 <tr><td style="background-color: #74cdd7;"><strong><font color="ffffff">Student&nbsp;Leadership&nbsp;Development</font></strong></td></tr>
 
-<tr><td><p align="justify"></p>
-<p align="justify">
+<tr><td><p align="justify">At Bukit Timah Primary School, our student leadership programme is guided by our school vision of nurturing&nbsp;<strong>Empathetic Leaders and Future-Ready Citizens</strong>. We believe that leadership begins with the ability to lead oneself and grows through service to others. Leadership is not limited to titles, but reflected through daily actions, choices, and contributions that make a positive difference to the community.</p>
+<p align="justify">Our approach to student leadership is&nbsp;<strong>tiered and progressive</strong>, allowing all students to develop leadership competencies at a pace and level&nbsp;appropriate to&nbsp;their growth:
 </p>
-
-
-<p align="justify"></p>
+<ul>
+<li><strong>Tier 1: Leading Self and Class (All Students)</strong><br>
+All students begin by learning to take responsibility for their own behaviour and learning. Classroom leadership roles provide opportunities for students to practise cooperation, communication, and shared responsibility in everyday situations. </li>
+<li><strong>Tier 2: Leading Peers (Student Leaders) </strong><br>
+Students with the interest and readiness to serve take on leadership roles such as <strong>Peer Support Ambassadors (PSA), Prefects, and CCA Leaders. </strong>They support the well-being of peers, contribute to class and school initiatives, and model positive behaviour for others. </li>
+<li><strong>Tier 3: Leading the School Community (EXCO Leaders) </strong><br> 
+At the highest level, selected student leaders serve in <strong>executive committees</strong> across key leadership groups. They lead school-wide projects, guide younger leaders, and work closely with teachers to strengthen student voice and ownership in shaping school culture.</li></ul><br>
+SLD Framework IMAGE
+<p align="justify">
+<i><strong>“Leadership is creating positive change through empathy”</strong><br>— Mdm Sangitah, SH CCE</i>
+</p>
 </td></tr>
 <tr><td style="background-color: #fff4a9;"><strong><font color="#000000">Care &amp; Support Initiatives</font></strong></td></tr>
 
-<tr><td><p align="justify"></p>
-<p align="justify">
-</p>
+<tr><td><p align="justify"><strong>Student Management at BTPS</strong><br>
+At BTPS, we are committed to nurturing a safe, caring, and inclusive environment where every child feels valued and supported. Our approach focuses on&nbsp;<strong>Discipline with Dignity</strong>, guiding students with school rules, positive routines, and differentiated approaches to meet their individual needs. This ensures all students can learn, grow, and glow in a safe and respectful environment.</p>
+<p align="justify">Through these efforts, we aim to develop students who embody our school vision:&nbsp;<strong>Adaptive Learners, Empathetic Leaders, and Future-Ready Citizens</strong>.</p>
 
+<p align="justify"><strong>Tier 1: School-Wide Support for All Students</strong><br>
+Tier 1 initiatives establish a positive and supportive school environment where <strong>clear expectations, shared values, and a sense of belonging</strong> guide students’ behaviour and learning. <br></p>
 
-<p align="justify"></p>
+<p align="justify">Through school-wide structures such as <strong>cohort talks, assemblies, and consistent teaching of routines and expectations</strong>, students learn how to act responsibly, respect others, and contribute positively to the school community. These universal supports help all students feel safe, supported, and ready to learn. </p>
+
+<p align="justify"><strong>Tier 2: Care and Support Initiatives</strong><br>
+We recognise that some students may require <strong>additional guidance and support</strong> at different points in their development. Tier 2 initiatives provide <strong>targeted programmes</strong>to support students’ social, emotional, and behavioural growth<br></p>
 </td></tr>
 </tbody></table>
