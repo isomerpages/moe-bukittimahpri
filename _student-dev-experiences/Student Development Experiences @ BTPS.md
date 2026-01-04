@@ -26,7 +26,7 @@ description: ""
 			<img style="display:block; border:none;" height="2394" width="811" src="/images/Information%20Photos/SDE/sdesde_06.png" id="sdesde_06"></td>
 	</tr>
 	<tr>
-		<td style="padding:0; margin:0; border:none;" colspan="4">
+		<td rowspan="1" colspan="4" style="padding:0; margin:0; border:none;">
 			<img style="display:block; border:none;" height="171" width="2946" src="/images/Information%20Photos/SDE/sdesde_07.png" id="sdesde_07"></td>
 	</tr>
 	<tr>
@@ -36,6 +36,7 @@ description: ""
     <img style="display:block; border:none;" height="427" width="1026" src="/images/Information%20Photos/SDE/sdesde_09.png" id="sdesde_09"></a></td>
 		<td style="padding:0; margin:0; border:none;" rowspan="2">
 			<img style="display:block; border:none;" height="1453" width="941" src="/images/Information%20Photos/SDE/sdesde_10.png" id="sdesde_10"></td>
+<td></td>
 	</tr>
 	<tr>
 		<td style="padding:0; margin:0; border:none;" colspan="2">
