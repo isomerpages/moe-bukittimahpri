@@ -5,39 +5,48 @@ variant: markdown
 description: ""
 ---
 <center><h3>Student Development Experiences @ BTPS</h3></center>
-<table cellspacing="0" cellpadding="0" border="0" color="#FFFFFF" id="Table_01">
+
+<table>
 	<tbody><tr>
-		<td colspan="4">
-			<img alt="" height="101" width="1600" src="/images/Information%20Photos/SDE2_01.gif" id="SDE2_01"></td>
+		<td colspan="6">
+			<img alt="" height="513" width="4488" src="/images/Information%20Photos/SDE/sdesde_01.png" id="sdesde_01"></td>
 	</tr>
-	<tr>
+	<tr border="0">
+		<td rowspan="4" border="0">
+			<img alt="" height="2394" width="731" src="/images/Information%20Photos/SDE/sdesde_02.png" id="sdesde_02"></td>
+		<td colspan="2" border="0"><br>
+<a height="770" width="1026" href="//student-dev-experiences/adaptive-learner/">
+    <img alt="" height="770" width="1026" src="/images/Information%20Photos/SDE/sdesde_03.png" id="sdesde_03">
+</a></td>			
+		<td><br>
+<a height="770" width="979" href="//student-dev-experiences/adaptive-learner/">
+    <img alt="" height="770" width="979" src="/images/Information%20Photos/SDE/sdesde_04.png" id="sdesde_04">
+</a></td>
+		<td><br>
+<a height="770" width="941" href="//student-dev-experiences/adaptive-learner/">
+    <img alt="" height="770" width="941" src="/images/Information%20Photos/SDE/sdesde_05.png" id="sdesde_05">
+</a></td>
 		<td rowspan="4">
-			<img alt="" height="1181" width="34" src="/images/Information%20Photos/SDE2_02.gif" id="SDE2_02"></td>
-		<td>
-<a height="402" width="502" href="//student-dev-experiences/adaptive-learner/">
-			<img src="/images/Information%20Photos/SDE2_03.gif" id="SDE2_03"></a></td>
-		<td>
-<a height="402" width="536" href="//student-dev-experiences/empathetic-leader/">
-			<img src="/images/Information%20Photos/SDE2_04.gif" id="SDE2_04"></a></td>
-		<td>
-<a height="402" width="528" href="//student-dev-experiences/future-ready-citizens/">
-			<img src="/images/Information%20Photos/SDE2_05.gif" id="SDE2_05"></a></td>
+			<img alt="" height="2394" width="811" src="/images/Information%20Photos/SDE/sdesde_06.png" id="sdesde_06"></td>
 	</tr>
 	<tr>
-		<td colspan="3">
-			<img alt="" height="134" width="1566" src="/images/Information%20Photos/SDE2_06.gif" id="SDE2_06"></td>
+		<td colspan="4">
+			<img alt="" height="171" width="2946" src="/images/Information%20Photos/SDE/sdesde_07.png" id="sdesde_07"></td>
 	</tr>
 	<tr>
 		<td rowspan="2">
-			<img alt="" height="645" width="502" src="/images/Information%20Photos/SDE2_07.gif" id="SDE2_07"></td>
-		<td>
-<a height="301" width="536" href="//student-dev-experiences/character-development-structure/">
-			<img src="/images/Information%20Photos/SDE2_08.png" id="SDE2_08"></a></td>
+			<img alt="" height="1453" width="979" src="/images/Information%20Photos/SDE/sdesde_08.png" id="sdesde_08"></td>
+		<td colspan="2">
+<a height="427" width="1026" href="//student-dev-experiences/adaptive-learner/">
+    <img alt="" height="427" width="1026" src="/images/Information%20Photos/SDE/sdesde_09.png" id="sdesde_09">
+</a></td>
 		<td rowspan="2">
-			<img alt="" height="645" width="528" src="/images/Information%20Photos/SDE2_09.gif" id="SDE2_09"></td>
+			<img alt="" height="1453" width="941" src="/images/Information%20Photos/SDE/sdesde_10.png" id="sdesde_10"></td>
 	</tr>
 	<tr>
-		<td>
-			<img alt="" height="344" width="536" src="/images/Information%20Photos/SDE2_10.gif" id="SDE2_10"></td>
+		<td colspan="2">
+			<img alt="" height="1026" width="1026" src="/images/Information%20Photos/SDE/sdesde_11.png" id="sdesde_11"></td>
 	</tr>
+	
 </tbody></table>
+
