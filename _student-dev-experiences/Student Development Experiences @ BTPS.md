@@ -31,10 +31,9 @@ description: ""
 	</tr>
 	<tr>
 		<td style="padding:0; margin:0; border:none;" rowspan="2"><img style="display:block; border:none;" height="1453" width="979" src="/images/Information%20Photos/SDE/sdesde_08.png" id="sdesde_08"></td>
-		<td style="padding:0; margin:0; border:none;" colspan="2">
-<a height="427" width="1026" href="//student-dev-experiences/charcter-development-structure/">
-    <img style="display:block; border:none;" height="427" width="1026" src="/images/Information%20Photos/SDE/sdesde_09.png" id="sdesde_09">
-</a></td>
+		<td colspan="2" style="padding:0; margin:0; border:none;">
+<a height="427" width="1026" href="//student-dev-experiences/future-ready-citizens/">
+    <img style="display:block; border:none;" height="427" width="1026" src="/images/Information%20Photos/SDE/sdesde_09.png" id="sdesde_09"></a></td>
 		<td style="padding:0; margin:0; border:none;" rowspan="2">
 			<img style="display:block; border:none;" height="1453" width="941" src="/images/Information%20Photos/SDE/sdesde_10.png" id="sdesde_10"></td>
 	</tr>
