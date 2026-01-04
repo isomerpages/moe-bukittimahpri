@@ -14,7 +14,7 @@ Empathetic Leaders understand themselves and others. They show care, respect, an
 <p align="justify">
 Through our <strong>Learning for Life Programme (LLP), Peer Support Programmes</strong>, and <strong>Student Leadership Development</strong>, students develop empathy and moral courage to lead by example. </p>
 <p align="justify">
-Care and Support initiatives such as&nbsp;<strong>NEMO</strong>&nbsp;and&nbsp;<strong>SuSo</strong>&nbsp;further nurture a sense of belonging, offering&nbsp;additional&nbsp;guidance for students who need more support or confidence to connect, grow, and shine.</p>
+Care and Support initiatives such as&nbsp;<strong>NEMO</strong> and <strong>SuSo</strong> further nurture a sense of belonging, offering additional guidance for students who need more support or confidence to connect, grow, and shine.</p>
 
 <strong><font color="#4b0082">Our Key Programmes</font></strong>
 
@@ -22,12 +22,12 @@ Care and Support initiatives such as&nbsp;<strong>NEMO</strong>&nbsp;and&nbsp;<s
 
 <tbody><tr><td style="background-color: #7C71AD;"><strong><font color="ffffff">Learning for Life Programme (LLP) – Music for Everyone</font></strong></td></tr>
 
-<tr><td><p align="justify">Owner to update &amp; add photos&nbsp;
-At Bukit Timah Primary School, we believe that music is a universal language that connects hearts and minds, nurturing&nbsp;empathy&nbsp;and resilience in our students. Through music, they learn to listen, collaborate, and express themselves creatively — qualities that prepare them to be&nbsp;<i>empathetic leaders&nbsp;and&nbsp;future-ready citizens.</i></p>
+<tr><td><p align="justify">Owner to update &amp; add photos 
+At Bukit Timah Primary School, we believe that music is a universal language that connects hearts and minds, nurturing empathy and resilience in our students. Through music, they learn to listen, collaborate, and express themselves creatively — qualities that prepare them to be <i>empathetic leaders and future-ready citizens.</i></p>
 <p align="justify">
 Our Learning for Life Programme (LLP) fosters a vibrant musical culture through diverse and engaging experiences. Students develop musical understanding, creativity, and critical thinking as they perform, create, and analyse music. They also learn to improvise with their voices and instruments, exercising imagination and teamwork in the process. </p>	
 <p align="justify">
-School-wide programmes and performances further enrich this musical environment, offering platforms for students to explore their interests and&nbsp;showcase&nbsp;their talents. Over six years, every student discovers joy and confidence in music — nurturing a lifelong appreciation for the arts.&nbsp;</p>
+School-wide programmes and performances further enrich this musical environment, offering platforms for students to explore their interests and&nbsp;showcase&nbsp;their talents. Over six years, every student discovers joy and confidence in music — nurturing a lifelong appreciation for the arts. </p>
 
 Small portraits (waist-up) of 2–3 AL leads with 1-liners:
 
@@ -39,22 +39,22 @@ Small portraits (waist-up) of 2–3 AL leads with 1-liners:
 <tr><td><p align="justify"><strong>Peer Support Relationship (PSR) Programme</strong><br> 
 At Bukit Timah Primary School, the Peer Support Relationship (PSR) programme is a key part of our commitment to nurturing students’ holistic development and well-being — ensuring that every child feels safe, valued, and connected within our school community. Guided by the belief that <i>“Everyone is a Peer Supporter,”</i> the programme fosters a culture of care and belonging, where students support one another socially and emotionally. </p>
 <p align="justify">Aligned with the MOE PSR Framework and the “CHEER” model, our PSR initiatives equip students with both practical and emotional strategies to care for their peers and promote positive relationships. Through these efforts, students learn to stay calm, listen empathetically, encourage help-seeking, and refer peers to trusted adults when needed — strengthening the foundation of a caring and connected school culture.</p>
-Insert PSR framework (S://.......SDT/PSR)&nbsp;
+Insert PSR framework (S://.......SDT/PSR)
 
 Insert CHEER Poster (S://.......SDT/PSR)
 <br>
-<p align="justify">Through key platforms such as&nbsp;school-wide&nbsp;assembly, class-based PSR activities, the Back-to-School Programme,&nbsp;Exploration Week&nbsp;and enhanced FTGP lessons, students progressively&nbsp;acquire&nbsp;and&nbsp;practise&nbsp;peer support skills in a spiral approach from Primary 1 to Primary 6. This approach ensures that as students mature, their understanding of peer bonding, empathy, and peer helping deepens — empowering them to take ownership of their relationships and contribute actively to a caring school culture.</p>
+<p align="justify">Through key platforms such as school-wide;assembly, class-based PSR activities, the Back-to-School Programme,Exploration Weekand enhanced FTGP lessons, students progressively acquire and practise peer support skills in a spiral approach from Primary 1 to Primary 6. This approach ensures that as students mature, their understanding of peer bonding, empathy, and peer helping deepens — empowering them to take ownership of their relationships and contribute actively to a caring school culture.</p>
 <br>
-<p align="justify">PSR activities/initiatives&nbsp;(S://.......SDT/PSR)<br>&nbsp;Insert picture 1, 2, 3 (In progress), 4 (in progress)&nbsp;<br>Insert picture&nbsp;5&nbsp;(Wellbeing corner)&nbsp;&nbsp;Insert picture&nbsp;6&nbsp;(Friendship corner – in progress)</p><br>
-<i><strong>“Together, we build a school where every voice is heard, every friend is valued, and every child belongs.”&nbsp;</strong><br>
-—&nbsp;Mdm Noor Idayu, SH Student Well-being</i>
+<p align="justify">PSR activities/initiatives(S://.......SDT/PSR)<br> Insert picture 1, 2, 3 (In progress), 4 (in progress)<br>Insert picture5(Wellbeing corner)Insert picture6(Friendship corner – in progress)</p><br>
+<i><strong>“Together, we build a school where every voice is heard, every friend is valued, and every child belongs.”</strong><br>
+— Mdm Noor Idayu, SH Student Well-being</i>
 
 </td></tr>
 
 <tr><td style="background-color: #74cdd7;"><strong><font color="ffffff">Student&nbsp;Leadership&nbsp;Development</font></strong></td></tr>
 
-<tr><td><p align="justify">At Bukit Timah Primary School, our student leadership programme is guided by our school vision of nurturing&nbsp;<strong>Empathetic Leaders and Future-Ready Citizens</strong>. We believe that leadership begins with the ability to lead oneself and grows through service to others. Leadership is not limited to titles, but reflected through daily actions, choices, and contributions that make a positive difference to the community.</p>
-<p align="justify">Our approach to student leadership is&nbsp;<strong>tiered and progressive</strong>, allowing all students to develop leadership competencies at a pace and level&nbsp;appropriate to&nbsp;their growth:
+<tr><td><p align="justify">At Bukit Timah Primary School, our student leadership programme is guided by our school vision of nurturing <strong>Empathetic Leaders and Future-Ready Citizens</strong>. We believe that leadership begins with the ability to lead oneself and grows through service to others. Leadership is not limited to titles, but reflected through daily actions, choices, and contributions that make a positive difference to the community.</p>
+<p align="justify">Our approach to student leadership is <strong>tiered and progressive</strong>, allowing all students to develop leadership competencies at a pace and level ;appropriate to their growth:
 </p>
 <ul>
 <li><strong>Tier 1: Leading Self and Class (All Students)</strong><br>
@@ -71,8 +71,8 @@ At the highest level, selected student leaders serve in <strong>executive commit
 <tr><td style="background-color: #fff4a9;"><strong><font color="#000000">Care &amp; Support Initiatives</font></strong></td></tr>
 
 <tr><td><p align="justify"><strong>Student Management at BTPS</strong><br>
-At BTPS, we are committed to nurturing a safe, caring, and inclusive environment where every child feels valued and supported. Our approach focuses on&nbsp;<strong>Discipline with Dignity</strong>, guiding students with school rules, positive routines, and differentiated approaches to meet their individual needs. This ensures all students can learn, grow, and glow in a safe and respectful environment.</p>
-<p align="justify">Through these efforts, we aim to develop students who embody our school vision:&nbsp;<strong>Adaptive Learners, Empathetic Leaders, and Future-Ready Citizens</strong>.</p>
+At BTPS, we are committed to nurturing a safe, caring, and inclusive environment where every child feels valued and supported. Our approach focuses on <strong>Discipline with Dignity</strong>, guiding students with school rules, positive routines, and differentiated approaches to meet their individual needs. This ensures all students can learn, grow, and glow in a safe and respectful environment.</p>
+<p align="justify">Through these efforts, we aim to develop students who embody our school vision: <strong>Adaptive Learners, Empathetic Leaders, and Future-Ready Citizens</strong>.</p>
 
 <p align="justify"><strong>Tier 1: School-Wide Support for All Students</strong><br>
 Tier 1 initiatives establish a positive and supportive school environment where <strong>clear expectations, shared values, and a sense of belonging</strong> guide students’ behaviour and learning. <br></p>
