@@ -11,8 +11,7 @@ At Bukit Timah Primary School, character development is intentionally designed a
 To support this developmental journey, Level Mottos are used to anchor character expectations in age-appropriate language. Each motto highlights key focus areas for the level, guiding students to practise the school’s values through their daily routines, interactions, and learning experiences.
 </p>
 <table>
-<tbody><tr>
-<td rowspan="1" colspan="2" style="border:2px solid #0A0B30;  background-color:#156082"></td></tr>
+<tbody>
 <tr>
 <td width="33%" style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong>Level Motto<br>
 </strong></td>
