@@ -62,50 +62,48 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <td width="10%" style="border:2px solid #0A0B30"><p align="justify">P3</p></td>
 <td style="border:2px solid #0A0B30">
 <ul><p align="justify">
-</p><li>P1 Day</li>
-<li>Learning Journey</li>
+</p><li>Joy of Learning Day</li>
 <p></p></ul>
 </td><td style="border:2px solid #0A0B30">
 <ul><p align="justify">
-</p><li>Routines &amp; Readiness</li>
-<li>Learning to Participate</li>
-<li>Positive Social Interaction</li>
+</p><li>Teamwork</li>
+<li>Care for Others</li>
+<li>Social Awareness</li>
 <p></p></ul>
 </td></tr>
 <tr>
 <td width="10%" style="border:2px solid #0A0B30"><p align="justify">P4</p></td>
 <td style="border:2px solid #0A0B30">
 <ul><p align="justify">
-</p><li>P1 Day</li>
-<li>Learning Journey</li>
+</p><li>CNY Community Engagement</li>
+<li>AWE Day Out</li>
 <p></p></ul>
 </td><td style="border:2px solid #0A0B30">
 <ul><p align="justify">
-</p><li>Routines &amp; Readiness</li>
-<li>Learning to Participate</li>
-<li>Positive Social Interaction</li>
+</p><li>Empathy in Action</li>
+<li>Relationship Building</li>
+<li>Shared Responsibility</li>
 <p></p></ul>
 </td></tr>
 <tr>
 <td width="10%" style="border:2px solid #0A0B30"><p align="justify">P5</p></td>
 <td style="border:2px solid #0A0B30">
 <ul><p align="justify">
-</p><li>P1 Day</li>
-<li>Learning Journey</li>
+</p><li>AWE Day Out</li>
+<li>Camp</li>
 <p></p></ul>
 </td><td style="border:2px solid #0A0B30">
 <ul><p align="justify">
-</p><li>Routines &amp; Readiness</li>
-<li>Learning to Participate</li>
-<li>Positive Social Interaction</li>
+</p><li>Building Confidence &amp; Resilience</li>
+<li>Taking Initiative</li>
+<li>Positive Influence</li>
 <p></p></ul>
 </td></tr>
 <tr>
 <td width="10%" style="border:2px solid #0A0B30"><p align="justify">P6</p></td>
 <td style="border:2px solid #0A0B30">
 <ul><p align="justify">
-</p><li>P1 Day</li>
-<li>Learning Journey</li>
+</p><li>Project Synergy</li>
 <p></p></ul>
 </td><td style="border:2px solid #0A0B30">
 <ul><p align="justify">
