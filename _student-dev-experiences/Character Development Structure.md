@@ -13,14 +13,14 @@ To support this developmental journey, Level Mottos are used to anchor character
 <table>
 <tbody>
 <tr>
-<td width="33%" style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong>Level Motto<br>
+<td width="33%" style="border:2px solid #0A0B30;  background-color:#c1e4f5"><p align="justify"><strong>Level Motto<br></strong></p><strong>
 </strong></td>
-<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong>Observable Behaviours
-</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><p align="justify"><strong>Observable Behaviours
+</strong></p></td>
 </tr>
 <tr>
-<td style="border:2px solid #0A0B30"><font color="#4b0082"></font>Lower Primary Motto:  <br><strong>Start It Right!</strong><br><br>
-Focus: <br>Routines, Readiness, Attitudes</td>
+<td style="border:2px solid #0A0B30"><p align="justify">Lower Primary Motto:  <br><strong>Start It Right!</strong><br><br>
+Focus: <br>Routines, Readiness, Attitudes</p></td>
 <td width="33%" style="border:2px solid #0A0B30">
 <u><strong>Self-Awareness &amp; Self-Management</strong></u>
 <ul><p align="justify">
@@ -41,8 +41,8 @@ Focus: <br>Routines, Readiness, Attitudes</td>
 </td>
 </tr>
 <tr>
-<td style="border:2px solid #0A0B30"><font color="#4b0082"></font>Middle Primary Motto:  <br><strong>Appreciate and Care</strong><br><br>
-Focus: <br>Teamwork, Care for others, Social skills, Resilience</td>
+<td style="border:2px solid #0A0B30"><p align="justify">Middle Primary Motto:  <br><strong>Appreciate and Care</strong><br><br>
+Focus: <br>Teamwork, Care for others, Social skills, Resilience</p></td>
 <td width="33%" style="border:2px solid #0A0B30">
 <u><strong>Self-Awareness &amp; Self-Management</strong></u>
 <ul><p align="justify">
@@ -62,8 +62,8 @@ Focus: <br>Teamwork, Care for others, Social skills, Resilience</td>
 </td>
 </tr>
 <tr>
-<td style="border:2px solid #0A0B30"><font color="#4b0082"></font>Upper Primary Motto:<br><strong>Lead and Inspire</strong><br><br>
-Focus: <br>Decision-making &amp; Choices, Influencing others positively, Building positive relationships, Resilience </td>
+<td style="border:2px solid #0A0B30"><p align="justify">Upper Primary Motto:<br><strong>Lead and Inspire</strong><br><br>
+Focus: <br>Decision-making &amp; Choices, Influencing others positively, Building positive relationships, Resilience </p></td>
 <td width="33%" style="border:2px solid #0A0B30">
 <u><strong>Self-Awareness &amp; Self-Management</strong></u>
 <ul><p align="justify">
