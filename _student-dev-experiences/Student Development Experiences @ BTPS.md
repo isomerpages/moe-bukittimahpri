@@ -6,7 +6,7 @@ description: ""
 ---
 <center><h3>Student Development Experiences @ BTPS</h3></center>
 
-<table style="border-collapse: collapse; border: none; line-height: 0;" cellspacing="0" cellpadding="0">
+<table style="border-collapse: collapse; border: none; line-height: 0;font-size: 0;" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td style="padding:0; margin:0; border:none;" rowspan="1" colspan="6"><img style="display:block; border:none; vertical-align:bottom;" height="513" width="4488" src="/images/Information%20Photos/SDE/sde2sde_01.png"></td>
 </tr>
