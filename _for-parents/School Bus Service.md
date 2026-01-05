@@ -46,7 +46,7 @@ Email: sayguants@yahoo.com.sg<br><br>
         </tr>
         <tr>
             <td style="border:2px solid #0A0B30">&gt;4 - 6km</td>
-            <td style="border:2px solid #0A0B30">$299</td>
+            <td style="border:2px solid #0A0B30">$229</td>
             <td style="border:2px solid #0A0B30">$239</td>
             <td style="border:2px solid #0A0B30">$197</td>
             <td style="border:2px solid #0A0B30">$207</td>
