@@ -116,13 +116,13 @@ variant: markdown
 <h4><strong>HEADS OF DEPARTMENT (HOD)</strong></h4>
 <table style="max-width: 100%">
 <tbody><tr>
-<td style="max-width: 45%">
+<td style="max-width: 40%">
 <p><strong>Name</strong></p>
 </td>
-<td style="max-width: 45%">
+<td style="max-width: 40%">
 <p><strong>Designation</strong></p>
 </td>
-<td style="max-width: 10%">
+<td>
 <p><strong>Email Address</strong></p>
 </td>
 </tr>
