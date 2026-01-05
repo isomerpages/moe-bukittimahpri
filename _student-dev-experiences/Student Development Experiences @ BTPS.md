@@ -16,18 +16,9 @@ description: ""
 <img style="display:block; border:none; vertical-align:bottom;" height="770" width="979" src="/images/Information%20Photos/SDE/sde2sde_04.png"></a></td><td style="padding:0; margin:0; border:none; vertical-align:bottom;"><a height="770" width="941" href="/student-dev-experiences/future-ready-citizens/"><img style="display:block; border:none; vertical-align:bottom;" height="770" width="941" src="/images/Information%20Photos/SDE/sde2sde_05.png"></a></td><td style="padding:0; margin:0; border:none;" rowspan="4" colspan="1"><img style="display:block; border:none; vertical-align:bottom;" height="2394" width="811" src="/images/Information%20Photos/SDE/sde2sde_06.png"></td></tr>
 <tr><td style="padding:0; margin:0; border:none;" rowspan="1" colspan="4"><img style="display:block; border:none; vertical-align:bottom;" height="171" width="2946" src="/images/Information%20Photos/SDE/sde2sde_07.png"></td></tr>
 <tr>
-<td style="padding:0; margin:0; border:none;">
-<img style="display:block; border:none; vertical-align:bottom;" height="427" width="979" src="/images/Information%20Photos/SDE/sde2sde_08.png"></td>
-<td style="padding:0; margin:0; border:none;" rowspan="1" colspan="2">
-<a height="427" width="1026" href="/student-dev-experiences/character-development-structure/">
-<img style="display:block; border:none; vertical-align:bottom;" height="427" width="1026" src="/images/Information%20Photos/SDE/sde2sde_09.png"></a></td>
-<td style="padding:0; margin:0; border:none;" rowspan="1" colspan="1">
-<img style="display:block; border:none; vertical-align:bottom;" height="427" width="941" src="/images/Information%20Photos/SDE/sde2sde_10.png"></td>
-</tr>
-<tr>
-<td style="padding:0; margin:0; border:none;" rowspan="1" colspan="4">
-<img style="display:block; border:none; vertical-align:bottom;" height="1026" width="2946" src="/images/Information%20Photos/SDE/sde2sde_11.png" id="sde2sde_11"></td>
-</tr>
+<td style="padding:0; margin:0; border:none;"><img style="display:block; border:none; vertical-align:bottom;" height="427" width="979" src="/images/Information%20Photos/SDE/sde2sde_08.png"></td><td style="padding:0; margin:0; border:none;" rowspan="1" colspan="2"><a height="427" width="1026" href="/student-dev-experiences/character-development-structure/"><img style="display:block; border:none; vertical-align:bottom;" height="427" width="1026" src="/images/Information%20Photos/SDE/sde2sde_09.png"></a></td><td style="padding:0; margin:0; border:none;" rowspan="1" colspan="1"><img style="display:block; border:none; vertical-align:bottom;" height="427" width="941" src="/images/Information%20Photos/SDE/sde2sde_10.png"></td>
+</tr><tr><td style="padding:0; margin:0; border:none;" rowspan="1" colspan="4">
+<img style="display:block; border:none; vertical-align:bottom;" height="1026" width="2946" src="/images/Information%20Photos/SDE/sde2sde_11.png" id="sde2sde_11"></td></tr>
 </tbody></table>
 
 <p align="justify"><strong><i>“Every student grows through meaningful experiences—where learning, relationships, and shared challenges allow values to take root, confidence to build, and character to be shaped for life.”</i></strong><i><br>
