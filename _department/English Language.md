@@ -6,8 +6,7 @@ variant: markdown
 ---
 <p align="justify"><strong>Overview:</strong><br>The BTPS English Department nurtures articulate, discerning and empathetic learners who communicate with clarity and purpose. Through authentic learning experiences and meaningful conversations, we encourage students to listen actively, appreciate diverse perspectives, and express their ideas responsibly. By engaging with language and literature, students develop confidence, integrity, and curiosity, qualities that prepare them to contribute positively to the community and uphold our school vision of being Adaptive Learners, Empathetic Leaders, and Future-Ready Citizens.</p>
 
-<strong></strong><p align="justify"><strong>Department mission:</strong><br>
-To design authentic learning experiences and facilitate enriching conversations that spark curiosity, challenge thinking and nurture values that guide character and relationships.</p>
+<p align="justify"><strong>Department mission:</strong><br>To design authentic learning experiences and facilitate enriching conversations that spark curiosity, challenge thinking and nurture values that guide character and relationships.</p>
 
 <strong>Objectives:</strong>
 <ul>
