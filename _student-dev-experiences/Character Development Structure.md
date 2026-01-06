@@ -86,5 +86,5 @@ Focus: <br>Decision-making &amp; Choices, Influencing others positively, Buildin
 </td>
 </tr>	
 </tbody></table>
-<i><strong>“Every child can learn and thrive when given the right support and a nurturing environment.”</strong><br>
-— Mrs Shirley Ong, Year Head Lower Primary</i>
+<p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Every child can learn and thrive when given the right support and a nurturing environment.”</span></i></strong><i><br>
+— Mrs Shirley Ong, Year Head Lower Primary</i></p>
