@@ -27,6 +27,12 @@ Through National Education, students develop a <strong>sense of belonging</stron
 </p>	
 <p align="justify"><strong>NE Commemorative Events</strong><br>
 Our students commemorate Total Defence Day, International Friendship Day, Racial Harmony Day, and National Day through storytelling, exhibitions, and student-led activities. Each event strengthens appreciation for Singapore’s resilience and diversity, helping students connect national values to daily actions.</p><br>
+
+<table style="border: none;" border="0"> 
+<tbody><tr><td><img width="800" src="/images/Information%20Photos/IFD1.jpg"></td> 
+<td><img width="800" src="/images/Information%20Photos/IFD2.jpg"></td> 
+</tr> </tbody></table>
+	
 Insert photos/videos: IFD booths, National Day celebrations<br>
 <br>
 <p align="justify"><i>Our BTPS family celebrating unity in diversity.</i><br>
