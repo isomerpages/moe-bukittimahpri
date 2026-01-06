@@ -28,7 +28,7 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <tbody><tr>
 <td width="12%" style="border:2px solid #0A0B30;  background-color:#c1e4f5"><p align="justify"><strong>Level<br></strong></p></td>
 <td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><p align="justify"><strong>Level Signature Programmes</strong></p></td>
-<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong>Focus</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><p align="justify"><strong>Focus</strong></p></td>
 </tr>
 <tr>
 <td width="10%" style="border:2px solid #0A0B30"><p align="justify">P1</p></td>
