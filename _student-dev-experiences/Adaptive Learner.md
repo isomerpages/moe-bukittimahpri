@@ -114,7 +114,7 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 </td></tr>
 </tbody></table>
 
-<p align="justify"><i><strong>“Every child is capable of success when we believe in them and create spaces where they can shine.”</strong><br>
+<p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Every child is capable of success when we believe in them and create spaces where they can shine.”</span></i></strong><i><br>
 —&nbsp;Mrs Angeline Teo, Year Head Upper Primary</i></p>
 
 
@@ -126,7 +126,7 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 Interdisciplinary Project Work (IPW) provides students with an authentic avenue to explore real-world issues, make connections across subjects, and develop meaningful solutions. Using the 3I Problem-Solving Framework – Inquire, Initiate, Inspire – students learn to ask thoughtful questions, investigate deeply, and take purposeful action through a structured yet creative inquiry process. </p>
 <p align="justify">
 As part of the post-PSLE programme, our Primary 6 students experience this process firsthand. Guided by an inquiry question, they embark on a learning trail to gather insights from the community through interviews, observations, and data collection. Back in school, they analyse their findings, research further and collaborate to generate ideas before creating a prototype that address their chosen issue. They also have the valuable opportunity to present their initial concepts to an expert panel make refinements and finally showcase their solutions to their juniors. This journey not only strengthens their critical thinking and creativity but also helps them grow in confidence as they communicate ideas that contribute towards a positive impact. </p>
-<p align="justify"><i><strong>“When students inquire with curiosity, they create with purpose.”</strong><br>
+<p style="text-align: justify;"><strong><i><span style="color: #4b0082">“When students inquire with curiosity, they create with purpose.”</span></i></strong><i><br>
 — Mdm Sharmini, LH English </i></p>
 </td></tr>
 
@@ -203,5 +203,5 @@ small tissue samples and observe their development over time. They practise coll
 evidence, refining ideas, and reflecting like real scientists, building perseverance,
 curiosity, and confidence.
 </p>
-<p align="justify"><i><strong>“Give children space to question, think, and try — and you’ll see how naturally they grow into confident, adaptable learners.”</strong><br>
+<p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Give children space to question, think, and try — and you’ll see how naturally they grow into confident, adaptable learners.”</span></i></strong><i><br>
 — Mr Christopher Khoo, HOD Science</i></p>
