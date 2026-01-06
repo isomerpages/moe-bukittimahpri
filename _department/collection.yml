@@ -2,6 +2,7 @@ collections:
   department:
     output: true
     order:
+      - PAM/Aesthetics.md
       - PAM/.keep
       - English Language.md
       - Mathematics.md
