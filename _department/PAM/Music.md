@@ -27,6 +27,9 @@ Beyond the classroom, our LLP provides authentic opportunities for students to e
 <tr><td><p align="justify">Students experience music beyond the classroom through school-based performances and enrichment programmes. They have opportunities to share their learning with peers, such as performing during recess showcases, and to engage with live demonstrations and performances by local musicians. These experiences deepen students’ appreciation of music, broaden their understanding of diverse musical styles and instruments, and encourage them to express themselves confidently in authentic settings.</p>
 </td></tr>
 <tr><td style="background-color: #fff4a9;"><strong><font color="#000000">Learning Beyond the Classroom </font></strong></td></tr>
-<tr><td><p align="justify">Students experience music beyond the classroom through school-based performances and enrichment programmes. They have opportunities to share their learning with peers, such as performing during recess showcases, and to engage with live demonstrations and performances by local musicians. These experiences deepen students’ appreciation of music, broaden their understanding of diverse musical styles and instruments, and encourage them to express themselves confidently in authentic settings.</p>
+<tr><td><p align="justify">Music provides meaningful opportunities for students to develop empathy and resilience through shared musical experiences. Selected students participate in community and intergenerational programmes, where they make music with peers and seniors through Values in Action (VIA) initiatives.</p>
+<p align="justify">
+Students who choose to further pursue their interests can deepen their skills through performing arts Co-Curricular Activities (CCAs) and national platforms. These experiences support the development of musical mastery while nurturing teamwork, perseverance, and a sense of responsibility.</p>
+<p></p>
 </td></tr>
 </tbody></table>
