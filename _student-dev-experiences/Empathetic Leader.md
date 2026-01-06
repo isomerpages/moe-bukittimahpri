@@ -22,14 +22,16 @@ Care and Support initiatives such as <strong>NEMO</strong> and <strong>SuSo</str
 
 <tbody><tr><td style="background-color: #7C71AD;"><strong><font color="ffffff">Learning for Life Programme (LLP) – Music for Everyone</font></strong></td></tr>
 
-<tr><td><p align="justify">Owner to update &amp; add photos 
+<tr><td><p align="justify">
 At Bukit Timah Primary School, we believe that music is a universal language that connects hearts and minds, nurturing empathy and resilience in our students. Through music, they learn to listen, collaborate, and express themselves creatively — qualities that prepare them to be <i>empathetic leaders and future-ready citizens.</i></p>
 <p align="justify">
 Our Learning for Life Programme (LLP) fosters a vibrant musical culture through diverse and engaging experiences. Students develop musical understanding, creativity, and critical thinking as they perform, create, and analyse music. They also learn to improvise with their voices and instruments, exercising imagination and teamwork in the process. </p>	
 <p align="justify">
 School-wide programmes and performances further enrich this musical environment, offering platforms for students to explore their interests and&nbsp;showcase&nbsp;their talents. Over six years, every student discovers joy and confidence in music — nurturing a lifelong appreciation for the arts. </p>
 
-Small portraits (waist-up) of 2–3 AL leads with 1-liners:
+<img width="1600" src="/images/Information%20Photos/psr2.jpg">
+<img width="1000" src="/images/Information%20Photos/psr1.jpg">
+<img width="600" src="/images/Information%20Photos/psr3.jpg">
 
 <p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Every student’s voice matters in music.”</span></i></strong><i><br>
 —&nbsp;Mrs Lynette Lim, HOD Aesthetics</i></p>
