@@ -28,13 +28,8 @@ Through National Education, students develop a <strong>sense of belonging</stron
 <p align="justify"><strong>NE Commemorative Events</strong><br>
 Our students commemorate Total Defence Day, International Friendship Day, Racial Harmony Day, and National Day through storytelling, exhibitions, and student-led activities. Each event strengthens appreciation for Singapore’s resilience and diversity, helping students connect national values to daily actions.</p><br>
 
-
-
-	
-Insert photos/videos: IFD booths, National Day celebrations<br><br><p align="justify"><i>Our BTPS family celebrating unity in diversity.</i><br>
-</p><p style="text-align: justify;"><strong><i><span style="color: #4b0082">"National Education should move beyond knowledge to lived belonging, where every child matters, contributes meaningfully, and takes responsibility for our shared future.”</span></i></strong><i><br>
-— Mrs Nicole Chan, HOD&nbsp;Character and Citizenship Education</i></p><table style="border: none;" border="0"> 
-</table><table><tbody><tr>
+<table style="border: none;" border="0"> 
+<tbody><tr>
 <td><img height="600" width="800" src="/images/Information%20Photos/IFD1.jpg"></td> 
 <td><img height="600" width="800" src="/images/Information%20Photos/IFD2.jpg"></td> 
 </tr>
@@ -42,15 +37,19 @@ Insert photos/videos: IFD booths, National Day celebrations<br><br><p align="jus
 <td><img height="600" width="800" src="/images/Information%20Photos/IFD3.jpg"></td> 
 <td><img height="600" width="800" src="/images/Information%20Photos/IFD4.jpg"></td> 
 </tr>
-<tr><td colspan="2"><img height="600" width="800" src="/images/Information%20Photos/ND2.jpg"></td></tr> 
-<tr>
+<tr><td colspan="2"><img height="600" width="800" src="/images/Information%20Photos/ND2.jpg">
+<p align="justify"><strong>Our BTPS family celebrating unity in diversity.</strong></p> 
+</td></tr><tr>
 <td colspan="2"><img height="600" width="800" src="/images/Information%20Photos/ND1.jpg"></td></tr> 
 <tr>
 <td><img height="600" width="800" src="/images/Information%20Photos/RHD1.jpg"></td> 
 <td><img height="600" width="800" src="/images/Information%20Photos/RHD2.jpg"></td> 
 </tr>
-
 </tbody></table>
+<p style="text-align: justify;"><strong><i><span style="color: #4b0082">"National Education should move beyond knowledge to lived belonging, where every child matters, contributes meaningfully, and takes responsibility for our shared future.”</span></i></strong><i><br>
+— Mrs Nicole Chan, HOD&nbsp;Character and Citizenship Education</i></p>
+	
+
 
 </td></tr><tr><td style="background-color: #f48470;"><strong><font color="ffffff">Values-in-Action (VIA)</font></strong></td></tr>
 <tr><td><p align="justify">At Bukit Timah Primary School, our Values-in-Action (VIA) programme believes that character is not only learned but lived. VIA provides every student with opportunities to understand, practice, and demonstrate values through meaningful action. </p>
