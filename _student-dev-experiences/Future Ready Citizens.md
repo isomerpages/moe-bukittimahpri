@@ -28,17 +28,23 @@ Through National Education, students develop a <strong>sense of belonging</stron
 <p align="justify"><strong>NE Commemorative Events</strong><br>
 Our students commemorate Total Defence Day, International Friendship Day, Racial Harmony Day, and National Day through storytelling, exhibitions, and student-led activities. Each event strengthens appreciation for Singapore’s resilience and diversity, helping students connect national values to daily actions.</p><br>
 
-<table style="border: none;" border="0"> 
-<tbody><tr><td><img width="800" src="/images/Information%20Photos/IFD1.jpg"></td> 
-<td><img width="800" src="/images/Information%20Photos/IFD2.jpg"></td> 
-</tr> </tbody></table>
+
+
 	
-Insert photos/videos: IFD booths, National Day celebrations<br>
-<br>
-<p align="justify"><i>Our BTPS family celebrating unity in diversity.</i><br>
+Insert photos/videos: IFD booths, National Day celebrations<br><br><p align="justify"><i>Our BTPS family celebrating unity in diversity.</i><br>
 </p><p style="text-align: justify;"><strong><i><span style="color: #4b0082">"National Education should move beyond knowledge to lived belonging, where every child matters, contributes meaningfully, and takes responsibility for our shared future.”</span></i></strong><i><br>
-— Mrs Nicole Chan, HOD&nbsp;Character and Citizenship Education</i></p>
-</td></tr><tr><td style="background-color: #f48470;"><strong><font color="ffffff">Values-in-Action (VIA)</font></strong></td></tr>
+— Mrs Nicole Chan, HOD&nbsp;Character and Citizenship Education</i></p><table style="border: none;" border="0"> 
+<tbody><tr>
+<td><img width="800" src="/images/Information%20Photos/IFD1.jpg"></td> 
+<td><img width="800" src="/images/Information%20Photos/IFD2.jpg"></td> 
+</tr>
+<tr>
+<td><img width="800" src="/images/Information%20Photos/IFD3.jpg"></td> 
+<td><img width="800" src="/images/Information%20Photos/IFD4.jpg"></td> 
+</tr>
+
+
+<tr><td style="background-color: #f48470;"><strong><font color="ffffff">Values-in-Action (VIA)</font></strong></td></tr>
 <tr><td><p align="justify">At Bukit Timah Primary School, our Values-in-Action (VIA) programme believes that character is not only learned but lived. VIA provides every student with opportunities to understand, practice, and demonstrate values through meaningful action. </p>
 <p align="justify">Our VIA framework is <strong>progressive and developmentally aligned</strong>, guiding students to recognize and expand their circle of care over time.</p>
 <p align="justify">Our VIA progression guides students to widen their circle of care: <br>
@@ -150,4 +156,4 @@ Insert Pictures&nbsp;7,8,9,10&nbsp;(S://.......ICT/Cyberwellness)
   </li>
 </ul>
 </td>
-</tr></tbody></table>
+</tr></tbody></table></td></tr></tbody></table>
