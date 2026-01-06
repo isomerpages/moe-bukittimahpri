@@ -81,34 +81,34 @@ By applying technology in authentic contexts such as communicating ideas, analys
 <table width="100%">
 <tbody><tr>
 <td style="border:2px solid #0A0B30;  background-color:#99ffcc"></td>
-<td style="border:2px solid #0A0B30;  background-color:#99ffcc"><strong>Level</strong></td>
-<td style="border:2px solid #0A0B30;  background-color:#99ffcc"><strong>ICT Baseline Skills</strong></td>
-<td style="border:2px solid #0A0B30;  background-color:#99ffcc"><strong>Integration of ICT</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#99ffcc">Level</td>
+<td style="border:2px solid #0A0B30;  background-color:#99ffcc">ICT Baseline Skills</td>
+<td style="border:2px solid #0A0B30;  background-color:#99ffcc">Integration of ICT</td>
 </tr>
 <tr>
-<td rowspan="2" style="border:2px solid #0A0B30;  background-color:#d9d9d9"><p align="justify"><br><strong>Level 1:</strong><br>Basic touch-typing</p></td>
-<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><br><strong>P1</strong></td>
+<td rowspan="2" style="border:2px solid #0A0B30;  background-color:#d9d9d9"><p align="justify"><br>Level 1:<br>Basic touch-typing</p></td>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><br>P1</td>
 <td style="border:2px solid #0A0B30;  background-color:#d9d9d9">
 <ul><li>MIMS Login</li>
 	<li>Using Singapore Student Learning Space (SLS)</li>
 <li>Touch-typing lessons</li>
 </ul></td>
-<td rowspan="3" style="border:2px solid #0A0B30;  background-color:#ffffff"><br><strong>Lower Primary</strong>  
+<td rowspan="3" style="border:2px solid #0A0B30;  background-color:#ffffff"><br>Lower Primary  
 SLS <br>
 Koobits (Math) <br>
 Moo-O (EL reading<br>
 programme) </td>
 </tr>
 <tr>
-<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><br><strong>P2</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><br>P2</td>
 <td style="border:2px solid #0A0B30;  background-color:#d9d9d9">
 <ul><li>Touch-typing lessons – Chinese Characters</li>
 <li>Basic use of MS Word</li></ul>
 </td></tr>
 
 <tr>
-<td rowspan="2" style="border:2px solid #0A0B30;  background-color:#fff4a9"><br><p align="justify"><strong>Level 2: </strong><br>Create a presentation with text and Graphics</p></td>
-<td style="border:2px solid #0A0B30;  background-color:#fff4a9"><br><strong>P3</strong></td>
+<td rowspan="2" style="border:2px solid #0A0B30;  background-color:#fff4a9"><br><p align="justify">Level 2: <br>Create a presentation with text and Graphics</p></td>
+<td style="border:2px solid #0A0B30;  background-color:#fff4a9"><br>P3</td>
 <td style="border:2px solid #0A0B30;  background-color:#fff4a9">
 <ul>
 <li>Basic use of PowerPoint</li>
@@ -116,14 +116,14 @@ programme) </td>
 </td>
 <td></td>
 </tr><tr>
-<td style="border:2px solid #0A0B30;  background-color:#fff4a9"><br><strong>P4</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#fff4a9"><br>P4</td>
 <td style="border:2px solid #0A0B30;  background-color:#fff4a9"><br>
 <ul><li>Introduction to Google Apps</li>   
 <li>Intermediate use of MS Word &amp; PowerPoint</li>   
 <li>Touch-typing lessons – Tamil fonts</li>   
 <li>Use of Excel spreadsheet</li>
 </ul></td>
-<td rowspan="3" style="border:2px solid #0A0B30;  background-color:#ffffff"><br><strong>Upper Primary</strong><br>
+<td rowspan="3" style="border:2px solid #0A0B30;  background-color:#ffffff"><br>Upper Primary<br>
 SLS<br>
 Creating E-Books (ML)<br>
 Koobits&nbsp;(Math)<br>
@@ -133,8 +133,8 @@ Garage Band</td>
 </tr>
 
 <tr>
-<td rowspan="2" style="border:2px solid #0A0B30;  background-color:#caedfb"><p align="justify"><br><strong>Level 3: </strong><br>Learning with Multimedia, communication tools, data collection tools and Spreadsheet </p></td>
-<td style="border:2px solid #0A0B30;  background-color:#caedfb"><br><strong>P5</strong></td>
+<td rowspan="2" style="border:2px solid #0A0B30;  background-color:#caedfb"><p align="justify"><br>Level 3: <br>Learning with Multimedia, communication tools, data collection tools and Spreadsheet </p></td>
+<td style="border:2px solid #0A0B30;  background-color:#caedfb"><br>P5</td>
 <td style="border:2px solid #0A0B30;  background-color:#caedfb"><br>
 <ul>
 <li>Sending emails with attachment (MS Word)</li>
@@ -142,7 +142,7 @@ Garage Band</td>
 </td>
 <td></td>
 </tr><tr>
-<td style="border:2px solid #0A0B30;  background-color:#caedfb"><br><strong>P6</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#caedfb"><br>P6</td>
 <td style="border:2px solid #0A0B30;  background-color:#caedfb"><br>
 <ul><li>Canva slides</li><br>    
 <li>Creating and editing videos</li>   
