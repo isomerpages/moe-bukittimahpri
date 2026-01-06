@@ -6,7 +6,7 @@ description: ""
 ---
 <p align="justify"><strong>Overview:</strong><br>
 </p><ul>
-<li>Mood/Focus:Calm, inclusive, thoughtful. Care and empathy. </li>
+<li>Mood/ Focus:Calm, inclusive, thoughtful. Care and empathy. </li>
 <li>Suggested setting for banner photo: Friendship Corner at Canteen, students listening or helping peers.</li>
 </ul>
 
