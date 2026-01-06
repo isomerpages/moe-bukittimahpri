@@ -29,9 +29,15 @@ Our Learning for Life Programme (LLP) fosters a vibrant musical culture through 
 <p align="justify">
 School-wide programmes and performances further enrich this musical environment, offering platforms for students to explore their interests and&nbsp;showcase&nbsp;their talents. Over six years, every student discovers joy and confidence in music — nurturing a lifelong appreciation for the arts. </p>
 
-<img width="1600" src="/images/Information%20Photos/psr2.jpg">
-<img width="1000" src="/images/Information%20Photos/psr1.jpg">
-<img width="600" src="/images/Information%20Photos/psr3.jpg">
+<table style="border: none;" border="0">
+  <tbody><tr>
+    <td colspan="2"><img width="1600" src="/images/Information%20Photos/psr1.jpg"></td>
+  </tr>
+  <tr>
+    <td><img width="1000" src="/images/Information%20Photos/psr2.jpg"></td>
+    <td><img width="600" src="/images/Information%20Photos/psr3.jpg"></td>
+  </tr>
+</tbody></table>
 
 <p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Every student’s voice matters in music.”</span></i></strong><i><br>
 —&nbsp;Mrs Lynette Lim, HOD Aesthetics</i></p>
@@ -41,9 +47,11 @@ School-wide programmes and performances further enrich this musical environment,
 <tr><td><p align="justify"><strong>Peer Support Relationship (PSR) Programme</strong><br> 
 At Bukit Timah Primary School, the Peer Support Relationship (PSR) programme is a key part of our commitment to nurturing students’ holistic development and well-being — ensuring that every child feels safe, valued, and connected within our school community. Guided by the belief that <i>“Everyone is a Peer Supporter,”</i> the programme fosters a culture of care and belonging, where students support one another socially and emotionally. </p>
 <p align="justify">Aligned with the MOE PSR Framework and the “CHEER” model, our PSR initiatives equip students with both practical and emotional strategies to care for their peers and promote positive relationships. Through these efforts, students learn to stay calm, listen empathetically, encourage help-seeking, and refer peers to trusted adults when needed — strengthening the foundation of a caring and connected school culture.</p>
-Insert PSR framework (S://.......SDT/PSR)
 
-Insert CHEER Poster (S://.......SDT/PSR)
+![](/images/Information%20Photos/psr_framework.png)
+
+![](/images/Information%20Photos/cheer_poster.jpg)
+
 <br>
 <p align="justify">Through key platforms such as school-wide;assembly, class-based PSR activities, the Back-to-School Programme,Exploration Weekand enhanced FTGP lessons, students progressively acquire and practise peer support skills in a spiral approach from Primary 1 to Primary 6. This approach ensures that as students mature, their understanding of peer bonding, empathy, and peer helping deepens — empowering them to take ownership of their relationships and contribute actively to a caring school culture.</p>
 <br>
