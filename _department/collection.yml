@@ -2,7 +2,7 @@ collections:
   department:
     output: true
     order:
-      - PAM/Art:.md
+      - PAM/Art.md
       - PAM/.keep
       - PAM/Physical Education.md
       - PAM/Aesthetics.md
