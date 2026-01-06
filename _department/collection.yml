@@ -2,9 +2,9 @@ collections:
   department:
     output: true
     order:
-      - PAM/Art.md
       - PAM/.keep
       - PAM/Physical Education.md
+      - PAM/Art.md
       - PAM/Aesthetics.md
       - English Language.md
       - Mathematics.md
