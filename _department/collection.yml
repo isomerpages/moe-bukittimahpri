@@ -2,10 +2,6 @@ collections:
   department:
     output: true
     order:
-      - PAM/.keep
-      - PAM/Physical Education.md
-      - PAM/Art.md
-      - PAM/Aesthetics.md
       - English Language.md
       - Mathematics.md
       - Mother Tongue Languages.md
@@ -19,3 +15,7 @@ collections:
       - ICT/.keep
       - ICT/Information and Communications Technology ( ICT).md
       - ICT/Blended Learning.md
+      - PAM/.keep
+      - PAM/Physical Education.md
+      - PAM/Art.md
+      - PAM/Aesthetics.md
