@@ -9,7 +9,7 @@ description: ""
 <li>Mood/Focus: Purposeful, outward-looking. Service, awareness, contribution.</li>
 <li>Suggested setting for banner photo: Classroom where students carry out duties, Eco-Defenders carrying out their recycling duties, student leaders morning assembly </li>
 </ul>
-At Bukit Timah Primary School, we nurture Future-Ready Citizens who ;are informed, responsible, and adaptable, and who contribute meaningfully to their community. Students learn to make thoughtful decisions, embrace diversity, and take ownership of their actions in an increasingly complex and connected world. 
+<p align="justify">At Bukit Timah Primary School, we nurture Future-Ready Citizens who ;are informed, responsible, and adaptable, and who contribute meaningfully to their community. Students learn to make thoughtful decisions, embrace diversity, and take ownership of their actions in an increasingly complex and connected world. </p>
 <p align="justify">
 Through <strong>National Education (NE)</strong>, <strong>Values in Action (VIA)</strong> programmes, and <strong>Cyber Wellness</strong> education, students develop civic mindedness and a sense of identity and an understanding of their role as Singaporeans. They learn to appreciate different perspectives, act responsibly both online and offline, and work collaboratively to build a better future. </p>
 <p align="justify">
