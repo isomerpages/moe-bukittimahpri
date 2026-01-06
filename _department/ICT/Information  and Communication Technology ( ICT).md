@@ -21,9 +21,9 @@ To design learning experiences where students think critically and adaptively, l
 Prepare students to apply digital skills meaningfully in everyday life as future-ready and reflective learners. </li>
 </ul>
 
-<font color="#4b0082">Our Key Programmes</font>
+<strong><font color="#4b0082">Our Key Programmes</font></strong>
 <table>
-<tbody><tr><td style="background-color: #7C71AD;"><font color="ffffff">Whole-School Digital Literacy Curriculum</font></td></tr>
+<tbody><tr><td style="background-color: #7C71AD;"><strong><font color="ffffff">Whole-School Digital Literacy Curriculum</font></strong></td></tr>
 <tr><td><p align="justify">Our whole-school Digital Literacy Curriculum provides a coherent and progressive framework that develops the skills, knowledge, attitudes, and values students need to navigate an increasingly digital world. Across levels, students learn to create and use digital content, collaborate effectively, and apply computational thinking to real-world challenges. </p>
 <p align="justify">
 Students from P1 to P6: <br>
@@ -31,7 +31,7 @@ Students from P1 to P6: <br>
 2.  Learn independently and collaboratively,&nbsp;demonstrating&nbsp;21st-century skills.<br> 
 3.  Apply computational thinking and problem-solving to real-world challenges.</p>
 
-<p align="justify"><font color="#4b0082">Code the Future (CTF)</font><br>
+<p align="justify"><strong><font color="#4b0082">Code the Future (CTF)</font></strong><br>
 As part of our school’s Digital Literacy Curriculum, Code the Future (CTF) introduces coding through a structured spiral progression, ensuring students build digital competencies in an&nbsp;age-appropriate ;and meaningful way. Each stage of learning is aligned to a key programme theme: Explore &amp; Code, Design &amp; Code, and Innovate &amp; Code.</p>
 
 <table>
@@ -70,7 +70,7 @@ Students explore artificial intelligence through age-appropriate platforms, unde
 <p align="justify">Through this spiral approach, students progress from exploration to creation and innovation, with each level reinforcing and expanding their skills. By the end of Code the Future (CTF), students are equipped with strong computational thinking abilities, creativity, and the confidence to navigate and shape an increasingly digital world.</p>
 
 <p></p>
-</td></tr><tr><td style="background-color: #f48470;"><font color="ffffff">Enhanced Inquiry Based Learning Supported by Thinking Routine (E-IBLTR)</font></td></tr>
+</td></tr><tr><td style="background-color: #f48470;"><strong><font color="ffffff">Enhanced Inquiry Based Learning Supported by Thinking Routine (E-IBLTR)</font></strong></td></tr>
 <tr><td><p align="justify">Technology is intentionally embedded within the school’s Inquiry-Based Learning supported by Thinking Routines to enhance classroom learning across subjects. Digital tools are used to help students explore ideas, make their thin ing visible, collaborate with others, and reflect on their learning processes.  </p>
 <p align="justify">
 By applying technology in authentic contexts such as communicating ideas, analysing information, simulating scenarios, and creating multimodal representations, students deepen understanding while strengthening critical thinking and communication skills. These experiences nurture responsible and adaptable digital learners who can transfer their skills across disciplines and contexts. </p>
@@ -81,9 +81,9 @@ By applying technology in authentic contexts such as communicating ideas, analys
 <table width="100%">
 <tbody><tr>
 <td style="border:2px solid #0A0B30;  background-color:#99ffcc"></td>
-<td style="border:2px solid #0A0B30;  background-color:#99ffcc">Level</td>
-<td style="border:2px solid #0A0B30;  background-color:#99ffcc">ICT Baseline Skills</td>
-<td style="border:2px solid #0A0B30;  background-color:#99ffcc">Integration of ICT</td>
+<td style="border:2px solid #0A0B30;  background-color:#99ffcc"><strong>Level</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#99ffcc"><strong>ICT Baseline Skills</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#99ffcc"><strong>Integration of ICT</strong></td>
 </tr>
 <tr>
 <td rowspan="2" style="border:2px solid #0A0B30;  background-color:#d9d9d9"><p align="justify"><br>Level 1:<br>Basic touch-typing</p></td>
