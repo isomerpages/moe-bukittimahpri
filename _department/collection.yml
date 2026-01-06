@@ -2,9 +2,9 @@ collections:
   department:
     output: true
     order:
+      - PAM/.keep
       - PAM/Physical Education.md
       - PAM/Aesthetics.md
-      - PAM/.keep
       - English Language.md
       - Mathematics.md
       - Mother Tongue Languages.md
