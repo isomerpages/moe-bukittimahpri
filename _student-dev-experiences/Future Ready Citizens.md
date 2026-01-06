@@ -35,12 +35,12 @@ Insert photos/videos: IFD booths, National Day celebrations<br><br><p align="jus
 </p><p style="text-align: justify;"><strong><i><span style="color: #4b0082">"National Education should move beyond knowledge to lived belonging, where every child matters, contributes meaningfully, and takes responsibility for our shared future.”</span></i></strong><i><br>
 — Mrs Nicole Chan, HOD&nbsp;Character and Citizenship Education</i></p><table style="border: none;" border="0"> 
 <tbody><tr>
-<td><img width="800" src="/images/Information%20Photos/IFD1.jpg"></td> 
-<td><img width="800" src="/images/Information%20Photos/IFD2.jpg"></td> 
+<td><img height="600" width="800" src="/images/Information%20Photos/IFD1.jpg"></td> 
+<td><img height="600" width="800" src="/images/Information%20Photos/IFD2.jpg"></td> 
 </tr>
 <tr>
-<td><img width="800" src="/images/Information%20Photos/IFD3.jpg"></td> 
-<td><img width="800" src="/images/Information%20Photos/IFD4.jpg"></td> 
+<td><img height="600" width="800" src="/images/Information%20Photos/IFD3.jpg"></td> 
+<td><img height="600" width="800" src="/images/Information%20Photos/IFD4.jpg"></td> 
 </tr>
 
 
