@@ -23,7 +23,7 @@ Prepare students to apply digital skills meaningfully in everyday life as future
 
 <font color="#4b0082">Our Key Programmes</font>
 <table>
-<tbody><tr><td style="background-color: #7C71AD;"><strong><font color="ffffff">Whole-School Digital Literacy Curriculum</font></strong></td></tr>
+<tbody><tr><td style="background-color: #7C71AD;"><font color="ffffff">Whole-School Digital Literacy Curriculum</font></td></tr>
 <tr><td><p align="justify">Our whole-school Digital Literacy Curriculum provides a coherent and progressive framework that develops the skills, knowledge, attitudes, and values students need to navigate an increasingly digital world. Across levels, students learn to create and use digital content, collaborate effectively, and apply computational thinking to real-world challenges. </p>
 <p align="justify">
 Students from P1 to P6: <br>
@@ -70,8 +70,8 @@ Students explore artificial intelligence through age-appropriate platforms, unde
 <p align="justify">Through this spiral approach, students progress from exploration to creation and innovation, with each level reinforcing and expanding their skills. By the end of Code the Future (CTF), students are equipped with strong computational thinking abilities, creativity, and the confidence to navigate and shape an increasingly digital world.</p>
 
 <p></p>
-</td></tr><tr><td style="background-color: #f48470;"><strong><font color="ffffff">Enhanced Inquiry&nbsp;Based Learning&nbsp;Supported by&nbsp;Thinking Routine&nbsp;(E-IBLTR)</font></strong></td></tr>
-<tr><td><p align="justify">Technology is intentionally embedded within the school’s Inquiry-Based Learning supported by Thinking Routines to enhance classroom learning across subjects. Digital tools are used to help students explore ideas, make their thinking visible, collaborate with others, and reflect on their learning processes.  </p>
+</td></tr><tr><td style="background-color: #f48470;"><font color="ffffff">Enhanced Inquiry Based Learning Supported by Thinking Routine (E-IBLTR)</font></td></tr>
+<tr><td><p align="justify">Technology is intentionally embedded within the school’s Inquiry-Based Learning supported by Thinking Routines to enhance classroom learning across subjects. Digital tools are used to help students explore ideas, make their thin ing visible, collaborate with others, and reflect on their learning processes.  </p>
 <p align="justify">
 By applying technology in authentic contexts such as communicating ideas, analysing information, simulating scenarios, and creating multimodal representations, students deepen understanding while strengthening critical thinking and communication skills. These experiences nurture responsible and adaptable digital learners who can transfer their skills across disciplines and contexts. </p>
 </td></tr>
