@@ -6,7 +6,7 @@ description: ""
 ---
 <p align="justify"><strong>Overview:</strong><br>
 </p><ul>
-<li>Mood/Focus: Energetic, focused, bright. Curiosity and teamwork.</li>
+<li>Mood/ Focus: Energetic, focused, bright. Curiosity and teamwork.</li>
 <li>Suggested setting for banner photo: Classrooms/ other learning spaces such as Hall, library, music room.</li>
 </ul>
 <p align="justify">
