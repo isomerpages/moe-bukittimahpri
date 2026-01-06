@@ -31,7 +31,7 @@ School-wide programmes and performances further enrich this musical environment,
 
 Small portraits (waist-up) of 2–3 AL leads with 1-liners:
 
-<p align="justify"><i><strong>“Every student’s voice matters in music.”</strong><br>
+<p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Every student’s voice matters in music.”</span></i></strong><i><br>
 —&nbsp;Mrs Lynette Lim, HOD Aesthetics</i></p>
 
 </td></tr>
@@ -46,7 +46,7 @@ Insert CHEER Poster (S://.......SDT/PSR)
 <p align="justify">Through key platforms such as school-wide;assembly, class-based PSR activities, the Back-to-School Programme,Exploration Weekand enhanced FTGP lessons, students progressively acquire and practise peer support skills in a spiral approach from Primary 1 to Primary 6. This approach ensures that as students mature, their understanding of peer bonding, empathy, and peer helping deepens — empowering them to take ownership of their relationships and contribute actively to a caring school culture.</p>
 <br>
 <p align="justify">PSR activities/initiatives(S://.......SDT/PSR)<br> Insert picture 1, 2, 3 (In progress), 4 (in progress)<br>Insert picture5(Wellbeing corner)Insert picture6(Friendship corner – in progress)</p><br>
-<p align="justify"><i><strong>“Together, we build a school where every voice is heard, every friend is valued, and every child belongs.”</strong><br>
+<p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Together, we build a school where every voice is heard, every friend is valued, and every child belongs.”</span></i></strong><i><br>
 — Mdm Noor Idayu, SH Student Well-being</i></p></td></tr>
 
 <tr><td style="background-color: #74cdd7;"><strong><font color="ffffff">Student&nbsp;Leadership&nbsp;Development</font></strong></td></tr>
@@ -88,7 +88,7 @@ Insert students doing circus arts and target setting.<br></p>
 <p align="justify"><strong>Nurturing Emotions, Managing Ourselves (NEMO)</strong><br>
 NEMO focuses on developing social skills, managing impulsivity, and regulating emotions. Students engage in <strong>structured strategies led by teachers, group work, discussions, and hands-on activities</strong>, applying what they learn while building self-regulation and positive relationships. These targeted sessions provide guidance and opportunities for students to navigate challenges and develop confidence, resilience, and self-awareness—qualities that help them become adaptive learners, empathetic leaders, and future-ready citizens.<br>Insert students at NEMO.</p>
 
-<p align="justify"><i><strong>“Every child carries their own light. When we nurture them with care, strengthen them with routines, guide them with consistent discipline, and give them different platforms to grow, that light grows, glows, and shines brightly.” </strong><br>
+<p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Every child carries their own light. When we nurture them with care, strengthen them with routines, guide them with consistent discipline, and give them different platforms to grow, that light grows, glows, and shines brightly.” </span></i></strong><i><br>
 — Miss Goh Xue Yi, HOD Student Management </i><br></p>
 </td></tr>
 </tbody></table>
