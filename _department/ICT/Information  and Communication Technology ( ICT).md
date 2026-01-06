@@ -21,7 +21,7 @@ To design learning experiences where students think critically and adaptively, l
 Prepare students to apply digital skills meaningfully in everyday life as future-ready and reflective learners. </li>
 </ul>
 
-<strong><font color="#4b0082">Our Key Programmes</font></strong>
+<font color="#4b0082">Our Key Programmes</font>
 <table>
 <tbody><tr><td style="background-color: #7C71AD;"><strong><font color="ffffff">Whole-School Digital Literacy Curriculum</font></strong></td></tr>
 <tr><td><p align="justify">Our whole-school Digital Literacy Curriculum provides a coherent and progressive framework that develops the skills, knowledge, attitudes, and values students need to navigate an increasingly digital world. Across levels, students learn to create and use digital content, collaborate effectively, and apply computational thinking to real-world challenges. </p>
@@ -30,21 +30,22 @@ Students from P1 to P6: <br>
 1.  Create and use digital content across various tools and platforms.<br>
 2.  Learn independently and collaboratively,&nbsp;demonstrating&nbsp;21st-century skills.<br> 
 3.  Apply computational thinking and problem-solving to real-world challenges.</p>
- 
-<p align="justify">As part of our school’s Digital Literacy Curriculum,<strong>Code the Future (CTF)</strong> introduces coding through a structured spiral progression, ensuring students build digital competencies in an&nbsp;age-appropriate&nbsp;and meaningful way. Each stage of learning is aligned to a key programme theme: <strong>Explore &amp; Code, Design &amp; Code</strong> , and <strong>Innovate &amp; Code</strong>.</p>
+
+<p align="justify"><font color="#4b0082">Code the Future (CTF)</font><br>
+As part of our school’s Digital Literacy Curriculum, Code the Future (CTF) introduces coding through a structured spiral progression, ensuring students build digital competencies in an&nbsp;age-appropriate ;and meaningful way. Each stage of learning is aligned to a key programme theme: Explore &amp; Code, Design &amp; Code, and Innovate &amp; Code.</p>
 
 <table>
 <tbody><tr>
 <td rowspan="1" colspan="3" style="border:2px solid #0A0B30;  background-color:#156082"></td></tr>
 <tr>
-<td width="33%" style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Explore &amp; Code (P1–P2)</font><br>
-Our youngest learners begin their coding journey with tactile, hands-on experiences that strengthen foundational computational thinking.</strong></td>
-<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Design &amp; Code (P3–P4)</font>
+<td width="33%" style="border:2px solid #0A0B30;  background-color:#c1e4f5"><font color="#4b0082">Explore &amp; Code (P1–P2)</font><br>
+Our youngest learners begin their coding journey with tactile, hands-on experiences that strengthen foundational computational thinking.</td>
+<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><font color="#4b0082">Design &amp; Code (P3–P4)</font>
 <br>
-As students gain confidence, they transition to screen-based environments where they can design, build, and refine digital creations.</strong></td>
-<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong><font color="#4b0082">Innovate &amp; Code (P5–P6) </font>
+As students gain confidence, they transition to screen-based environments where they can design, build, and refine digital creations.</td>
+<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><font color="#4b0082">Innovate &amp; Code (P5–P6) </font>
 <br>
-Students apply their knowledge to more complex, real-world contexts involving advanced coding and emerging technologies. </strong></td>
+Students apply their knowledge to more complex, real-world contexts involving advanced coding and emerging technologies.</td>
 </tr>
 <tr>
 <td style="border:2px solid #0A0B30"><font color="#4b0082"></font><ul><font color="#4b0082"></font><li><font color="#4b0082">P1: Indi Car Coding 
@@ -66,7 +67,7 @@ Students explore artificial intelligence through age-appropriate platforms, unde
 
 </tbody></table>
 
-<p align="justify">Through this spiral approach, students progress from exploration to creation and innovation, with each level reinforcing and expanding their skills. By the end of Code the Future (CTF), learners are equipped with strong computational thinking abilities, creativity, and the confidence to navigate and shape an increasingly digital world.</p>
+<p align="justify">Through this spiral approach, students progress from exploration to creation and innovation, with each level reinforcing and expanding their skills. By the end of Code the Future (CTF), students are equipped with strong computational thinking abilities, creativity, and the confidence to navigate and shape an increasingly digital world.</p>
 
 <p></p>
 </td></tr><tr><td style="background-color: #f48470;"><strong><font color="ffffff">Enhanced Inquiry&nbsp;Based Learning&nbsp;Supported by&nbsp;Thinking Routine&nbsp;(E-IBLTR)</font></strong></td></tr>
