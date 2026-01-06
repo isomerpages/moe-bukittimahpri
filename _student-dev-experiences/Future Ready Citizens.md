@@ -9,7 +9,6 @@ description: ""
 <li>Mood/Focus: Purposeful, outward-looking. Service, awareness, contribution.</li>
 <li>Suggested setting for banner photo: Classroom where students carry out duties, Eco-Defenders carrying out their recycling duties, student leaders morning assembly </li>
 </ul>
-
 At Bukit Timah Primary School, we nurture Future-Ready Citizens who ;are informed, responsible, and adaptable, and who contribute meaningfully to their community. Students learn to make thoughtful decisions, embrace diversity, and take ownership of their actions in an increasingly complex and connected world. 
 <p align="justify">
 Through <strong>National Education (NE)</strong>, <strong>Values in Action (VIA)</strong> programmes, and <strong>Cyber Wellness</strong> education, students develop civic mindedness and a sense of identity and an understanding of their role as Singaporeans. They learn to appreciate different perspectives, act responsibly both online and offline, and work collaboratively to build a better future. </p>
@@ -35,13 +34,13 @@ Insert photos/videos: IFD booths, National Day celebrations<br>
 — Mrs Nicole Chan, HOD&nbsp;Character and Citizenship Education</i></p>
 </td></tr><tr><td style="background-color: #f48470;"><strong><font color="ffffff">Values-in-Action (VIA)</font></strong></td></tr>
 <tr><td><p align="justify">At Bukit Timah Primary School, our Values-in-Action (VIA) programme believes that character is not only learned but lived. VIA provides every student with opportunities to understand, practice, and demonstrate values through meaningful action. </p>
-<p align="justify">Our VIA framework is <strong>progressive and developmentally aligned</strong>, guiding students to recognize and expand their circle of care over time.</p><br>
+<p align="justify">Our VIA framework is <strong>progressive and developmentally aligned</strong>, guiding students to recognize and expand their circle of care over time.</p>
 <p align="justify">Our VIA progression guides students to widen their circle of care: <br>
 </p><ul>
-<li><strong>Self</strong>&nbsp;– Learn to take responsibility for one’s own actions and well-being.</li>
+<li><strong>Self</strong>– Learn to take responsibility for one’s own actions and well-being.</li>
 <li><strong>Peers</strong> – Show empathy, respect, and support towards classmates. </li>
 <li><strong>School Environment</strong> – Take ownership in caring for shared spaces and routines. </li>
-<li><strong>Wider Community</strong>&nbsp;– Contribute positively to the community beyond the school. </li></ul><p></p><img style="width:60%; max-width:800px; height:auto;" src="/images/Students%20Activities%20Photos/viaframework.png">
+<li><strong>Wider Community</strong>– Contribute positively to the community beyond the school. </li></ul><p></p><img style="width:60%; max-width:800px; height:auto;" src="/images/Students%20Activities%20Photos/viaframework.png">
 
 <p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Values are not mere words on a poster – we live them through our consistent actions, shaping who we become.”</span></i></strong><i><br>
  —  Year Head, Mdm Mas’linda Mas’od </i></p>
