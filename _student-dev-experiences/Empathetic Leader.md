@@ -27,20 +27,11 @@ At Bukit Timah Primary School, we believe that music is a universal language tha
 <p align="justify">
 Our Learning for Life Programme (LLP) fosters a vibrant musical culture through diverse and engaging experiences. Students develop musical understanding, creativity, and critical thinking as they perform, create, and analyse music. They also learn to improvise with their voices and instruments, exercising imagination and teamwork in the process. </p>	
 <p align="justify">
-School-wide programmes and performances further enrich this musical environment, offering platforms for students to explore their interests and&nbsp;showcase&nbsp;their talents. Over six years, every student discovers joy and confidence in music — nurturing a lifelong appreciation for the arts. </p>
-
-<table style="border: none;" border="0">
-  <tbody><tr>
-    <td colspan="2"><img width="1600" src="/images/Information%20Photos/psr1.jpg"></td>
-  </tr>
-  <tr>
-    <td><img width="1000" src="/images/Information%20Photos/psr2.jpg"></td>
-    <td><img width="600" src="/images/Information%20Photos/psr3.jpg"></td>
-  </tr>
-</tbody></table>
-
-<p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Every student’s voice matters in music.”</span></i></strong><i><br>
-—&nbsp;Mrs Lynette Lim, HOD Aesthetics</i></p>
+School-wide programmes and performances further enrich this musical environment, offering platforms for students to explore their interests and&nbsp;showcase&nbsp;their talents. Over six years, every student discovers joy and confidence in music — nurturing a lifelong appreciation for the arts.
+</p><img width="1600" src="/images/Information%20Photos/sld_psr.png">
+<p style="text-align: justify;"><strong><i><span style="color: #4b0082">"Every student's voice matters in music."</span></i></strong><i><br>
+—&nbsp;Mrs Lynette Lim, HOD Aesthetics</i>
+</p>
 
 </td></tr>
 <tr><td style="background-color: #f48470;"><strong><font color="ffffff">Peer Support Relationship</font></strong></td></tr>
@@ -73,8 +64,7 @@ Students with the interest and readiness to serve take on leadership roles such 
 At the highest level, selected student leaders serve in <strong>executive committees</strong> across key leadership groups. They lead school-wide projects, guide younger leaders, and work closely with teachers to strengthen student voice and ownership in shaping school culture.</li></ul><br>
 <img style="width:60%; max-width:800px; height:auto;" src="/images/Information%20Photos/sld_framework.png">
 	
-<p align="justify">
-<i><strong>“Leadership is creating positive change through empathy”</strong><br>— Mdm Sangitah, SH CCE</i>
+<p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Leadership is creating positive change through empathy”</span></i></strong><i><br>— Mdm Sangitah, SH CCE</i>
 </p>
 </td></tr>
 <tr><td style="background-color: #fff4a9;"><strong><font color="#000000">Care &amp; Support Initiatives</font></strong></td></tr>
