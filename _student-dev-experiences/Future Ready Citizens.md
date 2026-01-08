@@ -70,10 +70,13 @@ Our students commemorate Total Defence Day, International Friendship Day, Racial
 <tr><td><p align="justify">At Bukit Timah Primary School, our Cyber Wellness (CW) programme is anchored in the Cyber Wellness Framework, which provides a holistic and progressive education tailored to our students’ developmental needs and school context. </p>
 <p align="justify">Guided by the three key principles —<strong> Respect for Self and Others, Safe and Responsible Use</strong>, and <strong>Positive Peer Influence</strong> — the programme nurtures students to become respectful, safe, and responsible digital citizens who use technology wisely and promote positive online behaviour within their communities. 
 </p>
-Insert MOE CW framework&nbsp;(S://.......ICT/Cyberwellness)
+<p align="justify">As part of our school-wide approach, Cyber Wellness messages are meaningfully integrated across platforms such as Form Teacher Guidance Period (FTGP) lessons and school-wide assemblies. Through scenario-based discussions, reflective activities, and authentic stories, students develop digital empathy, understand online safety, practise balanced screen-time habits, and learn to make thoughtful and responsible choices in the digital world. </p><table style="border: none;" border="0"> 
+<tbody><tr>
+<td><img width="1600" src="/images/Information%20Photos/MOE_Cyberwellness_framework.png"></td> 
+</tr>
 
-<p align="justify">As part of our school-wide approach, Cyber Wellness messages are meaningfully integrated across platforms such as Form Teacher Guidance Period (FTGP) lessons and school-wide assemblies. Through scenario-based discussions, reflective activities, and authentic stories, students develop digital empathy, understand online safety, practise balanced screen-time habits, and learn to make thoughtful and responsible choices in the digital world. </p>
-</td></tr>
+
+
 </tbody></table><table>
 <tbody><tr>
 <td width="33%" style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong>Name /Photo<br>
@@ -163,4 +166,4 @@ Insert Pictures&nbsp;7,8,9,10&nbsp;(S://.......ICT/Cyberwellness)
   </li>
 </ul>
 </td>
-</tr></tbody></table>
+</tr></tbody></table></td></tr></tbody></table>
