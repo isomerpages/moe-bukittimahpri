@@ -145,6 +145,7 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <img src="/images/Information%20Photos/SDE/p6_d.jpg">
 <img src="/images/Information%20Photos/SDE/p6_e.jpg">
 <img src="/images/Information%20Photos/SDE/p6_f.jpg">
+<img src="/images/Information%20Photos/SDE/p6_g.jpg">
 </p></td>
 </tr>		
 </tbody></table>
