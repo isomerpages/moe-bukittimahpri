@@ -16,8 +16,7 @@ third_nav_title: Future Ready Citizens
 Through National Education, students develop a <strong>sense of belonging</strong>, a <strong>sense of reality</strong>, and a <strong>sense of hope</strong>, which together culminate in the <strong>will to act</strong>. These dispositions are nurtured through the intentional integration of Citizenship Dispositions in our NE Commemorative Events, Social Studies curriculum, and Learning Journeys, helping students grow into informed, concerned, and participative citizens who contribute meaningfully to their school, community, and nation.
 </p>	
 <p align="justify"><strong>NE Commemorative Events</strong><br>
-Our students commemorate Total Defence Day, International Friendship Day, Racial Harmony Day, and National Day through storytelling, exhibitions, and student-led activities. Each event strengthens appreciation for Singapore’s resilience and diversity, helping students connect national values to daily actions.</p><br>
-
+Our students commemorate Total Defence Day, International Friendship Day, Racial Harmony Day, and National Day through storytelling, exhibitions, and student-led activities. Each event strengthens appreciation for Singapore’s resilience and diversity, helping students connect national values to daily actions.</p>
 <table style="border: none;" border="0"> 
 <tbody><tr>
 <td style="padding:0; margin:0; border:none;" colspan="2"><img height="600" width="800" src="/images/Information%20Photos/IFD5.jpg"></td> 
