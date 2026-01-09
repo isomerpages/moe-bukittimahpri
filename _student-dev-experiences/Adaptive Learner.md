@@ -31,7 +31,7 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><p align="justify"><strong>Focus</strong></p></td>
 </tr>
 <tr>
-<td width="10%" style="border:2px solid #0A0B30"><p align="justify">P1</p></td>
+<td width="10%" style="border:2px solid #0A0B30" rowspan="2"><p align="justify">P1</p></td>
 <td style="border:2px solid #0A0B30">
 <ul><p align="justify">
 </p><li>P1 Day</li>
@@ -44,6 +44,15 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <li>Positive Social Interaction</li>
 <p></p></ul>
 </td></tr>
+<tr>
+
+<td width="90%" style="border:2px solid #0A0B30" colspan="2">
+<p align="justify">
+<img src="/images/Information%20Photos/SDE/p1day_b.jpg">
+<img src="/images/Information%20Photos/SDE/p1day_d.jpg">
+<img src="/images/Information%20Photos/SDE/p1day_c.jpg">
+</p></td>
+</tr>
 <tr>
 <td width="10%" style="border:2px solid #0A0B30"><p align="justify">P2</p></td>
 <td style="border:2px solid #0A0B30">
