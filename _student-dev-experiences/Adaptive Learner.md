@@ -5,8 +5,6 @@ variant: markdown
 description: ""
 ---
 <p align="justify"><strong>Overview:</strong><br>
-</p>
-<p align="justify">
 Adaptive Learners ask questions, explore possibilities, and persevere through challenges. They think critically, reflect on their learning, and adapt to different situations with creativity and confidence. By staying open-minded and flexible, they continue to grow and thrive in an ever-changing world. </p>
 <p align="justify">
 Through our <strong>Level Signature Programmes, Interdisciplinary Project Work (IPW), and the Applied Learning Programme (ALP)</strong>, students engage in authentic tasks where they explore, collaborate, and apply learning beyond the classroom. These experiences build confidence, creativity and the mindset to thrive in a changing world. </p>
