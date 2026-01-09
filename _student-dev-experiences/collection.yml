@@ -2,7 +2,6 @@ collections:
   student-dev-experiences:
     output: true
     order:
-      - National Education/.keep
       - Student Development Experiences @ BTPS.md
       - Adaptive Learner.md
       - Empathetic Leader.md
