@@ -10,11 +10,11 @@ description: ""
 <tbody><tr>
 <td style="padding:0; margin:0; border:none;" rowspan="2">
 <img style="display:block; border:none; vertical-align:bottom;" height="2138" width="171" src="/images/Information%20Photos/SDE/sde4_01.png"></td>
-<td style="padding:0; margin:0; border:none;"><a href="//student-dev-experiences/adaptive-learner/">
+<td style="padding:0; margin:0; border:none;"><a href="/student-dev-experiences/adaptive-learner/">
 <img style="display:block; border:none; vertical-align:bottom;" height="1368" width="1368" src="/images/Information%20Photos/SDE/sde4_02.png"></a></td>
-<td style="padding:0; margin:0; border:none;vertical-align:bottom;"><a href="//student-dev-experiences/empathetic-leader/">
+<td style="padding:0; margin:0; border:none;vertical-align:bottom;"><a href="/student-dev-experiences/empathetic-leader/">
 <img style="display:block; border:none; vertical-align:bottom;" height="1368" width="1454" src="/images/Information%20Photos/SDE/sde4_03.png"></a></td>
-<td style="padding:0; margin:0; border:none;vertical-align:bottom;"><a href="//student-dev-experiences/future-ready-citizens/">
+<td style="padding:0; margin:0; border:none;vertical-align:bottom;"><a href="/student-dev-experiences/future-ready-citizens/">
 <img style="display:block; border:none; vertical-align:bottom;" height="1368" width="1453" src="/images/Information%20Photos/SDE/sde4_04.png"></a></td>
 <td rowspan="2" style="padding:0; margin:0; border:none;vertical-align:bottom;">
 <img style="display:block; border:none; vertical-align:bottom;" height="2138" width="42" src="/images/Information%20Photos/SDE/sde4_05.png"></td>
@@ -22,7 +22,7 @@ description: ""
 <tr>
 <td style="padding:0; margin:0; border:none;vertical-align:bottom;">
 <img style="display:block; border:none; vertical-align:bottom;" height="770" width="1368" src="/images/Information%20Photos/SDE/sde4_06.png"></td>
-<td style="padding:0; margin:0; border:none;vertical-align:bottom;"><a href="//student-dev-experiences/character-development-structure/">
+<td style="padding:0; margin:0; border:none;vertical-align:bottom;"><a href="/student-dev-experiences/character-development-structure/">
 <img style="display:block; border:none; vertical-align:bottom;" height="770" width="1454" src="/images/Information%20Photos/SDE/sde4_07.png"></a></td>
 <td style="padding:0; margin:0; border:none;">
 <img style="display:block; border:none; vertical-align:bottom;" height="770" width="1453" src="/images/Information%20Photos/SDE/sde4_08.png"></td>
