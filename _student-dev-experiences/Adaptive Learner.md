@@ -93,7 +93,6 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <img src="/images/Information%20Photos/SDE/p3_d.jpg">
 <img src="/images/Information%20Photos/SDE/p3_b.jpg">
 <img src="/images/Information%20Photos/SDE/p3_c.jpg">
-
 </p></td>
 </tr>	
 <tr>
@@ -125,7 +124,7 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <p></p></ul>
 </td></tr>
 <tr>
-<td width="10%" style="border:2px solid #0A0B30"><p align="justify">P6</p></td>
+<td width="10%" style="border:2px solid #0A0B30" rowspan="2"><p align="justify">P6</p></td>
 <td style="border:2px solid #0A0B30">
 <ul><p align="justify">
 </p><li>Project Synergy</li>
@@ -137,6 +136,17 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <li>Positive Social Interaction</li>
 <p></p></ul>
 </td></tr>
+<tr>
+<td width="90%" style="border:2px solid #0A0B30" colspan="2">
+<p align="justify">
+<img src="/images/Information%20Photos/SDE/p6_a.jpg">
+<img src="/images/Information%20Photos/SDE/p6_b.jpg">
+<img src="/images/Information%20Photos/SDE/p6_c.jpg">
+<img src="/images/Information%20Photos/SDE/p6_d.jpg">
+<img src="/images/Information%20Photos/SDE/p6_e.jpg">
+<img src="/images/Information%20Photos/SDE/p6_f.jpg">
+</p></td>
+</tr>		
 </tbody></table>
 
 <p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Every child is capable of success when we believe in them and create spaces where they can shine.”</span></i></strong><i><br>
