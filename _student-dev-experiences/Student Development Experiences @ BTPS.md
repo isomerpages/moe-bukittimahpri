@@ -10,14 +10,14 @@ description: ""
 <tbody><tr>
 <td style="padding:0; margin:0; border:none;" rowspan="2">
 <img style="display:block; border:none; vertical-align:bottom;" height="2138" width="171" src="/images/Information%20Photos/SDE/sde4_01.png"></td>
-<td style="padding:0; margin:0; border:none;"><a href="/student-dev-experiences/adaptive-learner/">
+<td style="padding:0; margin:0; border:none;"><a href="//student-dev-experiences/adaptive-learner/">
 <img style="display:block; border:none; vertical-align:bottom;" height="1368" width="1368" src="/images/Information%20Photos/SDE/sde4_02.png"></a></td>
-<td style="padding:0; margin:0; border:none;vertical-align:bottom;">
-<img style="display:block; border:none; vertical-align:bottom;" height="1368" width="1454" src="/images/Information%20Photos/SDE/sde4_03.png"></td>
-<td style="padding:0; margin:0; border:none;vertical-align:bottom;"><a href="/student-dev-experiences/empathetic-leader/">
+<td style="padding:0; margin:0; border:none;vertical-align:bottom;"><a href="//student-dev-experiences/empathetic-leader/">
+<img style="display:block; border:none; vertical-align:bottom;" height="1368" width="1454" src="/images/Information%20Photos/SDE/sde4_03.png"></a></td>
+<td style="padding:0; margin:0; border:none;vertical-align:bottom;"><a href="/student-dev-experiences/future-ready-citizens/">
 <img style="display:block; border:none; vertical-align:bottom;" height="1368" width="1453" src="/images/Information%20Photos/SDE/sde4_04.png"></a></td>
-<td rowspan="2" style="padding:0; margin:0; border:none;vertical-align:bottom;"><a href="/student-dev-experiences/future-ready-citizens/">
-<img style="display:block; border:none; vertical-align:bottom;" height="2138" width="42" src="/images/Information%20Photos/SDE/sde4_05.png"></a></td>
+<td rowspan="2" style="padding:0; margin:0; border:none;vertical-align:bottom;">
+<img style="display:block; border:none; vertical-align:bottom;" height="2138" width="42" src="/images/Information%20Photos/SDE/sde4_05.png"></td>
 </tr>
 <tr>
 <td style="padding:0; margin:0; border:none;">
