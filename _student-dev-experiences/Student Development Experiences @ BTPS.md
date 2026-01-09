@@ -20,7 +20,7 @@ description: ""
 <img style="display:block; border:none; vertical-align:bottom;" height="2138" width="42" src="/images/Information%20Photos/SDE/sde4_05.png"></td>
 </tr>
 <tr>
-<td style="padding:0; margin:0; border:none;">
+<td style="padding:0; margin:0; border:none;vertical-align:bottom;">
 <img style="display:block; border:none; vertical-align:bottom;" height="770" width="1368" src="/images/Information%20Photos/SDE/sde4_06.png"></td>
 <td style="padding:0; margin:0; border:none;vertical-align:bottom;"><a href="//student-dev-experiences/character-development-structure/">
 <img style="display:block; border:none; vertical-align:bottom;" height="770" width="1454" src="/images/Information%20Photos/SDE/sde4_07.png"></a></td>
