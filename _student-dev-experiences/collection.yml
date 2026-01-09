@@ -2,9 +2,9 @@ collections:
   student-dev-experiences:
     output: true
     order:
-      - National Education.md
       - Student Development Experiences @ BTPS.md
       - Adaptive Learner.md
       - Empathetic Leader.md
       - Future Ready Citizens.md
+      - National Education.md
       - Character Development Structure.md
