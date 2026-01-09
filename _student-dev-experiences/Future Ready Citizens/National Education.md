@@ -34,8 +34,7 @@ Our students commemorate Total Defence Day, International Friendship Day, Racial
 </td></tr><tr>
 <td style="padding:0; margin:0; border:none;" colspan="2"><img height="600" width="800" src="/images/Information%20Photos/ND1.jpg"></td></tr> 
 <tr>
-<td><img height="600" width="800" src="/images/Information%20Photos/RHD1.jpg"></td> 
-<td><img height="600" width="800" src="/images/Information%20Photos/RHD2.jpg"></td> 
+<td style="padding:0; margin:0; border:none;" colspan="2"><img height="600" width="800" src="/images/Information%20Photos/rhd3.jpg"></td> 
 </tr>
 </tbody></table>
 <p style="text-align: justify;"><strong><i><span style="color: #4b0082">"National Education should move beyond knowledge to lived belonging, where every child matters, contributes meaningfully, and takes responsibility for our shared future.”</span></i></strong><i><br>
