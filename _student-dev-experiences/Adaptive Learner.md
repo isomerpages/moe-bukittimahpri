@@ -238,6 +238,7 @@ Culture (PTC) sessions in the school’s PTC Lab. Pupils learn how plants can be
 small tissue samples and observe their development over time. They practise collecting
 evidence, refining ideas, and reflecting like real scientists, building perseverance,
 curiosity, and confidence.
+
 </p>
 <p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Give children space to question, think, and try — and you’ll see how naturally they grow into confident, adaptable learners.”</span></i></strong><i><br>
 — Mr Christopher Khoo, HOD Science</i></p>
