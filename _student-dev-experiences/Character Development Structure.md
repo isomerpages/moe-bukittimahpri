@@ -51,8 +51,8 @@ Focus: <br>Teamwork, Care for others, Social skills, Resilience</p></td>
 <li>I use appropriate words and actions to handle disagreements and peer pressure.</li>
 <li>I will think of ways to improve a situation.</li>
 </ul><p></p>
-<u></u><p align="justify"><u><strong>Social Awareness &amp; Relationship Management</strong></u>
-</p><ul>
+<u></u><u><strong>Social Awareness &amp; Relationship Management</strong></u>
+<p align="justify"></p><ul>
 <li>I respect that everyone is different and will be inclusive. </li>
 <li>I will listen to others’ points of view without expressing judgement.</li>
 <li>I will take care of others.</li>
@@ -70,8 +70,8 @@ Focus: <br>Decision-making &amp; Choices, Influencing others positively, Buildin
 <li>I will apply my strengths to achieve my goals. (I Can - strategies)</li>
 <li>I can overcome challenges. (I Am – positive attitude)</li>
 </ul><p></p>
-<u></u><p align="justify"><u><strong>Social Awareness &amp; Relationship Management </strong></u>
-</p><ul>
+<u></u><u><strong>Social Awareness &amp; Relationship Management </strong></u>
+<p align="justify"></p><ul>
 <li> I will influence others positively.</li>
 <li> I will value diversity as opportunities to learn.</li>
 <li>I have the support from others to overcome challenges. (I Have – caring &amp; supportive env)</li><p></p>
