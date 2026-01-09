@@ -10,7 +10,7 @@ description: ""
 <tbody><tr>
 <td style="padding:0; margin:0; border:none;" rowspan="2"><img style="display:block; border:none; vertical-align:bottom;" height="2138" width="171" src="/images/Information%20Photos/SDE/sde4_01.png"></td>
 <td style="padding:0; margin:0; border:none;"><a href="https://staging-lite.d3gqwsda61e30y.amplifyapp.com/adaptive-learner/"><img style="display:block; border:none; vertical-align:bottom;" height="1368" width="1368" src="/images/Information%20Photos/SDE/sde4_02.png"></a></td>
-<td style="padding:0; margin:0; border:none; vertical-align:bottom;"><a href="https://staging-lite.d3gqwsda61e30y.amplifyapp.com/empathetic-leader/"><img style="display:block; border:none; vertical-align:bottom;" height="1368" width="1454" src="/images/Information%20Photos/SDE/sde4_03.png"></a></td>
+<td style="padding:0; margin:0; border:none;"><a href="https://staging-lite.d3gqwsda61e30y.amplifyapp.com/empathetic-leader/"><img style="display:block; border:none; vertical-align:bottom;" height="1368" width="1454" src="/images/Information%20Photos/SDE/sde4_03.png"></a></td>
 <td style="padding:0; margin:0; border:none;"><a href="https://staging-lite.d3gqwsda61e30y.amplifyapp.com/future-ready-citizens/"><img style="display:block; border:none; vertical-align:bottom;" height="1368" width="1453" src="/images/Information%20Photos/SDE/sde4_04.png"></a></td>
 <td style="padding:0; margin:0; border:none;" rowspan="2"><img style="display:block; border:none; vertical-align:bottom;" height="2138" width="42" src="/images/Information%20Photos/SDE/sde4_05.png"></td>
 </tr>
