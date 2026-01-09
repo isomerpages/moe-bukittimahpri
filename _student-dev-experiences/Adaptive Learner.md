@@ -140,11 +140,17 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <td width="90%" style="border:2px solid #0A0B30" colspan="2">
 <p align="justify">
 <img src="/images/Information%20Photos/SDE/p6_a.jpg">
+
 <img src="/images/Information%20Photos/SDE/p6_b.jpg">
+
 <img src="/images/Information%20Photos/SDE/p6_c.jpg">
+
 <img src="/images/Information%20Photos/SDE/p6_d.jpg">
+
 <img src="/images/Information%20Photos/SDE/p6_e.jpg">
+
 <img src="/images/Information%20Photos/SDE/p6_f.jpg">
+
 <img src="/images/Information%20Photos/SDE/p6_g.jpg">
 </p></td>
 </tr>		
