@@ -22,11 +22,9 @@ Our students commemorate Total Defence Day, International Friendship Day, Racial
 <tbody><tr>
 <td style="padding:0; margin:0; border:none;" colspan="2"><img height="600" width="800" src="/images/Information%20Photos/IFD5.jpg"></td> 
 </tr>
-<tr><td></td></tr>
 <tr>
 <td style="padding:0; margin:0; border:none;" colspan="2"><img height="600" width="800" src="/images/Information%20Photos/IFD6.jpg"></td> 
 </tr>
-<tr><td></td></tr>
 <tr><td style="padding:0; margin:0; border:none;" colspan="2"><img height="600" width="800" src="/images/Information%20Photos/ND2.jpg">
 <p align="justify"><strong>Our BTPS family celebrating unity in diversity.</strong></p> 
 </td></tr><tr>
