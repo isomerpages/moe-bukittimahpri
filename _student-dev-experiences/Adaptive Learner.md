@@ -5,10 +5,7 @@ variant: markdown
 description: ""
 ---
 <p align="justify"><strong>Overview:</strong><br>
-</p><ul>
-<li>Mood/ Focus: Energetic, focused, bright. Curiosity and teamwork.</li>
-<li>Suggested setting for banner photo: Classrooms/ other learning spaces such as Hall, library, music room.</li>
-</ul>
+</p>
 <p align="justify">
 Adaptive Learners ask questions, explore possibilities, and persevere through challenges. They think critically, reflect on their learning, and adapt to different situations with creativity and confidence. By staying open-minded and flexible, they continue to grow and thrive in an ever-changing world. </p>
 <p align="justify">
