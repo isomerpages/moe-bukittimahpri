@@ -69,9 +69,8 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <tr>
 <td width="90%" style="border:2px solid #0A0B30" colspan="2">
 <p align="justify">
-<img src="/images/Information%20Photos/SDE/p1day_b.jpg">
-<img src="/images/Information%20Photos/SDE/p1day_d.jpg">
-<img src="/images/Information%20Photos/SDE/p1day_c.jpg">
+<img src="/images/Information%20Photos/p2_a.jpg">
+<img src="/images/Information%20Photos/p2_b.jpg">
 </p></td>
 </tr>
 <tr>
@@ -87,6 +86,15 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <li>Social Awareness</li>
 <p></p></ul>
 </td></tr>
+<tr>
+<td width="90%" style="border:2px solid #0A0B30" colspan="2">
+<p align="justify">
+<img src="/images/Information%20Photos/p3_a.jpg">
+<img src="/images/Information%20Photos/p3_b.jpg">
+<img src="/images/Information%20Photos/p3_c.jpg">
+<img src="/images/Information%20Photos/p3_d.jpg">
+</p></td>
+</tr>	
 <tr>
 <td width="10%" style="border:2px solid #0A0B30"><p align="justify">P4</p></td>
 <td style="border:2px solid #0A0B30">
