@@ -2,11 +2,11 @@ collections:
   student-dev-experiences:
     output: true
     order:
-      - Future Ready Citizens/Future Ready Citizens.md
-      - Future Ready Citizens/.keep
-      - National Education/National Education.md
       - National Education/.keep
+      - National Education/National Education.md
       - Student Development Experiences @ BTPS.md
       - Adaptive Learner.md
       - Empathetic Leader.md
+      - Future Ready Citizens/.keep
+      - Future Ready Citizens/Future Ready Citizens.md
       - Character Development Structure.md
