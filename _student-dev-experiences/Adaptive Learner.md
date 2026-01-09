@@ -74,7 +74,7 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 </p></td>
 </tr>
 <tr>
-<td width="10%" style="border:2px solid #0A0B30"><p align="justify">P3</p></td>
+<td width="10%" style="border:2px solid #0A0B30" rowspan="2"><p align="justify">P3</p></td>
 <td style="border:2px solid #0A0B30">
 <ul><p align="justify">
 </p><li>Joy of Learning Day</li>
