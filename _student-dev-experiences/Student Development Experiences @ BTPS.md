@@ -15,8 +15,7 @@ description: ""
 <td style="padding:0; margin:0; border:none;"><img style="display:block; border:none; vertical-align:bottom;" height="770" width="1368" src="/images/Information%20Photos/SDE/sde4_06.png"></td>
 <td style="padding:0; margin:0; display:block; border:none; vertical-align:bottom;"><a href="https://staging-lite.d3gqwsda61e30y.amplifyapp.com/character-development-structure/"><img style="display:block; border:none; vertical-align:bottom;" height="770" width="1454" src="/images/Information%20Photos/SDE/sde4_07.png"></a></td>
 <td style="padding:0; margin:0; border:none;"><img style="display:block; border:none; vertical-align:bottom;" height="770" width="1453" src="/images/Information%20Photos/SDE/sde4_08.png"></td></tr><tr>
-<td style="padding:0; margin:0; border:none;" colspan="5"><img style="display:block; border:none; vertical-align:bottom;" height="769" width="4488" src="/images/Information%20Photos/SDE/sde4_09.png"></td>
-</tr>
+<td style="padding:0; margin:0; border:none;" colspan="5"><img style="display:block; border:none; vertical-align:bottom;" height="769" width="4488" src="/images/Information%20Photos/SDE/sde4_09.png"></td></tr>
 </tbody></table>
 
 <p style="text-align: justify;"><strong><i><span style="color: #4b0082">"Every student grows through meaningful experiences—where learning, relationships, and shared challenges allow values to take root, confidence to build, and character to be shaped for life."</span></i></strong><i><br>
