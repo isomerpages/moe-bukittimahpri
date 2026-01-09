@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - National Education/.keep
-      - National Education/National Education.md
       - Student Development Experiences @ BTPS.md
       - Adaptive Learner.md
       - Empathetic Leader.md
