@@ -32,6 +32,13 @@ Certificate of participation&nbsp;Insert&nbsp;Pictures\_Competition&nbsp;Posters
 </td>
 </tr>
 <tr>
+<td style="border:2px solid #0A0B30"></td>
+<td width="33%" style="border:2px solid #0A0B30">
+<a rel="noopener" target="_blank" href="https://sites.google.com/moe.edu.sg/ncw2025/home">Be Smart Online!</a><br>
+Certificate of participation&nbsp;Insert&nbsp;Pictures\_Competition&nbsp;Posters entries&nbsp;(S://.......ICT/Cyberwellness)
+</td>
+</tr>
+<tr>
 <td style="border:2px solid #0A0B30">Singapore Schools Cyber Wellness Challenge 2024<br></td>
 <td width="33%" style="border:2px solid #0A0B30">
 <a rel="noopener" target="_blank" href="https://www.yiochukangsec.moe.edu.sg/sscwc/sscwc2024/">  Singapore Schools Cyber Wellness Challenge (SSCWC)</a><br>
