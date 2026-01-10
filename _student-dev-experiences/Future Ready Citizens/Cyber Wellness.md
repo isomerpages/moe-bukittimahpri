@@ -40,12 +40,11 @@ third_nav_title: Future Ready Citizens
 <td style="border:2px solid #0A0B30">Singapore Schools Cyber Wellness Challenge 2024<br></td>
 <td width="33%" style="border:2px solid #0A0B30">
 <a rel="noopener" target="_blank" href="https://www.yiochukangsec.moe.edu.sg/sscwc/sscwc2024/">  Singapore Schools Cyber Wellness Challenge (SSCWC)</a><br>
-Certificate of participation&nbsp;Insert&nbsp;Video\_Team&nbsp;17 Video Submission&nbsp;(S://.......ICT/Cyberwellness)
 </td>
 </tr>
 <tr>
 <td style="border:2px solid #0A0B30" colspan="2">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/kQrb_hwyN-g?si=yvRXW9MU9bYY2aEA" height="715" width="800"></iframe></td></tr>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/kQrb_hwyN-g?si=FuSTEM-o2zQuJIP8" height="515" width="760"></iframe></td></tr>
 <tr>
 <td style="border:2px solid #0A0B30">National Cyber Wellness Advocacy Challenge (NCAC) 2023<br></td>
 <td width="33%" style="border:2px solid #0A0B30">
