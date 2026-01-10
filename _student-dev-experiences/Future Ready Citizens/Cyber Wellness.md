@@ -25,18 +25,16 @@ third_nav_title: Future Ready Citizens
 <td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong>Link</strong></td>
 </tr>
 <tr>
-<td style="border:2px solid #0A0B30">National Cyber Wellness Competition 2025<br></td>
+<td style="border:2px solid #0A0B30" rowspan="2">National Cyber Wellness Competition 2025<br></td>
 <td width="33%" style="border:2px solid #0A0B30">
 <a rel="noopener" target="_blank" href="https://sites.google.com/moe.edu.sg/ncw2025/home">Be Smart Online!</a><br>
 Certificate of participation&nbsp;Insert&nbsp;Pictures\_Competition&nbsp;Posters entries&nbsp;(S://.......ICT/Cyberwellness)
 </td>
 </tr>
 <tr>
-<td style="border:2px solid #0A0B30"></td>
-<td width="33%" style="border:2px solid #0A0B30">
-<a rel="noopener" target="_blank" href="https://sites.google.com/moe.edu.sg/ncw2025/home">Be Smart Online!</a><br>
-Certificate of participation&nbsp;Insert&nbsp;Pictures\_Competition&nbsp;Posters entries&nbsp;(S://.......ICT/Cyberwellness)
-</td>
+<td style="border:2px solid #0A0B30"><img width="800" src=""></td>
+
+
 </tr>
 <tr>
 <td style="border:2px solid #0A0B30">Singapore Schools Cyber Wellness Challenge 2024<br></td>
