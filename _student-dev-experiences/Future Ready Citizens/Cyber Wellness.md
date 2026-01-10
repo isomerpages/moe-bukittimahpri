@@ -25,13 +25,14 @@ third_nav_title: Future Ready Citizens
 <td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong>Link</strong></td>
 </tr>
 <tr>
-<td style="border:2px solid #0A0B30" rowspan="2">National Cyber Wellness Competition 2025<br></td>
+<td style="border:2px solid #0A0B30">National Cyber Wellness Competition 2025<br></td>
 <td width="33%" style="border:2px solid #0A0B30">
 <a rel="noopener" target="_blank" href="https://sites.google.com/moe.edu.sg/ncw2025/home">Be Smart Online!</a><br>
 </td>
 </tr>
 <tr>
-<td style="border:2px solid #0A0B30"><img width="800" src="/images/Information%20Photos/SDE/cyber_a.jpg"><img width="800" src="/images/Information%20Photos/SDE/cyber_b.jpg"><img width="800" src="/images/Information%20Photos/SDE/cyber_c.jpg"><img width="800" src="/images/Information%20Photos/SDE/cyber_d.jpg"><img width="800" src="/images/Information%20Photos/SDE/cyber_e.jpg"><img width="800" src="/images/Information%20Photos/SDE/cyber_f.jpg"></td>
+<td style="border:2px solid #0A0B30" colspan="2">
+<img width="800" src="/images/Information%20Photos/SDE/cyber_a.jpg"><img width="800" src="/images/Information%20Photos/SDE/cyber_b.jpg"><img width="800" src="/images/Information%20Photos/SDE/cyber_c.jpg"><img width="800" src="/images/Information%20Photos/SDE/cyber_d.jpg"><img width="800" src="/images/Information%20Photos/SDE/cyber_e.jpg"><img width="800" src="/images/Information%20Photos/SDE/cyber_f.jpg"></td>
 
 
 </tr>
@@ -47,7 +48,10 @@ Certificate of participation&nbsp;Insert&nbsp;Video\_Team&nbsp;17 Video Submissi
 <td width="33%" style="border:2px solid #0A0B30">
 <a rel="noopener" target="_blank" href="https://www.crescent.edu.sg/cradle/ncac/">  About National Cyberwellness Advocacy Challenge (NCAC)</a><br>
 
-<p align="justify">A group of Peer Support Ambassadors (PSAs) participated in the National Cyber Wellness Advocacy Challenge (NCAC) 2023 and received a Silver Award. The theme for this year's challenge was 'Fake News'. The students were tasked with designing engaging and relevant content to advocate within the school.</p>
+<p align="justify">A group of Peer Support Ambassadors (PSAs) participated in the National Cyber Wellness Advocacy Challenge (NCAC) 2023 and received a Silver Award. The theme for this year's challenge was 'Fake News'. The students were tasked with designing engaging and relevant content to advocate within the school.</p></td>
+</tr>
+<tr>
+<td style="border:2px solid #0A0B30" colspan="2">
 <img width="800" src="/images/Information%20Photos/SDE/cyber_h.jpg">
 <img width="800" src="/images/Information%20Photos/SDE/cyber_g.jpg">
 </td>
