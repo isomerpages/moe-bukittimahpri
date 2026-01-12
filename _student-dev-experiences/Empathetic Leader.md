@@ -45,7 +45,7 @@ At Bukit Timah Primary School, the Peer Support Relationship (PSR) programme is 
 <tr><td><p align="justify">At Bukit Timah Primary School, our student leadership programme is guided by our school vision of nurturing <strong>Empathetic Leaders and Future-Ready Citizens</strong>. We believe that leadership begins with the ability to lead oneself and grows through service to others. Leadership is not limited to titles, but reflected through daily actions, choices, and contributions that make a positive difference to the community.</p>
 <img width="1600" src="/images/Students%20Activities%20Photos/sdt01.jpg"><br>
 <img width="1600" src="/images/Students%20Activities%20Photos/sdt02.jpg">
-<p align="justify">Our approach to student leadership is <strong>tiered and progressive</strong>, allowing all students to develop leadership competencies at a pace and level ;appropriate to their growth:
+<p align="justify">Our approach to student leadership is <strong>tiered and progressive</strong>, allowing all students to develop leadership competencies at a pace and level appropriate to their growth:
 <img width="1600" src="/images/Students%20Activities%20Photos/sld_framework2.jpg">
 </p>
 <ul>
