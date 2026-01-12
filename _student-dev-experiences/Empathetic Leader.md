@@ -41,10 +41,12 @@ At Bukit Timah Primary School, the Peer Support Relationship (PSR) programme is 
 <strong><i><span style="color: #4b0082">“Together, we build a school where every voice is heard, every friend is valued, and every child belongs.”</span></i></strong><i><br>
 — Mdm Noor Idayu, SH Student Well-being</i></p></td></tr>
 
-<tr><td style="background-color: #74cdd7;"><strong><font color="ffffff">Student&nbsp;Leadership&nbsp;Development</font></strong></td></tr>
-
+<tr><td style="background-color: #74cdd7;"><strong><font color="ffffff">Student Leadership Development</font></strong></td></tr>
 <tr><td><p align="justify">At Bukit Timah Primary School, our student leadership programme is guided by our school vision of nurturing <strong>Empathetic Leaders and Future-Ready Citizens</strong>. We believe that leadership begins with the ability to lead oneself and grows through service to others. Leadership is not limited to titles, but reflected through daily actions, choices, and contributions that make a positive difference to the community.</p>
+<img width="1600" src="/images/Students%20Activities%20Photos/sdt01.jpg"><br>
+<img width="1600" src="/images/Students%20Activities%20Photos/sdt02.jpg">
 <p align="justify">Our approach to student leadership is <strong>tiered and progressive</strong>, allowing all students to develop leadership competencies at a pace and level ;appropriate to their growth:
+<img width="1600" src="/images/Students%20Activities%20Photos/sld_framework2.jpg">
 </p>
 <ul>
 <li><strong>Tier 1: Leading Self and Class (All Students)</strong><br>
@@ -52,9 +54,7 @@ All students begin by learning to take responsibility for their own behaviour an
 <li><strong>Tier 2: Leading Peers (Student Leaders) </strong><br>
 Students with the interest and readiness to serve take on leadership roles such as <strong>Peer Support Ambassadors (PSA), Prefects, and CCA Leaders. </strong>They support the well-being of peers, contribute to class and school initiatives, and model positive behaviour for others. </li>
 <li><strong>Tier 3: Leading the School Community (EXCO Leaders) </strong><br> 
-At the highest level, selected student leaders serve in <strong>executive committees</strong> across key leadership groups. They lead school-wide projects, guide younger leaders, and work closely with teachers to strengthen student voice and ownership in shaping school culture.</li></ul><br>
-<img style="width:60%; max-width:800px; height:auto;" src="/images/Information%20Photos/sld_framework.png">
-	
+At the highest level, selected student leaders serve in <strong>executive committees</strong> across key leadership groups. They lead school-wide projects, guide younger leaders, and work closely with teachers to strengthen student voice and ownership in shaping school culture.</li></ul>
 <p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Leadership is creating positive change through empathy”</span></i></strong><i><br>— Mdm Sangitah, SH CCE</i>
 </p>
 </td></tr>
