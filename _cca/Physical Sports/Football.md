@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Physical Sports
 ---
-<h3>Football ;(Boys)</h3>
+<h3>Football (Boys)</h3>
 <p align="justify">
 The BTPS Football CCA, Invictus, emphasises discipline, coordination, and purposeful teamwork as students develop ball control and positioning skills, and game awareness. </p>
 <img width="1600" src="/images/Students%20Activities%20Photos/football2.jpg">
@@ -25,4 +25,3 @@ Through football, students learn to be committed team ;players who respect other
 <img width="1600" src="/images/Students%20Activities%20Photos/football9.jpg"><br>
 <img width="1600" src="/images/Students%20Activities%20Photos/football10.jpg"><br>
 <img width="1600" src="/images/Students%20Activities%20Photos/football11.png"><br>
-
