@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <center><h3>Student Development Experiences @ BTPS</h3></center>
-Click on each section of the tree to explore the different Student Development areas.
+<p align="justify">Click on each section of the tree to explore the different Student Development areas.</p>
 
 <table style="padding:0; margin:0; border:none;" cellspacing="0" cellpadding="0" border="0" width="4488" id="Table_01">
 <tbody><tr style="padding:0; margin:0; border:none;">
