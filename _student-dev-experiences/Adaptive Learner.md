@@ -19,7 +19,7 @@ Through our <strong>Level Signature Programmes, Interdisciplinary Project Work (
 From Games Day in Primary 1 to Project Synergy in Primary 6, these curated experiences help students make meaningful connections between learning and real life, while strengthening their well-being, teamwork, and character development.</p>
 </td></tr>
 </tbody></table>
-<p align="justify">P4</p><p align="justify">P5</p><table>
+<table>
 <tbody><tr>
 <td width="12%" style="border:2px solid #0A0B30;  background-color:#c1e4f5"><p align="justify"><strong>Level<br></strong></p></td>
 <td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><p align="justify"><strong>Level Signature Programmes</strong></p></td>
