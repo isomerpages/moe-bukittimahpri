@@ -19,7 +19,7 @@ Through our <strong>Level Signature Programmes, Interdisciplinary Project Work (
 From Games Day in Primary 1 to Project Synergy in Primary 6, these curated experiences help students make meaningful connections between learning and real life, while strengthening their well-being, teamwork, and character development.</p>
 </td></tr>
 </tbody></table>
-<table>
+<p align="justify">P4</p><p align="justify">P5</p><table>
 <tbody><tr>
 <td width="12%" style="border:2px solid #0A0B30;  background-color:#c1e4f5"><p align="justify"><strong>Level<br></strong></p></td>
 <td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><p align="justify"><strong>Level Signature Programmes</strong></p></td>
@@ -83,14 +83,12 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 </td></tr>
 <tr>
 <td width="90%" style="border:2px solid #0A0B30" colspan="2">
-<p align="justify">
 <img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p3_a.jpg">
 <img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p3_d.jpg">
-<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p3_b.jpg">
-<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p3_c.jpg"></p></td>
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p3_c.jpg"></td>
 </tr>	
 <tr>
-<td width="10%" style="border:2px solid #0A0B30"><p align="justify">P4</p></td>
+<td width="10%" style="border:2px solid #0A0B30" rowspan="2"><p align="justify">P4</p></td>
 <td style="border:2px solid #0A0B30">
 <ul><p align="justify">
 </p><li>CNY Community Engagement</li>
@@ -104,7 +102,14 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <p></p></ul>
 </td></tr>
 <tr>
-<td width="10%" style="border:2px solid #0A0B30"><p align="justify">P5</p></td>
+<td width="90%" style="border:2px solid #0A0B30" colspan="2">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/sdtp401.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/sdtp402.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/sdtp403.jpg">
+</td>
+</tr>	
+<tr>
+<td width="10%" style="border:2px solid #0A0B30" rowspan="2"><p align="justify">P5</p></td>
 <td style="border:2px solid #0A0B30">
 <ul><p align="justify">
 </p><li>AWE Day Out</li>
@@ -117,6 +122,15 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <li>Positive Influence</li>
 <p></p></ul>
 </td></tr>
+<tr>
+<td width="90%" style="border:2px solid #0A0B30" colspan="2">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/sdtp5001.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/sdtp5002.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/sdtp5003.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/sdtp5004.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/sdtp5005.jpg">
+</td>
+</tr>	
 <tr>
 <td width="10%" style="border:2px solid #0A0B30" rowspan="2"><p align="justify">P6</p></td>
 <td style="border:2px solid #0A0B30">
