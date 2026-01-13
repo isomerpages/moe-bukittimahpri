@@ -20,4 +20,4 @@ description: ""
 </tbody></table>
 
 <p style="text-align: justify;"><strong><i><span style="color: #4b0082">"Every student grows through meaningful experiences—where learning, relationships, and shared challenges allow values to take root, confidence to build, and character to be shaped for life."</span></i></strong><i><br>
-— Mr Chua Peng Swee,&nbsp;SH Physical Education&nbsp;&amp; Co-curricular Activities</i></p>
+— Mr Chua Peng Swee, SH Physical Education &amp; Co-curricular Activities</i></p>
