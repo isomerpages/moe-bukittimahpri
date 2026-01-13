@@ -55,7 +55,7 @@ All students begin by learning to take responsibility for their own behaviour an
 Students with the interest and readiness to serve take on leadership roles such as <strong>Peer Support Ambassadors (PSA), Prefects, and CCA Leaders. </strong>They support the well-being of peers, contribute to class and school initiatives, and model positive behaviour for others. </li>
 <li><strong>Tier 3: Leading the School Community (EXCO Leaders) </strong><br> 
 At the highest level, selected student leaders serve in <strong>executive committees</strong> across key leadership groups. They lead school-wide projects, guide younger leaders, and work closely with teachers to strengthen student voice and ownership in shaping school culture.</li></ul>
-<p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Leadership is creating positive change through empathy”</span></i></strong><i><br>— Mdm Sangitah, SH CCE</i>
+<p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Leadership empowers students to create positive change. Leaders model empathy not just through words, but through action.”</span></i></strong><i><br>— Mdm Sangitah, SH CCE</i>
 </p>
 </td></tr>
 <tr><td style="background-color: #fff4a9;"><strong><font color="#000000">Care &amp; Support Initiatives</font></strong></td></tr>
