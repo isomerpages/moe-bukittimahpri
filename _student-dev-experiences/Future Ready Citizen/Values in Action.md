@@ -18,9 +18,10 @@ third_nav_title: Future Ready Citizen
 <li><strong>School Environment</strong> – Take ownership in caring for shared spaces and routines. </li>
 <li><strong>Wider Community</strong>– Contribute positively to the community beyond the school. </li></ul>
 <p align="justify"><img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/via001.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/via004.jpg">
 <img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/via002.jpg">
 <img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/via003.jpg">
-<img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/via004.jpg"></p>
+</p>
 
 <strong><i><span style="color: #4b0082">“Values are not mere words on a poster – we live them through our consistent actions, shaping who we become.”</span></i></strong><i><br>
  —  Year Head, Mdm Mas’linda Mas’od </i><p></p>
