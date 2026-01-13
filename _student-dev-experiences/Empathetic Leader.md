@@ -37,7 +37,7 @@ At Bukit Timah Primary School, the Peer Support Relationship (PSR) programme is 
 <img width="1600" src="/images/Information%20Photos/psr_framework.png">
 <img width="1600" src="/images/Information%20Photos/cheer_poster.jpg">
 <p align="justify">Through key platforms such as school-wide assembly, class-based PSR activities, the Back-to-School Programme,Exploration Weekand enhanced FTGP lessons, students progressively acquire and practise peer support skills in a spiral approach from Primary 1 to Primary 6. This approach ensures that as students mature, their understanding of peer bonding, empathy, and peer helping deepens — empowering them to take ownership of their relationships and contribute actively to a caring school culture.</p>
-<p align="justify"><img width="1600" src="/images/Information%20Photos/sld_psr.png">
+<p align="justify"><img width="1600" src="/images/Information%20Photos/SDE/psr001.jpg">
 <strong><i><span style="color: #4b0082">“Together, we build a school where every voice is heard, every friend is valued, and every child belongs.”</span></i></strong><i><br>
 — Mdm Noor Idayu, SH Student Well-being</i></p></td></tr>
 
