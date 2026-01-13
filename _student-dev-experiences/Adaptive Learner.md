@@ -84,11 +84,10 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <tr>
 <td width="90%" style="border:2px solid #0A0B30" colspan="2">
 <p align="justify">
-<img src="/images/Information%20Photos/SDE/p3_a.jpg">
-<img src="/images/Information%20Photos/SDE/p3_d.jpg">
-<img src="/images/Information%20Photos/SDE/p3_b.jpg">
-<img src="/images/Information%20Photos/SDE/p3_c.jpg">
-</p></td>
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p3_a.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p3_d.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p3_b.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p3_c.jpg"></p></td>
 </tr>	
 <tr>
 <td width="10%" style="border:2px solid #0A0B30"><p align="justify">P4</p></td>
@@ -134,13 +133,13 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <tr>
 <td width="90%" style="border:2px solid #0A0B30" colspan="2">
 <p align="justify">
-<img src="/images/Information%20Photos/SDE/p6_a.jpg"><br>
-<img src="/images/Information%20Photos/SDE/p6_b.jpg"><br>
-<img src="/images/Information%20Photos/SDE/p6_c.jpg"><br>
-<img src="/images/Information%20Photos/SDE/p6_d.jpg"><br>
-<img src="/images/Information%20Photos/SDE/p6_e.jpg"><br>
-<img src="/images/Information%20Photos/SDE/p6_f.jpg"><br>
-<img src="/images/Information%20Photos/SDE/p6_g.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p6_a.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p6_b.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p6_c.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p6_d.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p6_e.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p6_f.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p6_g.jpg">
 </p></td>
 </tr>		
 </tbody></table>
