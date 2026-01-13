@@ -19,17 +19,15 @@ Through National Education, students develop a <strong>sense of belonging</stron
 Our students commemorate Total Defence Day, International Friendship Day, Racial Harmony Day, and National Day through storytelling, exhibitions, and student-led activities. Each event strengthens appreciation for Singapore’s resilience and diversity, helping students connect national values to daily actions.</p>
 <table style="border: none;" border="0"> 
 <tbody><tr>
-<td style="padding:0; margin:0; border:none;" colspan="2"><img height="600" width="800" src="/images/Information%20Photos/IFD5.jpg"></td> 
+<td style="padding:0; margin:0; border:none;" colspan="2"><img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/ne001.jpg"><img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/ne002.jpg"></td> 
 </tr>
-<tr>
-<td style="padding:0; margin:0; border:none;" colspan="2"><img height="600" width="800" src="/images/Information%20Photos/IFD6.jpg"></td> 
-</tr>
+
 <tr><td style="padding:0; margin:0; border:none;" colspan="2"><img height="600" width="800" src="/images/Information%20Photos/ND2.jpg">
 <p align="justify"><strong>Our BTPS family celebrating unity in diversity.</strong></p> 
 </td></tr><tr>
-<td style="padding:0; margin:0; border:none;" colspan="2"><img height="600" width="800" src="/images/Information%20Photos/ND1.jpg"></td></tr> 
+<td style="padding:0; margin:0; border:none;" colspan="2"><img style="margin-bottom: 8px; width=1600" src="/images/Information%20Photos/ND1.jpg"></td></tr> 
 <tr>
-<td style="padding:0; margin:0; border:none;" colspan="2"><img height="600" width="800" src="/images/Information%20Photos/SDE/rhd3.jpg"></td> 
+<td style="padding:0; margin:0; border:none;" colspan="2"><img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/ne003.jpg"></td> 
 </tr>
 </tbody></table>
 <p style="text-align: justify;"><strong><i><span style="color: #4b0082">"National Education should move beyond knowledge to lived belonging, where every child matters, contributes meaningfully, and takes responsibility for our shared future.”</span></i></strong><i><br>
