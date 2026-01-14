@@ -12,19 +12,3 @@ Through our <strong>Learning for Life Programme (LLP), Peer Support Programmes</
 <p align="justify">
 Care and Support initiatives such as <strong>NEMO</strong> and <strong>SuSo</strong> further nurture a sense of belonging, offering additional guidance for students who need more support or confidence to connect, grow, and shine.</p>
 
-
-
-<table>
-
-<tbody><tr><td style="background-color: #7C71AD;"><strong><font color="ffffff">Learning for Life Programme (LLP) – Music for Everyone</font></strong></td></tr>
-
-<tr><td><p align="justify">
-At Bukit Timah Primary School, we believe that music is a universal language that connects hearts and minds, nurturing empathy and resilience in our students. Through music, they learn to listen, collaborate, and express themselves creatively — qualities that prepare them to be <i>empathetic leaders and future-ready citizens.</i></p>
-<p align="justify">
-Our Learning for Life Programme (LLP) fosters a vibrant musical culture through diverse and engaging experiences. Students develop musical understanding, creativity, and critical thinking as they perform, create, and analyse music. They also learn to improvise with their voices and instruments, exercising imagination and teamwork in the process. </p>	
-<p align="justify">
-School-wide programmes and performances further enrich this musical environment, offering platforms for students to explore their interests and&nbsp;showcase&nbsp;their talents. Over six years, every student discovers joy and confidence in music — nurturing a lifelong appreciation for the arts.
-</p>
-
-</td></tr>
-</tbody></table>
