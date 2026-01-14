@@ -32,9 +32,7 @@ third_nav_title: Future Ready Citizen
 </tr>
 <tr>
 <td style="border:2px solid #0A0B30" colspan="2">
-<img width="800" src="/images/Information%20Photos/SDE/cyber_a.jpg"></td>
-
-
+<img width="1600" src="/images/Students%20Activities%20Photos/cyber002.jpg"></td>
 </tr>
 <tr>
 <td style="border:2px solid #0A0B30" colspan="2">
