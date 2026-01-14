@@ -32,89 +32,21 @@ third_nav_title: Future Ready Citizen
 </tr>
 <tr>
 <td style="border:2px solid #0A0B30" colspan="2">
-<img width="800" src="/images/Information%20Photos/SDE/cyber_a.jpg"><img width="800" src="/images/Information%20Photos/SDE/cyber_b.jpg"><img width="800" src="/images/Information%20Photos/SDE/cyber_c.jpg"><img width="800" src="/images/Information%20Photos/SDE/cyber_d.jpg"><img width="800" src="/images/Information%20Photos/SDE/cyber_e.jpg"><img width="800" src="/images/Information%20Photos/SDE/cyber_f.jpg"></td>
+<img width="800" src="/images/Information%20Photos/SDE/cyber_a.jpg"></td>
 
 
-</tr>
-<tr>
-<td style="border:2px solid #0A0B30">Singapore Schools Cyber Wellness Challenge 2024<br></td>
-<td width="33%" style="border:2px solid #0A0B30">
-<a rel="noopener" target="_blank" href="https://www.yiochukangsec.moe.edu.sg/sscwc/sscwc2024/">  Singapore Schools Cyber Wellness Challenge (SSCWC)</a><br>
-</td>
-</tr>
-<tr>
-<td style="border:2px solid #0A0B30" colspan="2">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/kQrb_hwyN-g?si=FuSTEM-o2zQuJIP8" height="515" width="760"></iframe></td></tr>
-<tr>
-<td style="border:2px solid #0A0B30">National Cyber Wellness Advocacy Challenge (NCAC) 2023<br></td>
-<td width="33%" style="border:2px solid #0A0B30">
-<a rel="noopener" target="_blank" href="https://www.crescent.edu.sg/cradle/ncac/">  About National Cyberwellness Advocacy Challenge (NCAC)</a><br>
-
-<p align="justify">A group of Peer Support Ambassadors (PSAs) participated in the National Cyber Wellness Advocacy Challenge (NCAC) 2023 and received a Silver Award. The theme for this year's challenge was 'Fake News'. The students were tasked with designing engaging and relevant content to advocate within the school.</p></td>
 </tr>
 <tr>
 <td style="border:2px solid #0A0B30" colspan="2">
 <img width="800" src="/images/Information%20Photos/cyber001.jpg">
-<img width="800" src="/images/Information%20Photos/SDE/cyber_g.jpg">
 </td>
 </tr>
 <tr>
 <td style="border:2px solid #0A0B30"><strong>Useful resources from MOE</strong></td>
 <td style="border:2px solid #0A0B30">
-<ul>
-  <li>
-    <a rel="noopener" target="_blank" href="https://www.schoolbag.edu.sg/story/children-and-their-devices-how-to-strike-the-right-balance/">
-      Children and their devices: How to strike the right balance
-    </a>
-  </li>
-
-  <li>
-    <a rel="noopener" target="_blank" href="https://www.schoolbag.edu.sg/story/future-tense-keeping-kids-grounded-while-tech-turns-the-world-upside-down/">
-      Future tense: Keeping kids grounded while tech turns the world upside down
-    </a>
-  </li>
-
-  <li>
-    <a rel="noopener" target="_blank" href="https://www.schoolbag.edu.sg/story/what-does-a-students-ai-enhanced-day-look-like-heres-a-peek/">
-      What does a student’s AI-enhanced day look like? Here’s a peek
-    </a>
-  </li>
-
-  <li>
-    <a rel="noopener" target="_blank" href="https://www.schoolbag.edu.sg/story/are-you-struggling-with-your-child-s-excessive-device-use">
-      Are you struggling with your child’s excessive device use?
-    </a>
-  </li>
-
-  <li>
-    <a rel="noopener" target="_blank" href="https://go.gov.sg/7-things-every-parent-can-do-to-keep-kids-cyber-safe-a-tech-dads-special">
-      7 things every parent can do to keep kids cyber-safe: A tech dad’s special
-    </a>
-  </li>
-
-  <li>
-    <a rel="noopener" target="_blank" href="https://www.schoolbag.edu.sg/story/the-future-looks-rosy-why-this-dad-isn-t-afraid-of-the-rise-of-ai">
-      “The future looks rosy”: why this dad isn’t afraid of the rise of AI
-    </a>
-  </li>
-
-  <li>
-    <a rel="noopener" target="_blank" href="https://go.gov.sg/sbarticle-keeping-kids-safe-online">
-      Keeping kids safe online – A community effort
-    </a>
-  </li>
-
-  <li>
     <a rel="noopener" target="_blank" href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf">
       Parent Kit – Raising a Digitally Smart Child (PDF)
     </a>
-  </li>
 
-  <li>
-    <a rel="noopener" target="_blank" href="https://www.moe.gov.sg/-/media/files/parent-kit/experiencing-blended-learning.pdf">
-      Parent Kit – Experiencing Blended Learning with Our Children (PDF)
-    </a>
-  </li>
-</ul>
 </td>
 </tr></tbody></table></td></tr></tbody></table>
