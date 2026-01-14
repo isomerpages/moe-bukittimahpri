@@ -35,5 +35,7 @@ Students who choose to further pursue their interests can deepen their skills th
 <img width="1600" src="/images/Students%20Activities%20Photos/music4.jpg"><br>
 <img width="1600" src="/images/Students%20Activities%20Photos/music5.jpg"><br>
 </td></tr>
-
 </tbody></table>
+<p style="text-align: justify;"><strong><i><span style="color: #4b0082">"Every student's voice matters in music."</span></i></strong><i><br>
+—&nbsp;Mrs Lynette Lim, HOD Aesthetics</i>
+</p>
