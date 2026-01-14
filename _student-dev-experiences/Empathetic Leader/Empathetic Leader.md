@@ -12,7 +12,7 @@ Through our <strong>Learning for Life Programme (LLP), Peer Support Programmes</
 <p align="justify">
 Care and Support initiatives such as <strong>NEMO</strong> and <strong>SuSo</strong> further nurture a sense of belonging, offering additional guidance for students who need more support or confidence to connect, grow, and shine.</p>
 
-<strong><font color="#4b0082">Our Key Programmes</font></strong>
+
 
 <table>
 
