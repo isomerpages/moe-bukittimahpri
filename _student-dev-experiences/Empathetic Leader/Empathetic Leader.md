@@ -25,8 +25,6 @@ Our Learning for Life Programme (LLP) fosters a vibrant musical culture through 
 <p align="justify">
 School-wide programmes and performances further enrich this musical environment, offering platforms for students to explore their interests and&nbsp;showcase&nbsp;their talents. Over six years, every student discovers joy and confidence in music — nurturing a lifelong appreciation for the arts.
 </p>
-<p style="text-align: justify;"><strong><i><span style="color: #4b0082">"Every student's voice matters in music."</span></i></strong><i><br>
-—&nbsp;Mrs Lynette Lim, HOD Aesthetics</i>
-</p>
+
 </td></tr>
 </tbody></table>
