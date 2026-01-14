@@ -2,6 +2,7 @@ collections:
   student-dev-experiences:
     output: true
     order:
+      - Empathetic Leader/Empathetic Leader.md
       - Empathetic Leader/.keep
       - Student Development Experiences @ BTPS.md
       - Adaptive Learner.md
