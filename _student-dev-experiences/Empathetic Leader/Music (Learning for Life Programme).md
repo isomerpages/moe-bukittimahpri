@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Empathetic Leader
 ---
 <h4><strong>Music (Learning for Life Programme)</strong></h4>
-<p align="justify">Through the school’s Learning for Life Programme (LLP), Music for Everyone: Building Empathy and Resilience, students experience music as a meaningful part of school life that supports their social, emotional, and personal development.
+<p align="justify">Through the school’s Learning for Life Programme (LLP), <strong>Music for Everyone: Building Empathy and Resilience</strong>, students experience music as a meaningful part of school life that supports their social, emotional, and personal development.
 
 Through singing, movement, and instrumental learning, students explore and express ideas using their voices and instruments. Music lessons encourage careful listening, experimentation with sound, and collaboration as students perform, create, and respond to music. These shared experiences help students build confidence, creativity, and musical understanding, while learning to work together and appreciate different perspectives.
 
