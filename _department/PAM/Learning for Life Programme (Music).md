@@ -33,7 +33,7 @@ Beyond the classroom, our LLP provides authentic opportunities for students to e
 <tr><td><p align="justify">Music provides meaningful opportunities for students to develop empathy and resilience through shared musical experiences. Selected students participate in community and intergenerational programmes, where they make music with peers and seniors through Values in Action (VIA) initiatives.</p>
 <p align="justify">
 Students who choose to further pursue their interests can deepen their skills through performing arts Co-Curricular Activities (CCAs) and national platforms. These experiences support the development of musical mastery while nurturing teamwork, perseverance, and a sense of responsibility.</p>
-<img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/music4.jpg">
+
 <img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/music5.jpg">
 </td></tr></tbody></table>
 <p style="text-align: justify;"><strong><i><span style="color: #4b0082">"Every student's voice matters in music."</span></i></strong><i><br>
