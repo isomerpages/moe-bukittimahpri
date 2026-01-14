@@ -11,4 +11,3 @@ Empathetic Leaders understand themselves and others. They show care, respect, an
 Through our <strong>Learning for Life Programme (LLP), Peer Support Programmes</strong>, and <strong>Student Leadership Development</strong>, students develop empathy and moral courage to lead by example. </p>
 <p align="justify">
 Care and Support initiatives such as <strong>NEMO</strong> and <strong>SuSo</strong> further nurture a sense of belonging, offering additional guidance for students who need more support or confidence to connect, grow, and shine.</p>
-
