@@ -20,7 +20,7 @@ Beyond the classroom, our LLP provides authentic opportunities for students to e
 <table>
 <tbody><tr><td style="background-color: #7C71AD;"><strong><font color="#000000">Classroom Music Experience</font></strong></td></tr>
 <tr><td><p align="justify">All students participate in classroom music lessons throughout the six years, engaging in singing, movement, and instrumental learning. They explore a variety of instruments, improvise with their voices and instruments, and develop foundational music knowledge through performing, creating, and responding to music. Through ensemble playing and collaborative activities, students build confidence, musical understanding, empathy, and resilience as they learn to listen, respond, and work effectively with others.</p>
-<img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/music1.jpg">
+<img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/music001.jpg">
 <img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/music2.jpg">
 <img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/music3.jpg">
 
