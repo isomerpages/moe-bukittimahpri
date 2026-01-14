@@ -18,7 +18,7 @@ CCA practices focus on effort, consistency, and responsibility. Students work on
 <img width="1600" src="/images/Students%20Activities%20Photos/football5.jpg">
 
 <p align="justify">
-Through football, students learn to be committed team ;players who respect others and take responsibility for their actions. These experiences help them develop confidence and perseverance that extend beyond sport.</p>
+Through football, students learn to be committed team; players who respect others and take responsibility for their actions. These experiences help them develop confidence and perseverance that extend beyond sport.</p>
 <img width="1600" src="/images/Students%20Activities%20Photos/football6.jpg"><br>
 <img width="1600" src="/images/Students%20Activities%20Photos/football7.jpg"><br>
 <img width="1600" src="/images/Students%20Activities%20Photos/football8.jpg"><br>
