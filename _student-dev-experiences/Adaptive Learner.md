@@ -5,11 +5,6 @@ variant: markdown
 description: ""
 ---
 <p align="justify"><strong>Overview:</strong><br>
-</p><ul>
-<li>Mood/Focus: Energetic, focused, bright. Curiosity and teamwork.</li>
-<li>Suggested setting for banner photo: Classrooms/ other learning spaces such as Hall, library, music room.</li>
-</ul>
-<p align="justify">
 Adaptive Learners ask questions, explore possibilities, and persevere through challenges. They think critically, reflect on their learning, and adapt to different situations with creativity and confidence. By staying open-minded and flexible, they continue to grow and thrive in an ever-changing world. </p>
 <p align="justify">
 Through our <strong>Level Signature Programmes, Interdisciplinary Project Work (IPW), and the Applied Learning Programme (ALP)</strong>, students engage in authentic tasks where they explore, collaborate, and apply learning beyond the classroom. These experiences build confidence, creativity and the mindset to thrive in a changing world. </p>
@@ -28,10 +23,10 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <tbody><tr>
 <td width="12%" style="border:2px solid #0A0B30;  background-color:#c1e4f5"><p align="justify"><strong>Level<br></strong></p></td>
 <td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><p align="justify"><strong>Level Signature Programmes</strong></p></td>
-<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><strong>Focus</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#c1e4f5"><p align="justify"><strong>Focus</strong></p></td>
 </tr>
 <tr>
-<td width="10%" style="border:2px solid #0A0B30"><p align="justify">P1</p></td>
+<td width="10%" style="border:2px solid #0A0B30" rowspan="2"><p align="justify">P1</p></td>
 <td style="border:2px solid #0A0B30">
 <ul><p align="justify">
 </p><li>P1 Day</li>
@@ -45,7 +40,15 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <p></p></ul>
 </td></tr>
 <tr>
-<td width="10%" style="border:2px solid #0A0B30"><p align="justify">P2</p></td>
+<td width="90%" style="border:2px solid #0A0B30" colspan="2">
+<p align="justify">
+<img src="/images/Information%20Photos/SDE/p1day_b.jpg">
+<img src="/images/Information%20Photos/SDE/p1day_d.jpg">
+<img src="/images/Information%20Photos/SDE/p1day_c.jpg">
+</p></td>
+</tr>
+<tr>
+<td width="10%" style="border:2px solid #0A0B30" rowspan="2"><p align="justify">P2</p></td>
 <td style="border:2px solid #0A0B30">
 <ul><p align="justify">
 </p><li>P2 PAL Showcase</li>
@@ -59,7 +62,14 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <p></p></ul>
 </td></tr>
 <tr>
-<td width="10%" style="border:2px solid #0A0B30"><p align="justify">P3</p></td>
+<td width="90%" style="border:2px solid #0A0B30" colspan="2">
+<p align="justify">
+<img src="/images/Information%20Photos/p2_a.jpg">
+<img src="/images/Information%20Photos/p2_b.jpg">
+</p></td>
+</tr>
+<tr>
+<td width="10%" style="border:2px solid #0A0B30" rowspan="2"><p align="justify">P3</p></td>
 <td style="border:2px solid #0A0B30">
 <ul><p align="justify">
 </p><li>Joy of Learning Day</li>
@@ -72,7 +82,13 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <p></p></ul>
 </td></tr>
 <tr>
-<td width="10%" style="border:2px solid #0A0B30"><p align="justify">P4</p></td>
+<td width="90%" style="border:2px solid #0A0B30" colspan="2">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p3_a.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p3_d.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p3_c.jpg"></td>
+</tr>	
+<tr>
+<td width="10%" style="border:2px solid #0A0B30" rowspan="2"><p align="justify">P4</p></td>
 <td style="border:2px solid #0A0B30">
 <ul><p align="justify">
 </p><li>CNY Community Engagement</li>
@@ -86,7 +102,14 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <p></p></ul>
 </td></tr>
 <tr>
-<td width="10%" style="border:2px solid #0A0B30"><p align="justify">P5</p></td>
+<td width="90%" style="border:2px solid #0A0B30" colspan="2">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/sdtp401.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/sdtp402.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/sdtp403.jpg">
+</td>
+</tr>	
+<tr>
+<td width="10%" style="border:2px solid #0A0B30" rowspan="2"><p align="justify">P5</p></td>
 <td style="border:2px solid #0A0B30">
 <ul><p align="justify">
 </p><li>AWE Day Out</li>
@@ -100,7 +123,16 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <p></p></ul>
 </td></tr>
 <tr>
-<td width="10%" style="border:2px solid #0A0B30"><p align="justify">P6</p></td>
+<td width="90%" style="border:2px solid #0A0B30" colspan="2">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/sdtp5001.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/sdtp5002.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/sdtp5003.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/sdtp5004.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Students%20Activities%20Photos/sdtp5005.jpg">
+</td>
+</tr>	
+<tr>
+<td width="10%" style="border:2px solid #0A0B30" rowspan="2"><p align="justify">P6</p></td>
 <td style="border:2px solid #0A0B30">
 <ul><p align="justify">
 </p><li>Project Synergy</li>
@@ -112,9 +144,21 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 <li>Positive Social Interaction</li>
 <p></p></ul>
 </td></tr>
+<tr>
+<td width="90%" style="border:2px solid #0A0B30" colspan="2">
+<p align="justify">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p6_a.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p6_b.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p6_c.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p6_d.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p6_e.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p6_f.jpg">
+<img style="width:1600; margin-bottom: 8px;" src="/images/Information%20Photos/SDE/p6_g.jpg">
+</p></td>
+</tr>		
 </tbody></table>
 
-<p align="justify"><i><strong>“Every child is capable of success when we believe in them and create spaces where they can shine.”</strong><br>
+<p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Every child is capable of success when we believe in them and create spaces where they can shine.”</span></i></strong><i><br>
 —&nbsp;Mrs Angeline Teo, Year Head Upper Primary</i></p>
 
 
@@ -126,7 +170,7 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 Interdisciplinary Project Work (IPW) provides students with an authentic avenue to explore real-world issues, make connections across subjects, and develop meaningful solutions. Using the 3I Problem-Solving Framework – Inquire, Initiate, Inspire – students learn to ask thoughtful questions, investigate deeply, and take purposeful action through a structured yet creative inquiry process. </p>
 <p align="justify">
 As part of the post-PSLE programme, our Primary 6 students experience this process firsthand. Guided by an inquiry question, they embark on a learning trail to gather insights from the community through interviews, observations, and data collection. Back in school, they analyse their findings, research further and collaborate to generate ideas before creating a prototype that address their chosen issue. They also have the valuable opportunity to present their initial concepts to an expert panel make refinements and finally showcase their solutions to their juniors. This journey not only strengthens their critical thinking and creativity but also helps them grow in confidence as they communicate ideas that contribute towards a positive impact. </p>
-<p align="justify"><i><strong>“When students inquire with curiosity, they create with purpose.”</strong><br>
+<p style="text-align: justify;"><strong><i><span style="color: #4b0082">“When students inquire with curiosity, they create with purpose.”</span></i></strong><i><br>
 — Mdm Sharmini, LH English </i></p>
 </td></tr>
 
@@ -202,6 +246,7 @@ Culture (PTC) sessions in the school’s PTC Lab. Pupils learn how plants can be
 small tissue samples and observe their development over time. They practise collecting
 evidence, refining ideas, and reflecting like real scientists, building perseverance,
 curiosity, and confidence.
+
 </p>
-<p align="justify"><i><strong>“Give children space to question, think, and try — and you’ll see how naturally they grow into confident, adaptable learners.”</strong><br>
+<p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Give children space to question, think, and try — and you’ll see how naturally they grow into confident, adaptable learners.”</span></i></strong><i><br>
 — Mr Christopher Khoo, HOD Science</i></p>

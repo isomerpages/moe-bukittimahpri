@@ -5,12 +5,22 @@ variant: markdown
 description: ""
 third_nav_title: Physical Sports
 ---
-<h3>Football&nbsp;(Boys)</h3>
+<h3>Football (Boys)</h3>
 <p align="justify">
-The BTPS Football CCA, Invictus,&nbsp;emphasises&nbsp;discipline, coordination, and purposeful teamwork as&nbsp;students&nbsp;develop&nbsp;ball control&nbsp;and&nbsp;positioning&nbsp;skills, and game awareness.&nbsp;</p>
+The BTPS Football CCA, Invictus, emphasises discipline, coordination, and purposeful teamwork as students develop ball control and positioning skills, and game awareness. </p>
+<img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/football2.jpg">
 <p align="justify">
-CCA practices&nbsp;focus on effort, consistency, and responsibility. Students work on improving their skills and fitness while learning to apply&nbsp;game&nbsp;tactics, make decisions under pressure, and support one another during training and match situations. Through these experiences, students develop resilience and learn to respond positively to challenges.&nbsp;</p>
-<p align="justify">
-Through&nbsp;football, students learn to be committed&nbsp;team&nbsp;players who respect others and take responsibility for their actions. These experiences help them develop confidence and perseverance that extend beyond&nbsp;sport.</p>
+CCA practices focus on effort, consistency, and responsibility. Students work on improving their skills and fitness while learning to apply game tactics, make decisions under pressure, and support one another during training and match situations. Through these experiences, students develop resilience and learn to respond positively to challenges. </p>
+<img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/football1.jpg">
+<img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/football3.jpg">
+<img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/football4.jpg">
+<img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/football5.jpg">
 
-![](/images/CCA/football24.jpg)
+<p align="justify">
+Through football, students learn to be committed team; players who respect others and take responsibility for their actions. These experiences help them develop confidence and perseverance that extend beyond sport.</p>
+<img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/football6.jpg">
+<img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/football7.jpg">
+<img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/football8.jpg">
+<img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/football9.jpg">
+<img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/football10.jpg">
+<img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/football11.png">

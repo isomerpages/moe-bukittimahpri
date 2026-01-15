@@ -5,16 +5,11 @@ variant: markdown
 description: ""
 third_nav_title: Physical Sports
 ---
-<h3>Basketball&nbsp;(Boys)</h3>
+<h3>Basketball (Boys)</h3>
 <p align="justify">
-BTPS Basketball provides students with opportunities to learn and play the sport in a supportive team environment. The CCA welcomes students of different skill levels and focuses on building fundamental basketball skills, game awareness, and teamwork through training and match play.&nbsp;</p>
+BTPS Basketball provides students with opportunities to learn and play the sport in a supportive team environment. The CCA welcomes students of different skill levels and focuses on building fundamental basketball skills, game awareness, and teamwork through training and match play.</p>
+<img width="1600" src="/images/Students%20Activities%20Photos/basketball1.jpg">
 <p align="justify">
 Through regular training, students learn to stay focused, adapt to challenges, and persevere during demanding situations. They develop discipline, teamwork, and sportsmanship as they work together to improve their performance and understanding of the game. These experiences help students grow in confidence and resilience, supporting their overall development as learners and team players.</p>
-
-![](/images/CCA/basketball24.jpg)<br>
-![](/images/CCA/25_basketball_01.png)<br>
-![](/images/CCA/25_basketball_02.png)<br>
-![](/images/CCA/25_basketball_03.png)<br>
-![](/images/CCA/25_basketball_04.png)<br>
-![](/images/CCA/basketball24_4.jpg)<br>
-![](/images/CCA/basketball24_3.jpg)<br>
+<img width="1600" src="/images/Students%20Activities%20Photos/basketball2.jpg">
+<img width="1600" src="/images/Students%20Activities%20Photos/basketball6.png">
