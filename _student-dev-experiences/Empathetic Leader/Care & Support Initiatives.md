@@ -19,7 +19,7 @@ Tier 1 initiatives establish a positive and supportive school environment where 
 <p align="justify"><strong>Tier 2: Care and Support Initiatives</strong><br>
 We recognise that some students may require <strong>additional guidance and support</strong> at different points in their development. Tier 2 initiatives provide <strong>targeted programmes</strong>to support students’ social, emotional, and behavioural growth<br></p>
 
-<p align="justify"><strong>Step Up and Shine On (SUSO)</strong><br>
+<p align="justify"><strong>Step Up and Shine On (SuSo)</strong><br>
 SuSo supports students who may be shy or still developing confidence. Through guided activities and opportunities to collaborate with peers, students build <strong>self-belief, social skills, and confidence</strong>, enabling them to step forward and shine.<br>
 Insert students doing circus arts and target setting.<br></p>
 
