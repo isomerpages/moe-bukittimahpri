@@ -20,11 +20,10 @@ Tier 1 initiatives establish a positive and supportive school environment where 
 We recognise that some students may require <strong>additional guidance and support</strong> at different points in their development. Tier 2 initiatives provide <strong>targeted programmes</strong>to support students’ social, emotional, and behavioural growth<br></p>
 
 <p align="justify"><strong>Step Up and Shine On (SuSo)</strong><br>
-SuSo supports students who may be shy or still developing confidence. Through guided activities and opportunities to collaborate with peers, students build <strong>self-belief, social skills, and confidence</strong>, enabling them to step forward and shine.<br>
-Insert students doing circus arts and target setting.<br></p>
+SuSo supports students who may be shy or still developing confidence. Through guided activities and opportunities to collaborate with peers, students build <strong>self-belief, social skills, and confidence</strong>, enabling them to step forward and shine.<br></p>
 
 <p align="justify"><strong>Nurturing Emotions, Managing Ourselves (NEMO)</strong><br>
-NEMO focuses on developing social skills, managing impulsivity, and regulating emotions. Students engage in <strong>structured strategies led by teachers, group work, discussions, and hands-on activities</strong>, applying what they learn while building self-regulation and positive relationships. These targeted sessions provide guidance and opportunities for students to navigate challenges and develop confidence, resilience, and self-awareness—qualities that help them become adaptive learners, empathetic leaders, and future-ready citizens.<br>Insert students at NEMO.</p>
+NEMO focuses on developing social skills, managing impulsivity, and regulating emotions. Students engage in <strong>structured strategies led by teachers, group work, discussions, and hands-on activities</strong>, applying what they learn while building self-regulation and positive relationships. These targeted sessions provide guidance and opportunities for students to navigate challenges and develop confidence, resilience, and self-awareness—qualities that help them become adaptive learners, empathetic leaders, and future-ready citizens.</p>
 </td></tr></tbody></table>
 <p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Every child carries their own light. When we nurture them with care, strengthen them with routines, guide them with consistent discipline, and give them different platforms to grow, that light grows, glows, and shines brightly.” </span></i></strong><i><br>
 — Miss Goh Xue Yi, HOD Student Management </i><br></p>
