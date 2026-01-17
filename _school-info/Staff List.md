@@ -7,12 +7,7 @@ variant: markdown
 <p><strong>TEACHING STAFFS</strong>
 <br>
 </p>
-<p></p><p></p><table style="width: 100%">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table style="width: 100%">
 <tbody>
 <tr>
 <td style="width: 30%" rowspan="1" colspan="1">
@@ -787,13 +782,7 @@ variant: markdown
 <br><strong>SCHOOL ADMIN TEAM</strong>
 <br>
 </p>
- 2026
-<table style="max-width: 100%">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
+<table style="width: 100%">
 <tbody>
 <tr>
 <th style="width: 30%" rowspan="1" colspan="1">
