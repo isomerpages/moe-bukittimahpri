@@ -785,18 +785,18 @@ variant: markdown
 <table style="width: 100%">
 <tbody>
 <tr>
-<th style="width: 30%" rowspan="1" colspan="1">
+<td style="width: 30%" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
-</th>
-<th style="width: 30%" rowspan="1" colspan="1">
+</td>
+<td style="width: 30%" rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
-</th>
-<th style="width: 40%" rowspan="1" colspan="1">
+</td>
+<td style="width: 40%" rowspan="1" colspan="1">
 <p><strong>Email Address</strong>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td style="width: 30%" rowspan="1" colspan="1">
