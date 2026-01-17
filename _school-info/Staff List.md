@@ -787,6 +787,7 @@ variant: markdown
 <br><strong>SCHOOL ADMIN TEAM</strong>
 <br>
 </p>
+ 2026
 <table style="max-width: 100%">
 <colgroup>
 <col>
@@ -942,8 +943,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
+</td></tr>
 <tr>
 </tr>
 </tbody>
