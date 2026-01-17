@@ -5,9 +5,9 @@ description: ""
 variant: markdown
 ---
 <h3><strong>SCHOOL LEADERS</strong></h3>
-<table style="max-width: 100%">
+<table style="width: 100%">
 <tbody>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
@@ -21,7 +21,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Ms Lau Wan Sze</p>
 </td>
@@ -33,7 +33,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mdm Jan Lin</p>
 </td>
@@ -60,8 +60,8 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>YEAR HEADS (YH)</strong></h4>
-<table style="max-width: 100%">
-<tbody><tr>
+<table style="width: 100%">
+<tbody><tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
@@ -75,7 +75,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mrs Shirley Ong</p>
 </td>
@@ -87,7 +87,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mdm Maslinda Masod</p>
 </td>
@@ -114,8 +114,8 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>HEADS OF DEPARTMENT (HOD)</strong></h4>
-<table style="max-width: 100%">
-<tbody><tr>
+<table style="width: 100%">
+<tbody><tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
@@ -129,7 +129,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mdm Anita Francis</p>
 </td>
@@ -141,7 +141,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mrs Karin Gan</p>
 </td>
@@ -153,7 +153,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mr Christopher Khoo</p>
 </td>
@@ -165,7 +165,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mr Ho<br>Boon Huat</p>
 </td>
@@ -177,7 +177,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mrs Nicole Chan</p>
 </td>
@@ -189,7 +189,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Miss Goh<br>Xue Yi</p>
 </td>
@@ -201,7 +201,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mrs Vanessa Tang</p>
 </td>
@@ -213,7 +213,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mr Ernest Choon</p>
 </td>
@@ -225,7 +225,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mrs Lynette Lim</p>
 </td>
@@ -240,8 +240,8 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>LEVEL HEAD (LH) | SUBJECT HEAD (SH)</strong></h4>
-<table style="max-width: 100%">
-<tbody><tr>
+<table style="width: 100%">
+<tbody><tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
@@ -255,7 +255,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mdm Sangitah<br>k Jayaseelan</p>
 </td>
@@ -267,7 +267,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mdm Chng<br>Ling Ling</p>
 </td>
@@ -279,7 +279,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mdm Durgadevi d/o Tamil Selvam</p>
 </td>
@@ -291,7 +291,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mdm Noor Idayu<br>Bte Sunator</p>
 </td>
@@ -303,7 +303,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Ms Sharmini<br>d/o Jaya Kumaran</p>
 </td>
@@ -315,7 +315,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mr Chua<br>Peng Swee</p>
 </td>
@@ -330,8 +330,8 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>SENIOR TEACHERS (ST)</strong></h4>
-<table style="max-width: 100%">
-<tbody><tr>
+<table style="width: 100%">
+<tbody><tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
@@ -345,7 +345,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mdm Rozana<br>Bte Hashim</p>
 </td>
@@ -357,7 +357,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mdm Junaida<br>Bte Jasman</p>
 </td>
@@ -369,7 +369,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mrs Josephine Kek</p>
 </td>
@@ -384,9 +384,9 @@ variant: markdown
 </tbody>
 </table>
 <h4><strong>SCHOOL ADMIN TEAM (SAT)</strong></h4>
-<table style="max-width: 100%">
+<table style="width: 100%">
 <tbody>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p><strong>Name</strong>
 </p>
@@ -400,7 +400,7 @@ variant: markdown
 </p>
 
 </td></tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mdm Nurhayati<br>Bte Rahmat</p>
 </td>
@@ -412,7 +412,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mr Desmond Goh<br>Ngian Wa</p>
 </td>
@@ -424,7 +424,7 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+<tr style="width: 100%">
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mrs Lin Shu Rui</p>
 </td>
