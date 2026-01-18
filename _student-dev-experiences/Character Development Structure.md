@@ -22,7 +22,7 @@ To support this developmental journey, Level Mottos are used to anchor character
 <td style="border:2px solid #0A0B30"><p align="justify">Lower Primary Motto:  <br><strong>Start It Right!</strong><br><br>
 Focus: <br>Routines, Readiness, Attitudes</p></td>
 <td width="33%" style="border:2px solid #0A0B30">
-<u></u><p align="justify"><u><strong>Self-Awareness &amp; Self-Management</strong></u>
+<u></u><p align="left"><u><strong>Self-Awareness &amp; Self-Management</strong></u>
 </p><ul>
 <li>I will be present and on time for school and school-related activities.</li>
 <li>I will organize my personal belongings and be ready for lessons. </li>
@@ -44,14 +44,14 @@ Focus: <br>Routines, Readiness, Attitudes</p></td>
 <td style="border:2px solid #0A0B30"><p align="justify">Middle Primary Motto:  <br><strong>Appreciate and Care</strong><br><br>
 Focus: <br>Teamwork, Care for others, Social skills, Resilience</p></td>
 <td width="33%" style="border:2px solid #0A0B30">
-<u></u><p align="justify"><u><strong>Self-Awareness &amp; Self-Management</strong></u>
+<u></u><p align="left"><u><strong>Self-Awareness &amp; Self-Management</strong></u>
 </p><ul>
 <li> I know my strengths and weaknesses and will tap on my strengths to overcome challenges. </li>
 <li>I will listen attentively to feedback and suggestions.</li>
 <li>I use appropriate words and actions to handle disagreements and peer pressure.</li>
 <li>I will think of ways to improve a situation.</li>
-</ul><p></p>
-<u></u><u><strong>Social Awareness &amp; Relationship Management</strong></u>
+</ul>
+<u></u><p align="left"><u><strong>Social Awareness &amp; Relationship Management</strong></u></p>
 <p align="justify"></p><ul>
 <li>I respect that everyone is different and will be inclusive. </li>
 <li>I will listen to others’ points of view without expressing judgement.</li>
@@ -65,18 +65,17 @@ Focus: <br>Teamwork, Care for others, Social skills, Resilience</p></td>
 <td style="border:2px solid #0A0B30"><p align="justify">Upper Primary Motto:<br><strong>Lead and Inspire</strong><br><br>
 Focus: <br>Decision-making &amp; Choices, Influencing others positively, Building positive relationships, Resilience </p></td>
 <td width="33%" style="border:2px solid #0A0B30">
-<u></u><p align="justify"><u><strong>Self-Awareness &amp; Self-Management</strong></u>
+<u></u><p align="left"><u><strong>Self-Awareness &amp; Self-Management</strong></u>
 </p><ul>
 <li>I will apply my strengths to achieve my goals. (I Can - strategies)</li>
 <li>I can overcome challenges. (I Am – positive attitude)</li>
-</ul><p></p>
-<u></u><u><strong>Social Awareness &amp; Relationship Management </strong></u>
+</ul><u></u><p align="left"><u><strong>Social Awareness &amp; Relationship Management </strong></u></p>
 <p align="justify"></p><ul>
 <li> I will influence others positively.</li>
 <li> I will value diversity as opportunities to learn.</li>
 <li>I have the support from others to overcome challenges. (I Have – caring &amp; supportive env)</li><p></p>
 </ul>
-<u></u><p align="justify"><u><strong>Responsible Decision-Making</strong></u>
+<u></u><p align="left"><u><strong>Responsible Decision-Making</strong></u>
 </p><ul>
 <li> I will always uphold integrity.</li>
 <li> I will be responsible for my decisions and actions.</li>
