@@ -64,7 +64,7 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
             <li>Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. </li>
             <li>The first two pictures depict the formal school uniform and the next two pictures, the PE attire.</li>
 </ul>
-<strong>put photo table times 2</strong>
+# put photo table times 2
  <ul style="list-style-type: circle;">
             <li>Name tags should be on both uniform top and PE t-shirt. </li>
             <li>Students may wear the BTPS PE attire (BTPS T-shirt and PE shorts) if they have PE or PAL (P1 and P2 only) lessons for the day.</li>
@@ -72,7 +72,86 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
         </ul>
 <p align="justify">Students will only change into CCA attire after school on CCA days. Specific instructions will be communicated to CCA members by their CCA teachers at the first CCA session of the year.  </p>
 
-------------end of 2026 school rules-------------
+<strong>3.2 Uniform (New Uniform, 2026) </strong>
+        <ul style="list-style-type: circle;">
+            <li>Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. </li>
+            <li>The first two pictures depict the formal school uniform and the next two pictures, the PE attire.</li>
+            <li>Students who are late more than 5 times in a term will be subject to disciplinary consequences.</li>
+        </ul>
+				
+# <strong>put photo table times 2</strong>
+
+ <ul style="list-style-type: circle;">
+            <li>Name tags should be on all uniform tops.</li>
+            <li>Students may wear their PE shorts if they have PE or PAL (P1 and P2 only) lessons for the day.</li>
+ <li>Students will only change into CCA attire after school on CCA days. Specific instructions will be communicated to CCA members by their CCA teachers at the first CCA session of the year.</li>       
+        </ul>
+<strong>3.3 General Appearance</strong>
+        <ul style="list-style-type: circle;">
+            <li>Fingernails must be kept short and clean and not be coloured.</li>
+            <li>Jewellery, ornaments, and other accessories are not permitted. For safety reasons, hoop earrings are not permitted, and girls are only permitted to wear one pair of plain, small, and identical ear studs. </li>
+            <li>Outlandish hairstyles and hair colouring are not allowed. </li>
+ <li>Students are to wear white/predominantly white school shoes and socks with the school uniform.</li>
+            <li>Students are to be in the formal school uniform during examinations and formal school events. 
+ </li><li>Boys:        
+</li><li style="list-style-type: disc; margin-left: 20px;">Hair should be short, neat and tidy. The hair should not touch the eyebrows, ears or shirt collar. Sideburns are not allowed.
+</li><li style="list-style-type: disc; margin-left: 20px;">All boys must be clean shaven and no facial hair is allowed. </li>
+
+# photo
+ <li>Girls:        
+</li><li style="list-style-type: disc; margin-left: 20px;">Girls should maintain simple hairstyles. Hair should not touch the collar or eyebrows.
+</li><li style="list-style-type: disc; margin-left: 20px;">Longer hair (beyond shoulder length) should be tied up and long fringes clipped.</li>
+<li style="list-style-type: disc; margin-left: 20px;">Hair accessories should be simple and in either black or dark blue.</li>
+	
+# photo
+</ul>
+
+<strong>4.	Respect for Others </strong>    
+<ul style="margin-left: 20px;">4.1 Conduct and Behaviour</ul>
+        <ul style="list-style-type: circle;">
+            <li>Students are expected to treat their class/school mates, teachers, and the school staff as well as members of the public with respect and graciousness.</li>
+            <li>Students should know and abide by the school rules and obey instructions.</li>
+<li>Students are expected to support their teachers, school staff and others by always behaving appropriately. They should also encourage their class/school mates to do the same.</li>
+<li>Disruptive behaviour during lessons, school activities and CCAs will be addressed, and consequences meted out to recalcitrant students. </li>
+<li>Misbehaviour outside of the school will also be subject to disciplinary consequences and has an implication on the conduct grade, like other forms of misbehaviour. </li>
+<li>Students are to be mindful of their speech and actions and are not to use coarse or offensive language and/or actions under any circumstances.</li>
+</ul>
+<ul style="margin-left: 20px;">4.2 Bullying</ul>
+        <ul style="list-style-type: circle;">
+            <li>The school does not condone bullying behaviours of any kind and will take action against the perpetrator(s). </li>
+            <li>Students are strongly encouraged to report such behaviour whether as victims or as upstanders.</li>
+<li>Bullying behaviour involves repeated or persistent behaviours, physical, verbal, social and/or cyber in nature, when a student uses strength, influence or words to intimidate others, force them to do something or to cause harm, distress, or humiliation.</li>
+<li>Cyberbullying occurs when a student uses technology to perpetuate bullying behaviours. This includes but is not limited to the following:</li>
+<li style="list-style-type: disc; margin-left: 20px;">Impersonating or misusing another person’s account.</li>
+<li style="list-style-type: disc; margin-left: 20px;">Sending viral links.</li>
+<li style="list-style-type: disc; margin-left: 20px;">Communicating hostile, aggressive, or intimidating messages, images or videos with the intent to inflict harm or discomfort towards others. </li>
+<li style="list-style-type: disc; margin-left: 20px;">Sending viral links.</li>
+<li style="list-style-type: disc; margin-left: 20px;">Taking and/or sharing photos and videos without permission. </li></ul>
+<ul style="margin-left: 20px;">4.3	Aggression and Weapons</ul>
+        <ul style="list-style-type: circle;">
+            <li>The school does not condone acts of aggression under any circumstances. </li>
+            <li>Assault occurs when a student attacks others such as students or school staff, regardless of whether there is an injury, trigger or provocation.</li>
+<li>Fighting occurs when a student is involved in a confrontation between individuals or opposing groups, when one or both sides attempt to harm or gain power over the other using bodily force or weapons.</li>
+<li>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others. </li>
+
+<strong>5. Respect for the Environment </strong>    
+<ul style="list-style-type: circle;">
+            <li>Students are to ensure a clean and conducive environment by cleaning up after themselves and picking up any litter around them.</li>
+            <li>Students are to maintain a clean and hygienic classroom environment.</li>
+<li>Assigned classroom cleaning duties are to be completed daily.</li>
+<li>Students are to return their crockery and utensils to the respective receptacles after eating in the school canteen.</li>
+<li>Students are to ensure that they do not deliberately or accidentally tamper with or damage school or public property. Any act of vandalism whether deliberate or accidental will be considered a major offence. </li></ul>
+
+<strong>6.	Learning Behaviours</strong>    
+<ul style="list-style-type: circle;">
+            <li>Students are expected to be ready for lessons/activity/CCA by ensuring that they have the necessary materials, stationery, attire and/or equipment.</li>
+            <li>Students are to greet their teachers at the start and end of the lesson/activity/CCA.</li>
+<li>Students are expected to pay attention and participate actively in the lesson/activity/CCA. </li>
+<li>Students are expected to complete and submit their classwork, assignments, and homework on time.</li>
+<li>They should record any homework, assignments, and upcoming tests/assessments in the BT Kit. </li></ul>
+
+
+# ------------end of 2026 school rules-------------
 
 <p align="justify">
 At BTPS, we believe that rules are critical to create a safe and conducive environment for our students to learn and play. Every student, when given guidance and support, can learn from his or her mistakes and mature so as to lead self and others for positive impact. A shared understanding of expectations from both home and school is the foundation for character growth.</p>
@@ -316,4 +395,4 @@ Mobile devices including smart watches are to be submitted to the school during 
 <li>Expulsion from school</li>
 <li>Police report and investigation and/or assistance from other external agencies including Health Science Authority (HSA) for smoking/vaping and other tobacco-related offences. The school may escalate the matter to the police and other relevant authorities where necessary for any major offence.</li>
 <li>Students will be supported to learn the right behaviour by their teachers, the school counsellor, school management team and school leaders. All students are expected to know and abide by the school rules. They are expected to remind their peers to do the same and report any violation of school rules to their teachers or a school staff. They are not to take matters into their own hands and can speak to a trusted adult when they need support.</li>
-</ul>
+</ul></ul>
