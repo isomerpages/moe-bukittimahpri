@@ -14,13 +14,12 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
         <ul style="list-style-type: circle;">
             <li>Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with right fist placed over the heart.</li>
             <li>All students are expected to:
-                <ul style="list-style-type: disc;">
-                    <li>Stand at attention during the flag raising ceremony.</li>
-                    <li>Sing the school song with pride.</li>
-                    <li>Uphold the school name and school values by behaving with pride and decorum in and outside of the school.</li>
+                    </li><li style="list-style-type: disc; margin-left: 20px;">Stand at attention during the flag raising ceremony.</li>
+                    <li style="list-style-type: disc; margin-left: 20px;">Sing the school song with pride.</li>
+                    <li style="list-style-type: disc; margin-left: 20px;">Uphold the school name and school values by behaving with pride and decorum in and outside of the school.</li>
                 </ul>
-            </li>
-        </ul>
+            
+        
 <strong>2. Attendance and Late Coming</strong>    
 <ul style="margin-left: 20px;">2.1 Attendance</ul>
         <ul style="list-style-type: circle;">
@@ -28,12 +27,11 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
             <li>Absences must be covered by a medical certificate (MC) from a registered medical practitioner.</li>
             <li>Absences for other urgent reasons must be covered by a letter from parent/guardian, to be submitted within a week of the absence. The school will accept up to five letters (one for each occasion) per semester. Please refer to Table 2.1 for valid reasons for absence.</li>
             <li>A student will be considered as playing truant under the following circumstances:
-                <ul style="list-style-type: disc;">
-                    <li>He/She is absent from school/lesson/CCA/any other school activity without a medical certificate or valid reason or did not seek prior permission from the teacher-in-charge for the absence.</li>
-                    <li>He/She leaves the school grounds after reporting but before the end of the school day, without seeking approval from the teachers and the General Office.</li>
+                    </li><li style="list-style-type: disc; margin-left: 20px;">He/She is absent from school/lesson/CCA/any other school activity without a medical certificate or valid reason or did not seek prior permission from the teacher-in-charge for the absence.</li>
+                    <li style="list-style-type: disc; margin-left: 20px;">He/She leaves the school grounds after reporting but before the end of the school day, without seeking approval from the teachers and the General Office.</li>
                 </ul>
-            </li>
-        </ul>
+            
+        
 <strong>Table 2.1 Valid Reasons for Absence</strong>
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
