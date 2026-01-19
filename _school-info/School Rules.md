@@ -4,7 +4,75 @@ permalink: /school-info/school-rules/
 variant: markdown
 description: ""
 ---
-<h2>School Rules</h2>
+<strong>School Rules</strong>
+
+<p align="justify">
+At BTPS, we believe that rules are necessary to create a safe and conducive environment for our students to learn and play. Every student, when given guidance and support, can learn from his/her mistakes. A shared understanding of expectations from both home and school is the foundation for character growth.
+</p>
+
+<strong>1. Respect for Nation and School</strong>
+        <ul style="list-style-type: circle;">
+            <li>Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with right fist placed over the heart.</li>
+            <li>All students are expected to:
+                <ul style="list-style-type: disc;">
+                    <li>Stand at attention during the flag raising ceremony.</li>
+                    <li>Sing the school song with pride.</li>
+                    <li>Uphold the school name and school values by behaving with pride and decorum in and outside of the school.</li>
+                </ul>
+            </li>
+        </ul>
+<strong>2. Attendance and Late Coming</strong>    
+<ul style="margin-left: 20px;">2.1 Attendance</ul>
+        <ul style="list-style-type: circle;">
+            <li>All students are expected to be in school every school day.</li>
+            <li>Absences must be covered by a medical certificate (MC) from a registered medical practitioner.</li>
+            <li>Absences for other urgent reasons must be covered by a letter from parent/guardian, to be submitted within a week of the absence. The school will accept up to five letters (one for each occasion) per semester. Please refer to Table 2.1 for valid reasons for absence.</li>
+            <li>A student will be considered as playing truant under the following circumstances:
+                <ul style="list-style-type: disc;">
+                    <li>He/She is absent from school/lesson/CCA/any other school activity without a medical certificate or valid reason or did not seek prior permission from the teacher-in-charge for the absence.</li>
+                    <li>He/She leaves the school grounds after reporting but before the end of the school day, without seeking approval from the teachers and the General Office.</li>
+                </ul>
+            </li>
+        </ul>
+<strong>Table 2.1 Valid Reasons for Absence</strong>
+<table style="border:2px solid #0A0B30">
+<tbody><tr>
+<td style="border:2px solid #0A0B30; width: 30%;"><strong>Valid Reasons for Absence</strong> </td><td style="border:2px solid #0A0B30"><b>Examples</b> </td></tr><tr>
+<td style="border:2px solid #0A0B30; width: 30%;">Absent with MC</td><td style="border:2px solid #0A0B30">
+<ul style="list-style-type: circle;">
+<li>Medical leave </li>
+<li>Hospitalisation leave</li> 
+</ul>
+
+ </td></tr><tr>
+<td style="border:2px solid #0A0B30; width: 30%;">Absent with Valid Reason (VR) – Up to five letters a semester. </td><td style="border:2px solid #0A0B30">
+<ul style="list-style-type: circle;">
+<li>Medical</li>
+<li>Bereavement or serious illness of a family member</li>
+</ul>
+<p align="justify">The school will assess each application on a case-by-case basis. Parents/Guardians are advised to write in via email to your child/ward’s Form Teacher in advance where possible. Do note that family holidays during school days are not considered a valid reason.</p>
+ </td></tr></tbody></table>
+<strong>2.2 Late Coming</strong>
+        <ul style="list-style-type: circle;">
+            <li>Students are to be in school before 7:30am on school days.</li>
+            <li>Students are also expected to be on time for all lessons, CCAs and other activities.</li>
+            <li>Students who are late more than 5 times in a term will be subject to disciplinary consequences.</li>
+        </ul>
+<strong>3. Attire and Appearance </strong>    
+<ul style="margin-left: 20px;">3.1 Uniform (Previous Uniform, 2025)</ul>
+        <ul style="list-style-type: circle;">
+            <li>Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. </li>
+            <li>The first two pictures depict the formal school uniform and the next two pictures, the PE attire.</li>
+</ul>
+<strong>put photo table times 2</strong>
+ <ul style="list-style-type: circle;">
+            <li>Name tags should be on both uniform top and PE t-shirt. </li>
+            <li>Students may wear the BTPS PE attire (BTPS T-shirt and PE shorts) if they have PE or PAL (P1 and P2 only) lessons for the day.</li>
+ <li>PE t-shirts are to be tucked into the bottom. </li>       
+        </ul>
+<p align="justify">Students will only change into CCA attire after school on CCA days. Specific instructions will be communicated to CCA members by their CCA teachers at the first CCA session of the year.  </p>
+
+------------end of 2026 school rules-------------
 
 <p align="justify">
 At BTPS, we believe that rules are critical to create a safe and conducive environment for our students to learn and play. Every student, when given guidance and support, can learn from his or her mistakes and mature so as to lead self and others for positive impact. A shared understanding of expectations from both home and school is the foundation for character growth.</p>
@@ -28,6 +96,8 @@ At BTPS, we believe that rules are critical to create a safe and conducive envir
 <ul><li><p align="justify">Please see table 2.1 for valid reasons for absence.  </p></li></ul>
 <ul><li><p align="justify"> Student will be considered as playing truant under the following circumstances:</p></li></ul>
 <ul><ul><li><p align="justify">Student is absent from school/lesson/CCA/any other school activity without a medical certificate or valid reason or did not seek prior permission from the teacher-in-charge for the absence. </p></li><li>Student leaves the school grounds after reporting but before the end of the school day, without seeking approval from the teachers and the General Office.<p></p> </li></ul></ul>
+
+
 
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
