@@ -73,7 +73,7 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 
 <p align="justify">Students will only change into CCA attire after school on CCA days. Specific instructions will be communicated to CCA members by their CCA teachers at the first CCA session of the year.  </p>
 
-<strong>3.2 Uniform (New Uniform, 2026) </strong>
+<ul style="margin-left: 20px;"><strong>3.2 Uniform (New Uniform, 2026) </strong></ul>
         <ul style="list-style-type: circle;">
             <li>Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. </li>
             <li>The first two pictures depict the formal school uniform and the next two pictures, the PE attire.</li>
