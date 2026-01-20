@@ -18,9 +18,9 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
                     <li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Sing the school song with pride.</li>
                     <li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Uphold the school name and school values by behaving with pride and decorum in and outside of the school.</li>
                 </ul><p></p>
-<p align="justify">        
+  
 <strong>2. Attendance and Late Coming</strong>    
-</p><p style="margin-left: 20px;"><strong>2.1 Attendance</strong></p>
+<p style="margin-left: 20px;"><strong>2.1 Attendance</strong></p>
 <ul style="list-style-type: circle; text-align: justify; margin-left: 20px;">
     <li>All students are expected to be in school every school day.</li>
     <li>Absences must be covered by a medical certificate (MC) from a registered medical practitioner.</li>
@@ -58,9 +58,9 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
             <li>Students are to be in school before 7:30am on school days.</li>
             <li>Students are also expected to be on time for all lessons, CCAs and other activities.</li>
             <li>Students who are late more than 5 times in a term will be subject to disciplinary consequences.</li>
-        </ul><p align="justify">
+        </ul>
 <strong>3. Attire and Appearance </strong>    
-</p><ul style="margin-left: 20px; text-align: justify;"><strong>3.1 Uniform (Previous Uniform, 2025)</strong></ul>
+<ul style="margin-left: 20px; text-align: justify;"><strong>3.1 Uniform (Previous Uniform, 2025)</strong></ul>
         <ul style="list-style-type: circle; text-align: justify;">
             <li>Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. </li>
             <li>The first two pictures depict the formal school uniform and the next two pictures, the PE attire.
@@ -70,9 +70,8 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
             <li style="list-style-type: circle; text-align: justify;">Students may wear the BTPS PE attire (BTPS T-shirt and PE shorts) if they have PE or PAL (P1 and P2 only) lessons for the day.</li>
  <li style="list-style-type: circle; text-align: justify;">PE t-shirts are to be tucked into the bottom. </li>            </ul><p></p>
 <p align="justify">Students will only change into CCA attire after school on CCA days. Specific instructions will be communicated to CCA members by their CCA teachers at the first CCA session of the year.  </p>
-<p align="justify">
 <strong>3.2 Uniform (New Uniform, 2026) </strong>
-        </p><ul style="list-style-type: circle; text-align: justify;">
+        <ul style="list-style-type: circle; text-align: justify;">
             <li>Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. </li>
             <li>The first two pictures depict the formal school uniform and the next two pictures, the PE attire.</li>
             <li>Students who are late more than 5 times in a term will be subject to disciplinary consequences. <img width="100%" src="/images/Students%20Activities%20Photos/2026_uniform.jpg"></li>
@@ -80,9 +79,9 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 </li><li style="list-style-type: circle; text-align: justify;">Students may wear their PE shorts if they have PE or PAL (P1 and P2 only) lessons for the day.</li>
  <li style="list-style-type: circle; text-align: justify;">Students will only change into CCA attire after school on CCA days. Specific instructions will be communicated to CCA members by their CCA teachers at the first CCA session of the year.</li>       
         </ul><p></p>
-<p align="justify">
+
 <strong>3.3 General Appearance</strong>
-        </p><ul style="list-style-type: circle; text-align: justify;">
+        <ul style="list-style-type: circle; text-align: justify;">
             <li>Fingernails must be kept short and clean and not be coloured.</li>
             <li>Jewellery, ornaments, and other accessories are not permitted. For safety reasons, hoop earrings are not permitted, and girls are only permitted to wear one pair of plain, small, and identical ear studs. </li>
             <li>Outlandish hairstyles and hair colouring are not allowed. </li>
@@ -98,7 +97,7 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 <li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Hair accessories should be simple and in either black or dark blue.</li>
 <img style="width:200px;height:200px; border:2px solid black;" src="/images/girls_hair.jpg">
 </ul><p></p>
-<p style="margin-left: 20px;"><strong>4. Respect for Others</strong></p>
+<strong>4. Respect for Others</strong>
 
 <p style="margin-left: 20px;"><strong>4.1 Conduct and Behaviour</strong></p>
 <ul style="list-style-type: circle; text-align: justify; margin-left: 20px;">
@@ -123,8 +122,7 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 <li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Sending viral links.</li>
 <li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Taking and/or sharing photos and videos without permission. </li></ul>
 
-<p align="justify">
-</p><ul style="margin-left: 20px; text-align: justify;"><strong>4.3	Aggression and Weapons</strong></ul>
+<ul style="margin-left: 20px; text-align: justify;"><strong>4.3	Aggression and Weapons</strong></ul>
         <ul style="list-style-type: circle; text-align: justify;">
             <li>The school does not condone acts of aggression under any circumstances. </li>
             <li>Assault occurs when a student attacks others such as students or school staff, regardless of whether there is an injury, trigger or provocation.</li>
