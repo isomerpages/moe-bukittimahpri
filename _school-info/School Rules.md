@@ -87,14 +87,12 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
  </li><li>Boys:        
 </li><li style="list-style-type: disc; margin-left: 20px;">Hair should be short, neat and tidy. The hair should not touch the eyebrows, ears or shirt collar. Sideburns are not allowed.
 </li><li style="list-style-type: disc; margin-left: 20px;">All boys must be clean shaven and no facial hair is allowed. </li>
-
-# photo
+<img style="width:200px;height:200px; border:2px solid black;" src="/images/boys_hair.jpg">
  <li>Girls:        
 </li><li style="list-style-type: disc; margin-left: 20px;">Girls should maintain simple hairstyles. Hair should not touch the collar or eyebrows.
 </li><li style="list-style-type: disc; margin-left: 20px;">Longer hair (beyond shoulder length) should be tied up and long fringes clipped.</li>
 <li style="list-style-type: disc; margin-left: 20px;">Hair accessories should be simple and in either black or dark blue.</li>
-	
-# photo
+<img style="width:200px;height:200px; border:2px solid black;" src="/images/girls_hair.jpg">
 </ul>
 
 <strong>4.	Respect for Others </strong>    
@@ -140,6 +138,7 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 <li>Students are expected to pay attention and participate actively in the lesson/activity/CCA. </li>
 <li>Students are expected to complete and submit their classwork, assignments, and homework on time.</li>
 <li>They should record any homework, assignments, and upcoming tests/assessments in the BT Kit. </li></ul>
+
 
 
 # ------------end of 2026 school rules-------------
