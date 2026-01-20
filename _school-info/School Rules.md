@@ -53,17 +53,20 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
  </td></tr></tbody></table>
 
 <p style="margin-left: 20px;"><strong>2.2 Late Coming</strong></p>
-        <ul style="list-style-type: circle; margin-left: 20px;">
-            <li>Students are to be in school before <strong>7:30am</strong> on school days.</li>
+
+
+<ul style="list-style-type: circle; margin-left: 20px;">            
+<li>Students are to be in school before <strong>7:30am</strong> on school days.</li>
             <li>Students are also expected to be on time for all lessons, CCAs and other activities.</li>
             <li>Students who are late more than 5 times in a term will be subject to disciplinary consequences.</li>
         </ul>
 
 <strong>3. Attire and Appearance </strong>    
-<ul style="margin-left: 20px;"><strong>3.1 Uniform (Previous Uniform, 2025)</strong></ul>
-        <ul style="list-style-type: circle;">
-            <li>Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. </li>
-            <li>The first two pictures depict the formal school uniform and the next two pictures, the PE attire.</li></ul>
+<p style="margin-left: 20px;"><strong>3.1 Uniform (Previous Uniform, 2025)</strong></p>
+       
+ <ul style="list-style-type: circle;">
+<li>Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. </li>
+<li>The first two pictures depict the formal school uniform and the next two pictures, the PE attire.</li></ul>
 						
 <img style="width: 100%" src="/images/Students%20Activities%20Photos/2025_uniform.jpg">
 
@@ -73,15 +76,19 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
  <li>PE t-shirts are to be tucked into the bottom. </li>
 </ul>
 
-<p align="justify">Students will only change into CCA attire after school on CCA days. Specific instructions will be communicated to CCA members by their CCA teachers at the first CCA session of the year.  </p>
+<p align="justify">Students will only change into CCA attire after school on CCA days. Specific instructions will be communicated to CCA members by their CCA teachers at the first CCA session of the year. </p>
 
-<ul style="margin-left: 20px;"><strong>3.2 Uniform (New Uniform, 2026) </strong></ul>
-        <ul style="list-style-type: circle;">
-            <li>Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. </li>
+
+
+<p style="margin-left: 20px;"><strong>3.2 Uniform (New Uniform, 2026)</strong></p>
+
+<ul style="list-style-type: circle;">
+            <li>Students are to wear the prescribed school uniform and modifications to the uniform are not allowed.</li>
             <li>The first two pictures depict the formal school uniform and the next two pictures, the PE attire.</li>
             <li>Students who are late more than 5 times in a term will be subject to disciplinary consequences.</li></ul>
 						
 <img style="width: 100%" src="/images/Students%20Activities%20Photos/2026_uniform.jpg">
+
 
 <ul style="list-style-type: circle;">
  <li>Name tags should be on all uniform tops.</li>
