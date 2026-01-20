@@ -28,7 +28,7 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
             <li>A student will be considered as playing truant under the following circumstances:
                     </li><li style="list-style-type: disc; margin-left: 20px; text-align: justify;">He/She is absent from school/lesson/CCA/any other school activity without a medical certificate or valid reason or did not seek prior permission from the teacher-in-charge for the absence.</li>
                     <li style="list-style-type: disc; margin-left: 20px; text-align: justify;">He/She leaves the school grounds after reporting but before the end of the school day, without seeking approval from the teachers and the General Office.</li>
-                </ul><p></p>
+                </ul>
           
         
 <strong>Table 2.1 Valid Reasons for Absence</strong>
