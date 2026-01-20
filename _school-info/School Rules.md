@@ -20,15 +20,18 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
                 </ul><p></p>
 <p align="justify">        
 <strong>2. Attendance and Late Coming</strong>    
-</p><ul style="margin-left: 20px;"><strong>2.1 Attendance</strong></ul>
-        <ul style="list-style-type: circle; text-align: justify;">
-            <li>All students are expected to be in school every school day.</li>
-            <li>Absences must be covered by a medical certificate (MC) from a registered medical practitioner.</li>
-            <li>Absences for other urgent reasons must be covered by a letter from parent/guardian, to be submitted within a week of the absence. The school will accept up to five letters (one for each occasion) per semester. Please refer to Table 2.1 for valid reasons for absence.</li>
-            <li>A student will be considered as playing truant under the following circumstances:
-                    </li><li style="list-style-type: disc; margin-left: 20px; text-align: justify;">He/She is absent from school/lesson/CCA/any other school activity without a medical certificate or valid reason or did not seek prior permission from the teacher-in-charge for the absence.</li>
-                    <li style="list-style-type: disc; margin-left: 20px; text-align: justify;">He/She leaves the school grounds after reporting but before the end of the school day, without seeking approval from the teachers and the General Office.</li>
-                </ul>
+</p><p style="margin-left: 20px;"><strong>2.1 Attendance</strong></p>
+<ul style="list-style-type: circle; text-align: justify; margin-left: 20px;">
+    <li>All students are expected to be in school every school day.</li>
+    <li>Absences must be covered by a medical certificate (MC) from a registered medical practitioner.</li>
+    <li>Absences for other urgent reasons must be covered by a letter from parent/guardian, to be submitted within a week of the absence. The school will accept up to five letters (one for each occasion) per semester. Please refer to Table 2.1 for valid reasons for absence.</li>
+    <li>A student will be considered as playing truant under the following circumstances:
+        <ul style="list-style-type: disc; margin-left: 20px; text-align: justify;">
+            <li>He/She is absent from school/lesson/CCA/any other school activity without a medical certificate or valid reason or did not seek prior permission from the teacher-in-charge for the absence.</li>
+            <li>He/She leaves the school grounds after reporting but before the end of the school day, without seeking approval from the teachers and the General Office.</li>
+        </ul>
+    </li>
+</ul>
           
         
 <strong>Table 2.1 Valid Reasons for Absence</strong>
@@ -49,6 +52,7 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 </ul>
 <p align="justify">The school will assess each application on a case-by-case basis. Parents/Guardians are advised to write in via email to your child/ward’s Form Teacher in advance where possible. Do note that family holidays during school days are not considered a valid reason.</p>
  </td></tr></tbody></table>
+
 <strong>2.2 Late Coming</strong>
         <ul style="list-style-type: circle; text-align: justify;">
             <li>Students are to be in school before 7:30am on school days.</li>
@@ -94,29 +98,31 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 <li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Hair accessories should be simple and in either black or dark blue.</li>
 <img style="width:200px;height:200px; border:2px solid black;" src="/images/girls_hair.jpg">
 </ul><p></p>
-<p align="justify">
-<strong>4.	Respect for Others </strong>    
-</p><ul style="margin-left: 20px; text-align: justify;"><strong>4.1 Conduct and Behaviour</strong></ul>
-        <ul style="list-style-type: circle; text-align: justify;">
-            <li>Students are expected to treat their class/school mates, teachers, and the school staff as well as members of the public with respect and graciousness.</li>
-            <li>Students should know and abide by the school rules and obey instructions.</li>
+<p style="margin-left: 20px;"><strong>4. Respect for Others</strong></p>
+
+<p style="margin-left: 20px;"><strong>4.1 Conduct and Behaviour</strong></p>
+<ul style="list-style-type: circle; text-align: justify; margin-left: 20px;">
+    <li>Students are expected to treat their class/school mates, teachers, and the school staff as well as members of the public with respect and graciousness.</li>
+    <li>Students should know and abide by the school rules and obey instructions.</li>
 <li>Students are expected to support their teachers, school staff and others by always behaving appropriately. They should also encourage their class/school mates to do the same.</li>
 <li>Disruptive behaviour during lessons, school activities and CCAs will be addressed, and consequences meted out to recalcitrant students. </li>
 <li>Misbehaviour outside of the school will also be subject to disciplinary consequences and has an implication on the conduct grade, like other forms of misbehaviour. </li>
 <li>Students are to be mindful of their speech and actions and are not to use coarse or offensive language and/or actions under any circumstances.</li>
-</ul><p></p>
-<p align="justify">
-</p><ul style="margin-left: 20px; text-align: justify;"><strong>4.2 Bullying</strong></ul>
-        <ul style="list-style-type: circle; text-align: justify;">
-            <li>The school does not condone bullying behaviours of any kind and will take action against the perpetrator(s). </li>
-            <li>Students are strongly encouraged to report such behaviour whether as victims or as upstanders.</li>
+</ul>
+
+
+<p style="margin-left: 20px;"><strong>4.2 Bullying</strong></p>
+<ul style="list-style-type: circle; text-align: justify; margin-left: 20px;">
+    <li>The school does not condone bullying behaviours of any kind and will take action against the perpetrator(s).</li>
+    <li>Students are strongly encouraged to report such behaviour whether as victims or as upstanders.</li>
 <li>Bullying behaviour involves repeated or persistent behaviours, physical, verbal, social and/or cyber in nature, when a student uses strength, influence or words to intimidate others, force them to do something or to cause harm, distress, or humiliation.</li>
 <li>Cyberbullying occurs when a student uses technology to perpetuate bullying behaviours. This includes but is not limited to the following:</li>
 <li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Impersonating or misusing another person’s account.</li>
 <li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Sending viral links.</li>
 <li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Communicating hostile, aggressive, or intimidating messages, images or videos with the intent to inflict harm or discomfort towards others. </li>
 <li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Sending viral links.</li>
-<li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Taking and/or sharing photos and videos without permission. </li></ul><p></p>
+<li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Taking and/or sharing photos and videos without permission. </li></ul>
+
 <p align="justify">
 </p><ul style="margin-left: 20px; text-align: justify;"><strong>4.3	Aggression and Weapons</strong></ul>
         <ul style="list-style-type: circle; text-align: justify;">
