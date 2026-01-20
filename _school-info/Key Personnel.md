@@ -80,7 +80,7 @@ variant: markdown
 <p>Mrs Shirley Ong</p>
 </td>
 <td style="width: 30%" rowspan="1" colspan="1">
-<p>YH (P1 &amp; P2)</p>
+<p>YH/ Primary 1 &amp; 2</p>
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
 <p><a href="mailto:low_yin_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_yin_choo@schools.gov.sg</a>
@@ -92,7 +92,7 @@ variant: markdown
 <p>Mdm Maslinda Masod</p>
 </td>
 <td style="width: 30%" rowspan="1" colspan="1">
-<p>YH (P3 &amp; P4)</p>
+<p>YH/ Primary 3 &amp; 4</p>
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
 <p><a href="mailto:maslinda_masod@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maslinda_masod@schools.gov.sg</a>
@@ -104,7 +104,7 @@ variant: markdown
 <p>Mrs Angeline Teo</p>
 </td>
 <td style="width: 30%" rowspan="1" colspan="1">
-<p>YH (P5 &amp; P6)</p>
+<p>YH/ Primary 5 &amp; 6</p>
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
 <p><a href="mailto:low_swee_ling_angeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_swee_ling_angeline@schools.gov.sg</a>
