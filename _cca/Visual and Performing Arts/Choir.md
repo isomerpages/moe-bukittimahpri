@@ -20,4 +20,3 @@ The BTPS Choir values respect, inclusivity, and diversity, creating a supportive
 <img style="margin-bottom: 8px; width=1600;" src="/images/CCA/choir24_6.jpg">
 <img style="margin-bottom: 8px; width=1600;" src="/images/CCA/choir24.jpg">
 <img style="margin-bottom: 8px; width=1600;" src="/images/CCA/choir24_5.jpg">
-
