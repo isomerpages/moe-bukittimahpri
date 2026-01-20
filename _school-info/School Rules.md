@@ -52,7 +52,7 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 	
  </td></tr></tbody></table>
 
-<p style="margin-left: 20px;"><strong>2.2 Late Coming</strong></p>
+<strong>2.2 Late Coming</strong>
 
 
 <ul style="list-style-type: circle; margin-left: 20px;">            
@@ -79,8 +79,7 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 <p align="justify">Students will only change into CCA attire after school on CCA days. Specific instructions will be communicated to CCA members by their CCA teachers at the first CCA session of the year. </p>
 
 
-
-<p style="margin-left: 20px;"><strong>3.2 Uniform (New Uniform, 2026)</strong></p>
+<strong>3.2 Uniform (New Uniform, 2026)</strong>
 
 <ul style="list-style-type: circle;">
             <li>Students are to wear the prescribed school uniform and modifications to the uniform are not allowed.</li>
