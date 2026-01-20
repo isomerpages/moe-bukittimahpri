@@ -139,137 +139,22 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 <li>Students are expected to complete and submit their classwork, assignments, and homework on time.</li>
 <li>They should record any homework, assignments, and upcoming tests/assessments in the BT Kit. </li></ul>
 
-
+<strong>7.	Use of Technology Including Mobile Phones </strong>    
+<ul style="list-style-type: circle;">
+            <li>The use of learning devices and school’s EdTech resources (e.g. SLS, iCON) should solely be for the purpose of learning. </li>
+            <li>Students should not attempt to access data, system and information that they are not authorised to. </li>
+<li>Students should not use MOE/school-deployed ICT system accounts for any commercial activities (e.g. buying and selling of goods and services).</li>
+<li>Use of technology in the classroom should only take place under the supervision of a teacher/school staff. The use should be limited to the purpose of the lesson activity.</li>
+<li>Students are not to use smartphones and/or smartwatches during school hours including recess, CCA and after-school programmes.</li>
+<li>Students who bring such devices are to put them in lockers or their school bags before school start time. They can retrieve the devices after school ends. Students should bear responsibility for safekeeping of devices.</li>
+<li>Mobile devices including smartwatches are to be submitted to the school during national examinations and to be left in the school bags away from the student during any other assessment. Any devices spotted on or around the student during assessment will be confiscated and considered a cheating attempt. (Refer to Examination Conduct and Behaviour for details)</li>
+<li>Students may only use their mobile devices and smartwatches for the purpose of contacting their parents/guardians after classes, CCAs or other school activities. The device may only be used at the waiting area near the security post at dismissal or with teacher’s permission and supervision in other parts of the school.</li>
+</ul>
+Note: Mobile devices, if used inappropriately, may be confiscated and returned only to the parents. 
 
 # ------------end of 2026 school rules-------------
 
-<p align="justify">
-At BTPS, we believe that rules are critical to create a safe and conducive environment for our students to learn and play. Every student, when given guidance and support, can learn from his or her mistakes and mature so as to lead self and others for positive impact. A shared understanding of expectations from both home and school is the foundation for character growth.</p>
 
-<p align="justify">
-</p><h5>1.  Respect for Nation and School</h5> 
-<ul style="list-style-type: disc;">
-   <li><p align="justify">	Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the pledge with right fist placed over the heart.</p></li>
-<br>
-  <li>All students are expected to: </li></ul>
-
-<ul><ul><li>Stand at attention during the flag raising ceremony.</li></ul></ul>
-<ul><ul><li>Sing the school song with pride.</li></ul></ul>
-<ul><ul><li><p align="justify">Uphold the name and school values by behaving with pride and decorum in and outside of the school.</p></li></ul></ul>
-
-<h5>2. Attendance and Late coming</h5>
-<b>2.1 Attendance</b>
-<ul><li><p align="justify"> All students are expected to be in school every school day.</p></li></ul>
-<ul><li><p align="justify">Absences must be covered by a medical certificate (MC) from a registered medical practitioner.</p></li></ul>
-<ul><li><p align="justify">Absences for other urgent reasons must be covered by a letter from parent/guardian, to be submitted within a week of the absence.  The school will accept up to <strong>five</strong> letters (one for each occasion) per semester.</p></li></ul>
-<ul><li><p align="justify">Please see table 2.1 for valid reasons for absence.  </p></li></ul>
-<ul><li><p align="justify"> Student will be considered as playing truant under the following circumstances:</p></li></ul>
-<ul><ul><li><p align="justify">Student is absent from school/lesson/CCA/any other school activity without a medical certificate or valid reason or did not seek prior permission from the teacher-in-charge for the absence. </p></li><li>Student leaves the school grounds after reporting but before the end of the school day, without seeking approval from the teachers and the General Office.<p></p> </li></ul></ul>
-
-
-
-<table style="border:2px solid #0A0B30">
-<tbody><tr>
-<td style="border:2px solid #0A0B30"><b>Valid Reasons for Absence </b> </td><td style="border:2px solid #0A0B30"><b>Examples</b> </td></tr><tr>
-<td style="border:2px solid #0A0B30">Absent with MC</td><td style="border:2px solid #0A0B30">
-<ul><li>Medical leave </li>
-<li>Hospitalisation leave</li> 
-<li>Tested Positive through COVID testing – Parents/Guardians to provide a picture of a positive test result. </li></ul>
-
- </td></tr><tr>
-<td style="border:2px solid #0A0B30">Absent with Valid Reason (VR) – Up to five occasions a semester.  </td><td style="border:2px solid #0A0B30">
-<ul><li>Medical</li>
-<li>Bereavement or serious illness of a family member</li>
-</ul>
-<p align="justify">The school will assess each application on a case-by-case basis. Parents/Guardians are advised to write in via email to your child/ward’s Form Teacher in advance where possible. Do note that family holidays during school days are not considered a valid reason.</p>
- </td></tr></tbody></table>
-
-
-<b>2.2 Late Coming</b>
-<ul><li><p align="justify">Students are to be in school by <strong>7.30 am</strong> on school days.</p></li></ul>
-<ul><li><p align="justify">Students are also expected to be on time for all lessons, CCAs and other activities.</p></li></ul>
-<ul><li><p align="justify">Students who are late more than 5 times in a term will be subjected to disciplinary consequences.</p></li></ul>
-<h5>3.	Attire and Appearance</h5>
-<b>3.1 Uniform</b>
-<ul><li><p align="justify">Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. The first row depicts the formal school uniform and the second row, the PE attire.</p></li></ul>
-
-<table width="600px" style="border:2px solid #0A0B30">
-<tbody><tr>
-<td style="border:2px solid #0A0B30"><b>Girls </b> </td><td style="border:2px solid #0A0B30"><b>Boys</b> </td></tr><tr>
-<td style="border:2px solid #0A0B30"><img src="/images/uniform_front.png"></td><td style="border:2px solid #0A0B30">
-<img src="/images/uniform_boys_front.png">
-
- </td></tr><tr>
-<td style="border:2px solid #0A0B30"><img src="/images/pe_front.png"></td><td style="border:2px solid #0A0B30"><img src="/images/pe_boys_front.jpg"></td></tr>
-<tr><td colspan="2">
-<img src="/images/school_uniform_logo.png"></td></tr>
-</tbody></table>
-
-<p align="justify">
-</p><ul style="list-style-type: disc;"><li>Name tags should be on both uniform top and PE t-shirt.  </li><li>Students may wear the BTPS PE attire (BTPS t-shirt and PE shorts) if they have PE or PAL (P1 and P2 only) lessons for the day. </li>
-<li>The PE t-shirt is to be tucked into the bottom.</li>
-<li>Students will only change into CCA attire after school on CCA days. Specific instructions will be communicated to CCA members by their CCA teachers at the first CCA session of the year.</li>
-</ul><p></p>
-<b>3.2 General Appearance</b>
-<ul><li><p align="justify">Fingernails must be kept short and clean, and not be coloured.</p></li>
-<li><p align="justify">Jewellery, ornaments, and other accessories are not permitted.  For safety reasons, girls are only permitted to wear one pair of plain, small, and identical ear studs.  </p></li>
-<li><p align="justify">Outlandish hairstyles and hair colouring are not allowed. </p></li>
-<li><p align="justify">Students are to wear white/predominantly white school shoes and socks with the school uniform.</p></li>
-<li><p align="justify">Students are to be in the formal school uniform during examinations and formal school events. </p></li></ul>
-<table width="600px">
-<tbody><tr>
-<td><strong>Boys </strong> </td></tr>
-<tr>
-<td>
-<ul><li><p align="justify">Hair should be short, neat and tidy.  The hair should not touch the eyebrows, ears or shirt collar.  Sideburns are not allowed.</p></li><li><p align="justify">All boys must be clean shaven and no facial hair is allowed. </p></li></ul>
- </td></tr><tr>
-<td><img style="width:200px;height:200px;" src="/images/boys_hair.jpg"></td></tr>
-</tbody></table>
-<table>
-<tbody><tr>
-<td><strong>Girls </strong> </td></tr>
-<tr>
-<td>
-<ul><li><p align="justify">Girls should maintain simple hairstyles.  Hair should not touch the collar or eyebrows.</p></li><li><p align="justify">Longer hair (beyond shoulder length) should be tied up and long fringes clipped. </p></li>
-<li><p align="justify">Hair accessories should be simple and in either black or dark blue.</p></li></ul>
- </td></tr><tr>
-<td><img style="width:200px;height:200px;" src="/images/girls_hair.jpg"></td></tr>
-
-
-</tbody></table>
-
-<h5>4.	Respect for others</h5>
-<b>4.1 Conduct and Behaviour</b>
-<ul><li><p align="justify">Students are expected to treat their class/school mates, teachers, and the school staff as well as members of the public with respect and graciousness.</p></li>
-<li><p align="justify">Students should know and abide by the school rules and obey instructions.</p></li>
-<li><p align="justify">Students are expected to support their teachers, school staff and others by always behaving appropriately.  They should also encourage their class/school mates to do the same.</p></li>
-<li><p align="justify">Disruptive behaviour during lessons, school activities and CCAs will be addressed, and consequences meted out to recalcitrant students. </p></li>
-<li><p align="justify">Misbehaviour outside of the school will be subjected to disciplinary consequences and has an implication on the conduct grade.  </p></li>
-<li><p align="justify">Students are to be mindful of their speech and actions and are not to use coarse or offensive language and/or actions under any circumstances.</p></li></ul>
-<b>4.2 Bullying</b>
-<ul>
-<li><p align="justify">The school does not condone bullying behaviours of any kind and will take action against the perpetrator(s). </p></li>
-<li><p align="justify">Students are strongly encouraged to report such behaviour whether as victims or as upstanders. </p></li>
-<li><p align="justify">Bullying behaviour involves repeated or persistent behaviours in the form of physical, verbal, social and/or cyber in nature, when a student uses strength, influence or words to intimidate others, force them to do something or to cause harm, distress, or humiliation.  </p></li>
-<li><p align="justify">Cyberbullying occurs when a student uses technology to perpetuate bullying behaviours.  This includes but is not limited to the following:</p></li>
-<li><p align="justify">Impersonating or misusing another person’s account.</p></li>
-<li><p align="justify">Sending viral links. </p></li>
-<li><p align="justify">Communicating hostile, aggressive, or intimidating messages, images or videos with the intent to inflict harm or discomfort towards others. </p></li>
-<li><p align="justify">Taking and/or sharing photos and videos without permission. </p></li>
-</ul>
-<strong>4.3 Aggression and Weapons</strong>
-<ul style="list-style-type: disc;"><li><p align="justify">The school does not condone acts of aggression under any circumstances. </p></li>
-<li><p align="justify">Assault occurs when a student attacks others such as students or school staff, regardless of whether there is an injury, trigger or provocation.</p></li>
-<li><p align="justify">Fighting occurs when a student is involved in a confrontation between individuals or opposing groups, when one or both sides attempt to harm or gain power over the other using bodily force or weapons.</p></li>
-<li><p align="justify">All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others. </p></li></ul>
-<h5>5.	Respect for the environment</h5>
-<ul style="list-style-type: disc;">
-<li><p align="justify">Students are to ensure a clean and conducive environment by cleaning up after themselves and picking up any litter around them.</p></li>
-<li><p align="justify">Students are to maintain a clean and hygienic classroom environment.</p></li>
-<li><p align="justify">Assigned classroom cleaning duties are to be completed daily.</p></li>
-<li><p align="justify">Students are to return their crockery and utensils to the respective receptacles after eating in the school canteen.</p></li>
-<li><p align="justify">Students are to ensure that they do not deliberately or accidentally tamper with or damage school or public property. Any act of vandalism whether deliberate or accidental will be considered a major offence.</p></li>
-</ul>
 <h5>6.	Learning Behaviours</h5>
 <ul style="list-style-type: disc;">
 <li><p align="justify">Students are expected to be ready for lessons/activity/CCA by ensuring that they have the necessary materials, stationery, attire and/or equipment.</p></li>
