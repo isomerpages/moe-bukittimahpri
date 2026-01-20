@@ -21,7 +21,7 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
             
         
 <strong>2. Attendance and Late Coming</strong>    
-<ul style="margin-left: 20px;">2.1 Attendance</ul>
+<ul style="margin-left: 20px;"><strong>2.1 Attendance</strong></ul>
         <ul style="list-style-type: circle;">
             <li>All students are expected to be in school every school day.</li>
             <li>Absences must be covered by a medical certificate (MC) from a registered medical practitioner.</li>
@@ -57,32 +57,25 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
             <li>Students who are late more than 5 times in a term will be subject to disciplinary consequences.</li>
         </ul>
 <strong>3. Attire and Appearance </strong>    
-<ul style="margin-left: 20px;">3.1 Uniform (Previous Uniform, 2025)</ul>
+<ul style="margin-left: 20px;"><strong>3.1 Uniform (Previous Uniform, 2025)</strong></ul>
         <ul style="list-style-type: circle;">
             <li>Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. </li>
-            <li>The first two pictures depict the formal school uniform and the next two pictures, the PE attire.</li>
-</ul>
-# put photo table times 2
- <ul style="list-style-type: circle;">
-            <li>Name tags should be on both uniform top and PE t-shirt. </li>
-            <li>Students may wear the BTPS PE attire (BTPS T-shirt and PE shorts) if they have PE or PAL (P1 and P2 only) lessons for the day.</li>
- <li>PE t-shirts are to be tucked into the bottom. </li>       
-        </ul>
+            <li>The first two pictures depict the formal school uniform and the next two pictures, the PE attire.
+<img width="100%" src="/images/Students%20Activities%20Photos/2025_uniform.jpg">
+</li>
+            <li style="list-style-type: circle;">Name tags should be on both uniform top and PE t-shirt. </li>
+            <li style="list-style-type: circle;">Students may wear the BTPS PE attire (BTPS T-shirt and PE shorts) if they have PE or PAL (P1 and P2 only) lessons for the day.</li>
+ <li style="list-style-type: circle;">PE t-shirts are to be tucked into the bottom. </li>            </ul>
 <p align="justify">Students will only change into CCA attire after school on CCA days. Specific instructions will be communicated to CCA members by their CCA teachers at the first CCA session of the year.  </p>
 
 <strong>3.2 Uniform (New Uniform, 2026) </strong>
         <ul style="list-style-type: circle;">
             <li>Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. </li>
             <li>The first two pictures depict the formal school uniform and the next two pictures, the PE attire.</li>
-            <li>Students who are late more than 5 times in a term will be subject to disciplinary consequences.</li>
-        </ul>
-				
-# <strong>put photo table times 2</strong>
-
- <ul style="list-style-type: circle;">
-            <li>Name tags should be on all uniform tops.</li>
-            <li>Students may wear their PE shorts if they have PE or PAL (P1 and P2 only) lessons for the day.</li>
- <li>Students will only change into CCA attire after school on CCA days. Specific instructions will be communicated to CCA members by their CCA teachers at the first CCA session of the year.</li>       
+            <li>Students who are late more than 5 times in a term will be subject to disciplinary consequences. <img width="100%" src="/images/Students%20Activities%20Photos/2026_uniform.jpg"></li>
+ <li style="list-style-type: circle;">Name tags should be on all uniform tops.
+</li><li style="list-style-type: circle;">Students may wear their PE shorts if they have PE or PAL (P1 and P2 only) lessons for the day.</li>
+ <li style="list-style-type: circle;">Students will only change into CCA attire after school on CCA days. Specific instructions will be communicated to CCA members by their CCA teachers at the first CCA session of the year.</li>       
         </ul>
 <strong>3.3 General Appearance</strong>
         <ul style="list-style-type: circle;">
@@ -105,7 +98,7 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 </ul>
 
 <strong>4.	Respect for Others </strong>    
-<ul style="margin-left: 20px;">4.1 Conduct and Behaviour</ul>
+<ul style="margin-left: 20px;"><strong>4.1 Conduct and Behaviour</strong></ul>
         <ul style="list-style-type: circle;">
             <li>Students are expected to treat their class/school mates, teachers, and the school staff as well as members of the public with respect and graciousness.</li>
             <li>Students should know and abide by the school rules and obey instructions.</li>
@@ -114,7 +107,7 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 <li>Misbehaviour outside of the school will also be subject to disciplinary consequences and has an implication on the conduct grade, like other forms of misbehaviour. </li>
 <li>Students are to be mindful of their speech and actions and are not to use coarse or offensive language and/or actions under any circumstances.</li>
 </ul>
-<ul style="margin-left: 20px;">4.2 Bullying</ul>
+<ul style="margin-left: 20px;"><strong>4.2 Bullying</strong></ul>
         <ul style="list-style-type: circle;">
             <li>The school does not condone bullying behaviours of any kind and will take action against the perpetrator(s). </li>
             <li>Students are strongly encouraged to report such behaviour whether as victims or as upstanders.</li>
@@ -125,13 +118,13 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 <li style="list-style-type: disc; margin-left: 20px;">Communicating hostile, aggressive, or intimidating messages, images or videos with the intent to inflict harm or discomfort towards others. </li>
 <li style="list-style-type: disc; margin-left: 20px;">Sending viral links.</li>
 <li style="list-style-type: disc; margin-left: 20px;">Taking and/or sharing photos and videos without permission. </li></ul>
-<ul style="margin-left: 20px;">4.3	Aggression and Weapons</ul>
+<ul style="margin-left: 20px;"><strong>4.3	Aggression and Weapons</strong></ul>
         <ul style="list-style-type: circle;">
             <li>The school does not condone acts of aggression under any circumstances. </li>
             <li>Assault occurs when a student attacks others such as students or school staff, regardless of whether there is an injury, trigger or provocation.</li>
 <li>Fighting occurs when a student is involved in a confrontation between individuals or opposing groups, when one or both sides attempt to harm or gain power over the other using bodily force or weapons.</li>
 <li>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others. </li>
-
+</ul>
 <strong>5. Respect for the Environment </strong>    
 <ul style="list-style-type: circle;">
             <li>Students are to ensure a clean and conducive environment by cleaning up after themselves and picking up any litter around them.</li>
@@ -393,4 +386,4 @@ Mobile devices including smart watches are to be submitted to the school during 
 <li>Expulsion from school</li>
 <li>Police report and investigation and/or assistance from other external agencies including Health Science Authority (HSA) for smoking/vaping and other tobacco-related offences. The school may escalate the matter to the police and other relevant authorities where necessary for any major offence.</li>
 <li>Students will be supported to learn the right behaviour by their teachers, the school counsellor, school management team and school leaders. All students are expected to know and abide by the school rules. They are expected to remind their peers to do the same and report any violation of school rules to their teachers or a school staff. They are not to take matters into their own hands and can speak to a trusted adult when they need support.</li>
-</ul></ul>
+</ul>
