@@ -152,6 +152,182 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 </ul>
 Note: Mobile devices, if used inappropriately, may be confiscated and returned only to the parents. 
 
+<strong>8.	Other Major Offences</strong>    
+<ul>
+            <li style="list-style-type: circle;">The school takes a serious view of the following acts which are considered major offences regardless of whether they take place in school or outside of school.</li>
+            <li style="list-style-type: disc; margin-left: 20px;">Arson – Student plants explosives or sets fire to school/public property, whether attempted or actual.</li>
+ <li style="list-style-type: disc; margin-left: 20px;">Gambling – Student is found playing cards or betting on games, regardless of whether money is involved.</li>
+ <li style="list-style-type: disc; margin-left: 20px;">Substance Abuse – Student is found using/possessing/distributing/selling/buying alcohol/drugs/inhalants.</li>
+ <li style="list-style-type: disc; margin-left: 20px;">Selling/Trading of items - Student is found selling/trading any items/products/services among students.  </li>
+ <li style="list-style-type: disc; margin-left: 20px;">Smoking/Vaping – Student is found using/possessing/distributing/selling/buying tobacco products such as cigarettes/e-vaporisers/lighters/matches. Please refer to Table 8.1 for consequences for vaping. </li></ul>
+<strong>Table 8.1: Consequences for Vaping</strong>
+<table style="border:2px solid #0A0B30">
+        <thead>
+            <tr>
+                <th style="border:2px solid #0A0B30; width: 20%; text-align: center;">Baseline</th>
+                <th style="border:2px solid #0A0B30; width: 40%; text-align: center;">Vaping</th>
+                <th style="border:2px solid #0A0B30; width: 40%; text-align: center;">Vaping with Etomidate</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="border:2px solid #0A0B30; width: 20%;">First-time offenders</td>
+                <td style="border:2px solid #0A0B30; width: 40%;">
+                    <ul>
+                        <li style="list-style-type: circle;">1 to 3 days of detention <strong>and/or</strong> suspension; <strong>and/or</strong></li>
+                        <li style="list-style-type: circle;">1 stroke of the cane (for boys only, with aggravating factors)</li>
+                        <li style="list-style-type: circle;"><strong>AND</strong> conduct grade adjustment</li>
+                    </ul>
+                </td>
+                 <td style="border:2px solid #0A0B30; width: 40%;">
+                    <ul>
+                        <li style="list-style-type: circle;">3 to 5 days of detention <strong>and/or</strong> suspension; <strong>and/or</strong></li>
+                        <li style="list-style-type: circle;">Up to 2 strokes of the cane (for boys only)</li>
+                        <li style="list-style-type: circle;"><strong>AND</strong> conduct grade adjustment (no better than 'Fair')</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td style="border:2px solid #0A0B30; width: 20%;">Second-time offenders</td>
+                 <td style="border:2px solid #0A0B30; width: 40%;">
+                    <ul>
+                        <li style="list-style-type: circle;">3 to 5 days of detention <strong>and/or</strong> suspension; <strong>and/or</strong></li>
+                        <li style="list-style-type: circle;">Up to 2 strokes of the cane (for boys only)</li>
+                        <li style="list-style-type: circle;"><strong>AND</strong> conduct grade adjustment (no better than 'Fair')</li>
+                    </ul>
+                </td>
+                 <td style="border:2px solid #0A0B30; width: 40%;">
+                    <ul>
+                        <li style="list-style-type: circle;">5 to 14 days of detention <strong>and/or</strong> suspension; <strong>and/or</strong></li>
+                        <li style="list-style-type: circle;">Up to 3 strokes of the cane (for boys only)</li>
+                        <li style="list-style-type: circle;"><strong>AND</strong> conduct grade adjustment ('Poor')</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                 <td style="border:2px solid #0A0B30; width: 20%;">Subsequent offenders</td>
+                 <td style="border:2px solid #0A0B30; width: 40%;">
+                    <ul>
+                        <li style="list-style-type: circle;">5 to 14 days of detention <strong>and/or</strong> suspension; <strong>and/or</strong></li>
+                        <li style="list-style-type: circle;">Up to 3 strokes of the cane (for boys only)</li>
+                        <li style="list-style-type: circle;"><strong>AND</strong> conduct grade adjustment ('Poor')</li>
+                    </ul>
+                </td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+<ul>
+            <li style="list-style-type: circle;">Undesirable Materials/Toys and Unauthorised Devices </li>
+            <li style="list-style-type: disc; margin-left: 20px;">Student is found using/possessing/distributing/selling/buying undesirable materials/toys in school or outside of school. Examples include but are not limited to physical and digital form of items such as trading cards, playing cards and pornographic materials.</li>
+ <li style="list-style-type: disc; margin-left: 20px;">Student is found using/possessing/distributing/selling/buying electronic devices (other than the electronic dictionary and scientific calculator required for learning and assessment).</li>
+<li style="list-style-type: disc; margin-left: 20px;">Student is found using/possessing/distributing/selling/buying toys and games in school. Examples include but are not limited to trading cards and toys such as slime.</li>
+</ul>
+<strong>9.	Examination Conduct and Behaviour</strong> 
+<p align="justify">Students are expected to familiarise themselves with all pertinent information about the examinations and to adhere to the examination conduct stated below.    
+</p><ul>
+            <li style="list-style-type: circle;">Reporting time for school is as usual during examination days. No extra time will be given for latecomers.</li>
+            <li style="list-style-type: circle;">There will be no re-sitting of examination papers for students who are absent. Any student who is absent from any paper should produce a valid medical certificate. This should be submitted to his/her Form Teacher as soon as the student returns to school.</li>
+ <li style="list-style-type: circle;">Students are not allowed to bring to the examination room, any notes, drawings, pictures, tracings, books, etc, other than those specially permitted by the examiner/invigilator. </li>
+<li style="list-style-type: circle;">Students are not allowed to interact nor pass anything to anyone during the examination. No borrowing of items is allowed.  </li>
+<li style="list-style-type: circle;">Students are not allowed to communicate with each other in the examination venue. </li>
+<li style="list-style-type: circle;">Any student who wishes to communicate with an invigilator must remain seated and raise his/her hand. Note that no questions on the meaning or interpretation of an examination question will be answered.</li>
+ <li style="list-style-type: circle;">Students are to avoid going to the toilet during the examination. They will not be allowed to refill their bottles during the examination. It should be done before the start of the paper.  </li> 
+<li style="list-style-type: circle;">Students are expected to know and adhere to all examination rules. </li> 
+<li style="list-style-type: circle;">A student who is guilty of improper conduct or misbehaviour during the examination will be subjected to disciplinary consequences.</li> 
+<li style="list-style-type: circle;">A student who is caught cheating during any test/examination may be given zero mark for that paper and a “Poor” conduct grade for the semester. </li>
+<li style="list-style-type: circle;">Examples of cheating/attempting to cheat may include:</li>
+<li style="list-style-type: disc; margin-left: 20px;">Possessing notes or other prohibited items, copying from others, allowing others to copy, tampering with marks. </li>
+<li style="list-style-type: disc; margin-left: 20px;">Student is found to be in possession of any communication equipment such as handphone or smartwatches.</li>
+<li style="list-style-type: disc; margin-left: 20px;">Forgery – Student imitates someone else’s signature or alters any form of writing without permission and with the intention to deceive. This includes altering grades/answers/teacher’s marking for assignments and assessments.  </li>
+</ul>
+<p></p>
+
+<strong>10.	Consequences</strong> 
+<p align="justify">The school uses a progressive approach to manage misbehaviour. Teachers or school staff will address misbehaviour first. Repeated offences or recalcitrant behaviour will be escalated to the Student Management Committee and School Leaders. Parents/Guardians may be involved at any stage to support the student’s learning and growth.</p>
+<p align="justify">
+Students are expected to know and follow school rules. They should remind their peers to do the same and report any violations to a teacher or staff member. Students must not take matters into their own hands and should speak to a trusted adult when they need support.</p>
+<p align="justify">Consequences for breaches of school rules will be determined based on factors such as the severity of the offence and whether the student is a repeat offender. Possible disciplinary measures include, but are not limited to:
+</p><ul style="list-style-type: circle;">
+    <li>Recess Timeout</li>
+    <li>Issuance of formal warning letters</li>
+    <li>Corrective work assignments</li>
+    <li>Adjustment of Conduct Grade</li>
+    <li>Ineligibility for scholarships, awards, leadership appointments, overseas trips, and school team representation.</li>
+    <li>Suspension from school</li>
+    <li>Caning</li>
+    <li>Police report and investigation and/or assistance from other external agencies where necessary for any major offence.</li>
+</ul>
+<p align="justify">All smoking and vaping cases will be handled in accordance with Ministry of Education (MOE) guidelines and reported to the Health Sciences Authority (HSA) following national regulations. Students who commit such offences will face school-based consequences and national penalties. Please refer to the table on page 14 for detailed consequences. 
+</p>
+<strong>Major Offences</strong>
+<table style="border:2px solid #0A0B30">
+</table><table>
+        <thead>
+            <tr>
+                <th style="border:2px solid #0A0B30; width: 20%; text-align: center;">Category</th>
+                <th style="border:2px solid #0A0B30; width: 80%; text-align: center;">Offence</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="border:2px solid #0A0B30; width: 20%;">Attendance and Late Coming</td>
+                <td style="border:2px solid #0A0B30; width: 80%;">
+                    <ul style="list-style-type: circle;">
+                        <li>Truancy</li>
+                        <li>Persistent late coming (more than 5 times a term)</li>
+                        <li>Leaving school without permission</li>
+                        <li>Wilful absenteeism</li>
+                        <li>Other related offences</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td style="border:2px solid #0A0B30; width: 20%;">Misconduct</td>
+                <td style="border:2px solid #0A0B30; width: 80%;">
+                    <ul style="list-style-type: circle;">
+                        <li>Open defiance/Rudeness</li>
+                        <li>Disruptive behaviour</li>
+                        <li>Cheating during assessment</li>
+                        <li>Forgery</li>
+                        <li>Bullying</li>
+                        <li>Harassment/Bullying</li>
+                        <li>Being a public nuisance</li>
+                        <li>Other serious misconduct as defined by the school</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td style="border:2px solid #0A0B30; width: 20%;">Theft/Damage of Property</td>
+                <td style="border:2px solid #0A0B30; width: 80%;">
+                    <ul style="list-style-type: circle;">
+                        <li>Arson/Mischief with fire</li>
+                        <li>Theft/Stealing</li>
+                        <li>Vandalism/Damage of school property</li>
+                        <li>Other related offences</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td style="border:2px solid #0A0B30; width: 20%;">Other Major Offences</td>
+                <td style="border:2px solid #0A0B30; width: 80%;">
+                    <ul style="list-style-type: circle;">
+                        <li>Abuse of technology</li>
+                        <li>Assault</li>
+                        <li>Fighting</li>
+                        <li>Smoking/Vaping</li>
+                        <li>Gambling</li>
+                        <li>Gangsterism</li>
+                        <li>Extortion</li>
+                        <li>Possession of authorised items/weapons/pornographic materials</li>
+                        <li>Sexual misconduct</li>
+                        <li>Substance/Alcohol abuse</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
 # ------------end of 2026 school rules-------------
 
 
