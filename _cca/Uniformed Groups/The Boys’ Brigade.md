@@ -14,6 +14,7 @@ Through teamwork, outdoor activities, and shared experiences, boys develop resil
 Guided by the Boys’ Brigade motto, “Sure and Steadfast,” members are supported in building confidence, leadership skills, and a steadfast character that guides them in their learning journey. </p>
 <img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/bb1.jpg">
 <img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/bb2.jpg">
-<img style="margin-bottom: 8px; width=1600;" src="/images/CCA/BB24_6.jpg">
-<img style="margin-bottom: 8px; width=1600;" src="/images/CCA/BB01.jpg">
-<img style="margin-bottom: 8px; width=1600;" src="/images/CCA/bb24_2.jpg">
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/bb001.jpg">
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/bb002.jpg">
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/bb003.jpg">
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/bb004.jpg">
