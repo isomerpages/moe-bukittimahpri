@@ -276,7 +276,7 @@ Students are expected to know and follow school rules. They should remind their 
             <tr>
                 <td style="border:2px solid #0A0B30; width: 20%;">Attendance and Late Coming</td>
                 <td style="border:2px solid #0A0B30; width: 80%;">
-                    <ul style="list-style-type: circle;">
+                    <ul style="list-style-type: circle; text-align: justify;">
                         <li>Truancy</li>
                         <li>Persistent late coming (more than 5 times a term)</li>
                         <li>Leaving school without permission</li>
@@ -288,7 +288,7 @@ Students are expected to know and follow school rules. They should remind their 
             <tr>
                 <td style="border:2px solid #0A0B30; width: 20%;">Misconduct</td>
                 <td style="border:2px solid #0A0B30; width: 80%;">
-                    <ul style="list-style-type: circle;">
+                    <ul style="list-style-type: circle; text-align: justify;">
                         <li>Open defiance/Rudeness</li>
                         <li>Disruptive behaviour</li>
                         <li>Cheating during assessment</li>
@@ -303,7 +303,7 @@ Students are expected to know and follow school rules. They should remind their 
             <tr>
                 <td style="border:2px solid #0A0B30; width: 20%;">Theft/Damage of Property</td>
                 <td style="border:2px solid #0A0B30; width: 80%;">
-                    <ul style="list-style-type: circle;">
+                    <ul style="list-style-type: circle; text-align: justify;">
                         <li>Arson/Mischief with fire</li>
                         <li>Theft/Stealing</li>
                         <li>Vandalism/Damage of school property</li>
@@ -314,7 +314,7 @@ Students are expected to know and follow school rules. They should remind their 
             <tr>
                 <td style="border:2px solid #0A0B30; width: 20%;">Other Major Offences</td>
                 <td style="border:2px solid #0A0B30; width: 80%;">
-                    <ul style="list-style-type: circle;">
+                    <ul style="list-style-type: circle; text-align: justify;">
                         <li>Abuse of technology</li>
                         <li>Assault</li>
                         <li>Fighting</li>
