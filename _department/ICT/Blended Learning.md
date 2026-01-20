@@ -12,25 +12,19 @@ third_nav_title: ICT
 The SLS is an online platform with tools and curriculum-aligned resources for all students to learn at their own pace and collaboratively. With the SLS, students can take greater ownership of their learning and pick up skills and habits that prepare them for lifelong learning. Refer to the  [SLS user guide](/files/2024/AnnexAandFAQ.pdf) to reset password. 
 
 
-### Log in with MIMS @ BTPS Video Tutorial
-
-<center>
-<iframe src="https://www.youtube.com/embed/3m7WSMe0N1s" height="400" width="500">
-</iframe>
-</center>
-
+### Log in with MIMS 
 
 <p>1. How can I access SLS?</p>
 
 SLS can be accessed from [https://www.learning.moe.edu.sg](https://www.learning.moe.edu.sg)
 
-<p>Log in via MIMS</p>
+<strong>Log in via MIMS</strong>
 Your username is your_name@students.edu.sg. If you have forgot your password, you could: 
 
-Refer to the [ [MIMS user guide] ](/files/2024/MIMS_SSPR_Guide.pdf)  to reset your password. 
+Refer to the [ [MIMS user guide] ](/files/2026/For_Parents_Assisting_your_child_in_using_online_systems_by_Ministry_of_Education.pdf)  to reset your password. 
 
 ### Unable to Sign-in to MIMS Account
-Please approach your subject teacher or email tan_shu_rui@moe.edu.sg to request for MIMS password reset with the full name and form class of 2025. 
+Please approach your subject teacher or email tan_shu_rui@moe.edu.sg to request for MIMS password reset with the full name and form class of 2026. 
 
 <p>2. What are my SLS account login details?</p> 
 
