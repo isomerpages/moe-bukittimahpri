@@ -38,15 +38,15 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 <table style="border:2px solid #0A0B30">
 <tbody><tr>
 <td style="border:2px solid #0A0B30; width: 30%;"><strong>Valid Reasons for Absence</strong> </td><td style="border:2px solid #0A0B30"><b>Examples</b> </td></tr><tr>
-<td style="border:2px solid #0A0B30; width: 30%; text-align: justify;">Absent with MC</td><td style="border:2px solid #0A0B30">
+<td style="border:2px solid #0A0B30; width: 30%;">Absent with MC</td><td style="border:2px solid #0A0B30">
 <ul style="list-style-type: circle;">
 <li>Medical leave </li>
 <li>Hospitalisation leave</li> 
 </ul>
 
  </td></tr><tr>
-<td style="border:2px solid #0A0B30; width: 30%; text-align: justify;">Absent with Valid Reason (VR) – Up to five letters a semester. </td><td style="border:2px solid #0A0B30">
-<ul style="list-style-type: circle; text-align: justify;">
+<td style="border:2px solid #0A0B30; width: 30%;">Absent with Valid Reason (VR) – Up to five letters a semester. </td><td style="border:2px solid #0A0B30">
+<ul style="list-style-type: circle;">
 <li>Medical</li>
 <li>Bereavement or serious illness of a family member</li>
 </ul>
