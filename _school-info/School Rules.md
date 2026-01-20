@@ -34,26 +34,26 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 </ul>     
         
 <strong>Table 2.1 Valid Reasons for Absence</strong>
-<table style="border:2px solid #0A0B30">
-<tbody><tr>
-<td style="border:2px solid #0A0B30; width: 30%;"><strong>Valid Reasons for Absence</strong> </td><td style="border:2px solid #0A0B30"><b>Examples</b> </td></tr><tr>
+<table style="border:2px solid #0A0B30"><tbody><tr>
+<td style="border:2px solid #0A0B30; width: 30%;"><strong>Valid Reasons for Absence</strong> </td><td style="border:2px solid #0A0B30"><b>Examples</b> </td></tr>
+<tr>
 <td style="border:2px solid #0A0B30; width: 30%;">Absent with MC</td><td style="border:2px solid #0A0B30">
 <ul style="list-style-type: circle;">
 <li>Medical leave </li>
 <li>Hospitalisation leave</li> 
-</ul>
-
- </td></tr><tr>
+</ul> </td></tr>
+<tr>
 <td style="border:2px solid #0A0B30; width: 30%;">Absent with Valid Reason (VR) – Up to five letters a semester. </td><td style="border:2px solid #0A0B30">
 <ul style="list-style-type: circle;">
 <li>Medical</li>
 <li>Bereavement or serious illness of a family member</li>
 </ul>
 <p align="justify">The school will assess each application on a case-by-case basis. Parents/Guardians are advised to write in via email to your child/ward’s Form Teacher in advance where possible. Do note that family holidays during school days are not considered a valid reason.</p>
+	
  </td></tr></tbody></table>
 
 <p style="margin-left: 20px;"><strong>2.2 Late Coming</strong></p>
-        <ul style="list-style-type: circle; text-align: justify; margin-left: 20px;">
+        <ul style="list-style-type: circle; margin-left: 20px;">
             <li>Students are to be in school before <strong>7:30am</strong> on school days.</li>
             <li>Students are also expected to be on time for all lessons, CCAs and other activities.</li>
             <li>Students who are late more than 5 times in a term will be subject to disciplinary consequences.</li>
