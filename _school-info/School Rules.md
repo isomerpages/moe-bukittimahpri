@@ -242,7 +242,7 @@ Note: Mobile devices, if used inappropriately, may be confiscated and returned o
 <strong>9.	Examination Conduct and Behaviour</strong> 
 <p align="justify">Students are expected to familiarise themselves with all pertinent information about the examinations and to adhere to the examination conduct stated below.    
 </p><ul>
-            <li style="list-style-type: circle; text-align: justify;">Reporting time for school is as usual during examination days. No extra time will be given for latecomers.</li>
+            <li style="list-style-type: circle;">Reporting time for school is as usual during examination days. No extra time will be given for latecomers.</li>
             <li style="list-style-type: circle;">There will be no re-sitting of examination papers for students who are absent. Any student who is absent from any paper should produce a valid medical certificate. This should be submitted to his/her Form Teacher as soon as the student returns to school.</li>
  <li style="list-style-type: circle;">Students are not allowed to bring to the examination room, any notes, drawings, pictures, tracings, books, etc, other than those specially permitted by the examiner/invigilator. </li>
 <li style="list-style-type: circle;">Students are not allowed to interact nor pass anything to anyone during the examination. No borrowing of items is allowed.  </li>
@@ -314,7 +314,7 @@ Students are expected to know and follow school rules. They should remind their 
                 </td>
             </tr>
             <tr>
-                <td style="border:2px solid #0A0B30; width: 20%; text-align: justify;">Theft/Damage of Property</td>
+                <td style="border:2px solid #0A0B30; width: 20%;">Theft/Damage of Property</td>
                 <td style="border:2px solid #0A0B30; width: 80%;">
                     <ul style="list-style-type: circle;">
                         <li>Arson/Mischief with fire</li>
@@ -325,7 +325,7 @@ Students are expected to know and follow school rules. They should remind their 
                 </td>
             </tr>
             <tr>
-                <td style="border:2px solid #0A0B30; width: 20%; text-align: justify;">Other Major Offences</td>
+                <td style="border:2px solid #0A0B30; width: 20%;">Other Major Offences</td>
                 <td style="border:2px solid #0A0B30; width: 80%;">
                     <ul style="list-style-type: circle;">
                         <li>Abuse of technology</li>
