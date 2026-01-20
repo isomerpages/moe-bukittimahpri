@@ -15,4 +15,3 @@ Beyond skill development, the CCA prepares students for performances and competi
 <img style="margin-bottom: 8px; width=1600;" src="/images/CCA/wushu02.jpg">
 <img style="margin-bottom: 8px; width=1600;" src="/images/CCA/wushu01.jpg">
 <img style="margin-bottom: 8px; width=1600;" src="/images/CCA/25_wushu_04.png">
-
