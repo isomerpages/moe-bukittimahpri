@@ -21,18 +21,17 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
   
 <strong>2. Attendance and Late Coming</strong>    
 <p style="margin-left: 20px;"><strong>2.1 Attendance</strong></p>
-<ul style="list-style-type: circle; text-align: justify; margin-left: 20px;">
-    <li>All students are expected to be in school every school day.</li>
-    <li>Absences must be covered by a medical certificate (MC) from a registered medical practitioner.</li>
-    <li>Absences for other urgent reasons must be covered by a letter from parent/guardian, to be submitted within a week of the absence. The school will accept up to five letters (one for each occasion) per semester. Please refer to Table 2.1 for valid reasons for absence.</li>
-    <li>A student will be considered as playing truant under the following circumstances:
-        <ul style="list-style-type: disc; margin-left: 20px; text-align: justify;">
-            <li>He/She is absent from school/lesson/CCA/any other school activity without a medical certificate or valid reason or did not seek prior permission from the teacher-in-charge for the absence.</li>
-            <li>He/She leaves the school grounds after reporting but before the end of the school day, without seeking approval from the teachers and the General Office.</li>
+<ul>
+    <li style="list-style-type: circle; text-align: justify; margin-left: 20px;">All students are expected to be in school every school day.</li>
+    <li style="list-style-type: circle; text-align: justify; margin-left: 20px;">Absences must be covered by a medical certificate (MC) from a registered medical practitioner.</li>
+    <li style="list-style-type: circle; text-align: justify; margin-left: 20px;">Absences for other urgent reasons must be covered by a letter from parent/guardian, to be submitted within a week of the absence. The school will accept up to five letters (one for each occasion) per semester. Please refer to Table 2.1 for valid reasons for absence.</li>
+    <li style="list-style-type: circle; text-align: justify; margin-left: 20px;">A student will be considered as playing truant under the following circumstances:
+        <ul>
+            <li style="list-style-type: disc; margin-left: 20px; text-align: justify;">He/She is absent from school/lesson/CCA/any other school activity without a medical certificate or valid reason or did not seek prior permission from the teacher-in-charge for the absence.</li>
+            <li style="list-style-type: disc; margin-left: 20px; text-align: justify;">He/She leaves the school grounds after reporting but before the end of the school day, without seeking approval from the teachers and the General Office.</li>
         </ul>
     </li>
-</ul>
-        
+</ul>     
         
 <strong>Table 2.1 Valid Reasons for Absence</strong>
 <table style="border:2px solid #0A0B30">
