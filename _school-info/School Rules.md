@@ -54,7 +54,7 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 
 <strong>2.2 Late Coming</strong>
         <ul style="list-style-type: circle;">
-            <li>Students are to be in school before 7:30am on school days.</li>
+            <li>Students are to be in school before <strong>7:30am</strong> on school days.</li>
             <li>Students are also expected to be on time for all lessons, CCAs and other activities.</li>
             <li>Students who are late more than 5 times in a term will be subject to disciplinary consequences.</li>
         </ul>
