@@ -128,7 +128,7 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
             <li>Assault occurs when a student attacks others such as students or school staff, regardless of whether there is an injury, trigger or provocation.</li>
 <li>Fighting occurs when a student is involved in a confrontation between individuals or opposing groups, when one or both sides attempt to harm or gain power over the other using bodily force or weapons.</li>
 <li>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others. </li>
-</ul>&lt;
+</ul>
 
 <strong>5. Respect for the Environment </strong>    
 <ul style="list-style-type: circle; text-align: justify;">
