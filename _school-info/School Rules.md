@@ -52,8 +52,8 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 <p align="justify">The school will assess each application on a case-by-case basis. Parents/Guardians are advised to write in via email to your child/ward’s Form Teacher in advance where possible. Do note that family holidays during school days are not considered a valid reason.</p>
  </td></tr></tbody></table>
 
-<strong>2.2 Late Coming</strong>
-        <ul style="list-style-type: circle;">
+<p style="margin-left: 20px;"><strong>2.2 Late Coming</strong></p>
+        <ul style="list-style-type: circle; text-align: justify; margin-left: 20px;">
             <li>Students are to be in school before <strong>7:30am</strong> on school days.</li>
             <li>Students are also expected to be on time for all lessons, CCAs and other activities.</li>
             <li>Students who are late more than 5 times in a term will be subject to disciplinary consequences.</li>
