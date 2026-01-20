@@ -178,7 +178,7 @@ Note: Mobile devices, if used inappropriately, may be confiscated and returned o
         </thead>
         <tbody>
             <tr>
-                <td style="border:2px solid #0A0B30; width: 20%;">First-time offenders</td>
+                <td style="border:2px solid #0A0B30; width: 20%; text-align: justify;">First-time offenders</td>
                 <td style="border:2px solid #0A0B30; width: 40%;">
                     <ul>
                         <li style="list-style-type: circle; text-align: justify;">1 to 3 days of detention <strong>and/or</strong> suspension; <strong>and/or</strong></li>
@@ -195,7 +195,7 @@ Note: Mobile devices, if used inappropriately, may be confiscated and returned o
                 </td>
             </tr>
             <tr>
-                <td style="border:2px solid #0A0B30; width: 20%;">Second-time offenders</td>
+                <td style="border:2px solid #0A0B30; width: 20%; text-align: justify;">Second-time offenders</td>
                  <td style="border:2px solid #0A0B30; width: 40%;">
                     <ul>
                         <li style="list-style-type: circle; text-align: justify;">3 to 5 days of detention <strong>and/or</strong> suspension; <strong>and/or</strong></li>
@@ -212,7 +212,7 @@ Note: Mobile devices, if used inappropriately, may be confiscated and returned o
                 </td>
             </tr>
             <tr>
-                 <td style="border:2px solid #0A0B30; width: 20%;">Subsequent offenders</td>
+                 <td style="border:2px solid #0A0B30; width: 20%; text-align: justify;">Subsequent offenders</td>
                  <td style="border:2px solid #0A0B30; width: 40%;">
                     <ul>
                         <li style="list-style-type: circle; text-align: justify;">5 to 14 days of detention <strong>and/or</strong> suspension; <strong>and/or</strong></li>
