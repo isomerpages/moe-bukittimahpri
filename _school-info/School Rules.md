@@ -54,28 +54,31 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
  </td></tr></tbody></table>
 
 <strong>2.2 Late Coming</strong>
-        <ul style="list-style-type: circle; text-align: justify;">
-            <li>Students are to be in school before 7:30am on school days.</li>
-            <li>Students are also expected to be on time for all lessons, CCAs and other activities.</li>
-            <li>Students who are late more than 5 times in a term will be subject to disciplinary consequences.</li>
+        <ul>
+            <li style="list-style-type: circle; text-align: justify;">Students are to be in school before 7:30am on school days.</li>
+            <li style="list-style-type: circle; text-align: justify;">Students are also expected to be on time for all lessons, CCAs and other activities.</li>
+            <li style="list-style-type: circle; text-align: justify;">Students who are late more than 5 times in a term will be subject to disciplinary consequences.</li>
         </ul>
+
 <strong>3. Attire and Appearance </strong>    
 <ul style="margin-left: 20px; text-align: justify;"><strong>3.1 Uniform (Previous Uniform, 2025)</strong></ul>
-        <ul style="list-style-type: circle; text-align: justify;">
-            <li>Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. </li>
-            <li>The first two pictures depict the formal school uniform and the next two pictures, the PE attire.
+        <ul>
+            <li style="list-style-type: circle; text-align: justify;">Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. </li>
+            <li style="list-style-type: circle; text-align: justify;">The first two pictures depict the formal school uniform and the next two pictures, the PE attire.
 <img width="100%" src="/images/Students%20Activities%20Photos/2025_uniform.jpg">
 </li>
             <li style="list-style-type: circle; text-align: justify;">Name tags should be on both uniform top and PE t-shirt. </li>
             <li style="list-style-type: circle; text-align: justify;">Students may wear the BTPS PE attire (BTPS T-shirt and PE shorts) if they have PE or PAL (P1 and P2 only) lessons for the day.</li>
- <li style="list-style-type: circle; text-align: justify;">PE t-shirts are to be tucked into the bottom. </li>            </ul><p></p>
+ <li style="list-style-type: circle; text-align: justify;">PE t-shirts are to be tucked into the bottom. </li>
+</ul>
+
 <p align="justify">Students will only change into CCA attire after school on CCA days. Specific instructions will be communicated to CCA members by their CCA teachers at the first CCA session of the year.  </p>
 
 <strong>3.2 Uniform (New Uniform, 2026) </strong>
-        <ul style="list-style-type: circle; text-align: justify;">
-            <li>Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. </li>
-            <li>The first two pictures depict the formal school uniform and the next two pictures, the PE attire.</li>
-            <li>Students who are late more than 5 times in a term will be subject to disciplinary consequences. <img width="100%" src="/images/Students%20Activities%20Photos/2026_uniform.jpg"></li>
+        <ul>
+            <li style="list-style-type: circle; text-align: justify;">Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. </li>
+            <li style="list-style-type: circle; text-align: justify;">The first two pictures depict the formal school uniform and the next two pictures, the PE attire.</li>
+            <li style="list-style-type: circle; text-align: justify;">Students who are late more than 5 times in a term will be subject to disciplinary consequences. <img width="100%" src="/images/Students%20Activities%20Photos/2026_uniform.jpg"></li>
  <li style="list-style-type: circle; text-align: justify;">Name tags should be on all uniform tops.
 </li><li style="list-style-type: circle; text-align: justify;">Students may wear their PE shorts if they have PE or PAL (P1 and P2 only) lessons for the day.</li>
  <li style="list-style-type: circle; text-align: justify;">Students will only change into CCA attire after school on CCA days. Specific instructions will be communicated to CCA members by their CCA teachers at the first CCA session of the year.</li>       
