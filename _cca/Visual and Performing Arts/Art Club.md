@@ -13,4 +13,4 @@ Within a collaborative environment, students learn to appreciate diverse artisti
 <img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/art1.jpg">
 <img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/art2.jpg">
 <img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/art3.jpg">
-<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/art5.jpg"> 
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/art5.jpg">
