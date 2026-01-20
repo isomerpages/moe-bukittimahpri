@@ -81,22 +81,28 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
  <li style="list-style-type: circle; text-align: justify;">Students will only change into CCA attire after school on CCA days. Specific instructions will be communicated to CCA members by their CCA teachers at the first CCA session of the year.</li>       
         </ul><p></p>
 
-<strong>3.3 General Appearance</strong>
-        <ul style="list-style-type: circle; text-align: justify;">
-            <li>Fingernails must be kept short and clean and not be coloured.</li>
-            <li>Jewellery, ornaments, and other accessories are not permitted. For safety reasons, hoop earrings are not permitted, and girls are only permitted to wear one pair of plain, small, and identical ear studs. </li>
-            <li>Outlandish hairstyles and hair colouring are not allowed. </li>
- <li>Students are to wear white/predominantly white school shoes and socks with the school uniform.</li>
-            <li>Students are to be in the formal school uniform during examinations and formal school events. 
- </li><li>Boys:        
-</li><li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Hair should be short, neat and tidy. The hair should not touch the eyebrows, ears or shirt collar. Sideburns are not allowed.
-</li><li style="list-style-type: disc; margin-left: 20px; text-align: justify;">All boys must be clean shaven and no facial hair is allowed. </li>
-<img style="width:200px;height:200px; border:2px solid black;" src="/images/boys_hair.jpg">
- <li>Girls:        
-</li><li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Girls should maintain simple hairstyles. Hair should not touch the collar or eyebrows.
-</li><li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Longer hair (beyond shoulder length) should be tied up and long fringes clipped.</li>
-<li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Hair accessories should be simple and in either black or dark blue.</li>
-<img style="width:200px;height:200px; border:2px solid black;" src="/images/girls_hair.jpg">
+<p style="margin-left: 20px;"><strong>3.3 General Appearance</strong></p>
+<ul style="list-style-type: circle; text-align: justify; margin-left: 20px;">
+    <li>Fingernails must be kept short and clean and not be coloured.</li>
+    <li>Jewellery, ornaments, and other accessories are not permitted. For safety reasons, hoop earrings are not permitted, and girls are only permitted to wear one pair of plain, small, and identical ear studs.</li>
+    <li>Outlandish hairstyles and hair colouring are not allowed.</li>
+    <li>Students are to wear white/predominantly white school shoes and socks with the school uniform.</li>
+    <li>Students are to be in the formal school uniform during examinations and formal school events.</li>
+    <li>Boys:
+        <ul style="list-style-type: disc; margin-left: 20px; text-align: justify;">
+            <li>Hair should be short, neat and tidy. The hair should not touch the eyebrows, ears or shirt collar. Sideburns are not allowed.</li>
+            <li>All boys must be clean shaven and no facial hair is allowed.</li>
+        </ul>
+        <img style="width:200px; height:200px; border:2px solid black;" src="/images/boys_hair.jpg">
+    </li>
+    <li>Girls:
+        <ul style="list-style-type: disc; margin-left: 20px; text-align: justify;">
+            <li>Girls should maintain simple hairstyles. Hair should not touch the collar or eyebrows.</li>
+            <li>Longer hair (beyond shoulder length) should be tied up and long fringes clipped.</li>
+            <li>Hair accessories should be simple and in either black or dark blue.</li>
+        </ul>
+        <img style="width:200px; height:200px; border:2px solid black;" src="/images/girls_hair.jpg">
+    </li>
 </ul>
 
 <strong>4. Respect for Others</strong>
@@ -122,12 +128,12 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 <li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Sending viral links.</li>
 <li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Taking and/or sharing photos and videos without permission. </li></ul>
 
-<ul style="margin-left: 20px; text-align: justify;"><strong>4.3	Aggression and Weapons</strong></ul>
-        <ul style="list-style-type: circle; text-align: justify;">
-            <li>The school does not condone acts of aggression under any circumstances. </li>
-            <li>Assault occurs when a student attacks others such as students or school staff, regardless of whether there is an injury, trigger or provocation.</li>
-<li>Fighting occurs when a student is involved in a confrontation between individuals or opposing groups, when one or both sides attempt to harm or gain power over the other using bodily force or weapons.</li>
-<li>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others. </li>
+<p style="margin-left: 20px;"><strong>4.3 Aggression and Weapons</strong></p>
+<ul style="list-style-type: circle; text-align: justify; margin-left: 20px;">
+    <li>The school does not condone acts of aggression under any circumstances.</li>
+    <li>Assault occurs when a student attacks others such as students or school staff, regardless of whether there is an injury, trigger or provocation.</li>
+    <li>Fighting occurs when a student is involved in a confrontation between individuals or opposing groups, when one or both sides attempt to harm or gain power over the other using bodily force or weapons.</li>
+    <li>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.</li>
 </ul>
 
 <strong>5. Respect for the Environment </strong>    
