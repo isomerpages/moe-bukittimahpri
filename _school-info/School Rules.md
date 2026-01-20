@@ -33,7 +33,7 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
     </li>
 </ul>     
         
-<strong>Table 2.1 Valid Reasons for Absence</strong>
+<strong>Table 2.1: Valid Reasons for Absence</strong>
 <table style="border:2px solid #0A0B30"><tbody><tr>
 <td style="border:2px solid #0A0B30; width: 30%;"><strong>Valid Reasons for Absence</strong> </td><td style="border:2px solid #0A0B30"><b>Examples</b> </td></tr>
 <tr>
