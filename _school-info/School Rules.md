@@ -9,15 +9,15 @@ description: ""
 <p align="justify">
 At BTPS, we believe that rules are necessary to create a safe and conducive environment for our students to learn and play. Every student, when given guidance and support, can learn from his/her mistakes. A shared understanding of expectations from both home and school is the foundation for character growth.
 </p>
-<p align="justify">
+
 <strong>1. Respect for Nation and School</strong>
-</p><ul style="list-style-type: circle;">
+<ul style="list-style-type: circle;">
             <li>Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with right fist placed over the heart.</li>
             <li>All students are expected to:
                     </li><li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Stand at attention during the flag raising ceremony.</li>
                     <li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Sing the school song with pride.</li>
                     <li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Uphold the school name and school values by behaving with pride and decorum in and outside of the school.</li>
-                </ul><p></p>
+                </ul>
   
 <strong>2. Attendance and Late Coming</strong>    
 <p style="margin-left: 20px;"><strong>2.1 Attendance</strong></p>
@@ -32,7 +32,7 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
         </ul>
     </li>
 </ul>
-          
+        
         
 <strong>Table 2.1 Valid Reasons for Absence</strong>
 <table style="border:2px solid #0A0B30">
@@ -70,6 +70,7 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
             <li style="list-style-type: circle; text-align: justify;">Students may wear the BTPS PE attire (BTPS T-shirt and PE shorts) if they have PE or PAL (P1 and P2 only) lessons for the day.</li>
  <li style="list-style-type: circle; text-align: justify;">PE t-shirts are to be tucked into the bottom. </li>            </ul><p></p>
 <p align="justify">Students will only change into CCA attire after school on CCA days. Specific instructions will be communicated to CCA members by their CCA teachers at the first CCA session of the year.  </p>
+
 <strong>3.2 Uniform (New Uniform, 2026) </strong>
         <ul style="list-style-type: circle; text-align: justify;">
             <li>Students are to wear the prescribed school uniform and modifications to the uniform are not allowed. </li>
@@ -96,9 +97,9 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 </li><li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Longer hair (beyond shoulder length) should be tied up and long fringes clipped.</li>
 <li style="list-style-type: disc; margin-left: 20px; text-align: justify;">Hair accessories should be simple and in either black or dark blue.</li>
 <img style="width:200px;height:200px; border:2px solid black;" src="/images/girls_hair.jpg">
-</ul><p></p>
-<strong>4. Respect for Others</strong>
+</ul>
 
+<strong>4. Respect for Others</strong>
 <p style="margin-left: 20px;"><strong>4.1 Conduct and Behaviour</strong></p>
 <ul style="list-style-type: circle; text-align: justify; margin-left: 20px;">
     <li>Students are expected to treat their class/school mates, teachers, and the school staff as well as members of the public with respect and graciousness.</li>
@@ -108,7 +109,6 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 <li>Misbehaviour outside of the school will also be subject to disciplinary consequences and has an implication on the conduct grade, like other forms of misbehaviour. </li>
 <li>Students are to be mindful of their speech and actions and are not to use coarse or offensive language and/or actions under any circumstances.</li>
 </ul>
-
 
 <p style="margin-left: 20px;"><strong>4.2 Bullying</strong></p>
 <ul style="list-style-type: circle; text-align: justify; margin-left: 20px;">
@@ -128,10 +128,10 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
             <li>Assault occurs when a student attacks others such as students or school staff, regardless of whether there is an injury, trigger or provocation.</li>
 <li>Fighting occurs when a student is involved in a confrontation between individuals or opposing groups, when one or both sides attempt to harm or gain power over the other using bodily force or weapons.</li>
 <li>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others. </li>
-</ul><p></p>
-<p align="justify">
+</ul>&lt;
+
 <strong>5. Respect for the Environment </strong>    
-</p><ul style="list-style-type: circle; text-align: justify;">
+<ul style="list-style-type: circle; text-align: justify;">
             <li>Students are to ensure a clean and conducive environment by cleaning up after themselves and picking up any litter around them.</li>
             <li>Students are to maintain a clean and hygienic classroom environment.</li>
 <li>Assigned classroom cleaning duties are to be completed daily.</li>
