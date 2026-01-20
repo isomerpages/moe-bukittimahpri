@@ -38,7 +38,7 @@ variant: markdown
 <p>Mdm Jan Lin</p>
 </td>
 <td style="width: 30%" rowspan="1" colspan="1">
-<p>Vice Principal</p>
+<p>Vice-Principal</p>
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
 <p><a href="mailto:lin_shihua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_shihua@schools.gov.sg</a>
@@ -50,7 +50,7 @@ variant: markdown
 <p>Mrs Shirlyn Seah</p>
 </td>
 <td style="width: 30%" rowspan="1" colspan="1">
-<p>Vice Principal</p>
+<p>Vice-Principal</p>
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
 <p><a href="mailto:koh_lee_kun_shirlyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_lee_kun_shirlyn@schools.gov.sg</a>
