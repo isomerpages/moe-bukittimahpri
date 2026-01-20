@@ -177,53 +177,53 @@ Note: Mobile devices, if used inappropriately, may be confiscated and returned o
 <table style="border:2px solid #0A0B30">
         <thead>
             <tr>
-                <th style="border:2px solid #0A0B30; width: 20%; text-align: center;">Baseline</th>
-                <th style="border:2px solid #0A0B30; width: 40%; text-align: center;">Vaping</th>
-                <th style="border:2px solid #0A0B30; width: 40%; text-align: center;">Vaping with Etomidate</th>
+                <th style="border:2px solid #0A0B30; width: 20%;">Baseline</th>
+                <th style="border:2px solid #0A0B30; width: 40%;">Vaping</th>
+                <th style="border:2px solid #0A0B30; width: 40%;">Vaping with Etomidate</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td style="border:2px solid #0A0B30; width: 20%; text-align: justify;">First-time offenders</td>
+                <td style="border:2px solid #0A0B30; width: 20%;">First-time offenders</td>
                 <td style="border:2px solid #0A0B30; width: 40%;">
                     <ul>
-                        <li style="list-style-type: circle; text-align: justify;">1 to 3 days of detention <strong>and/or</strong> suspension; <strong>and/or</strong></li>
-                        <li style="list-style-type: circle; text-align: justify;">1 stroke of the cane (for boys only, with aggravating factors)</li>
-                        <li style="list-style-type: circle; text-align: justify;"><strong>AND</strong> conduct grade adjustment</li>
+                        <li style="list-style-type: circle;">1 to 3 days of detention <strong>and/or</strong> suspension; <strong>and/or</strong></li>
+                        <li style="list-style-type: circle;">1 stroke of the cane (for boys only, with aggravating factors)</li>
+                        <li style="list-style-type: circle;"><strong>AND</strong> conduct grade adjustment</li>
                     </ul>
                 </td>
                  <td style="border:2px solid #0A0B30; width: 40%;">
                     <ul>
-                        <li style="list-style-type: circle; text-align: justify;">3 to 5 days of detention <strong>and/or</strong> suspension; <strong>and/or</strong></li>
-                        <li style="list-style-type: circle; text-align: justify;">Up to 2 strokes of the cane (for boys only)</li>
-                        <li style="list-style-type: circle; text-align: justify;"><strong>AND</strong> conduct grade adjustment (no better than 'Fair')</li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td style="border:2px solid #0A0B30; width: 20%; text-align: justify;">Second-time offenders</td>
-                 <td style="border:2px solid #0A0B30; width: 40%;">
-                    <ul>
-                        <li style="list-style-type: circle; text-align: justify;">3 to 5 days of detention <strong>and/or</strong> suspension; <strong>and/or</strong></li>
-                        <li style="list-style-type: circle; text-align: justify;">Up to 2 strokes of the cane (for boys only)</li>
-                        <li style="list-style-type: circle; text-align: justify;"><strong>AND</strong> conduct grade adjustment (no better than 'Fair')</li>
-                    </ul>
-                </td>
-                 <td style="border:2px solid #0A0B30; width: 40%;">
-                    <ul>
-                        <li style="list-style-type: circle; text-align: justify;">5 to 14 days of detention <strong>and/or</strong> suspension; <strong>and/or</strong></li>
-                        <li style="list-style-type: circle; text-align: justify;">Up to 3 strokes of the cane (for boys only)</li>
-                        <li style="list-style-type: circle; text-align: justify;"><strong>AND</strong> conduct grade adjustment ('Poor')</li>
+                        <li style="list-style-type: circle;">3 to 5 days of detention <strong>and/or</strong> suspension; <strong>and/or</strong></li>
+                        <li style="list-style-type: circle;">Up to 2 strokes of the cane (for boys only)</li>
+                        <li style="list-style-type: circle;"><strong>AND</strong> conduct grade adjustment (no better than 'Fair')</li>
                     </ul>
                 </td>
             </tr>
             <tr>
-                 <td style="border:2px solid #0A0B30; width: 20%; text-align: justify;">Subsequent offenders</td>
+                <td style="border:2px solid #0A0B30; width: 20%;">Second-time offenders</td>
                  <td style="border:2px solid #0A0B30; width: 40%;">
                     <ul>
-                        <li style="list-style-type: circle; text-align: justify;">5 to 14 days of detention <strong>and/or</strong> suspension; <strong>and/or</strong></li>
-                        <li style="list-style-type: circle; text-align: justify;">Up to 3 strokes of the cane (for boys only)</li>
-                        <li style="list-style-type: circle; text-align: justify;"><strong>AND</strong> conduct grade adjustment ('Poor')</li>
+                        <li style="list-style-type: circle;">3 to 5 days of detention <strong>and/or</strong> suspension; <strong>and/or</strong></li>
+                        <li style="list-style-type: circle;">Up to 2 strokes of the cane (for boys only)</li>
+                        <li style="list-style-type: circle;"><strong>AND</strong> conduct grade adjustment (no better than 'Fair')</li>
+                    </ul>
+                </td>
+                 <td style="border:2px solid #0A0B30; width: 40%;">
+                    <ul>
+                        <li style="list-style-type: circle;">5 to 14 days of detention <strong>and/or</strong> suspension; <strong>and/or</strong></li>
+                        <li style="list-style-type: circle;">Up to 3 strokes of the cane (for boys only)</li>
+                        <li style="list-style-type: circle;"><strong>AND</strong> conduct grade adjustment ('Poor')</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                 <td style="border:2px solid #0A0B30; width: 20%;">Subsequent offenders</td>
+                 <td style="border:2px solid #0A0B30; width: 40%;">
+                    <ul>
+                        <li style="list-style-type: circle;">5 to 14 days of detention <strong>and/or</strong> suspension; <strong>and/or</strong></li>
+                        <li style="list-style-type: circle;">Up to 3 strokes of the cane (for boys only)</li>
+                        <li style="list-style-type: circle;"><strong>AND</strong> conduct grade adjustment ('Poor')</li>
                     </ul>
                 </td>
                 <td></td>
@@ -240,14 +240,14 @@ Note: Mobile devices, if used inappropriately, may be confiscated and returned o
 <p align="justify">Students are expected to familiarise themselves with all pertinent information about the examinations and to adhere to the examination conduct stated below.    
 </p><ul>
             <li style="list-style-type: circle; text-align: justify;">Reporting time for school is as usual during examination days. No extra time will be given for latecomers.</li>
-            <li style="list-style-type: circle; text-align: justify;">There will be no re-sitting of examination papers for students who are absent. Any student who is absent from any paper should produce a valid medical certificate. This should be submitted to his/her Form Teacher as soon as the student returns to school.</li>
- <li style="list-style-type: circle; text-align: justify;">Students are not allowed to bring to the examination room, any notes, drawings, pictures, tracings, books, etc, other than those specially permitted by the examiner/invigilator. </li>
-<li style="list-style-type: circle; text-align: justify;">Students are not allowed to interact nor pass anything to anyone during the examination. No borrowing of items is allowed.  </li>
-<li style="list-style-type: circle; text-align: justify;">Students are not allowed to communicate with each other in the examination venue. </li>
-<li style="list-style-type: circle; text-align: justify;">Any student who wishes to communicate with an invigilator must remain seated and raise his/her hand. Note that no questions on the meaning or interpretation of an examination question will be answered.</li>
- <li style="list-style-type: circle; text-align: justify;">Students are to avoid going to the toilet during the examination. They will not be allowed to refill their bottles during the examination. It should be done before the start of the paper.  </li> 
-<li style="list-style-type: circle; text-align: justify;">Students are expected to know and adhere to all examination rules. </li> 
-<li style="list-style-type: circle; text-align: justify;">A student who is guilty of improper conduct or misbehaviour during the examination will be subjected to disciplinary consequences.</li> 
+            <li style="list-style-type: circle;">There will be no re-sitting of examination papers for students who are absent. Any student who is absent from any paper should produce a valid medical certificate. This should be submitted to his/her Form Teacher as soon as the student returns to school.</li>
+ <li style="list-style-type: circle;">Students are not allowed to bring to the examination room, any notes, drawings, pictures, tracings, books, etc, other than those specially permitted by the examiner/invigilator. </li>
+<li style="list-style-type: circle;">Students are not allowed to interact nor pass anything to anyone during the examination. No borrowing of items is allowed.  </li>
+<li style="list-style-type: circle;">Students are not allowed to communicate with each other in the examination venue. </li>
+<li style="list-style-type: circle;">Any student who wishes to communicate with an invigilator must remain seated and raise his/her hand. Note that no questions on the meaning or interpretation of an examination question will be answered.</li>
+ <li style="list-style-type: circle;">Students are to avoid going to the toilet during the examination. They will not be allowed to refill their bottles during the examination. It should be done before the start of the paper.  </li> 
+<li style="list-style-type: circle;">Students are expected to know and adhere to all examination rules. </li> 
+<li style="list-style-type: circle;">A student who is guilty of improper conduct or misbehaviour during the examination will be subjected to disciplinary consequences.</li> 
 <li style="list-style-type: circle;">A student who is caught cheating during any test/examination may be given zero mark for that paper and a “Poor” conduct grade for the semester. </li>
 <li style="list-style-type: circle;">Examples of cheating/attempting to cheat may include:</li>
 <li style="list-style-type: disc; margin-left: 20px;">Possessing notes or other prohibited items, copying from others, allowing others to copy, tampering with marks. </li>
@@ -278,15 +278,15 @@ Students are expected to know and follow school rules. They should remind their 
 </table><table>
         <thead>
             <tr>
-                <th style="border:2px solid #0A0B30; width: 20%; text-align: center;">Category</th>
-                <th style="border:2px solid #0A0B30; width: 80%; text-align: center;">Offence</th>
+                <th style="border:2px solid #0A0B30; width: 20%;">Category</th>
+                <th style="border:2px solid #0A0B30; width: 80%;">Offence</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td style="border:2px solid #0A0B30; width: 20%;">Attendance and Late Coming</td>
                 <td style="border:2px solid #0A0B30; width: 80%;">
-                    <ul style="list-style-type: circle; text-align: justify;">
+                    <ul style="list-style-type: circle;">
                         <li>Truancy</li>
                         <li>Persistent late coming (more than 5 times a term)</li>
                         <li>Leaving school without permission</li>
@@ -298,7 +298,7 @@ Students are expected to know and follow school rules. They should remind their 
             <tr>
                 <td style="border:2px solid #0A0B30; width: 20%;">Misconduct</td>
                 <td style="border:2px solid #0A0B30; width: 80%;">
-                    <ul style="list-style-type: circle; text-align: justify;">
+                    <ul style="list-style-type: circle;">
                         <li>Open defiance/Rudeness</li>
                         <li>Disruptive behaviour</li>
                         <li>Cheating during assessment</li>
@@ -311,9 +311,9 @@ Students are expected to know and follow school rules. They should remind their 
                 </td>
             </tr>
             <tr>
-                <td style="border:2px solid #0A0B30; width: 20%;">Theft/Damage of Property</td>
+                <td style="border:2px solid #0A0B30; width: 20%; text-align: justify;">Theft/Damage of Property</td>
                 <td style="border:2px solid #0A0B30; width: 80%;">
-                    <ul style="list-style-type: circle; text-align: justify;">
+                    <ul style="list-style-type: circle;">
                         <li>Arson/Mischief with fire</li>
                         <li>Theft/Stealing</li>
                         <li>Vandalism/Damage of school property</li>
@@ -322,9 +322,9 @@ Students are expected to know and follow school rules. They should remind their 
                 </td>
             </tr>
             <tr>
-                <td style="border:2px solid #0A0B30; width: 20%;">Other Major Offences</td>
+                <td style="border:2px solid #0A0B30; width: 20%; text-align: justify;">Other Major Offences</td>
                 <td style="border:2px solid #0A0B30; width: 80%;">
-                    <ul style="list-style-type: circle; text-align: justify;">
+                    <ul style="list-style-type: circle;">
                         <li>Abuse of technology</li>
                         <li>Assault</li>
                         <li>Fighting</li>
