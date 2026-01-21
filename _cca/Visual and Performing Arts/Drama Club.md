@@ -13,9 +13,8 @@ As they take part in rehearsals and stage productions, students develop resilien
 <p align="justify">
 The Drama Club nurtures students’ talents while instilling important values, preparing them for future challenges both on and off the stage.</p>
 
-
-![](/images/CCA/drama24_ccafair.jpg)
-
-![](/images/CCA/25_drama_02.png)
-
-![](/images/CCA/drama24_3.jpg)
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/drama1.jpg">
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/drama2.jpg">
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/drama3.jpg">
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/drama4.jpg">
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/drama5.jpg">
