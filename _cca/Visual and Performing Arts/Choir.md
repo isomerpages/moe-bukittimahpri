@@ -12,8 +12,7 @@ BTPS Choir aims to nurture students’ love for music while striving for a high 
 Teamwork and collaboration are at the heart of the choir experience. Each singer plays&nbsp;an important role&nbsp;in contributing to a unified and harmonious sound, learning to listen attentively and work closely with others to achieve a successful performance.&nbsp;</p>
 <p align="justify">
 The BTPS Choir values respect, inclusivity, and diversity, creating a supportive environment where every member feels valued. Choir sessions provide a positive and enjoyable space for students to express themselves through music, build resilience, and grow both musically and personally. Through shared experiences and collective effort, the choir fosters strong camaraderie, meaningful friendships, and&nbsp;a strong sense of belonging.</p>
-
-
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/choir004.jpg"> 
 <img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/choir002.jpg">
 <img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/choir003.jpg">
 <img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/choir001.jpg">
