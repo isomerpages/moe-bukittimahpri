@@ -12,7 +12,7 @@ To design meaningful experiences that engage students in problem solving through
 
 <strong>Objectives:</strong>
 <ul>
-<li>Develop students’ confidence, adaptability,and resilience in mathematical problem solving.</li>
+<li>Develop students’ confidence, adaptability, and resilience in mathematical problem solving.</li>
 <li>Strengthen conceptual understanding and procedural fluency through inquiry-based learning.</li>
 <li>Cultivate logical reasoning, clear communication, and reflective thinking.</li>
 <li>Nurture positive attitudes towards Mathematics and appreciation of its real-world relevance.</li>
@@ -33,12 +33,12 @@ As students work together to explore ideas, test prototypes and reflect on their
 By connecting mathematical concepts to everyday decisions and emerging technologies, the programme nurtures habits that prepare students to be future-ready — adaptable in new situations, thoughtful in their choices, and equipped with the reasoning skills needed to thrive in a world shaped by innovation and change.</p>
 </td></tr>
 <tr><td style="background-color: #74cdd7;"><strong><font color="ffffff">Math Enrichment Lab: Extending Ideas and Challenges</font></strong></td></tr>
-<tr><td><p align="justify">Our Enrichment Programme offers selected Primary 4 to 6 students opportunities to go beyond the standard curriculum and explore Mathematics at greater depth. Through platforms such as Math Olympiad Training, E2K and MathExpert@Work, students engage with complex, non-routine problems that require flexible thinking, creative reasoning and strategic problem-solving.</p> 
+<tr><td><p align="justify">Our Enrichment Programme offers selected Primary 4 to 6 students opportunities to go beyond the standard curriculum and explore Mathematics at greater depth. Through platforms such as Math Olympiad Training, E2K and Math Expert @ Work, students engage with complex, non-routine problems that require flexible thinking, creative reasoning and strategic problem-solving.</p> 
 <p align="justify">
 These experiences nurture adaptive learners who can adjust their approaches when faced with unfamiliar challenges, consider alternative strategies and persist through difficulty. As students explore advanced concepts, they learn to embrace uncertainty, refine their thinking, and see mistakes as part of the learning process. 
 </p>
 <p align="justify">
-By engaging in collaborative investigations and Olympiad competitions, students build confidence, strengthen ;higher-order thinking skills and experience the excitement of uncovering mathematical ideas in new and meaningful ways. The programme not only deepens their appreciation for Mathematics, but also equips them with the adaptability and resilience needed to thrive in more complex learning environments.</p>
+By engaging in collaborative investigations and Olympiad competitions, students build confidence, strengthen higher-order thinking skills and experience the excitement of uncovering mathematical ideas in new and meaningful ways. The programme not only deepens their appreciation for Mathematics, but also equips them with the adaptability and resilience needed to thrive in more complex learning environments.</p>
 <p></p>
 </td></tr>
 </tbody></table>
