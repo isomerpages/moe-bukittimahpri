@@ -362,7 +362,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td style="width: 30%" rowspan="2" colspan="1">
+<td style="width: 30%" rowspan="3" colspan="1">
 <p>3 Respect</p>
 </td>
 <td style="width: 30%" rowspan="1" colspan="1">
@@ -379,6 +379,15 @@ variant: markdown
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
 <p><a href="mailto:lim_xue_mei_joanne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_xue_mei_joanne@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td style="width: 30%" rowspan="1" colspan="1">
+<p>Mr James Koh</p>
+</td>
+<td style="width: 40%" rowspan="1" colspan="1">
+<p><a href="mailto:james_koh_thiam_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">james_koh_thiam_ming@schools.gov.sg</a>
 </p>
 </td>
 </tr>
