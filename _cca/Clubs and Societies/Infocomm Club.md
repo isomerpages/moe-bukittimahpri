@@ -14,4 +14,3 @@ Through participation, students build computational thinking and digital literac
 The Infocomm Club supports students in developing confidence and responsibility in the use of technology, preparing them for future digital learning experiences and helping them become thoughtful and capable digital learners in an increasingly technology-driven world.</p>
 
 <img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/icc01.jpg">
-
