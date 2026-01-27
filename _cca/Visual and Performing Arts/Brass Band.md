@@ -16,4 +16,3 @@ The CCA reinforces the value of responsibility as members care for their instrum
 <img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/band001.jpg">
 <img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/band002.jpg">
 <img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/band003.jpg"><img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/band004.jpg"><img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/band005.jpg"><img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/band006.jpg">
-
