@@ -12,8 +12,7 @@ Students are exposed to a wide range of musical pieces, from classical to contem
 <p align="justify">
 The CCA reinforces the value of responsibility as members care for their instruments, attend rehearsals punctually, and support one another during practices and performances. Through hands-on learning and group music-making, students develop teamwork, confidence, and a sense of belonging, forming lasting friendships and a lifelong love for music.</p>
 
-![](/images/CCA/band24_2.jpg)<br>
-![](/images/CCA/band24_3.jpg)<br>
-![](/images/CCA/brasssymphonia24_3.jpg)<br>
-![](/images/CCA/brasssymphonia24_2.jpg)<br>
-![](/images/CCA/brasssymphonia24_1.jpg)<br>
+<img style="margin-bottom: 8px; width=1600;" src="/images/CCA/brasssymphonia24_2.jpg">
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/band001.jpg">
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/band002.jpg">
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/band003.jpg"><img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/band004.jpg"><img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/band005.jpg"><img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/band006.jpg">

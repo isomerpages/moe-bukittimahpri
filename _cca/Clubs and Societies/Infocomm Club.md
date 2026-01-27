@@ -11,10 +11,6 @@ The&nbsp;Infocomm&nbsp;Club provides students with opportunities to explore comp
 <p align="justify">
 Through participation, students build computational thinking and digital literacy skills while learning to approach challenges with perseverance and adaptability. They are encouraged to take ownership of their learning, work collaboratively with others, and support one another in achieving shared goals.&nbsp;</p>
 <p align="justify">
-The&nbsp;Infocomm&nbsp;Club supports students in developing confidence and responsibility in the use of technology, preparing them for future digital learning&nbsp;experiences&nbsp;and helping them become thoughtful and capable digital learners in an increasingly technology-driven world.</p>
+The Infocomm Club supports students in developing confidence and responsibility in the use of technology, preparing them for future digital learning experiences and helping them become thoughtful and capable digital learners in an increasingly technology-driven world.</p>
 
-<img width="80%" src="/images/CCA/infocomm24.jpg"><center><strong>Using Microbit to solve real world problem.</strong></center>
-<img src="/images/CCA/infocomm24_2.jpg"><br>
-<img src="/images/CCA/infocomm24_3.jpg">
-
-<strong>SDMA Entry 2024 – Evan Lu Jiayi (5G)</strong><img src="/images/CCA/infocomm24_5.jpg">
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/icc01.jpg">
