@@ -51,10 +51,10 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for m
 <h3><center>2026 SEXUALITY EDUCATION LESSONS IN CCE <br>PRIMARY 5</center></h3>
 <table width="100%">
 <tbody><tr>
-<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><strong>CCE(FTGP) THEME</strong></td>
-<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><strong>LESSON TITLE / DURATION</strong></td>
-<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><strong>LESSON OVERVIEW</strong></td>
-<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><strong>TIME PERIOD <br>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9; text-align: center;"><strong>CCE(FTGP) THEME</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9; text-align: center;"><strong>LESSON TITLE / DURATION</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9; text-align: center;"><strong>LESSON OVERVIEW</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9; text-align: center;"><strong>TIME PERIOD <br>
 (e.g. Term 1 Week 2)
 </strong></td>
 </tr>
