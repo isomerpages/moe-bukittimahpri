@@ -46,9 +46,11 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for m
 <strong>Sexuality Education Lessons</strong>
 <li><p align="justify">The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require close guidance so that they can respond with discernment to the sexual messages in the media and other sources. </p></li><br>
 
-<li><p align="justify">Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks. </p></li>
+<li><p align="justify">Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks. </p></li><br>
 
-
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/sED1.jpg">
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/sED2.jpg">
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/sED3.jpg">
 
 <li><p align="justify">Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. </p></li><br>
 <li><p align="justify">Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. </p></li><br>
