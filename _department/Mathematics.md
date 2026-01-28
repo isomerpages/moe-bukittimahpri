@@ -24,7 +24,9 @@ To design meaningful experiences that engage students in problem solving through
 <tr><td><p align="justify">Mathematics journalling provides students with opportunities to reflect on ;their learning, explain their reasoning, and make meaningful connections between mathematical ideas. Across all levels, students are guided to reason logically, explore different strategies, and develop metacognitive abilities as they reflect on their learning journey. Through regular journal entries supported by thinking routines, students learn to communicate their thinking clearly using mathematical language, diagrams, and examples. These routines deepen reflection and help students articulate what they notice, wonder, and understand. </p>
 <img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/math004.jpg">
 <p align="justify">
-The journalling process strengthens critical thinking as students justify their approaches, builds adaptive thinking as they revise strategies based on new insights, and encourages inventive thinking as they explore alternative methods or create their own representations. Over time, journalling nurtures confident and thoughtful learners who take ownership of their learning and see Mathematics as a dynamic and connected discipline.</p></td></tr>
+The journalling process strengthens critical thinking as students justify their approaches, builds adaptive thinking as they revise strategies based on new insights, and encourages inventive thinking as they explore alternative methods or create their own representations. Over time, journalling nurtures confident and thoughtful learners who take ownership of their learning and see Mathematics as a dynamic and connected discipline. 
+<img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/mathjournal.jpg"></p></td></tr>
+
 
 
 <tr><td style="background-color: #f48470;"><strong><font color="ffffff">Future-Makers: Math Through Financial Literacy &amp; STEM </font></strong></td></tr>
