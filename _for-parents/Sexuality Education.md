@@ -48,7 +48,7 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for m
 
 <li><p align="justify">Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks. </p></li><br><br>
 <strong>At Bukit Timah Primary School, the following Sexuality Education lessons will be taught in 2026: </strong>
-<h3><center>2026 SEXUALITY EDUCATION LESSONS IN CCE <br>PRIMARY 5</center></h3>
+<strong><center>2026 SEXUALITY EDUCATION LESSONS IN CCE <br>PRIMARY 5</center></strong>
 <table width="100%">
 <tbody><tr>
 <td style="border:2px solid #0A0B30;  background-color:#d9d9d9; text-align: center;"><strong>CCE(FTGP) THEME</strong></td>
@@ -89,7 +89,7 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for m
 </td></tr>
 </tbody></table>
 
-<h3><center>2026 SEXUALITY EDUCATION LESSONS IN CCE <br>PRIMARY 6</center></h3>
+<strong><center>2026 SEXUALITY EDUCATION LESSONS IN CCE <br>PRIMARY 6</center></strong>
 <table width="100%">
 <tbody><tr>
 <td style="border:2px solid #0A0B30;  background-color:#d9d9d9; text-align: center;"><strong>CCE(FTGP) THEME</strong></td>
