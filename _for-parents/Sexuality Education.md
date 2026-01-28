@@ -30,7 +30,7 @@ description: ""
 </ol>
 
 
-You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for more information on MOE Sexuality Education. 
+You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for more information on MOE Sexuality Education. <br>
 
 <strong>O</strong>VERVIEW OF <strong>B</strong>UKIT <strong>T</strong>IMAH <strong>P</strong>RIMARY <strong>S</strong>CHOOL’S <strong>S</strong>EXUALITY <strong>E</strong>DUCATION <strong>P</strong>ROGRAMME FOR <strong>2026</strong>
  
