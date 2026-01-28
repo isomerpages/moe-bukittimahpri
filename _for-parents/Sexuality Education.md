@@ -59,7 +59,7 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for m
 </strong></td>
 </tr>
 <tr>
-<td rowspan="3" style="border:2px solid #0A0B30;  background-color:#ffffff"><p align="justify"><br>Growing Years</p></td>
+<td rowspan="3" style="border:2px solid #0A0B30;  background-color:#ffffff; text-align: center;"><p align="justify"><br>Growing Years</p></td>
 <td style="border:2px solid #0A0B30;  background-color:#ffffff; text-align: center;"><br>The Changes in Me <br>
 (60 min)
 </td>
