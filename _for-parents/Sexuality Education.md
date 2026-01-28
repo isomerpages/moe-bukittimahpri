@@ -60,66 +60,66 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for m
 </tr>
 <tr>
 <td rowspan="3" style="border:2px solid #0A0B30;  background-color:#ffffff"><p align="justify"><br>Growing Years</p></td>
-<td style="border:2px solid #0A0B30;  background-color:#ffffff"><br>The Changes in Me <br>
+<td style="border:2px solid #0A0B30;  background-color:#ffffff; text-align: center;"><br>The Changes in Me <br>
 (60 min)
 </td>
-<td style="border:2px solid #0A0B30;  background-color:#ffffff">
+<td style="border:2px solid #0A0B30;  background-color:#ffffff; text-align: center;">
 <p align="justify">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br><br><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i></p></td>
-<td style="border:2px solid #0A0B30;  background-color:#ffffff"><br>Term 3 Week 8<br><br>
+<td style="border:2px solid #0A0B30;  background-color:#ffffff; text-align: center;"><br>Term 3 Week 8<br><br>
 17 August 2026
 </td>
 </tr>
 <tr>
-<td style="border:2px solid #0A0B30;  background-color:#ffffff"><br>Did You Know?<br>
+<td style="border:2px solid #0A0B30;  background-color:#ffffff; text-align: center;"><br>Did You Know?<br>
 (60 min)
 </td>
 <td style="border:2px solid #0A0B30;  background-color:#ffffff">
 <p align="justify">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’. </strong><br><br><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i></p>
 </td>
-<td style="border:2px solid #0A0B30;  background-color:#ffffff"><br>Term 3 Week 9<br><br>24 August 2026 <br>
+<td style="border:2px solid #0A0B30;  background-color:#ffffff; text-align: center;"><br>Term 3 Week 9<br><br>24 August 2026 <br>
 </td></tr>
 <tr>
-<td style="border:2px solid #0A0B30;  background-color:#ffffff"><br>Keeping Myself Safe<br>
+<td style="border:2px solid #0A0B30;  background-color:#ffffff; text-align: center;"><br>Keeping Myself Safe<br>
 (60 min)
 </td>
-<td style="border:2px solid #0A0B30;  background-color:#ffffff">
+<td style="border:2px solid #0A0B30;  background-color:#ffffff; text-align: center;">
 <p align="justify">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i></p>
 </td>
-<td style="border:2px solid #0A0B30;  background-color:#ffffff"><br>Term 3 Week 10<br><br>31 August 2026<br>
+<td style="border:2px solid #0A0B30;  background-color:#ffffff; text-align: center;"><br>Term 3 Week 10<br><br>31 August 2026<br>
 </td></tr>
 </tbody></table>
 
 <h3><center>2026 SEXUALITY EDUCATION LESSONS IN CCE <br>PRIMARY 6</center></h3>
 <table width="100%">
 <tbody><tr>
-<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><strong>CCE(FTGP) THEME</strong></td>
-<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><strong>LESSON TITLE / DURATION</strong></td>
-<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><strong>LESSON OVERVIEW</strong></td>
-<td style="border:2px solid #0A0B30;  background-color:#d9d9d9"><strong>TIME PERIOD <br>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9; text-align: center;"><strong>CCE(FTGP) THEME</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9; text-align: center;"><strong>LESSON TITLE / DURATION</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9; text-align: center;"><strong>LESSON OVERVIEW</strong></td>
+<td style="border:2px solid #0A0B30;  background-color:#d9d9d9; text-align: center;"><strong>TIME PERIOD <br>
 (e.g. Term 1 Week 2)
 </strong></td>
 </tr>
 <tr>
-<td rowspan="3" style="border:2px solid #0A0B30;  background-color:#ffffff"><p align="justify"><br>Growing Years</p></td>
-<td style="border:2px solid #0A0B30;  background-color:#ffffff"><br>Are We More than Friends?<br>
+<td rowspan="3" style="border:2px solid #0A0B30;  background-color:#ffffff; text-align: center;"><p align="justify"><br>Growing Years</p></td>
+<td style="border:2px solid #0A0B30;  background-color:#ffffff; text-align: center;"><br>Are We More than Friends?<br>
 Lesson 1<br>
 (60 min)
 </td>
 <td style="border:2px solid #0A0B30;  background-color:#ffffff">
 <p align="justify">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</p></td>
-<td style="border:2px solid #0A0B30;  background-color:#ffffff"><br>Term 2 Week 8<br><br>
+<td style="border:2px solid #0A0B30;  background-color:#ffffff; text-align: center;"><br>Term 2 Week 8<br><br>
 11 May 2026
 </td>
 </tr>
 <tr>
-<td style="border:2px solid #0A0B30;  background-color:#ffffff"><br>Are We More than Friends?<br>
+<td style="border:2px solid #0A0B30;  background-color:#ffffff; text-align: center;"><br>Are We More than Friends?<br>
 Lesson 2<br>
 (60 min)
 </td>
 <td style="border:2px solid #0A0B30;  background-color:#ffffff">
 <p align="justify">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</p>
 </td>
-<td style="border:2px solid #0A0B30;  background-color:#ffffff">Term 2 Week 9 <br>18 May 2026
+<td style="border:2px solid #0A0B30;  background-color:#ffffff; text-align: center;">Term 2 Week 9 <br>18 May 2026
 </td></tr>
 </tbody></table>
 
