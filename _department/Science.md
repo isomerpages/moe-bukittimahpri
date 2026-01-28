@@ -26,18 +26,18 @@ Through TRs, students reflect, question, explain their reasoning, and relate sci
 <p align="justify">
 SAM journaling deepens conceptual grasp and nurtures critical thinkers who go beyond&nbsp;memorisation. Students learn to apply, innovate, and build new knowledge, growing into confident learners who engage actively and thoughtfully with science.</p>
 </td></tr>
-<tr><td style="background-color: #f48470;"><strong><font color="ffffff">Science Enrichment: Learning Plots&nbsp;and&nbsp;Work Like a Scientist</font></strong></td></tr>
+<tr><td style="background-color: #f48470;"><strong><font color="ffffff">Science Enrichment: Learning Plots and Work Like a Scientist</font></strong></td></tr>
 <tr><td><p align="justify"></p>
 <p align="justify">1. Learning Plots: Growing Local, Thinking Sustainable<br>
 This programme engages Primary 3 and 4 students in hands-on learning through traditional planting and hydroponics. By exploring Singapore’s food sustainability efforts and the “30 by 30” vision, students&nbsp;observe&nbsp;plant growth, investigate farming methods, and understand the challenges of food security in a land-scarce nation. The use of Inquiry-Based Learning (IBL) and Thinking Routines (TR) nurtures curiosity, environmental responsibility, and real-world scientific application.</p>
 
 <p align="justify">2. Work Like a Scientist (WLAS)<br>
-Targeted at selected Primary 5 ;students who show interest in scientific inquiry, WLAS provides open inquiry experiences through plant tissue culture (PTC) conducted in the school’s PTC lab. Students learn how new plants are cultivated from tissue samples, mirroring how scientists explore and refine ideas. Through IBL and TR, they apply scientific process skills in authentic contexts while developing perseverance, collaboration, and a deeper understanding of&nbsp;Science&nbsp;beyond the classroom.</p></td></tr>
+Targeted at selected Primary 5 students who show interest in scientific inquiry, WLAS provides open inquiry experiences through plant tissue culture (PTC) conducted in the school’s PTC lab. Students learn how new plants are cultivated from tissue samples, mirroring how scientists explore and refine ideas. Through IBL and TR, they apply scientific process skills in authentic contexts while developing perseverance, collaboration, and a deeper understanding of Science beyond the classroom.</p></td></tr>
 
-<tr><td style="background-color: #74cdd7;"><strong><font color="ffffff">Science Exploration Day ;(Encouraging Curiosity and Love of Learning)</font></strong></td></tr>
-<tr><td><p align="justify">Science Exploration Day provides a platform for students to choose and&nbsp;showcase&nbsp;Science projects based on their interests. With guidance from teachers, they plan and conduct investigations aligned with good scientific practices, applying what they have learnt in meaningful and creative ways.&nbsp;</p>
+<tr><td style="background-color: #74cdd7;"><strong><font color="ffffff">Science Exploration Day: (Encouraging Curiosity and Love of Learning)</font></strong></td></tr>
+<tr><td><p align="justify">Science Exploration Day provides a platform for students to choose and showcase Science projects based on their interests. With guidance from teachers, they plan and conduct investigations aligned with good scientific practices, applying what they have learnt in meaningful and creative ways.</p>
 <p align="justify">
-Students present their work to peers across&nbsp;different levels, sparking curiosity and dialogue within the wider school community. This experience strengthens their communication and presentation skills while building confidence as young scientific thinkers.&nbsp;</p>
+Students present their work to peers across different levels, sparking curiosity and dialogue within the wider school community. This experience strengthens their communication and presentation skills while building confidence as young scientific thinkers.</p>
 <p align="justify">
-By offering students autonomy in their project topics, the programme promotes ownership of learning, celebrates student voice, and nurtures a love for&nbsp;Science&nbsp;through purposeful exploration.</p> 
+By offering students autonomy in their project topics, the programme promotes ownership of learning, celebrates student voice, and nurtures a love for Science through purposeful exploration.</p> 
 </td></tr></tbody></table>
