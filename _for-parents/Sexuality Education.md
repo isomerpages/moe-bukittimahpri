@@ -123,7 +123,7 @@ Lesson 2<br>
 </td></tr>
 </tbody></table>
 
-
+<br>
 <li><p align="justify">Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. </p></li><br>
 <li><p align="justify">Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. </p></li><br>
          
