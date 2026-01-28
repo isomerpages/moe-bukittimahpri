@@ -32,7 +32,7 @@ description: ""
 
 You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for more information on MOE Sexuality Education. <br><br>
 
-<strong>O</strong>VERVIEW OF <strong>B</strong>UKIT <strong>T</strong>IMAH <strong>P</strong>RIMARY <strong>S</strong>CHOOL’S <strong>S</strong>EXUALITY <strong>E</strong>DUCATION <strong>P</strong>ROGRAMME FOR <strong>2026</strong>
+<strong>O</strong>VERVIEW OF <strong>B</strong>UKIT <strong>T</strong>IMAH <strong>P</strong>RIMARY <strong>S</strong>CHOOL’S <strong>S</strong>EXUALITY <strong>E</strong>DUCATION <strong>P</strong>ROGRAMME FOR <strong>2026</strong><br>
  
 <li><p align="justify">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.</p></li><br>
 
