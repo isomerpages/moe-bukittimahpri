@@ -18,7 +18,7 @@ description: ""
 <li><p align="justify">(a) Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.</p></li>
 <li><p align="justify">(b) Guide students to make wise, informed and responsible decisions on sexuality matters.</p></li>
 <li><p align="justify">(c) Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.</p></li>
-</ol>
+</ol><br>
 
 <li>The <strong>Key Messages</strong> of Sexuality Education are:</li>
 
