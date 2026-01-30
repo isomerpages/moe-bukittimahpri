@@ -30,7 +30,7 @@ Students participate in inquiry-based discussions and collaborative learning, wh
 <img style="margin-bottom: 8px" src="/images/Students%20Activities%20Photos/syf003.jpg">
 <img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/syf011.jpg">
 <img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/syf001.jpg">
-<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/syf009.jpg">
+
 <img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/syf010.jpg">
 </p>
 </td></tr>
