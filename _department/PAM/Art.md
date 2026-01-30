@@ -27,10 +27,11 @@ Students participate in inquiry-based discussions and collaborative learning, wh
 </td></tr>
 <tr><td style="background-color: #74cdd7;"><strong><font color="#ffffff">Singapore Youth Festival (SYF) Art Exhibition</font></strong></td></tr>
 <tr><td><p align="justify">Students showcase their talents at the SYF Art Exhibition, a platform that celebrates artistic excellence. Through this experience, students learn the power of visual storytelling, teamwork, and resilience as they conceptualise and present their artworks.
-<img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/syf003.jpg">
-<img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/syf001.jpg">
-<img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/syf002.jpg">
+<img style="margin-bottom: 8px" src="/images/Students%20Activities%20Photos/syf003.jpg">
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/syf011.jpg">
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/syf001.jpg">
 
+<img style="margin-bottom: 8px; width=1600;" src="/images/Students%20Activities%20Photos/syf010.jpg">
 </p>
 </td></tr>
 </tbody></table>
