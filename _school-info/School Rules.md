@@ -84,7 +84,7 @@ At BTPS, we believe that rules are necessary to create a safe and conducive envi
 <ul style="list-style-type: circle;">
             <li>Students are to wear the prescribed school uniform and modifications to the uniform are not allowed.</li>
             <li>The first two pictures depict the formal school uniform and the next two pictures, the PE attire.</li>
-            <li>Students who are late more than 5 times in a term will be subject to disciplinary consequences.</li></ul>
+            </ul>
 						
 <img style="width: 100%" src="/images/Students%20Activities%20Photos/2026_uniform.jpg">
 
