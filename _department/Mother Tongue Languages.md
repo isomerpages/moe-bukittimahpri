@@ -5,11 +5,11 @@ description: ""
 variant: markdown
 ---
 <p align="justify"><strong>Overview: </strong><br>Our MTL curriculum and programme seek to inspire a love for learning through fun, engaging and student-centered experiences that develop confident communicators, empathetic leaders and adaptive learners. By integrating pedagogies such as EdTech, Differentiated Instruction (DI), Inquiry-Based Learning through the Thinking Routine (IBL-TR), experiential learning and gamification, we create authentic and meaningful learning experiences. Students explore language through real-world contexts, collaborative discussions, and interactive digital tools that cater to their diverse learning needs. These approaches not only strengthen their language proficiency but also deepen their cultural appreciation, enabling them to connect with their heritage, value cultural diversity, and thrive as future-ready global citizens.</p>
-<p align="justify"><strong>Department&nbsp;mission:</strong><br>To inspire a love for learning MT through fun, engaging and student-centered learning experiences.</p>
+<p align="justify"><strong>Department mission:</strong><br>To inspire a love for learning MT through fun, engaging and student-centered learning experiences.</p>
 <p align="justify"><strong>Objectives:</strong>
 </p><ul>
 <li>We inspire a love for learning MTL through fun, engaging and student-centred experiences that build confident and proficient communicators, empowering them to become future-ready global citizens. </li>
-<li>To&nbsp;deepen students’ appreciation of their culture, traditions,&nbsp;literature&nbsp;and history, nurturing empathetic leaders who value their roots and respect diverse cultures.</li>
+<li>To deepen students’ appreciation of their culture, traditions, literature and history, nurturing empathetic leaders who value their roots and respect diverse cultures.</li>
 <li>To nurture adaptive learners who, through proficiency in MTL and cultural rootedness, can connect meaningfully with their heritage and diverse communities across the world.</li>
 </ul>
 <p></p>
