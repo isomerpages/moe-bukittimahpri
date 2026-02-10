@@ -15,7 +15,7 @@ variant: markdown
 <li>Foster respect and empathy through meaningful discussion and appreciation of diverse voices </li>
 <li>Build confident, adaptable learners who express themselves with integrity and purpose </li>
 </ul>
-
+<p align="justify"><img style="margin-bottom: 8px; width=1600" src="/images/Students%20Activities%20Photos/el_objectives.jpg"></p>
 
 <strong><font color="#4b0082">Key Programmes</font></strong>
 <table>
