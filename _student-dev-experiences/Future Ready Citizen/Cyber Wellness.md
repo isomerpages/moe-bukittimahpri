@@ -39,12 +39,4 @@ third_nav_title: Future Ready Citizen
 <img width="800" src="/images/Information%20Photos/cyber001.jpg">
 </td>
 </tr>
-<tr>
-<td style="border:2px solid #0A0B30"><strong>Useful resources from MOE</strong></td>
-<td style="border:2px solid #0A0B30">
-    <a rel="noopener" target="_blank" href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf">
-      Parent Kit – Raising a Digitally Smart Child (PDF)
-    </a>
-
-</td>
-</tr></tbody></table></td></tr></tbody></table>
+</tbody></table></td></tr></tbody></table>
