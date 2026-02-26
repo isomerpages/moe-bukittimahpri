@@ -2,6 +2,7 @@ collections:
   student-dev-experiences:
     output: true
     order:
+      - Adaptive Learner/Level Signature Programmes.md
       - Adaptive Learner/.keep
       - Student Development Experiences @ BTPS.md
       - Adaptive Learner.md
