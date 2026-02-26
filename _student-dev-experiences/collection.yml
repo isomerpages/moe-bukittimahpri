@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Adaptive Learner/.keep
-      - Level Signature Programmes.md
       - Student Development Experiences @ BTPS.md
       - Adaptive Learner.md
       - Empathetic Leader/.keep
