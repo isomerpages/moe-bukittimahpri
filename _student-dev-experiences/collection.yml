@@ -2,6 +2,7 @@ collections:
   student-dev-experiences:
     output: true
     order:
+      - Adaptive Learner/Applied Learning Programme (ALP).md
       - Adaptive Learner/Interdisciplinary Project Work (IPW).md
       - Adaptive Learner/Adaptive Learner.md
       - Adaptive Learner/Level Signature Programmes.md
