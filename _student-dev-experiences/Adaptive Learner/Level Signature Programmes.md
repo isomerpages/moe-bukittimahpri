@@ -156,5 +156,3 @@ From Games Day in Primary 1 to Project Synergy in Primary 6, these curated exper
 
 <p style="text-align: justify;"><strong><i><span style="color: #4b0082">“Every child is capable of success when we believe in them and create spaces where they can shine.”</span></i></strong><i><br>
 —&nbsp;Mrs Angeline Teo, Year Head Upper Primary</i></p>
-
-
