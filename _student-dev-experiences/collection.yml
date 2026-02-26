@@ -2,12 +2,12 @@ collections:
   student-dev-experiences:
     output: true
     order:
+      - Student Development Experiences @ BTPS.md
       - Adaptive Learner/.keep
       - Adaptive Learner/Adaptive Learner.md
       - Adaptive Learner/Level Signature Programmes.md
       - Adaptive Learner/Interdisciplinary Project Work (IPW).md
       - Adaptive Learner/Applied Learning Programme (ALP).md
-      - Student Development Experiences @ BTPS.md
       - Empathetic Leader/.keep
       - Empathetic Leader/Empathetic Leader.md
       - Empathetic Leader/Learning for Life Programme (Music).md
