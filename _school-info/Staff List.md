@@ -662,7 +662,7 @@ variant: markdown
 <p>Mr Christopher Khoo</p>
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
-<p><a href="mailto:khoo_kian_kiong_christopher@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_christopher@schools.gov.sg</a>
+<p><a href="mailto:khoo_kian_kiong_christopher@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_kian_kiong_christopher@schools.gov.sg</a>
 </p>
 </td>
 </tr>
