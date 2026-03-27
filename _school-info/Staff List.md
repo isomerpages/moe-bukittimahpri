@@ -257,7 +257,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td style="width: 30%" rowspan="2" colspan="1">
+<td style="width: 30%" rowspan="3" colspan="1">
 <p>2 Responsibility</p>
 </td>
 <td style="width: 30%" rowspan="1" colspan="1">
@@ -274,6 +274,15 @@ variant: markdown
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
 <p><a href="mailto:almir_shafur_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">almir_shafur_mohamed@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td style="width: 30%" rowspan="1" colspan="1">
+<p>Ms Ji Lei</p>
+</td>
+<td style="width: 40%" rowspan="1" colspan="1">
+<p><a href="mailto:ji_lei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ji_lei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -312,10 +321,10 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 30%" rowspan="1" colspan="1">
-<p>Mr Zaini</p>
+<p>Ms Applez Tan Su Ping</p>
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
-<p><a href="mailto:zaini_zanal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zaini_zanal@schools.gov.sg</a>
+<p><a href="mailto:applez_tan_su_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">applez_tan_su_ping@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -528,7 +537,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td style="width: 30%" rowspan="2" colspan="1">
+<td style="width: 30%" rowspan="3" colspan="1">
 <p>5 Empathy</p>
 </td>
 <td style="width: 30%" rowspan="1" colspan="1">
@@ -545,6 +554,14 @@ variant: markdown
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
 <p><a href="mailto:ng_sze_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sze_yee@schools.gov.sg</a>
+</p>
+</td></tr>
+<tr>
+<td style="width: 30%" rowspan="1" colspan="1">
+<p>Mr Zaini</p>
+</td>
+<td style="width: 40%" rowspan="1" colspan="1">
+<p><a href="mailto:zaini_zanal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zaini_zanal@schools.gov.sg</a>
 </p>
 </td>
 </tr>
