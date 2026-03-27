@@ -226,12 +226,12 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
+	<tr>
 <td style="width: 30%" rowspan="1" colspan="1">
-<p>Mrs Lynette Lim</p>
+<p>Ms Applez Tan Su Ping</p>
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
-<p><a href="mailto:thia_hui_shan_lynette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thia_hui_shan_lynette@schools.gov.sg</a>
+<p><a href="mailto:applez_tan_su_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">applez_tan_su_ping@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -321,10 +321,10 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 30%" rowspan="1" colspan="1">
-<p>Ms Applez Tan Su Ping</p>
+<p>Mrs Lynette Lim</p>
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
-<p><a href="mailto:applez_tan_su_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">applez_tan_su_ping@schools.gov.sg</a>
+<p><a href="mailto:thia_hui_shan_lynette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thia_hui_shan_lynette@schools.gov.sg</a>
 </p>
 </td>
 </tr>
