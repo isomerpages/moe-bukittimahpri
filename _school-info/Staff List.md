@@ -228,7 +228,7 @@ variant: markdown
 </tr>
 	<tr>
 <td style="width: 30%" rowspan="1" colspan="1">
-<p>Ms Applez Tan Su Ping</p>
+<p>Mrs Applez Foo Su Ping</p>
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
 <p><a href="mailto:applez_tan_su_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">applez_tan_su_ping@schools.gov.sg</a>
@@ -291,7 +291,7 @@ variant: markdown
 <p>3 Adaptability</p>
 </td>
 <td style="width: 30%" rowspan="1" colspan="1">
-<p>Mdm Ng Puay Choo</p>
+<p>Mrs Quah Puay Choo</p>
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
 <p><a href="mailto:ng_puay_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_puay_choo@schools.gov.sg</a>
