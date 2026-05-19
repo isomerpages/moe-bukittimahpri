@@ -20,7 +20,7 @@ variant: markdown
 <p>Service</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Contact Person</p>
+<p>Email</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Contact Number</p>
@@ -83,7 +83,7 @@ or from KH Uniform official website - <a href="https://khuniform.com/" rel="noop
 <p>After School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
+<p><a href="mailto:scpl.btps@gmail.com">scpl.btps@gmail.com</a></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>87689011</p>
