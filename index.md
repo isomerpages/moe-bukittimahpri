@@ -20,6 +20,14 @@ sections:
       alignment: right
       size: md
   - infopic:
+      title: 2026 OPEN HOUSE
+      subtitle: JOIN US AT BTPS
+      id: infopic
+      button: REGISTER Here
+      url: go.gov.sg/btpsopenhouse2026
+      image: /images/BTPS_OPENHOUSE.jpg
+      alt: 2026 OPEN HOUSE
+  - infopic:
       title: what our teachers and students love about our school!
       subtitle: Learn more about
       id: infopic
