@@ -24,7 +24,7 @@ sections:
       subtitle: JOIN US AT BTPS
       id: infopic
       button: REGISTER Here
-      url: go.gov.sg/btpsopenhouse2026
+      url: https://go.gov.sg/btpsopenhouse2026
       image: /images/BTPS_OPENHOUSE.jpg
       alt: 2026 OPEN HOUSE
       description: 3 JULY 2026 (Fri)
