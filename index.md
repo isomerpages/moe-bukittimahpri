@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/btps_fly_bar_2.gif
+      background: /images/BTPS2026OPENHOUSE.jpg
       key_highlights:
         - title: Info For Parents
           description: ""
