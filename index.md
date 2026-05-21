@@ -27,6 +27,7 @@ sections:
       url: go.gov.sg/btpsopenhouse2026
       image: /images/BTPS_OPENHOUSE.jpg
       alt: 2026 OPEN HOUSE
+      description: 3 JULY 2026 (Fri)
   - infopic:
       title: what our teachers and students love about our school!
       subtitle: Learn more about
