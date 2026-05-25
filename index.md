@@ -7,14 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/btps_fly_bar_2.gif
+      background: /images/BTPS2026OPENHOUSE.jpg
       key_highlights:
         - title: Info For Parents
           description: ""
           url: /info-for-parents/information-for-parents
-        - title: P1 Orientation
-          description: ""
-          url: /p1-orientation/
         - title: Quick Links
           description: ""
           url: /quick-links/
@@ -22,6 +19,15 @@ sections:
       backgroundColor: gray
       alignment: right
       size: md
+  - infopic:
+      title: 2026 OPEN HOUSE
+      subtitle: JOIN US AT BTPS
+      id: infopic
+      button: REGISTER Here
+      url: https://go.gov.sg/btpsopenhouse2026
+      image: /images/BTPS_OPENHOUSE.jpg
+      alt: 2026 OPEN HOUSE
+      description: 3 JULY 2026 (Fri)
   - infopic:
       title: what our teachers and students love about our school!
       subtitle: Learn more about
