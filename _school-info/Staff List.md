@@ -499,7 +499,7 @@ variant: markdown
 <p>4 Respect</p>
 </td>
 <td style="width: 30%" rowspan="1" colspan="1">
-<p>Mdm Suzanna Bte Mohamaed Isnin</p>
+<p>Mdm Suzanna Bte Mohamed Isnin</p>
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
 <p><a href="mailto:suzanna_mohamed_isnin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suzanna_mohamed_isnin@schools.gov.sg</a>
