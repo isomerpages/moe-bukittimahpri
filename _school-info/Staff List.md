@@ -290,13 +290,10 @@ variant: markdown
 <td style="width: 30%" rowspan="2" colspan="1">
 <p>3 Adaptability</p>
 </td>
-<td style="width: 30%" rowspan="1" colspan="1">
-<p>Mrs Quah Puay Choo</p>
-</td>
+
 <td style="width: 40%" rowspan="1" colspan="1">
-<p><a href="mailto:ng_puay_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_puay_choo@schools.gov.sg</a>
-</p>
-</td>
+<p>
+</p></td>
 </tr>
 <tr>
 <td style="width: 30%" rowspan="1" colspan="1">
@@ -591,7 +588,7 @@ variant: markdown
 <p>5 Resilience</p>
 </td>
 <td style="width: 30%" rowspan="1" colspan="1">
-<p>Mdm Akidah</p>
+<p>Mrs Iman</p>
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
 <p><a href="mailto:shahidatul_akidah_mohd_suaidi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahidatul_akidah_mohd_suaidi@schools.gov.sg</a>
@@ -905,28 +902,7 @@ variant: markdown
 <p></p>
 </td>
 </tr>
-<tr>
-<td style="width: 30%" rowspan="1" colspan="1">
-<p>Mr Muhammad Faizal</p>
-</td>
-<td style="width: 30%" rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td style="width: 30%" rowspan="1" colspan="1">
-<p>Mr Ahmad Azmi Abdullah</p>
-</td>
-<td style="width: 30%" rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+
 <tr>
 <td style="width: 30%" rowspan="1" colspan="1">
 <p>Mr Saufiq</p>
