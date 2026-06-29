@@ -24,7 +24,7 @@ The Ministry of Education (MOE) has established a contract for GPA Insurance for
 5.	Participating in any activity conducted by the above mentioned student care centre
 For more details on the insurance coverage, please click: </p>
 
-[Product-Fact-Sheet-Year-2025](/files/Product_Fact_Sheet__Year_2025_.pdf)
+[Product-Fact-Sheet-Year-2026](/files/2026/Product_Fact_Sheet__Year_2026_.pdf) 
 
 
 <u>Claim Procedures</u><br>
