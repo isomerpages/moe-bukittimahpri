@@ -294,7 +294,7 @@ variant: markdown
 <p>Mrs Chien Mee Len</p>
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
-<p><a href="mailto:neo_kai_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
+<p>
 </p>
 </td>
 </tr>
