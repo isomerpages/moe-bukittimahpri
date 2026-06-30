@@ -294,7 +294,7 @@ variant: markdown
 <p>Mrs Chien Mee Len</p>
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
-<p>
+<p><a href="mailto:chien_mee_len_d@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chien_mee_len_d@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -350,7 +350,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td style="width: 30%" rowspan="2" colspan="1">
+<td style="width: 30%" rowspan="3" colspan="1">
 <p>3 Resilience</p>
 </td>
 <td style="width: 30%" rowspan="1" colspan="1">
@@ -367,6 +367,15 @@ variant: markdown
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
 <p><a href="mailto:tan_siok_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siok_hui@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td style="width: 30%" rowspan="1" colspan="1">
+<p>Mdm Santhi</p>
+</td>
+<td style="width: 40%" rowspan="1" colspan="1">
+<p><a href="mailto:santhi_gomez@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">santhi_gomez@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -414,7 +423,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td style="width: 30%" rowspan="2" colspan="1">
+<td style="width: 30%" rowspan="3" colspan="1">
 <p>4 Empathy</p>
 </td>
 <td style="width: 30%" rowspan="1" colspan="1">
@@ -433,8 +442,21 @@ variant: markdown
 <p><a href="mailto:lim_mui_ling_jeannette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_mui_ling_jeannette@schools.gov.sg</a>
 </p>
 </td>
+<td style="width: 30%" rowspan="1" colspan="1">
+<p>Mr Johnathan Ng</p>
+</td>
 </tr>
 <tr>
+<td style="width: 30%" rowspan="1" colspan="1">
+<p>Mrs Sim Yingru</p>
+</td>
+<td style="width: 40%" rowspan="1" colspan="1">
+<p><a href="mailto:chen_yingru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_yingru@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+</tr><tr>
 <td style="width: 30%" rowspan="3" colspan="1">
 <p>4 Integrity</p>
 </td>
@@ -578,7 +600,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td style="width: 30%" rowspan="2" colspan="1">
+<td style="width: 30%" rowspan="3" colspan="1">
 <p>5 Resilience</p>
 </td>
 <td style="width: 30%" rowspan="1" colspan="1">
@@ -595,6 +617,15 @@ variant: markdown
 </td>
 <td style="width: 40%" rowspan="1" colspan="1">
 <p><a href="mailto:lim_li_hwang_iris@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_hwang_iris@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td style="width: 30%" rowspan="1" colspan="1">
+<p>Mdm Zhang Yao</p>
+</td>
+<td style="width: 40%" rowspan="1" colspan="1">
+<p><a href="mailto:zhang_yao_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yao_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
