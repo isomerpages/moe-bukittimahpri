@@ -24,7 +24,7 @@ sections:
       subtitle: To reconnect with the teachers
       id: infobar
       button: click here for more details
-      url: https://bukittimahpri.moe.edu.sg/teachers-day-visit-guideline/
+      url: /teachers-day-visit-guideline/
   - infopic:
       title: what our teachers and students love about our school!
       subtitle: Learn more about
