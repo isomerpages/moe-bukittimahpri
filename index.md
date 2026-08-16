@@ -19,15 +19,12 @@ sections:
       backgroundColor: gray
       alignment: right
       size: md
-  - infopic:
-      title: 2026 OPEN HOUSE
-      subtitle: JOIN US AT BTPS
-      id: infopic
-      button: REGISTER Here
-      url: https://go.gov.sg/btpsopenhouse2026
-      image: /images/BTPS_OPENHOUSE.jpg
-      alt: 2026 OPEN HOUSE
-      description: 3 JULY 2026 (Fri)
+  - infobar:
+      title: on Teachers' Day
+      subtitle: To reconnect with the teachers
+      id: infobar
+      button: click here for more details
+      url: /teachers-day-visit-guideline/
   - infopic:
       title: what our teachers and students love about our school!
       subtitle: Learn more about
